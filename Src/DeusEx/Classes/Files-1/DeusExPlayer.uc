@@ -6601,7 +6601,11 @@ function bool HandleItemPickup(Actor FrobTarget, optional bool bSearchOnly)
 
 	if (bSlotSearchNeeded && bCanPickup)
 	{
-// Zde je Glitch pro neomezeny inventar
+
+//
+// Glitch pro neomezeny inventar
+//
+
 //	  log("MYCHK::DXPlayer::HIP::ADD TO::"@FrobTarget);
 		if (FindInventorySlot(Inventory(FrobTarget), bSearchOnly) == False)
 		{
@@ -6611,6 +6615,10 @@ function bool HandleItemPickup(Actor FrobTarget, optional bool bSearchOnly)
 			ServerConditionalNotifyMsg( MPMSG_DropItem );
 		}
 	}
+
+//
+// Konec kodu obsahujici Glitch pro neomezeny inventar
+//
 
 	if (bCanPickup)
 	{
