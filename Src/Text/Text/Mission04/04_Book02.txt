@@ -1,0 +1,9 @@
+<DC=255,255,255>
+<P><B>HOTELOVa KNIHA</B>
+<P>
+<P><I>Gully Foyle</I>, New York
+<P><I>Gabriel Syme</I>, Londyn, Anglie
+<P><I>Paul Denton</I>, New York
+<P><I>Nadporucik Enzian</I>, Sudan, Afrika
+<P><I>Smilla Jaspersonova</I>, Kodan, Dansko
+<P><I>Hippolyta Hallova</I>, Los Angeles

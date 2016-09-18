@@ -1,0 +1,17 @@
+<COMMENT>MJ12 Lab</COMMENT>
+<DC=255,255,255>
+<P><B>Od:</B> JBlane//UNATCO.31.2376
+<P><B>Ke:</B> PSherman//UpNet.221.9981
+<P><B>Vec:</B> Re: Zmena kodu zbrojnice
+<P>
+<P>>Po neuspesnem pokusu o prunik do nasich systemu nepratelskou
+<P>>teroristickou bunkou Silhouette jsme vylepsili bezpecnostni
+<P>>protokoly celeho komplexu; dokud nebudou uvedena v platnost
+<P>>veskera opatreni, budou platit nasledujici kody:
+<P>>
+<P>>[text smazan]
+<P>>Zbrojnice: 2917
+<P>
+<P>Jeden z mych muzu mne informoval, ze ten kod je chybny; po konzultaci s personalem jsme zjistili, ze spravny kod je 2971.
+<P>
+<P>Kapitan Blane

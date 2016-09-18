@@ -1,0 +1,390 @@
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_apartments]
+
+[COMMENT]
+Throughout Mission 10 and Mission 11, Tong should show subtle signs of being infected with Gray Death: fatigue, a sniffle, a weak voice -- but only occasional signs, nothing too distracting.  An explicit "cough" has been defined only for two DL's -- DL's the player will definitely hear.C
+
+[SPEECH: TracerTong]
+Tyhle byty vyjdou tak na pet tisic. Temer stejne spatne ceny jako v Hongkongu.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_bakery]
+
+[SPEECH: TracerTong]
+Podivne... Zaznamenal jsem infracervene paprsky. K cemu by pekar potreboval elektronickou ochranu?
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_beth_bedroom]
+
+[SPEECH: TracerTong]
+Pokoj Beth DuClarove.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_club_entry]
+
+[SPEECH: TracerTong]
+La Porte de l'Enfer. Clenove hnuti odporu nejsou jedini, komu vyhovuje diskretni personal a laskave pritmi. Davejte si pozor.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_clubentrance]
+
+[SPEECH: TracerTong]
+Klub jste nasel, zadny jiny by nemel o stannem pravu otevreno. Je to nobl klub, takze budete muset zaplatit vstupne, jestli chcete zjistit, zda je Nicolette uvnitr.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_crawling_troops]
+
+[SPEECH: TracerTong]
+Je tady spousta vojaku. Budte opatrny.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_creaturecorpse]
+
+[SPEECH: TracerTong]
+Grazl. Budto MJ12 vypustila transgeneticky material do stok nebo se mu podarilo uniknout z nektere jejich laboratore.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_entered_cellar]
+
+[SPEECH: TracerTong]
+Ve Francii je zvykem uskladnovat vino ve sklipcich, aby se zachovala jeho chut a chranilo se pred slunecnim svetlem a teplem.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_entered_graveyard]
+
+[SPEECH: TracerTong]
+Je tady pohrbeno nekolik ruznych rodin, az k puvodnimu majiteli, coz byl francouzsky kupec z 19.stoleti.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_entered_chateau]
+
+[SPEECH: TracerTong]
+Natahuji si plan domu... Stare letovisko postavene za Treti republiky. Od smrti slecny DuClarove opustene. Doufejme, ze ty elegantni pokoje obsahuji nejaky dukaz o vztahu DuClarovych s Iluminaty.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_entered_maze]
+
+[SPEECH: TracerTong]
+Na mape tohle bludiste nemam. Bohuzel.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_entered_sewer]
+
+[SPEECH: TracerTong]
+Toho zapachu si nevsimejte. Stoky se napojuji k ulici pobliz katedraly - je to nedaleko odtud.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_EverettContact]
+
+[GOAL:]
+Najdi Nicolette a ziskej klic od jejich rodinne krypty.
+
+[SPEECH: MorganEverett]
+Tak jste nasel pocitac, ktery patril Beth. Mozna je nam skutecne souzeno se setkat. Jestli jste opravdu nas spojenec, pomozte mi nabourat se do pocitacove site MJ12 a dokoncit vakcinu proti Sede smrti. Najdete Nicolette; ta vam da svuj klic, abyste mohl odejit kryptou. Budu vas ridit z nedaleke katedraly.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_EverettMaze]
+
+[GOAL:]
+Zpristupni pocitacovy system Templaru, aby Morgan Everett mohl dokoncit svou praci na leku proti Sede smrti.
+
+[SPEECH: MorganEverett]
+Opustte pozemek DuClarovych kryptou na konci bludiste. Ten system, ktery mi mate zpristupnit, najdete v katedrale Rytiru Templu. Ty ale vyvrazdili lidi z MJ12, aby se zmocnili jejich zlateho pokladu.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_graveyard_ambush]
+
+[SPEECH: Jock]
+Davej bacha, JC! Ve stokach jsem zaznamenal tepelny zareni. Myslim, ze te nekdo sleduje!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_hotel]
+
+[SPEECH: TracerTong]
+Ta mensi budova je hostel. Ubytovna pro turisty.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Icarus_cata_taunt]
+
+[SPEECH: Icarus]
+Daidalovy archivy prokazaly, ze jsi vadna jednotka. Tvi majitele se rozhodli te znicit.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Icarus_chateau01]
+
+[SPEECH: Icarus]
+Tady ti stejne nikdo nepomuze. Beth DuClarova byla rozpitvana a ulozena v kryonickem skladu.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Icarus_chateau02]
+
+[SPEECH: Icarus]
+Co porad hledas?
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Icarus_optional_law]
+
+[SPEECH: Icarus]
+Rozvaz sve duvody k porusovani platnych zakonu soucasne vlady! Nezahazuj sanci stat se jednim z nas a stat u zrodu noveho svetoveho radu!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Icarus_Speaks]
+
+[SPEECH: Icarus]
+Nyni mam plny pristup ke tvym systemum.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_jock_club]
+
+[SPEECH: Jock]
+Hni se stranou z ulice! Letim si pro tebe!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_mediastore]
+
+[SPEECH: TracerTong]
+Obchod s digitalnimi medii. Na takovych mistech je skoda utracet. Na cernem trhu kdekoli v Asii muzete mit za pouhe dva kredity, co se vam zamane!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_metroentrance]
+
+[SPEECH: TracerTong]
+Vlada omezila pristup do metra. Budete se tam muset vydat pesky.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_metrosewer]
+
+[SPEECH: TracerTong]
+Tyhle stoky vas dovedou kamsi do Champs-Elysees, kde najdete ten klub.
+
+[SPEECH: TracerTong]
+Tyhle stoky vas dovedou kamsi do Champs-Elysees, kde najdete ten klub. Dostal jsem necekanou zpravu od Jaimeho Reyese. Je v kavarne a chce se s vami setkat. Povida, ze je to dulezite. Cislo te kavarny je 19.
+
+[GOAL:]
+Sejdi se Jaimem v kavarne v cisle 19.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_metrostreetstair]
+
+[SPEECH: TracerTong]
+Abyste se dostal do stanice, musel byste mit propustku do metra - ta je ted velmi tezko k sehnani.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_military]
+
+[SPEECH: TracerTong]
+Tam nahore vidim oddily MJ12 a parizskou policii. Take par botu. Policie vas nebude obtezovat, ale na ty vojaky si musite davat pozor.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_nico_bedroom]
+
+[SPEECH: TracerTong]
+Nicolettin pokoj.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_otherplaces]
+
+[SPEECH: TracerTong]
+Nevim, na co v tech domech muzete narazit, ale jestli se tam vloupate, musite pocitat s tim, ze po vas pujde parizska policie.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_paris_10_catacombs]
+
+[SPEECH: TracerTong]
+Na upati toho schodiste se naleza vchod do katakomb, coz byly puvodne vapencove doly jeste z rimskych dob.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_paris_10_metro]
+
+[SPEECH: TracerTong]
+Ve Francii je MJ12 uz dost silna, aby si mohla dovolit operovat na verejnosti. Zabarikadovala tuhle stanici metra.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_paris_10_radiation]
+
+[SPEECH: TracerTong]
+Nameril jsem tu uzasne vysokou radiaci...
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_paris_10_sewerexit]
+
+[SPEECH: TracerTong]
+Tahle cast stok vede na uzavrene prostranstvi, kde byste mohl objevit vchod do katakomb.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_paris_10_shaft]
+
+[COMMENT]
+Tong emits a small cough just before "excuse me."  He's coming down with the Gray Death.
+
+[SPEECH: TracerTong]
+Tahle budova se prestala stavet pri tom velkem nestesti v sestactyricatem... Prominte. Ted ji obyvaji bezdomovci.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_paris_10_start]
+
+[GOAL:]
+Zkontaktuj se s parizskymi Iluminaty a najdi jejich skryvajiciho se vudce Morgana Everetta.
+
+[GOAL:]
+Najdi v katakombach skrys skupiny Silhouette a promluv si s jejich vudcem.
+
+[SPEECH: Jock]
+Tak si uzivej Parize! Promin, ale bliz uz se neodvazim. Vojaci z Majestic 12 hlidaji kazdou ulici. Musis se nejak dostat do tech katakomb. Silhouette by se tam mela skrejvat v nejaky stary hrobce.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_penetrated_bunker]
+
+[SPEECH: TracerTong]
+Stary bunkr, jeste z doby druhe svetove valky, v nemz predchozi majitel ukryval zidovske rodiny. DuClarovi ziskali tento majetek pote, co naciste poslali puvodniho vlastnika do koncentraku. Zvlastni... Zachytil jsem tu mimoradne silne signaly ze svetlovodnych kabelu!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_reached_computer]
+
+[COMMENT]
+This is the other place where Tong is very obviously ill.  He should probably clear his throat during the middle of this and degenerate into a hacking cough when the line is over.
+
+[SPEECH: TracerTong]
+Jedna se o jakousi obri routovaci stanici, ktera neni na zadne telekomunikacni mape. Prochazeji tudy petabajty dat. Beth Duclarova nejspis analyzovala provoz na Siti...
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_restaurant]
+
+[SPEECH: TracerTong]
+Ach, nocni zivot v Parizi! Vypijte lahev vina i za mne, JC!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_tunnels_abandoned]
+
+[SPEECH: TracerTong]
+Dalsi bunkr z druhe svetove valky. Po MJ12 ani stopy. Mozna si vzali dovolenou.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_tunnels_down]
+
+[SPEECH: TracerTong]
+Myslim, ze tyhle tunely jsou propojeny se stokami. Mirite spravnym smerem.
+
+[SPEECH: TracerTong]
+Prave jsem se dozvedel, ze Nicolette byva casto k videni v klubu La Porte de l'Enfer v Champs-Elysees. Vydejte se tunely do te parizske ctvrti; je to nase jedina stopa.
+
+[GOAL:]
+Najdi Nicolette DuClarovou. Pohybuje se casto v klubu La Porte de l'Enfer.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_tunnels_hostagesinside]
+
+[SPEECH: TracerTong]
+Oddily MJ12 si vybudovaly zakladnu v tomhle starem bunkru z druhe svetove valky. Tady asi nejspis vezni ta rukojmi.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_tunnels_mj12hunt]
+
+[SPEECH: TracerTong]
+Zda se, ze budete mit moznost zlikvidovat skupinku vojaku MJ12, ale musite na to od lesa. Nebylo by dobre, aby se rukojmi dostali do krizove palby.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_tunnels_mj12primary]
+
+[SPEECH: TracerTong]
+Jock zaregistroval v infra neklamne znamky pritomnosti vojaku. Ten bunkr MJ12 musi byt nablizku.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_tunnels_newexit]
+
+[SPEECH: TracerTong]
+Tahle chodba pokracuje do stok. Jestli vam nevadi bahno, budete moci cestovat pod mestem, aniz byste pouzival metro.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_tunnels_oldexit]
+
+[SPEECH: TracerTong]
+Na konci te chodby byval stary vychod z katakomb, ale kvuli zavalu je uz dlouha leta zavreny.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_tunnels_oldplace]
+
+[SPEECH: TracerTong]
+Vstupujete do jedne z vetsich hrobek. Do katakomb bylo prestehovano temer sest milionu exhumovanych tel v ramci asanacnich opatreni v 17.stoleti.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_tunnels_oldplace2]
+
+[SPEECH: TracerTong]
+Spousty kosti, co? Parizske hrbitovy doslova pretekaji, takze mesto naridilo pozustatky exhumovat. Vite, kvuli otravnym plynum. Bakteriim. Do techhle vapencovych dolu bylo odvezeno na tricet generaci Parizanu.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_tunnels_oldplace3]
+
+[SPEECH: TracerTong]
+To sami delnici rozhodli o tom, ze usporadaji kosti do ozdobnych tvaru.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_tunnels_rearentry]
+
+[SPEECH: TracerTong]
+Podle vseho soudim, ze katakomby jsou obkliceny vojaky. MJ12 se zrejme pokousi vykourit Silhouette z jejich ukrytu.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_tunnels_silhouette]
+
+[SPEECH: TracerTong]
+Uz jste pobliz bunkru, kde se zabarikadovali Silhouette. Jejich vudce se jmenuje Chad. Zvlastni... tahle oblast vypada jinak nez na me mape. Jsou tu nejake nove stavby. Mozna maji slouzit jako ukryt pred vojaky z Majestic 12.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_upstairs]
+
+[SPEECH: TracerTong]
+Tajny pokoj v horni casti domu by se zakryval jen velice tezko. Snad byste neco nasel v pokoji Beth. Vsadim se, ze potrebovala mit rychly pristup do sklepa.
+

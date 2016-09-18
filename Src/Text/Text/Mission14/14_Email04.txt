@@ -1,0 +1,6 @@
+<DC=255,255,255>
+<P><B>Od:</B> JRoland//UpNet.298.37.489.11
+<P><B>Ke:</B> MBHaggerty//UpNet.20.894.9873
+<P><B>Vec:</B> Porouchany kulomet
+<P>
+<P>Mame tu v laborce kulomet, seriove cislo 4566798A89X3. Nereaguje na zadny vstup a zaboha ho nedokazu vypnout. Zkousel jsem na nej pustit diagnostiku, ale nechytam se. Nemuzes neco zkusit od sebe? Jinak toho srace budu muset snad vyhodit do povetri. -- Roland

@@ -1,0 +1,17 @@
+<COMMENT>MJ12 Lab</COMMENT>
+<DC=255,255,255>
+<P><B>From:</B> JBlane//UNATCO.31.2376
+<P><B>To:</B> PSherman//UpNet.221.9981
+<P><B>Subject:</B> Re: Armory Code Changed
+<P>
+<P>>In the wake of a failed electronic intrusion attempt by a
+<P>>Silhouette terrorist cell, we are upgrading the security
+<P>>protocols for this complex; until the new measures are in
+<P>>place, lock codes will be changed as follows:
+<P>>
+<P>>[text deleted]
+<P>>Armory: 2917
+<P>
+<P>One of my men informed me that this code was incorrect; after checking with Ops, we determined that the correct code is "2971".
+<P>
+<P>Cptn. Blane

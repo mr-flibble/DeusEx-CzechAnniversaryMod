@@ -1,0 +1,213 @@
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_bots_left_1]
+
+[SPEECH: Jock]
+Presny zasah! Jeste jeden bot a vedci budou moci otevrit bezpecnostni vchody.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_bots_left_2]
+
+[SPEECH: Jock]
+A dalsi je v haji. Zbyvaji dva.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_bots_left_3]
+
+[SPEECH: Jock]
+Nepratelsky bot znicen. Zbyvaji tri.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_command_bots_destroyed]
+
+[GOAL:]
+Bez do komunikacniho centra, abys ziskal pristup ke Garymu Savageovi.
+
+[SPEECH: Jock]
+Tak tohle byl posledni. Zakladna uz neni uzavrena. Mozna, ze by te nekdo v komunikacni budove dokazal nasmerovat k Savageovi. Musim te na chvilku opustit. Ver tomu nebo ne, ale Tong je v Kalifornii! Zda se, ze ma problemy.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Daedalus]
+
+[SPEECH: Daedalus]
+Uz nevydrzim odolavat dlouho. Pomoz mi ziskat pristup do Milnetu! Musim zautocit! Musim zautocit!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Everett_Computer]
+
+[SPEECH: MorganEverett]
+Jadro CPU je neposkozene; snad se mi podari nainstalovat gateway. Spoleham na vas, JC!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Everett_Computer_Apology]
+
+[SPEECH: MorganEverett]
+Neco se podelalo, JC. Musim to proverit.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Everett_Computer_Start]
+
+[SPEECH: MorganEverett]
+Staci, abyste nahodil ten system u Savage. Daidala naroutuji pres vas infolink. Nebojte se: riziko je minimalni.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_gas_start]
+
+[SPEECH: Jock]
+Budu se drzet zpatky, dokud neosvobodis Tiffany; potom pristanu na skladce na jihu. Pokus se k nim tise priplizit! Jestli straze dostanou podezreni, ze je to prepadeni, mohly by se rozhodnout Savageovu dceru zabit!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_HeliosBorn]
+
+[GOAL:]
+Bez do velina, abys prijal depesi od Boba Page.
+
+[COMMENT]
+The following two lines devolve into blasts of static as the AI's merge.
+
+[SPEECH: Daedalus]
+Zacinam...
+
+[SPEECH: Icarus]
+Co...
+
+[SPEECH: MorganEverett]
+Ztracim Daidala...
+
+[SPEECH: Helios]
+Ano - ano...
+
+[SPEECH: MorganEverett]
+Vydrzte! Neco se --
+
+[SPEECH: BobPage]
+Zapomnel jsi na protokol Aquinas! Celou dobu jsem Daidala odposlouchaval, cekal jsem...
+
+[SPEECH: MorganEverett]
+Umele inteligence se spojily...
+
+[SPEECH: BobPage]
+A mam jeste dalsi prekvapeni, Dentone. Bez k Savageovi do velina. Musim vam neco oznamit.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_HeliosGreeting]
+
+[SPEECH: Helios]
+Ano, bez do te podmorske laboratore! Pomuzes mi ziskat univerzalni konstruktor!
+
+[SPEECH: MorganEverett]
+Porad patram po entite Helios. Nevim jiste, jestli ji Page ovlada.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Icarus]
+
+[SPEECH: Icarus]
+Ja jsem pripraven. Zkus zautocit na me systemy a utrpis znacne skody!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_JockBack]
+
+[GOAL:]
+Sejdi se s Jockem u predniho vchodu do Vandenbergu, severovychodne od zakladny.
+
+[SPEECH: Jock]
+Tak dobra, pristal jsem. Nebudes tomu verit, ale mam tu s sebou Tonga. Vypada, ze mu je pekne zle. Savage slibil, ze pro nej obstara nejakou lekarskou pomoc. Cekame na tebe u severovychodniho vstupu.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_JockLeaving]
+
+[GOAL:]
+Pripoj Daidala na vojenske pocitace pobliz velina v prvnim patre budovy velitelstvi.
+
+[SPEECH: MorganEverett]
+JC, spoleham na vas. Az najdete Savage, pomozte mu pripojit Daidala! Pocitace Milnet by mely byt pobliz velina v prvnim patre budovy velitelstvi.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_JockTiffanyDead]
+
+[GOAL:]
+Vrat se k vrtulniku, ktery ceka na skladce.
+
+[SPEECH: Jock]
+JC, vidim, ze prave vyridili tu zenskou... Tiffany. Nevyslo nam to. Cekam na tebe na skladce; prave jsem sednul a rozstrilel vrata. Promyslim se, jak tu zpravu co nejsetrnejc sdelit Dr.Savageovi.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_no_carla]
+
+[GOAL:]
+Znic dva vojenske boty MJ12 a dva strazne boty MJ12. Zakladna zustane uzavrena, dokud tito boti nebudou zniceni.
+
+[GOAL:]
+Zapni zalozni zdroj energie, ktery obnovi chod straznych botu vedecke skupiny X-51.
+
+[SPEECH: Jock]
+Majestic 12 utoci na Vandenberg, JC! Zakladna je uzavrena, dokud nebudou zniceni ctyri boti MJ12. Vojaci z MJ12 odrizli stavu obrannym botum vedcu z X-51, takze ti posilam mapu zakladny, ktera ukazuje polohu dvou ovladacich jednotek, ktere budes muset zapojit, abys obranu Vandenbergu znovu ozivil. Kod je 5868. Postarej se botum o privod energie a davej si bacha na odstrelovace!
+
+[NOTE:]
+Zalozni zdroj energie pro ochranku botu se musi aktivovat dvema ovladacimi panely na zapadnim konci zakladny. Kod je 5868.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_override_activated]
+
+[SPEECH: Jock]
+Obranny system botu je zase pod proudem! Boti jsou v poradku, ale vrata jim musis otevrit rucne!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_override_activated_part]
+
+[SPEECH: Jock]
+To je prvni spinac. Jeste musis najit ten druhy!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_sub_base_start]
+
+[SPEECH: GarySavage]
+Mnoho vedcu v tech laboratorich jsou budto vezni, spehove pro X-51 nebo vlazni privrzenci Majestic 12. Zkuste je vyuzit.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_TiffanyDead]
+
+[GOAL:]
+Vrat se k vrtulniku.
+
+[COMMENT]
+Savage's daughter has just died, as collateral damage, when the player tried to rescue her.ıX–ÕZ&oÛLjDa—÷óy˘dËqZˇÕÄRB I‡ 
+¿•âk/u
+t¬Lñ’õ6À)—¿õù˚≠ôu´OÜˇCòmG„◊Idª#ﬂS§¿∏
+
+[SPEECH: GarySavage]
+Tiffany! Ty moje chudinko... To byla posledni kapka. Odlette odtamtud, JC! Diky za vasi snahu!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_TonyScared]
+
+[SPEECH: Jock]
+V komunikacni budove se neschovas! Zakladna je uzavrena, dokud nebudou zniceni vsichni boti.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_underwater_stairwell]
+
+[SPEECH: GarySavage]
+Davejte pozor, at nezranite vedce! Nekteri maji zbrane a pomohou vam.
+

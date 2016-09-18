@@ -1,0 +1,7 @@
+<COMMENT>NSF HQ offices</COMMENT>
+<DC=255,255,255>
+<P>Young:
+<P>
+<P>I've got to assist our forces at the airfield, but I've prepped the security grid here in case of attack -- if UNATCO does breach our perimeter, log in as TJEFFERSON with the password NEWREVOLUTION and activate it immediately.  It should buy you some time, at least long enough to get to the airfield.  I know Erin is looking forward to seeing you again.  Don't disappoint her.
+<P>
+<P>-Decker

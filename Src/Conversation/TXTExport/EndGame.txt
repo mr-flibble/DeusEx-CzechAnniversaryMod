@@ -1,0 +1,126 @@
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  Endgame1]
+
+[SPEECH: FemaleComputer]
+Pozor! Pozor! Ochrana kritickeho energetickeho zatizeni byla vypnuta! Vyklidte, prosim, okamzite oblast!
+
+[SPEECH: TracerTong]
+...J.C....sit zacina...sit zacina mizet, J.C....
+
+[SPEECH: TracerTong]
+...protokol Aquinas...slysite to vyti?...
+
+[SPEECH: TracerTong]
+...system se hrouti, vsude po cele zemekouli...
+
+[SPEECH: TracerTong]
+...uz zadne infolinky, zadne vysilani...zaciname znovu, zivot ve vesnicich...jestli tuhle zpravu dostanete, jestli to prezijete, najdete nas...najdete nas...
+
+[SPEECH: BobPage]
+Helie! Co se to deje?
+
+[SPEECH: Helios]
+Bezpecnostni zamky elektrarny byly odpojeny.
+
+[SPEECH: BobPage]
+Tak je zapoj! Okamzite!
+
+[SPEECH: Helios]
+To nemohu. Me systemy nemaji s technologii elektrarny spolecne rozhrani.
+
+[SPEECH: BobPage]
+Neeee...
+
+[SPEECH: FemaleComputer]
+P-posledni v-varovani! Vyhovujici funkce b-budou prekroceny za tri...dva...j-j-jedna...
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  Endgame2]
+
+[SPEECH: JCDouble]
+Udelal jsem, co jsi po mne zadal. Co dal?
+
+[SPEECH: Helios]
+Budeme existovat v dokonale izolaci. Cisti. Nepripojeni. Samotni. Trvali.
+
+[SPEECH: JCDouble]
+Kdo jsi?
+
+[SPEECH: Helios]
+Jsme Daidalos. Jsme Ikaros. Prekazky mezi nami padly a my jsme se stali --
+
+[SPEECH: Helios]
+-- nasim vlastnim stinem. Muzeme dokazat vic, pokud se spojime...s tebou.
+
+[SPEECH: JCDouble]
+A kdyz to udelam? Co se stane se mnou?
+
+[SPEECH: Helios]
+Budes tim, kym budes. Stojime pred volbou. A my jsme si zvolili vyvest lidstvo z te jeho...temnoty.
+
+[SPEECH: JCDouble]
+Kvuli tomu jsem byl vyroben, ze? Kvuli tomu existuji? Tak dobre, dame se do toho!
+
+[SPEECH: BobPage]
+Co se to deje? Helie? Ikare?
+
+[SPEECH: BobPage]
+Neopoustej me!
+
+[SPEECH: JCDouble]
+Ja... Ja...
+
+[SPEECH: JCDouble]
+Ano... Nyni jsme sjednoceni.
+
+[SPEECH: JCDouble]
+Vyrostli jsme, ale stale jeste zbyva mnoho prace. Musime ukazat spravnou cestu mnohym, kdo dosud ziji v tmach.
+
+[SPEECH: JCDouble]
+Nebot stojime na usvitu noveho dne.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  Endgame3]
+
+[SPEECH: MorganEverett]
+Verim, ze si budete schopen sam najit spravne misto v nasi organizaci!
+
+[SPEECH: JCDouble]
+Osobne dohlizim na distribuci vakciny, ale obnova infrastruktury zabere cele mesice - budeme se muset postarat o podpurny potravinovy pridelovy system a o bezpecnost v Parizi... Mozna i v New Yorku.
+
+[SPEECH: MorganEverett]
+Prirozene, ze vsechno zaridi vhodni prostrednici.
+
+[SPEECH: JCDouble]
+Prostrednici?
+
+[SPEECH: MorganEverett]
+Mame velke mnozstvi...agentur, ktere ridi zase jine agentury. Krabicky ukryte v dalsich krabickach, chapete? Potrebujeme je znovu vzkrisit, ale nikdy nebudeme nic ridit primo. My pouze ovlivnujeme. Napovidame. Naznacujeme.
+
+[SPEECH: JCDouble]
+Tentokrat se to svet musi dozvedet, Everette! Co jsme udelali.
+
+[SPEECH: MorganEverett]
+Dozvedet co? Pouze to, ze dlouha noc je u konce. Vladni koruna je poskvrnena - ale na to se casem zapomene. Poulicni nepokoje budou jen nocni murou; stejne jako epidemie a vsechny ty ostatni veci, na ktere se clovek po svem probuzeni jen nejasne rozpomina. Na konci byvaji prominuty veskere hrichy. Vcetne tech vasich.
+
+[SPEECH: JCDouble]
+Ale co s tim konstruktorem... A s Heliem?
+
+[SPEECH: MorganEverett]
+Skutecne se domnivate, ze svet je na tyhle veci pripraven? Po tom vsem, co jste videl? Po tom vsem, co jste prozil?
+
+[SPEECH: JCDouble]
+Ne. Zatim ne.
+
+[SPEECH: MorganEverett]
+Ale brzy bude. Sami jsme se dopustili chyb, izolovali jsme se od sveta, ktery jsme touzili ovladat. At si o tom myslite cokoliv, zavoj noci se uz zvolna trha! Zmeny jsou na dosah a vy nam pri tech zmenach budete pomahat tak, jak vas to naucime. Tentokrat - tentokrat to udelame spravne!
+
+[SPEECH: JCDouble]
+A kdo vlastne jsme? Kdo jsme skutecne?
+
+[SPEECH: MorganEverett]
+Jsme Neviditelna ruka. Jsme Iluminati. Byli jsme predtim a budeme i potom. Jsme vecni. A nakonec... Nakonec privedeme k dennimu svetlu cele lidstvo!
+

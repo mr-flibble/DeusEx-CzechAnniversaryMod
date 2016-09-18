@@ -1,0 +1,6 @@
+<DC=255,255,255>
+<P>Toby, I'm afraid I'll be in the lab for quite a while concentrating on this most interesting new development.  If you need to access the security system, this week's code is "pynchon".  We should be especially wary now with this recent turn of events; I imagine Bobby is feeling the first signs of apprehension, and he tends to overreact when that happens.
+<P>
+<P>And if Lucius continues to complain, you may access his life support with the same password at the central computer.  Please don't raise his temperature more than a degree as I don't want him thawing out.
+<P>
+<P>Everett

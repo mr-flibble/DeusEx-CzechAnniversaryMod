@@ -1,0 +1,6 @@
+<DC=255,255,255>
+<P>Dr.Harrisone,
+<P> 
+<P>Sjizdel jsem na UK regresni analyzu a odhalil jsem vaznou chybu, ktera by mohla zpusobit nerizenou replikaci. Dokud neotestujeme novou verzi ovladaciho systemu, nainstaloval jsem docasny patch, ktery odstartuje postupnou sekvenci shazovani - neco takoveho by znicilo samotny UK, takze je nutno ho pouzit jen v nejvyssi nouzi. Kod je 525. Hosi rikaji, ze novy system bude funkcni do 72 hodin, takze to do te doby budeme muset vydrzet.
+<P>
+<P>Dr.Lundquist

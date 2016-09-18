@@ -1,0 +1,7 @@
+<COMMENT>Launch command in the silo</COMMENT>
+<DC=255,255,255>
+<P>Agent Karyo: I've changed the login to the security launch computers and locked them up behind some hard ice -- there's little chance that any of the other team members could interfere now.  Feel free to dispose of the survivors, though Simons wanted at least one left alive for interrogation.
+<P>
+<P>The new login is "Elder" and the password is "Armageddon".
+<P>--
+<P>Howard Strong

@@ -1,0 +1,10 @@
+<COMMENT>Helibase bathroom</COMMENT>
+<DC=255,255,255>
+<P><B>UNATCO Responds to Terrorist Attack</B>
+<P>New World Press - New York City
+<P>
+<P>A terrorist strike on Liberty Island was blunted this past week when UNATCO forces moved swiftly to neutralize the threat.  The attack, the result of a poorly organized attempt to break security at UNATCO Headquarters by the National Secessionist Forces (NSF), was characterized by one unidentified source as a "futile gesture."  Walton Simons, Director of FEMA, worked closely with UNATCO to coordinate both US and UNATCO forces in a joint operation to root out the remaining elements of the terrorist network in New York.
+<P>
+<P>"Terrorism is very much a snake that slithers out of the tall grass," said Simons.  "It is our responsibility to always remain alert to the danger it presents, and to act decisively when it appears."
+<P>
+<P>Authorities are currently attempting to locate <PLAYERNAME>, one of the terrorist leaders who escaped in the aftermath of the attack.

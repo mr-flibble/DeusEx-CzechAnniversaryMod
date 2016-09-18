@@ -1,0 +1,7 @@
+<DC=255,255,255>
+<P>JANINE'S BOTS
+<P>PREHLED A UDAJE
+<P>
+<P>PAGE BRAVO-3 MIROTVORCE
+<P>
+<P>Model Bravo-3 Mirotvorce od firmy Page Industries je univerzalni ochranny a hlidaci bot, ktery je kombinaci dvojnoheho skeletu s minikulometem chlazenym vzduchem pouzivajicim standardni NATO naboje 7.62x51mm. Jelikoz je jeho UI patricne omezena, vyhovuje prumernym pozadavkum vetsiny ochrannych spolecnosti - a mnohych vojenskych utvaru - na celem svete. Proto byva nasazovan v problematickych lokalitach, jako je Hongkong, Chicago, New York, Buenos Aires, Nove Dilli, Moskva ci Pariz. Jako temer vsichni boti urceni pro velkomestske prostredi, take Bravo-3 disponuje radarovym zobrazovacim systemem k monitorovani soucasne situace, avsak na rozdil od predchozich modelu rady Mirotvorce je Bravo-3 nyni vybaven signalnim procesorem RazorThorn, ktery mu poskytuje informace o cili. Organizace ci sbory, jimz se nedostava tezsich botu, casto voli jako reseni vetsi model Delta-2 Mirotvorce, jenz se pysni silnejsim pancirem a rizenymi strelami...

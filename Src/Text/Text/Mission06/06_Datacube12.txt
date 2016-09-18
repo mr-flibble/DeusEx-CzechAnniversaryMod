@@ -1,0 +1,9 @@
+<COMMENT>MJ12 lab conference room</COMMENT>
+<DC=255,255,255>
+<P>Dr.Lundquiste:
+<P>
+<P>Novy server pro tym vyzkumu zbrani je aktivni a uzivatelska prava byla nastavena podle vaseho prani. Hlavni heslo pro tento server je DAMOCLES.
+<P>
+<P>Kdybyste potreboval neco dalsiho, dejte mi, prosim, vedet.
+<P>
+<P>- Harrison

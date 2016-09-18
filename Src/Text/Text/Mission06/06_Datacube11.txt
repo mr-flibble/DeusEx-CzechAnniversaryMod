@@ -1,0 +1,8 @@
+<COMMENT>MJ12 lab</COMMENT>
+<DC=255,255,255>
+<P>Veliteli Triolete:
+<P>
+<P>Abych opravil poskozeny upgrade ochranneho systemu, byl jsem nucen cely system znovu naformatovat a reinstalovat z instalacniho media. Proto se login a heslo dovnitr znovu nastavilo na puvodni MJ12 a SECURITY. Zmente tedy, prosim, heslo pri nejblizsi vhodne prilezitosti a informujte o tom sve lidi.
+<P>
+<P>Troy Whittaker
+<P>MJ12IS, Administrator

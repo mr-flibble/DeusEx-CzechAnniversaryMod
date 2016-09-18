@@ -1,0 +1,6 @@
+<DC=255,255,255>
+<P>Dr.Batesi:
+<P>
+<P>Prave jsem skoncil s dozorem pri montazi palivovych nadrzi nakladni lodi na prepravu toho viru - chteji ho skutecne prepravovat v suspenzorech, ale ja vim, ze az dorazi do New Yorku, budete ho chtit co nejrychleji vylozit. Biokontaminacni tesneni vsak _nevydrzi_ dele nez 36 hodin, takze hned po vykladce bude nutne provest kompletni sterilizaci nadrzi ctvrteho stupne, abychom meli jistotu, ze nedoslo k zadnemu neplanovanemu uniku. Do nadrzi jsem nechal instalovat nekolik zapecetenych cerpadel, takze pro precerpani do vrtulniku budete moci pouzit standardni spojovace YHU55 a mikronove hadice typu A0. Ale vyridte Simonsovi, ze bude nejlepsi mit porad nekoho v zaloze s hazmatem.
+<P>
+<P>Dr.Lundquist

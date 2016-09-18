@@ -1,0 +1,5 @@
+<COMMENT>10_Paris_Catacombs ATM</COMMENT>
+<DC=255,255,255>
+<P>Francois, the hacking attempt has been an unqualified success -- I've transferred all the funds that I managed to siphon from Metropolitan before the ice came down into a dummy account: number 2221969, password "dullbill".  Let the other members of the cell know that these funds can be used for any projects that the Mayhem Comite may deem appropriate.
+<P>
+<P>-- Tandis Qu'ils Dorment, Nous Gagnerons

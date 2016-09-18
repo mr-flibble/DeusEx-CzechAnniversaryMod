@@ -1,0 +1,5 @@
+<COMMENT>Alley near warehouse</COMMENT>
+<DC=255,255,255>
+<P>Veliteli Welde: Kod pro suterenni rampu skladiste je 2577. Nastaveni bezpecnostni site je zcela nejvyssi prioritou - uder na Ostrove svobody zacne co nevidet a my muzeme cekat agresivni odpoved zanedlouho potom. Dokud nebude napln mise prelozena do bezpeci, generator musi byt chranen. Je to nase posledni obranna linie.
+<P>
+<P>JL

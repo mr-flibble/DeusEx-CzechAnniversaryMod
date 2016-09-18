@@ -1,0 +1,17 @@
+<DC=255,255,255>
+<P><JC><B>UNATCO MedDirectorate</B>
+<P><JC><B>Prirucka o nanoaugmentacich</B>
+<P>
+<P>...nanoaugmentace po sve "instalaci" nevratne zmeni agentuv fyziologicky system a v mnoha pripadech zpusobi odmitnuti nekterych dodatecnych augmentaci; nicmene plati, ze presny pocet pouzitych augmentaci se individualne lisi. Rozlicne souvislosti mezi temito systemy znazornuje nasledujici tabulka moznych nanoaugmentacnich kombinaci:
+<P>
+<P>Paze: <I>Bojova sila</I> nebo <I>Svaly z mikrovlaken</I>
+<P>Nohy: <I>Zvyseni rychlosti</I> nebo <I>Tichy beh</I>
+<P>Podkozni (1): <I>EMP stit</I> nebo <I>Balisticka ochrana</I>
+<P>Podkozni (2): <I>Maskovani</I> nebo <I>Radarova pruhlednost</I>
+<P>Trup (1): <I>Akvalung</I> nebo <I>Odolnost vuci prostredi</I>
+<P>Trup (2): <I>Regenerace</I> nebo <I>Energeticky stit</I>
+<P>Trup (3): <I>Umele srdce</I> nebo <I>Recyklace energie</I>
+<P>Lebka: <I>Agresivni obranny system</I> nebo <I>Vyzvedna sonda</I>
+<P>Optika: <I>Mireni</I> nebo <I>Zvysene videni</I>
+<P>
+<P>Jednotlive nanoaugmentace by mely byt voleny na zaklade planovane mise konkretniho agenta...

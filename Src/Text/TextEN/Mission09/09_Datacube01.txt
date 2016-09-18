@@ -1,0 +1,11 @@
+<COMMENT>Sub pen building, security office</COMMENT>
+<DC=255,255,255>
+<P>FROM: ASTON GREER
+<P>TO: CAPTAIN JAMES KEENE
+<P>
+<P>Captain Keene:
+<P>
+<P>While the PRCS Wall Cloud is in port I fully expect your cooperation in adhering to FEMA security protocols.  Due to the sensitive nature of the Wall Cloud's cargo, the ship will be in lock-down while docked and only the minimum necessary personnel given clearance at any time.  Please contact the dock foreman with an access code for his people -- I trust you will oversee the operation and insure that he understands the necessity for these precautions.
+<P>
+<P>Aston Greer
+<P>Director of Security, FEMA

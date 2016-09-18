@@ -1,0 +1,17 @@
+<COMMENT>MJ12 Cathedral Vault Doors</COMMENT>
+<DC=255,255,255>
+<P>Adept 34501,
+<P>Order of the Night Sky,
+<P>Third Rank:
+<P>
+<P>Those Who Rule in Majesty, the Twelve, have set you to watch over this place and record all that may happen so we may benefit from your observations, as you may benefit from our wisdom.
+<P>
+<P>You are entrusted with a Key to Sidon's Vault: 1942
+<P>
+<P>You are entrused with a Key to the Fountain of Wisdom: 0022
+<P>
+<P>You are entrusted with a Number and a Secret: 34501, 08711
+<P>
+<P>You will guard all these things with <I>Life</I> and <I>Soul</I>, and do your duty so that the Fourth Secret may find a place in your <I>Heart</I>.
+<P>
+<P>XII

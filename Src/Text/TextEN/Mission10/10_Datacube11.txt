@@ -1,0 +1,12 @@
+<COMMENT>10_Paris_Catacombs Tunnels: MJ12 security computer</COMMENT>
+<DC=255,255,255>
+<P>Agent Hela,
+<P>
+<P>We've added a login for you to the Catacombs security network; while still incomplete, it's being extended every day.  We should have the majority of the tunnels completely wired within the next three months. 
+<P>
+<P>Login: Hela
+<P>Password: Ragnarok
+<P>
+<P>Again, I'm pleased to know that you and MJ12 will be working closely with us to eradicate the Silhouette infestation from Paris.  Please update me on a daily basis with your surveillance reports and any additional items or information you may require.
+<P>-- 
+<P>Gabily

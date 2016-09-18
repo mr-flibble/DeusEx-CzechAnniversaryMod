@@ -1,0 +1,13 @@
+<DC=255,255,255>
+<P><B>Od:</B> AGreer//UpNet.902.3902
+<P><B>Ke:</B> VAlibek//UpNet.003.8588
+<P><B>Vec:</B> Plazmova puska
+<P>
+<P>Doktore Alibeku:
+<P>
+<P>Vase laborator obdrzela jako jedna z prvnich nas nejnovejsi prototyp plazmove pusky; jak nejspis vite, tato zbran ma byt testovana specialnimi zasahovymi jednotkami a potom vybranymi ciniteli z oblasti armady a ochranky cely pristi mesic. Jakozto jednu z nejvetsich severoamerickych firem na vyvoj zbrani by nas velice zajimal vas nazor na jeji pouzitelnost a ucinnost v boji. V priloze najdete kompletni technickou dokumentaci. Pokud budete mit jakekoliv otazky, nevahejte se, prosim, kdykoliv obratit primo na mne.
+<P>
+<P>Kod k bezpecnostni prepravce je 5239.
+<P>
+<P>Aston Greer
+<P>Reditel bezpecnosti, MJ12

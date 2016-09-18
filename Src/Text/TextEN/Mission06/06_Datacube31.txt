@@ -1,0 +1,11 @@
+<DC=255,255,255>
+<P>WELCOME TO VERSALIFE!  Where we make tomorrow look like yesterday!
+<P>
+<P>As a new employee, you will eventually be issued your very own individual login and password so that we can better provide information and support tailored to your unique work habits.  However, until all security clearances are completed, you should use the standard data entry login and password:
+<P>
+<P>LOGIN: ALL_SHIFTS
+<P>PASSWORD: DATA_ENTRY
+<P>
+<P>Your access will be restricted to non-sensitive documents and company-wide e-mail, but we hope that you will use the opportunity to acclimate yourself to the Versalife family.  Note that even though you have not received full security authorization, you are still expected to act in accordance with the rules and regulations outlined in your employee manual and supplemental agreements.
+<P>
+<P>Thanks, and have a GREAT DAY!

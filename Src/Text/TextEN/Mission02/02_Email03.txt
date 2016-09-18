@@ -1,0 +1,11 @@
+<COMMENT>J.C. Denton apartment inbox</COMMENT>
+<DC=255,255,255>
+<P><B>From:</B> JReyes//UNATCO.00973.20892
+<P><B>To:</B> Paul Denton//NYCNET.33.34.4346
+<P><B>Subject:</B> Settled in yet?
+<P>
+<P>Hey <PLAYERFIRSTNAME>,
+<P>
+<P>Thought I'd help you unload your boxes, but I'm tied down trying to get one of the medical analyzers working.  Damn thing nearly lasered off one of my fingers!  Catch you later for a beer maybe?
+<P>
+<P>Jaime

@@ -1,0 +1,12 @@
+<P><B>Queen's Tower Residential Directory</B>
+<P>
+<P>Please select one of our facilities or residents; residents will identify you using our state-of-the-art security system and grant you access as necessary.  Thank you.
+<P>
+<FILE=06_Bulletin01,Lobby>
+<FILE=06_Bulletin02,Pool & Fitness>
+<FILE=06_Bulletin03,Kit Lam-Wei>
+<FILE=06_Bulletin04,Larry & Ling Woo>
+<FILE=06_Bulletin05,Dr. Tracey Feng>
+<FILE=06_Bulletin06,Bobby Ryan>
+<FILE=06_Bulletin07,Undergoing Renovations>
+<FILE=06_Bulletin08,Maggie Chow>

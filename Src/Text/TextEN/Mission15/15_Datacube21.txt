@@ -1,0 +1,6 @@
+<DC=255,255,255>
+<P>Sergeant Smith,
+<P>
+<P>As we discussed, you will take responsibility for the security of the Aquinas Substation.  The security computer login is "page" and the password is "uberalles".  Expect activity today.  The Aquinas Hub is being prepared for an experiment, and I don't want one of Savage's spies to interfere.  Let NO ONE touch the routers until I give the word.
+<P>
+<P>BP

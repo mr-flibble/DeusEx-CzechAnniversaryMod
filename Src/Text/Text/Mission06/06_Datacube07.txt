@@ -1,0 +1,13 @@
+
+
+<COMMENT>VersaLife security booth</COMMENT>
+<DC=255,255,255>
+<P>LOG OCHRANKY VERSALIFE
+<P>
+<P>05:33 -- Richard Hundley vchazi s prazdnym kufrikem. Pri jeho odchodu overte obsah kufriku, zda nahodou v rozporu s vnitrnim radem nevynasi ven duverne dokumenty.
+<P>
+<P>06:25 -- John Smith prichazi, aniz by se zapsal. Zapiste mu to do jeho disciplinarniho rejstriku a zostrete jeho elektronicke sledovani.
+<P>
+<P>13:14 -- Louis Elban absolvuje dlouhy rozhovor s recepcni Destiny Savannahovou, tema nezname.
+<P>
+<P>21:13 -- Prichazi neznama osoba; mohla by odpovidat popisu "J.C.Dentona", jak byl uveden v internim zpravodaji 133-B. Budeme ho sledovat a pokud se podezreni potvrdi, zadrzime ho.

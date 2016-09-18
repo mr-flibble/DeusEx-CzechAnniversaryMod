@@ -1,0 +1,14 @@
+<COMMENT>MJ12 lab</COMMENT> 
+<DC=255,255,255>
+<P><B>Od:</B> Operacni centrala//UpNet.64534.453423
+<P><B>Ke:</B> Kazdemu
+<P><B>Vec:</B> Podnikovy vecirek
+<P>
+<P>Podnikovy vecirek se presouva z 21.cervence na 28.cervence. Zaznamenejte si to, prosim, do svych kalendaru. Zamestnanci ve sluzbe ci jinak nedostupni budou odskodneni v primerene vysi.
+<P>
+<P>Tesime se na vas,
+<P>Harleen Quinzellova
+<P>
+<P>Vedouci personalistiky - Operacni centrala
+<P>Harleen//Upnet.64534.453423
+<P>"Zamraceni je jenom usmev naruby..."

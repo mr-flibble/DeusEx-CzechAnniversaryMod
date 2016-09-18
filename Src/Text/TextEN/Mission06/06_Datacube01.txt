@@ -1,0 +1,7 @@
+<COMMENT>Acoustic gunfire sensors</COMMENT>
+<DC=255,255,255>
+<P><B>ALL HONG KONG MJ12 PERSONNEL</B>
+<P>
+<P>Hong Kong is a unique environment for MJ12 personnel and provides a number of challenges that all members should be aware of on a daily basis.  Currently, only tenuous ties exist between MJ12 and local authorities -- though MJ12 is working to resolve that situation -- and consequently, police and security cannot be expected to understand the special nature of MJ12's charter.  Agents, operatives, security, and other personnel should adhere closely to the Confidentiality Guidelines outlined in your handbook.
+<P>
+<P>One key factor in police response is the use of "acoustic gunfire sensors" scattered throughout much of Hong Kong: cheap and effective, these sensors use DSP circuitry to alert authorities to non-suppressed (i.e. not silenced) gunfire.  This enables police to quickly minimize threat situations in an efficient manner.  While these sensors can be disabled, Central Operations does not recommend this course of action, but rather a considered evaluation of any tactical situation to avoid local intervention.

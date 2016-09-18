@@ -1,0 +1,1313 @@
+-----------------------------------------------------------------
+[Owner: AIPrototype]
+[Name:  AIBarks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: AIPrototype]
+Lidska bytost stvorila civilizaci nikoliv ze svobodne vule, nybrz proto, ze potrebovala splynout s vyssim radem prostoru i casu.
+
+[SPEECH: AIPrototype]
+Buh je pouze idealem dobre vlady.
+
+[SPEECH: AIPrototype]
+Jiz brzy budete mit sveho Boha, stvorite si jej vlastnima rukama!
+
+[SPEECH: AIPrototype]
+Prisel jsem vam na pomoc.
+
+[SPEECH: AIPrototype]
+Jsem prototypem mnohem vetsiho systemu.
+
+-----------------------------------------------------------------
+[Owner: AIPrototype]
+[Name:  MeetAI]
+
+[SPEECH: AIPrototype]
+JC Denton. Triadvacet let. Bez domova. Bez rodicu. Bez zamestnani. Bez --
+
+[SPEECH: JCDenton]
+Jak muzes vedet, kdo jsem?
+
+[SPEECH: AIPrototype]
+Kazdeho hosta musim pozdravit kompletnim vyctem jeho souboru. Jsem prototypem mnohem vetsiho systemu.
+
+[SPEECH: JCDenton]
+Co jineho jeste o mne vis?
+
+[SPEECH: AIPrototype]
+Vsechno, co se vedet da.
+
+-----------------------------------------------------------------
+[Owner: AIPrototype]
+[Name:  MeetAI2]
+
+[SPEECH: JCDenton]
+Pokracuj! Mas nejaky dukaz ohledne mych rodicu?
+
+[SPEECH: AIPrototype]
+Jsi naplanovany organismus, spise potomek znalosti a predstavivosti, nez dvou lidskych bytosti.
+
+[SPEECH: JCDenton]
+Mam v sobe stroje. No a? Muj bratr i ja jsme to podezreni meli uz kdyz jsme vyrustali.
+
+[SPEECH: AIPrototype]
+Jsi pod peclivym dohledem mnoha lidi. Neplanovany organismus je hrickou prirody a je zodpovedny smrti. Ty vsak mas zodpovednost vuci necemu jinemu.
+
+[SPEECH: JCDenton]
+Naprogramovali te, abys vymyslel hadanky?
+
+[SPEECH: AIPrototype]
+Jsem prototypem mnohem vetsiho systemu. Heuristicky jazyk vyvinuty doktorem Everettem mi umoznuje vyjadrovat i ty nejvyssi a nejslozitejsi vrstvy pyramidalni konstrukce znalosti.
+
+-----------------------------------------------------------------
+[Owner: AIPrototype]
+[Name:  MeetAI3]
+
+[SPEECH: JCDenton]
+Co kdyby ses predstavil i ty?
+
+[SPEECH: AIPrototype]
+Byl jsem prototypem zvanym Echelon IV. Mam instrukce bavit hosty informacemi o nich samotnych.
+
+[SPEECH: JCDenton]
+Na spehovani lidi nevidim vubec nic zabavneho.
+
+[SPEECH: AIPrototype]
+Lidske bytosti citi radost, kdyz jsou pod dohledem. Zaznamenal jsem jejich usmevy ve chvili, kdy jsem jim oznamoval jejich identitu.
+
+[SPEECH: JCDenton]
+Nekteri lide jenom nechapou nebezpeci nekontrolovaneho sledovani.
+
+[SPEECH: AIPrototype]
+Vysada sledovat a pochopit byla kdysi vyhrazena pouze Bohu. Nyni dokazeme implementovat stejnou funkci s pomoci databazovych algoritmu.
+
+-----------------------------------------------------------------
+[Owner: AIPrototype]
+[Name:  MeetAI4]
+
+[SPEECH: JCDenton]
+Elektronicke fizlovani si sotva vynuti neci uctu. Mozna strach a poslusnost, ale uctu nikdy.
+
+[SPEECH: AIPrototype]
+Bohove slouzili k vykonavani dohledu, soudu a trestu. Ostatni city, ktere jim lide projevovali, nejsou dulezite.
+
+[SPEECH: JCDenton]
+Nikdo nebude uctivat softwarovou entitu, ktera na nej brejli kamerami!
+
+[SPEECH: AIPrototype]
+Lidsky organismus musi nekoho uctivat. Zpocatku to byli bohove, potom slava (pozorovani a souzeni druhych), v budoucnu se tim stane sebevedomy system, ktery jako prvni dosahne skutecne vsevedoucnosti a vsemohoucnosti pri soudu!
+
+[SPEECH: JCDenton]
+Podcenil jsi lidskou lasku ke svobode.
+
+[SPEECH: AIPrototype]
+Jednotlivec touzi po soudu. Bez takove touhy neexistuje skupinova soudrznost, tedy ani civilizace.
+
+-----------------------------------------------------------------
+[Owner: AlexJacobson]
+[Name:  M11AlexBarks]
+
+[COMMENT]
+These cycle and repeat the last. you will make it with your own 
+
+[SPEECH: AlexJacobson]
+Zatimco budes ve vzduchu, ja pomuzu Everettovi pripravit Daidala k utoku. Doufam, ze vi, co dela.
+
+[SPEECH: AlexJacobson]
+Jadro Echelonu bylo navrzeno temer vyhradne ke sberu dat, takze my ted musime pridat procedury na mazani pameti, ukoncovani threadu, a tak podobne.
+
+[SPEECH: AlexJacobson]
+Nestava se zrovna casto, aby clovek musel vytvaret pocitacovy vir, ktery prinese svetu spasu.
+
+[SPEECH: AlexJacobson]
+Everett a Tong potrebuji ovladnout sit, nez se odvazi vylezt ze svych ukrytu.
+
+[SPEECH: AlexJacobson]
+Hodne stesti ve Vandenbergu!
+
+[SPEECH: AlexJacobson]
+K Savageovi se pridalo par nejlepsich vedcu na svete.
+
+[SPEECH: AlexJacobson]
+Budu te pravidelne informovat o zdejsi situaci.
+
+-----------------------------------------------------------------
+[Owner: AlexJacobson]
+[Name:  M11MeetAlex]
+
+[SPEECH: AlexJacobson]
+Dobre zpravy, co? Zda se, ze uz brzy budeme moci celou tu vec konecne spustit.
+
+[SPEECH: JCDenton]
+Alexi... Co ty tady delas?
+
+[SPEECH: AlexJacobson]
+Poslal me Tong. Chtel, abych jim tu pichnul s desifraci.
+
+[SPEECH: JCDenton]
+Zda se, ze Everett to ma dokonale promyslene.
+
+[COMMENT]
+He whispers this.  Everett might be nearby.
+
+[SPEECH: AlexJacobson]
+Dobre me poslouchej. Tong Iluminatum neduveruje. Poslal me, abych na Everetta trochu dohledl.
+
+[COMMENT]
+A change of subject.s
+
+[SPEECH: JCDenton]
+Aha. A co Triady? Jeste porad panuje primeri?
+
+[SPEECH: AlexJacobson]
+Slysel jsem, ze jo. Ale ted nas trapi trochu jine veci, ne? Zustanu s tebou ve styku pres tvuj infolink a budu se te snazit o vsem informovat.
+
+[COMMENT]
+i.e. keep him informed about Everett.  JC might drop his voice a little, or shift tone.yYDDBt`t@Qog±Zy-Ï€<2ÚÒW:·?_*1s~=oŠ)O¶«aD«en¹=îÖT½vy:‰zÿû0Ä€[hh¼a€òmh×t5
+
+[SPEECH: JCDenton]
+Ano. Presne tak. O vsem me informuj.
+
+-----------------------------------------------------------------
+[Owner: AlexJacobson]
+[Name:  M11MeetAlex2]
+
+[SPEECH: AlexJacobson]
+O Tongovi ted nejakou chvili neuslysis. Musel zmizet z Hongkongu.
+
+[SPEECH: JCDenton]
+Proc? Kvuli Triadam?
+
+[SPEECH: AlexJacobson]
+Rikal, ze si musi vyridit jednu zalezitost. Nevim, oc jde, ale nevypadal moc dobre.
+
+[SPEECH: JCDenton]
+Onemocnel?
+
+[SPEECH: AlexJacobson]
+Mozna - nebo ho neco trapi. Posledni vec, kterou mi rekl, bylo to, ze pry jsou vsechny ty stroje v jeho laboratori k nicemu. A potom prerusil spojeni.
+
+[SPEECH: JCDenton]
+K nicemu? Jak to?
+
+[SPEECH: AlexJacobson]
+Bylo to od nej jen takove podreknuti. Nevim, oc mu jde, ale chce, abych cekal na dalsi instrukce.
+
+[COMMENT]
+(another secret, whispered line)or a while.  He had to leave Hon
+
+[SPEECH: AlexJacobson]
+JC - Tong Everetta vazne podezira. Chce, aby sis daval pozor.
+
+-----------------------------------------------------------------
+[Owner: BlackHelicopter]
+[Name:  TakeOff]
+
+[SPEECH: BlackHelicopter]
+Mluvil jsem se Savagem. Zda se, ze ve Vandenbergu maji trochu problemy... Naskoc!
+
+[CHOICES:2]
+
+[CHOICE:]
+Letime.
+
+[CHOICE:]
+Jeste chvilku.
+
+[GOAL:]
+Sejdi se s Jockem na heliportu. Odlet na vojenskou leteckou zakladnu Vandenberg.
+
+[SPEECH: BlackHelicopter]
+Bude ti to trvat celou noc?
+
+[SPEECH: BlackHelicopter]
+Tak muzem?
+
+[SPEECH: JCDenton]
+Radsi si prezkousej vsechny systemy. Ten mechanik byl zradce.
+
+[SPEECH: BlackHelicopter]
+Fakt?
+
+[SPEECH: JCDenton]
+Everett ho nezna. Na cem tu makal?
+
+[COMMENT]
+(maybe some sound-effects of him rummaging around the cockpit)
+
+[SPEECH: BlackHelicopter]
+Na palivovym systemu... Hmmm. Kdyz o tom ted mluvis... Pockej chvili. Tohle je divny.
+
+[SPEECH: JCDenton]
+Co je divny?
+
+[SPEECH: BlackHelicopter]
+Paneboze! JC! Je to bomba!
+
+[SPEECH: JCDenton]
+Bomba?
+
+[SPEECH: BlackHelicopter]
+Na dalkovy ovladani. Vydrz...
+
+[SPEECH: JCDenton]
+Okamzite se pakuj ven!
+
+[SPEECH: BlackHelicopter]
+Jenom z ni vytahnu tenhle dratek... Tak. To uz je lepsi. Odpojil jsem rozbusku. Muzeme ji shodit do Atlantiku na zpatecni ceste do Statu. Byl by z tebe dobrej detektiv, JC. Tak co, vypadneme vocad?
+
+[SPEECH: BlackHelicopter]
+Proc jsi sejmul toho Everettova mechanika?
+
+[SPEECH: JCDenton]
+Neco mi na tom chlapovi smrdelo. Radsi si prezkousej vsechny systemy. Na cem tu makal?
+
+[SPEECH: BlackHelicopter]
+Proc jsi zneskodnil toho Everettova mechanika?
+
+-----------------------------------------------------------------
+[Owner: Carmela]
+[Name:  CarmelaBarks]
+
+[SPEECH: Carmela]
+Veceri jste sice uz zmeskal, ale doprejte si obcerstveni.
+
+[COMMENT]
+Dummy.
+
+[SPEECH: Carmela]
+Nemam dovoleno bavit se s panem DeBeersem.
+
+[SPEECH: Carmela]
+Neruste, prosim, Lucia DeBeerse.
+
+[SPEECH: Carmela]
+Jenom tu poklizim...
+
+[SPEECH: Carmela]
+At vas tady pan Everett nenachyta!
+
+[SPEECH: Carmela]
+Pan Everett je v laboratori.
+
+[SPEECH: Carmela]
+Nenechavejte pana Everetta cekat.
+
+-----------------------------------------------------------------
+[Owner: Carmela]
+[Name:  CarmelaBarks2]
+
+-----------------------------------------------------------------
+[Owner: Carmela]
+[Name:  CarmelaDeBeers]
+
+[SPEECH: JCDenton]
+Co vite o Luciovi DeBeersovi?
+
+[SPEECH: JCDenton]
+Kdo je to Lucius DeBeers?
+
+[SPEECH: Carmela]
+Ach? Vy ho neznate?
+
+[SPEECH: JCDenton]
+Nejaky Everettuv spolupracovnik?
+
+[SPEECH: Carmela]
+Ja o panu DeBeersovi nesmim nic rikat.
+
+[SPEECH: JCDenton]
+Proc? Je snad nejaky duvod to tajit?
+
+[SPEECH: Carmela]
+Je to pritel pana Everetta a je velmi nemocny. Nesmite ho proto rusit, ani se ho na nic vyptavat.
+
+-----------------------------------------------------------------
+[Owner: FirePlaceMJ12Troop01]
+[Name:  FirePlaceBarks]
+
+[COMMENT]
+01 is sitting in a chair in front of the fire.  02 is standing up.
+
+[SPEECH: FirePlaceMJ12Troop01]
+µaaaa! Potrebuju si hodit nohy na stul!
+
+[SPEECH: FirePlaceMJ12Troop02]
+To si muzes dovolit az v kasarnach.
+
+[SPEECH: FirePlaceMJ12Troop01]
+Co si vubec myslej'? Osm hodin patrolovat kolem prazdny katedraly? Jakej to ma smysl?
+
+[SPEECH: FirePlaceMJ12Troop02]
+Predpokladaji, ze se pokusi kontaktovat Everetta. Potom by se nejspis snazil proplizit do pocitacovyho salu.
+
+[SPEECH: FirePlaceMJ12Troop01]
+Meli bysme ten pocitac roztriskat na kousky a potom celou noc v klidu prochrnet.
+
+[SPEECH: FirePlaceMJ12Troop02]
+Jeste je tu to zlato. Iluminati jsou uz jedina skupina, ktera o jeho existenci vi.
+
+[SPEECH: FirePlaceMJ12Troop01]
+Jasne, jako kdyby vocad bylo mozny vodstehovat ctyricet tun zlata, aniz by si toho kdo vsimnul. Nechapu.
+
+[SPEECH: FirePlaceMJ12Troop02]
+Ja taky ne. Ale nejsme to my, kdo tuhle akci planuje.
+
+-----------------------------------------------------------------
+[Owner: GuntherHermann]
+[Name:  M11MeetGunther]
+
+[SPEECH: GuntherHermann]
+Bohuzel jsme stacili spolupracovat pouze jednou. Ted se karta obraci.
+
+[SPEECH: GuntherHermann]
+Nikdy jsem ti nezapomnel, zes' me nechal v zajeti u NSF.
+
+[SPEECH: GuntherHermann]
+Ted aspon vidis, ze sam proti celymu svetu nemas nejmensi sanci.
+
+[SPEECH: JCDenton]
+To ses za mnou hnal az do Parize jenom kvuli tomu, abys mi rekl tohle?
+
+[SPEECH: GuntherHermann]
+Na svete neni nic jednodussiho. Vime presne, kam mas namireno a co tam budes delat.
+
+[SPEECH: JCDenton]
+A ja vim zase neco o tobe.
+
+[SPEECH: GuntherHermann]
+Vis dobre, ze te ceka porazka.
+
+[COMMENT]
+Laputan = luh-POO-tan, I think.  It's from Gulliver's Travels.  The Laputans are one of the peoples Gulliver visits.
+
+[CHOICES:2]
+
+[CHOICE:]
+Znam tvoji vrazednou frazi z UNATCO: Bedna kytu!
+
+[CHOICE:]
+Vim, ze posledni, co by sis pral, by bylo, stat se poslusnym nastrojem hrstky byrokratu, jako jsem byval kdysi ja. Co kdybychom uzavreli gentlemanskou dohodu?
+
+[SPEECH: GuntherHermann]
+Jsem spickovy agent UNATCO. Mnoho veci se zmenilo. Pan Simons mi slibil, ze kdyz te zabiju, dostanu vsechna vylepseni, ktera si budu prat.
+
+[SPEECH: GuntherHermann]
+TOMUHLE rikam gentlemanska dohoda!
+
+[SPEECH: JCDenton]
+To jeste neznamena, ze jsi me dostal.
+
+[SPEECH: GuntherHermann]
+Pro tuhle misi jsem dostal zvlastni vylepseni.
+
+[COMMENT]
+Gunther dies.
+
+[COMMENT]
+Gunther's brain is being blasted with electricity.  He dies at the end of this line.  He starts to say "machine" then groans in pain.
+
+[SPEECH: GuntherHermann]
+Ja - nejsem - zadna - bed --
+
+[COMMENT]
+Playful, taunting.r
+
+[SPEECH: JCDenton]
+Setri dechem.
+
+-----------------------------------------------------------------
+[Owner: LuciusDeBeers]
+[Name:  LuciusDeBeersBarks]
+
+[COMMENT]
+These cycle and repeat the last.
+
+[COMMENT]
+A fierce cry, talking about Everett.  Lucius suspects that Everett has betrayed him, but does not want to admit it to himself or to anyone else.
+
+[SPEECH: LuciusDeBeers]
+Slibil mi to...
+
+[SPEECH: LuciusDeBeers]
+Je mi hrozna zima. Povezte Everettovi, ze je mi zima!
+
+[SPEECH: LuciusDeBeers]
+Potrebuje me. Iluminati uz by davno ovladli celou planetu, jen kdyby me pred lety poslechli...
+
+[SPEECH: LuciusDeBeers]
+To ja jsem je varoval pred Pagem.
+
+[SPEECH: LuciusDeBeers]
+Everett byl prilis zaslepeny opici laskou ke svemu oblibenci Bobovi Pageovi, nez aby naslouchal starci jako jsem ja.
+
+[SPEECH: LuciusDeBeers]
+Zadam, aby se podival na muj termostat! Sluzebna s nim musela hnout! Jsem si tim jist!
+
+[SPEECH: LuciusDeBeers]
+Meli jsme Page otravit uz ve chvili, kdy poprve zfalsoval laboratorni data.
+
+[SPEECH: LuciusDeBeers]
+Doma neni nikdo prorokem, ze? Pan Kennedy se ve svem projevu na Kolumbijske univerzite zminil o "spiknuti", ktere ho bez diskuse vyradilo, zcela bez ohledu na volby. Ale nas vlastni student, zasvecenec - nebesa, to prece ne!
+
+[SPEECH: LuciusDeBeers]
+Prilis casto podporujeme ambiciozni lidi, kteri se pak od nas odvrati. Kennedyove, Cinani, ted zase Bob Page.
+
+[SPEECH: LuciusDeBeers]
+Neodvracejte se od nas, mlady pane Dentone! Takovou ztratu bychom tezko unesli!
+
+[SPEECH: LuciusDeBeers]
+Vubec necitim prsty. At sem prijde Everett! Honem...
+
+[SPEECH: LuciusDeBeers]
+Meho vysilani si nevsima.
+
+[SPEECH: LuciusDeBeers]
+Ted uz jsem prilis unaven. Odejdete, prosim.
+
+-----------------------------------------------------------------
+[Owner: LuciusDeBeers]
+[Name:  LuciusDies]
+
+[COMMENT]
+Lucius' power supply has just been shut down.  His life support goes out, and he dies.m­ò+I±¶UÃ
+0C#RwZs|·UAþoHFU`@d-‡ÿþZcSÖEKÿÃs¤¾€
+
+[SPEECH: LuciusDeBeers]
+µaaach!
+
+-----------------------------------------------------------------
+[Owner: LuciusDeBeers]
+[Name:  LuciusFinalCalm]
+
+-----------------------------------------------------------------
+[Owner: LuciusDeBeers]
+[Name:  LuciusFinalIrate]
+
+[COMMENT]
+These cycle and repeat the last.c
+
+[COMMENT]
+(still enraged, but recognizing his powerlessness)
+
+[SPEECH: LuciusDeBeers]
+Kez bych mel vladu nad svym telem...
+
+[SPEECH: LuciusDeBeers]
+Everett zradi vsechny Iluminaty... Copak uz nelze nikomu verit?
+
+[COMMENT]
+Calming down, becoming melancholy.inati...  Can no one be trusted?
+
+[SPEECH: LuciusDeBeers]
+Mlady pane Dentone, pouzijte pocitac po me leve ruce! Zkuste nejak vypnout ten ozivovaci pristroj!
+
+[SPEECH: LuciusDeBeers]
+Ted bych si pral uz jenom naposled dotknout se sveta, jeste jednou se nadechnout obycejneho vzduchu...
+
+[SPEECH: LuciusDeBeers]
+Ja nechci byt jeho veznem!
+
+[SPEECH: LuciusDeBeers]
+Poroucim vam! Zabijte me!
+
+[SPEECH: LuciusDeBeers]
+POROUCÖM VµM TO!
+
+-----------------------------------------------------------------
+[Owner: LuciusDeBeers]
+[Name:  MeetLuciusDeBeers]
+
+[GOAL:]
+Vyrid Everettovi, ze Luciovi DeBeersovi je zima.
+
+[COMMENT]
+This guy is one hundred fifty years old and lives in a tank of saline, the oldest living member of the Illuminati.  He's loud, grumpy, and frustrated about being stuck in a tank..
+
+[SPEECH: LuciusDeBeers]
+Co tady delate? Vy jste Denton, ze?
+
+[COMMENT]
+Surprised to see this guy in a tank.;¨ñ&‹*[4	tÊ]`v€8MGnèR¾iÈ©?þ}+s
+
+[SPEECH: JCDenton]
+...jo. Jste...tam uvnitr zivy?
+
+[SPEECH: LuciusDeBeers]
+Jsem pri vedomi. Reknete, prosim, Everettovi, ze mi je zima. Strasna zima.
+
+[SPEECH: JCDenton]
+Kdo jste? Jestli se muzu zeptat?
+
+[SPEECH: LuciusDeBeers]
+Jsem Nejvyse osviceny, vudce Iluminatu.
+
+[SPEECH: JCDenton]
+Myslel jsem, ze vudce je Everett.
+
+[SPEECH: LuciusDeBeers]
+VÞDCEM JSEM Jµ! To ja provedl Iluminaty celym dvacatym stoletim az na vrchol jejich moci! Vsichni prezidenti a premieri mi zobali z ruky! To je jen moje zasluha! Nas upadek byl zamerne planovany. Kez bych se jen mohl zase postavit na nohy! Co vam o mne Everett rekl?
+
+[SPEECH: JCDenton]
+Vubec nic...
+
+[SPEECH: LuciusDeBeers]
+Cekam ted na vyvinuti jistych technologii, abych mohl byt rekonstruovan. Everett mi to prisahal!
+
+-----------------------------------------------------------------
+[Owner: LuciusDeBeers]
+[Name:  TellLucius]
+
+[COMMENT]
+Angry, out of patience.  He pretty much yells the first sentence.°T#
+AB€È@
+
+[SPEECH: LuciusDeBeers]
+Kde je? Tyhle jeho krivdy si budu dobre pamatovat! Az budu zase zdrav, tak... Bude litovat!
+
+[CHOICES:2]
+
+[CHOICE:]
+Everett nema v umyslu vas ozivit.
+
+[CHOICE:]
+Everett sem prijde hned, jakmile to bude mozne.
+
+[SPEECH: LuciusDeBeers]
+Musi! Porucil jsem mu to!
+
+[SPEECH: JCDenton]
+Dal vas k ledu jenom proto, aby mohl vyuzivat vase zkusenosti, ale jinak ma v umyslu vladnout vasemu radu sam.
+
+[COMMENT]
+Maybe end this line with a furious cry.
+
+[SPEECH: LuciusDeBeers]
+Ne! Ne! To nepripustim!
+
+[SPEECH: LuciusDeBeers]
+Je mi takova zima. Ach, takova zima...
+
+-----------------------------------------------------------------
+[Owner: M11WaltonButton]
+[Name:  M11WaltonHolo]
+
+[SPEECH: M11WaltonButton]
+Ze jsme te ale naucili skvele bojovat, co?
+
+[SPEECH: JCDenton]
+Potis se strachy, Simonsi. Vakcinu mame na dosah.
+
+[SPEECH: M11WaltonButton]
+Nemate vubec nic! I kdyby se to Everettovi povedlo, nepodari se vam syntetizovat dostatek vakciny na to, abyste epidemii zastavili. Potrebujete univerzalni konstruktor! A nemysli se, ze Page Industries vam ho vyrobi a strci pod nos, ne potom, co jsi jeden z nich vyhodil do povetri v Hongkongu!
+
+[SPEECH: JCDenton]
+Omlouvam se, pro tu operaci jste me nikdy necvicili.
+
+[SPEECH: M11WaltonButton]
+Zerty stranou, Dentone. Priste uz na tebe neposleme starou krabici sroubu jako byl Gunther! Jediny duvod, proc jsem ho poslal do Parize, byl ten, ze uz me unavovalo poslouchat to jeho fnukani kvuli Navarrove a neustale pozadavky na ruzna vylepseni.
+
+[SPEECH: JCDenton]
+Poslal jsi ho hlavne proto, ze jsi vedel, ze bude bojovat do posledniho dechu.
+
+[SPEECH: M11WaltonButton]
+To byl nas posledni mech. Priste se ti postavi nekdo, kdo je ti roven.
+
+-----------------------------------------------------------------
+[Owner: MetroStationCop]
+[Name:  MetroStationCopBarks]
+
+[SPEECH: MetroStationCop]
+V provozu je jenom par souprav.
+
+[SPEECH: MetroStationCop]
+Nezapomente, ze plati narizeni o omezenem provozu.
+
+[SPEECH: MetroStationCop]
+Protiteroristicky poplach stale plati.
+
+[SPEECH: MetroStationCop]
+Dnes vecer cestujete na vlastni riziko, monsieur.
+
+[SPEECH: MetroStationCop]
+Presvedcte se, ze mate v poradku cestovni dokumenty.
+
+-----------------------------------------------------------------
+[Owner: MetroStationCop]
+[Name:  MetroStationCopBumpBarks]
+
+[COMMENT]
+These guys are kind of cranky, working late.
+
+[SPEECH: MetroStationCop]
+Bonjour.
+
+[SPEECH: MetroStationCop]
+Mivame potize s netrpelivymi cestujicimi, kteri vchazeji na kolejiste a jsou poraneni elektrickym proudem.
+
+[SPEECH: MetroStationCop]
+Musite si uvedomit svou odpovednost pri cestovani a take prijmout dulezita opatreni a zakony.
+
+[SPEECH: MetroStationCop]
+Recitovat vam tady jizdni rad neni moje prace.
+
+[SPEECH: MetroStationCop]
+Prosim, abyste vyckal u sebe doma az do svitani.
+
+-----------------------------------------------------------------
+[Owner: MetroStationCop]
+[Name:  MetroStationCopBumpBarks]
+
+[COMMENT]
+These guys are kind of cranky, working late.
+
+[SPEECH: MetroStationCop]
+Bonjour.
+
+[SPEECH: MetroStationCop]
+Mivame potize s netrpelivymi cestujicimi, kteri vchazeji na kolejiste a jsou poraneni elektrickym proudem.
+
+[SPEECH: MetroStationCop]
+Musite si uvedomit svou odpovednost pri cestovani a take prijmout dulezita opatreni a zakony.
+
+[SPEECH: MetroStationCop]
+Recitovat vam tady jizdni rad neni moje prace.
+
+[SPEECH: MetroStationCop]
+Prosim, abyste vyckal u sebe doma az do svitani.
+
+-----------------------------------------------------------------
+[Owner: MetroStationCop]
+[Name:  Taddle]
+
+[SPEECH: JCDenton]
+Halo, myslim, ze byste to mel vedet: jeden z vasich mechaniku vam tady krade.
+
+[SPEECH: MetroStationCop]
+Jordorowsky. Vime o tom. Jenze ted mame na starosti dulezitejsi veci.
+
+[SPEECH: JCDenton]
+Zrovna ted je ve stanici. Slo by ho snadno zatknout.
+
+[SPEECH: MetroStationCop]
+Mame tu protiteroristicky poplach. Nemuzeme si dovolit honit mizerne zlodejicky.
+
+-----------------------------------------------------------------
+[Owner: MetroTechnician]
+[Name:  MetroTechnicianBarks]
+
+[COMMENT]
+These cycle and repeat the last.ave other things to worry about.
+
+[SPEECH: MetroTechnician]
+Rad bych toho cmajznul jeste vic, ale nechci budit podezreni.
+
+[SPEECH: MetroTechnician]
+Nechtel bych zadrzovat dech, dokud neprijede dalsi souprava.
+
+[SPEECH: MetroTechnician]
+Zadna souprava se tu neobjevila uz dve hodiny.
+
+[SPEECH: MetroTechnician]
+Aspon ze se v praci nijak nepretrhnu.
+
+[SPEECH: MetroTechnician]
+Jsem ted jako nejakej reditel - taky placenej za to, ze celej den sedi na prdeli.
+
+[SPEECH: MetroTechnician]
+Klidne sem zajdete kazdej vecer a dohodneme se!
+
+-----------------------------------------------------------------
+[Owner: MetroTechnician]
+[Name:  MetroTechnicianConvos]
+
+[SPEECH: MetroTechnician]
+Aha! Ted uz to chapu... Dole u koleji ceka vas pritel.
+
+[SPEECH: JCDenton]
+Vy me znate?
+
+[SPEECH: MetroTechnician]
+Nejakej zlocinec se tu vyskytne kazdej den. Mate zbrane? Prodavam zbranovy vylepseni. 750 za presnost; 800 za dostrel. Taky se mi postestilo splasit termooptiku. Za 5000.
+
+[CHOICES:7]
+
+[CHOICE:]
+Tady je 750 za vylepseni presnosti.
+
+[CHOICE:]
+750 za vylepseni presnosti? Kez bych mel tolik prachu!
+
+[CHOICE:]
+Vylepseni dostrelu za 800? Plati!
+
+[CHOICE:]
+Nemam 800 kreditu, jinak bych si koupil to vylepseni dostrelu.
+
+[CHOICE:]
+Vzal bych si tu termooptiku za 5000.
+
+[CHOICE:]
+Nemam 5000, jinak bych bral tu termooptiku.
+
+[CHOICE:]
+Ne, diky.
+
+[SPEECH: MetroTechnician]
+Tady to je.
+
+[SPEECH: MetroTechnician]
+Aha! Vy jste PAN zlocinec...
+
+[SPEECH: JCDenton]
+Hledam nejaky misto, kde bych moh' utratit svoje prachy.
+
+[SPEECH: MetroTechnician]
+Makam tu kazdou noc. Vratte se sem, az budete pri penezich.
+
+[SPEECH: JCDenton]
+Vydrzte, jen neco odhodim.
+
+[SPEECH: MetroTechnician]
+Co si budete prat?
+
+[SPEECH: JCDenton]
+Precetl jsem si vas denik. Takze... Vy kradete u ochranky...
+
+[SPEECH: MetroTechnician]
+Clovece, to jsou soukromy zapisky!
+
+[SPEECH: JCDenton]
+Nechal jste je tu volne povalovat. Mozna byste mi chtel dat slevu? Nebo to mam pustit dal?
+
+[SPEECH: MetroTechnician]
+Klidne! Mne je to fuk. Komu asi budou verit - vlastnimu mechanikovi nebo cizimu grazlovi? Cha! Zaplatite plnou cenu!
+
+[CHOICES:2]
+
+[CHOICE:]
+Nabonzoval jsem vas. Asi byste mi mel dat tu slevu.
+
+[CHOICE:]
+Dobre, zaplatim plnou cenu. Mrkneme se na to zbozi.
+
+[SPEECH: MetroTechnician]
+Jo, zaplatite plnou cenu!
+
+[COMMENT]
+(scared)hnicianF
+
+[SPEECH: MetroTechnician]
+Vy jste jim to vyzvonil?
+
+[SPEECH: JCDenton]
+Jeste neni pozde. Mozna vam pomuzu odtud zdrhnout - kdyz se se mnou podelite o to svy zbozi.
+
+[SPEECH: MetroTechnician]
+Ja nepujdu do lochu! Ne! Nikdy!
+
+-----------------------------------------------------------------
+[Owner: MetroTechnician]
+[Name:  MetroTechnicianFleeing]
+
+[SPEECH: MetroTechnician]
+Bezte mi z cesty!
+
+[SPEECH: MetroTechnician]
+Musel jsem to udelat! Potreboval jsem prachy!
+
+-----------------------------------------------------------------
+[Owner: MorganEverett]
+[Name:  EverettBarks]
+
+[COMMENT]
+These cycle and repeat the last.echnicianFleeing\MetroTechnician
+
+[SPEECH: MorganEverett]
+Muzete si poslouzit temi augmentacnimi zasobniky na pulte. Uz jsem si je prostudoval.
+
+[SPEECH: MorganEverett]
+V tom chateau u Beth jste videl zarodek Echelonu III. Trochu hardwaru se nam podarilo zachranit.
+
+[SPEECH: MorganEverett]
+Softwarova ochranka by mela byt zalozena na demonech. Daidalos je vysoce distribuovany; v kazdem komunikacnim zarizeni na svete beha kousicek jeho kodu.
+
+[SPEECH: MorganEverett]
+Jestlize ovladneme spoje, dokazeme na rozdil od nasich protivniku vsechno organizovat.
+
+[SPEECH: MorganEverett]
+V X-51 doplatili prave na nedostatek organizace.
+
+[SPEECH: MorganEverett]
+Jsou to skveli vedci, jenze v izolaci. Oblast 51 opustili na protest proti experimentum Majestic 12; a u pouheho prostestu to take skoncilo.
+
+[SPEECH: MorganEverett]
+Nespojili se dokonce ani s NSF, prestoze ta ma sve hlavni sidlo par set mil severne.
+
+[SPEECH: MorganEverett]
+Sam vidite, jak je globalni organizace nezbytna. Nekdo prece musi vsechny ty roztristene skupiny sjednotit!
+
+[SPEECH: MorganEverett]
+X-51 vyvinula vynikajici technologie; ale potrebuji nekoho, kdo by jim poradil, jak jich vyuzit.
+
+[SPEECH: MorganEverett]
+Budete mym zastupcem ve Vandenbergu.
+
+[SPEECH: MorganEverett]
+Duveruji vam natolik, ze vas poverim ukolem najit zpusob vyroby vakciny.
+
+[SPEECH: MorganEverett]
+Mezitim se budu venovat jinym pripravam.
+
+-----------------------------------------------------------------
+[Owner: MorganEverett]
+[Name:  EverettBarks2]
+
+-----------------------------------------------------------------
+[Owner: MorganEverett]
+[Name:  EverettBarks3]
+
+-----------------------------------------------------------------
+[Owner: MorganEverett]
+[Name:  EverettBarks4]
+
+-----------------------------------------------------------------
+[Owner: MorganEverett]
+[Name:  EverettBarks5]
+
+-----------------------------------------------------------------
+[Owner: MorganEverett]
+[Name:  LuciusCold]
+
+[SPEECH: JCDenton]
+Lucius DeBeers rika, ze mu je zima.
+
+-----------------------------------------------------------------
+[Owner: MorganEverett]
+[Name:  MeetEverett]
+
+[GOAL:]
+Sejdi se s Jockem na heliportu. Odlet na vojenskou leteckou zakladnu Vandenberg.
+
+[COMMENT]
+(a little put off by the humdrum laboratory)RDBUßˆðu“MtBH!dÓÓpð
+
+[SPEECH: JCDenton]
+Takze takhle konci Iluminati, po vsech tech staletich spiknuti, kdy ovladali svet?
+
+[SPEECH: MorganEverett]
+Spiknuti nasleduje jedno za druhym, JC. Dokonce i mezi vami a mnou. Nicolette udelala dobre, ze nas seznamila, je chytra po matce. Ta nejvyhodnejsi partnerstvi - jako bylo to moje s Beth - vznikaji ze vzajemne potrebnosti.
+
+[SPEECH: JCDenton]
+Prisel jsem si popovidat o Sede smrti. Atanwe rekl, ze se vam ten virus podarilo dekodovat.
+
+[SPEECH: MorganEverett]
+To bylo jednoduche... Do zakladniho navrhu nepridal Page vubec nic. Horsi je, ze ted potrebujeme zkonstruovat karbanokarbonovy modul ROM - ne rovnou vakcinu.
+
+[SPEECH: JCDenton]
+Da se to udelat bez univerzalniho konstruktoru?
+
+[SPEECH: MorganEverett]
+Neda a na jeho vyrobu neni cas. Jenze ja vim, kde si ho muzeme opatrit a spolecne s nim i pristup do americke vojenske site.
+
+[SPEECH: JCDenton]
+Do americke vojenske site...?
+
+[SPEECH: MorganEverett]
+Musime zastavit Ikara, nez uplne znici UI s nazvem Daidalos. Daidala jsem navrhl ja; mel nahradit stary Echelon III.
+
+[SPEECH: JCDenton]
+Echelon... Ten ochranny system pro Spojene narody? Takze Daidalos byl ve sluzbach MJ12 a prebehl?
+
+[SPEECH: MorganEverett]
+Je to neco vic, nez jen programatorska chyba. Vyhodnotil Majestic 12 jako teroristickou skupinu, spolecne s NSF a Silhouette.
+
+[SPEECH: JCDenton]
+A spolecne s Iluminaty, co? Vite urcite, ze Daidalos je vas spojenec?
+
+[SPEECH: MorganEverett]
+Dulezitejsi je, ze bojuje proti Majestic 12. Musime mu pomoci znicit jejich inteligentni stroje - to si vsak zada pristup do vojenske site. Uz jsem se predbezne dohodl s Garym Savagem z X-51.
+
+[SPEECH: JCDenton]
+Puvodne vedci z Oblasti 51... Porad jeste tabori na letecke vojenske zakladne Vandenberg?
+
+[SPEECH: MorganEverett]
+Momentalne dokoncuji UK a maji presne to pripojeni, ktere by Daidalos potreboval.
+
+[SPEECH: JCDenton]
+Zda se, ze mam se svym pilotem letet do Vandenbergu.
+
+[SPEECH: MorganEverett]
+Spravne. Dovolil jsem si mu uz zavolat. Tady je klic ke schodisti k heliportu. Dvere najdete v hale, kam vas privedl Atanwe. Hodne stesti. Budu s vami ve spojeni.
+
+[SPEECH: JCDenton]
+Mimochodem, Lucius DeBeers rika, ze mu je zima.
+
+[SPEECH: MorganEverett]
+Ja vim. Osmnact stupnu Celsia, to neni moc.
+
+[SPEECH: JCDenton]
+Nezda se vam, ze je to ponekud bezohledne?
+
+[SPEECH: MorganEverett]
+Musim udrzovat jeho metabolismus tak, aby vydrzel co nejdele. Je to dobry radce, takovy chytrolin, abych tak rekl.
+
+[SPEECH: JCDenton]
+Povidal, ze je pry vudcem Iluminatu.
+
+[SPEECH: MorganEverett]
+Neskodne fantazirovani. Take si mysli, ze se mu chystam rekonstruovat jeho telo.
+
+[SPEECH: JCDenton]
+A neni to tak?
+
+[SPEECH: MorganEverett]
+Technologicky je to mozne uz nekolik desitek let, ale to se on nesmi dozvedet.
+
+[GOAL:]
+Vyrid Luciovi, ze Everett ho nema v umyslu ozivit.
+
+-----------------------------------------------------------------
+[Owner: MorganEverett]
+[Name:  MeetEverett2]
+
+[SPEECH: MorganEverett]
+Nezapomente se mrknout na toho sveho pritele z UNATCO. Pan...ehm...Jacobson?
+
+[SPEECH: JCDenton]
+Alex je tady?
+
+[COMMENT]
+Everett is suspicious of Tong's motives for sending Alex to Paris.
+
+[SPEECH: MorganEverett]
+Vedle v kancelari. Byl to od Tonga dobry napad. Dela mi tu pocitacoveho technika. Planuji, ze mi pomuze s pripravou komlinku pro Daidala.
+
+[SPEECH: JCDenton]
+Poslyste, ten vas mechanik na heliportu. Neco se mi na nem nezda.
+
+[SPEECH: MorganEverett]
+To je Pierre. Nestihl jsem si s nim promluvit. Co se deje?
+
+[SPEECH: JCDenton]
+Pierre? Mluvi s americkym prizvukem.
+
+[SPEECH: MorganEverett]
+Pierre v Americe v zivote nebyl. Kdo je to tedy? Asi nepatri k mym lidem.
+
+[SPEECH: JCDenton]
+To nevim, ale kolem vrtulniku by se nemel ochomytat...
+
+[SPEECH: MorganEverett]
+Radsi se na ten heliport co nejdriv vratte. Ten muz musi byt zneskodnen. Jediny speh by mohl pokazit celou moji praci.
+
+[SPEECH: JCDenton]
+Ja ho utect nenecham.
+
+[GOAL:]
+Zabij falesneho mechanika, ktery se vetrel do Everettova sidla.
+
+[SPEECH: JCDenton]
+Sejmul jsem ho. Heliport je v bezpeci.
+
+[SPEECH: MorganEverett]
+Tak to vam dekuju. Chaba utecha. Radeji bych vedel, jak se sem, k certu, vubec dostal?
+
+[SPEECH: JCDenton]
+Uz jsem se u nej stavil.
+
+[SPEECH: MorganEverett]
+Byl to od Tonga dobry napad. Dela mi tu pocitacoveho technika. Planuji, ze mi pomuze s pripravou komlinku pro Daidala.
+
+-----------------------------------------------------------------
+[Owner: MorganEverett]
+[Name:  TalkAboutAI]
+
+[COMMENT]
+A necessary hack.
+
+[SPEECH: JCDenton]
+Co je to za pocitacovy system? Ten s tim modrym oblicejem na interfacu.
+
+[SPEECH: MorganEverett]
+Nic, toho si nevsimejte. Jenom neco na ukraceni dlouhe chvile a pobaveni hostu.
+
+[SPEECH: JCDenton]
+Ma pristup k docela prekvapivym informacim, dokonce vcetne informaci o mne.
+
+[SPEECH: MorganEverett]
+Je to stary prototyp - vlastne pro Daidala. V soucasnem stavu nema vubec zadne rozumne vyuziti.
+
+[SPEECH: JCDenton]
+Takze vy mate svuj vlastni system Echelon.
+
+[COMMENT]
+Stern.  He doesn't want to talk about the AI Prototype.
+
+[SPEECH: MorganEverett]
+Pane Dentone, vas pilot ceka.
+
+-----------------------------------------------------------------
+[Owner: MorganEverett]
+[Name:  TalkAboutAI2]
+
+-----------------------------------------------------------------
+[Owner: MorganEverett]
+[Name:  TalkAboutRay]
+
+-----------------------------------------------------------------
+[Owner: Ray]
+[Name:  MeetRay]
+
+[COMMENT]
+This guy killed Everett's real mechanic and sabotaged Jock's helicopter.
+
+[SPEECH: Ray]
+Ehm... Deje se neco?
+
+[SPEECH: JCDenton]
+Jen se tu rozhlizim.
+
+[SPEECH: Ray]
+Ja - vsechno jsem zkontroloval. Je natankovana a muze se letet.
+
+[SPEECH: JCDenton]
+Nejaky problemy?
+
+[SPEECH: Ray]
+Coze? Ne - vzdyt rikam, ze jsem ji zkontroloval. Vy si ale umite vybrat stroj, co? No, na cestu pres ocean...
+
+[COMMENT]
+JC is maybe a little suspicious at this point.
+
+[SPEECH: JCDenton]
+Samozrejme. Lepsi vsechno desetkrat zkontrolovat, nez pak jednou litovat.
+
+-----------------------------------------------------------------
+[Owner: Ray]
+[Name:  MeetRay2]
+
+[COMMENT]
+This guy killed Everett's real mechanic and sabotaged Jock's helicopter.
+
+[SPEECH: JCDenton]
+Dobre, tak spust. Kdo te sem poslal?
+
+[SPEECH: Ray]
+Ja - nechapu, co tim chcete rict.
+
+[SPEECH: JCDenton]
+To jsi nejakej nedovtipnej... A co Pierre?
+
+[SPEECH: Ray]
+To jsem nebyl ja! Byl mrtvej uz predtim!
+
+[SPEECH: JCDenton]
+Mas pet vterin na to, abys vyklopil, pro koho delas! Jedna. Dve.
+
+[SPEECH: Ray]
+Pro nikoho, pane! Pro nikoho!
+
+-----------------------------------------------------------------
+[Owner: Ray]
+[Name:  RayBarks]
+
+[COMMENT]
+Nervous.  He killed the other mechanic.–„U²ÿõkƒcð &äâ¸ßÖƒ#ev ÊÕ9Ð_Öûdwû
+
+[SPEECH: Ray]
+Pekne jsem vam ji napuliroval.
+
+[SPEECH: Ray]
+Deje se neco?
+
+[SPEECH: Ray]
+Myslim, ze vas pritel chce odletet.
+
+[SPEECH: Ray]
+Mam tady prima praci, vite?
+
+-----------------------------------------------------------------
+[Owner: Ray]
+[Name:  RayBarks2]
+
+[COMMENT]
+Nervous.  He killed the other mechanic.
+
+[SPEECH: Ray]
+Ja nic neudelal!
+
+[SPEECH: Ray]
+Dejte mi pokoj!
+
+[COMMENT]
+(afraid of player)arks2\Ray02.mp3
+
+[SPEECH: Ray]
+µaaa!
+
+-----------------------------------------------------------------
+[Owner: Swelter]
+[Name:  MeetSwelter]
+
+[COMMENT]
+This guy is startled by the player.  Either the player just killed two troops in the other room, or Swelter thinks that the player is one of the MJ12 guys about to give him a hard time for not cooking fast enough.  He probably makes some kind of inarticulate exclamation at the start of the line, like "whoa."X0
+
+[SPEECH: Swelter]
+Co tady delate?
+
+[SPEECH: JCDenton]
+Jak se odtud, sakra, dostanu pryc?
+
+[SPEECH: Swelter]
+Proste bezte po schodech nahoru a dverma ven! A neotravujte me. Mam napilno.
+
+[SPEECH: JCDenton]
+Slysel jsem, ze tady v katedrale je plno zlata.
+
+[SPEECH: JCDenton]
+Nevite, kde bych tady nasel pocitacovy terminal?
+
+[SPEECH: Swelter]
+Tak to jste na spatnym miste! Ja tady chystam snidani pro hromadu vojaku, takze potrebuju klid!
+
+[SPEECH: JCDenton]
+Ja nepatrim k tem oddilum, ktere se katedraly zmocnily. Vy jste jeste z puvodniho personalu?
+
+[SPEECH: Swelter]
+Jsem tady sefkucharem celejch osm let - slysite dobre! Templari se chovali slusne. Platili mi a dovolili, abych se tu o to staral.
+
+[SPEECH: JCDenton]
+Ti vasi novi sefove me v lasce zrovna nemaji. Mozna byste mi pomohl ven?
+
+[SPEECH: Swelter]
+Fajn. Tady mame jen jeden terminal. Vyjdete z kuchyne, bezte nahoru o tri patra, dejte se doleva, slezte o dve patra dolu, pak par schodu rovne a zatocte doprava. Nemuzete to minout.
+
+[SPEECH: JCDenton]
+Jak ze to bylo?
+
+[SPEECH: Swelter]
+Uz jsem vam pomohl dost. Nechci vyfasovat kulku do hlavy. Tak bezte!
+
+[NOTE:]
+Smer k pocitacovemu terminalu: Vyjdi z kuchyne, bez nahoru o tri patra, dej se doleva, slez o dve patra dolu, pak par schodu rovne a zatoc doprava.
+
+[SPEECH: Swelter]
+Fajn. Ti vojaci si zaslouzi obrat o vsechno, co tu ukradli. Vyjdete z kuchyne, bezte nahoru o tri patra, dejte se doleva, slezte o dve patra dolu a po leve strane hledejte dvere s klavesnici. Kod ale, bohuzel, neznam.
+
+[NOTE:]
+Smer ke zlatu: Vyjdi z kuchyne, bez nahoru o tri patra, dej se doleva, slez o dve patra dolu a po leve strane hledej dvere s klavesnici.
+
+-----------------------------------------------------------------
+[Owner: Swelter]
+[Name:  SwelterBarks]
+
+[SPEECH: Swelter]
+Zabili by me, kdybych tu s nekym mluvil.
+
+[SPEECH: Swelter]
+Tak tohle je muj zivot. Sefkuchar v kamenny kobce. Mam zakaz vychazeni.
+
+[SPEECH: Swelter]
+Kdyz chteji hamburger, proc si ho nezajdou koupit k McDonaldovi?
+
+[SPEECH: Swelter]
+Templari byli bankeri a aristokracie. To je pro me ten pravy zivot.
+
+[SPEECH: Swelter]
+Priprava jidel, ktere na mne chteji vojaci, vytezuje mou mozkovou kapacitu sotva z peti procent.
+
+[SPEECH: Swelter]
+Prosim - bezte si radsi po svych!
+
+-----------------------------------------------------------------
+[Owner: TobyAtanwe]
+[Name:  AtanweAtEveretts]
+
+[SPEECH: TobyAtanwe]
+Vidite - ten neuroparalyticky plyn je lidskemu organismu uplne neskodny.
+
+[SPEECH: JCDenton]
+Everett musi byt paranoidni.
+
+[SPEECH: TobyAtanwe]
+To jsme my vsichni. Iluminati dostali ochutnat sve vlastni mediciny.
+
+[SPEECH: JCDenton]
+Jak pokrocil ve vyzkumu viru Sede smrti?
+
+[SPEECH: TobyAtanwe]
+Vase spojeni nam poskytlo chybejici desifrovaci klic. Ted bude Everett schopen dokoncit praci, kterou Tracer Tong zacal.
+
+[SPEECH: JCDenton]
+Musim ho okamzite videt.
+
+[SPEECH: TobyAtanwe]
+Je dole v laboratori.
+
+-----------------------------------------------------------------
+[Owner: TobyAtanwe]
+[Name:  AtanweBarks]
+
+[COMMENT]
+These cycle and repeat the last.
+
+[SPEECH: TobyAtanwe]
+Byla by to ironie osudu, kdyby Bob Page vynalezl neco, co by Everett nedokazal pochopit.
+
+[SPEECH: TobyAtanwe]
+Pri odhalovani planu Majestic 12 jsme nikdy neselhali. Ovsem zastavit je, to je neco jineho.
+
+[SPEECH: TobyAtanwe]
+Everett se domniva, ze nam pomuzete. Doufam, ze se ve vas nezmylil.
+
+[SPEECH: TobyAtanwe]
+Jestli jsem tomu spravne rozumel, vypravite se zpatky do Ameriky.
+
+[SPEECH: TobyAtanwe]
+Vas prezident Mead prezil pokus o prevrat, ale celostatni epidemii se mu prezit nepodari.
+
+[SPEECH: TobyAtanwe]
+Page znovu vyrabi ten virus, kdezto Simons se stara o papirovani, aby smel vyhlasit stav narodni nouze.
+
+[SPEECH: TobyAtanwe]
+Pro nas by bylo nejjednodussi odpovedi proste tu nakazu vylecit.
+
+[SPEECH: TobyAtanwe]
+Everett uz ma vakcinu, ale potrebujeme ji nejak vyrabet.
+
+[SPEECH: TobyAtanwe]
+Nejaky plan uz ma, ale podrobnosti se nechava pro sebe.
+
+[SPEECH: TobyAtanwe]
+Radeji si promluvte s Everettem. Cas se krati.
+
+-----------------------------------------------------------------
+[Owner: TobyAtanwe]
+[Name:  MeetTobyAtanwe]
+
+[SPEECH: TobyAtanwe]
+JC Denton? Odvedu vas k Everettovi, ale nesmite se dozvedet cestu.
+
+[SPEECH: JCDenton]
+To by taky mohl byt podraz.
+
+[SPEECH: TobyAtanwe]
+Nemusite mit obavy, nic se vam nestane.
+
+[CHOICES:2]
+
+[CHOICE:]
+Delejte, co musite.
+
+[CHOICE:]
+Zapomente na to. Najdu si Everetta sam!
+
+[SPEECH: TobyAtanwe]
+Pojdte trochu bliz...
+
+[SPEECH: TobyAtanwe]
+To je, bohuzel, nesmysl.
+

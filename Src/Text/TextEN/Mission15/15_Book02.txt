@@ -1,0 +1,9 @@
+<DC=255,255,255>
+<P><JC><B>The Man Who Was Thursday</B>
+<P><JC>by G. K. Chesterton
+<P>
+<P>... "I never hated you," said Syme very sadly. 
+<P>
+<P>Then out of this unintelligible creature the last thunders broke. 
+<P>
+<P>"You!" he cried.  "You never hated because you never lived.  I know what you are all of you, from first to last -- you are the people in power!  You are the police -- the great fat, smiling men in blue and buttons!  You are the Law, and you have never been broken.  But is there a free soul alive that does not long to break you, only because you have never been broken?  We in revolt talk all kind of nonsense doubtless about this crime or that crime of the Government.  It is all folly!  The only crime of the Government is that it governs.  The unpardonable sin of the supreme power is that it is supreme.  I do not curse you for being cruel.  I do not curse you (though I might) for being kind.  I curse you for being safe!  You sit in your chairs of stone, and have never come down from them.  You are the seven angels of heaven, and you have had no troubles.  Oh, I could forgive you everything, you that rule all mankind, if I could feel for once that you had suffered for one hour a real agony such as I..."

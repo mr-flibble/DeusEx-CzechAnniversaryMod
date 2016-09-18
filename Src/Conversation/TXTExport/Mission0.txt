@@ -1,0 +1,104 @@
+-----------------------------------------------------------------
+[Owner: BobPage]
+[Name:  M00MeetPage]
+
+[COMMENT]
+These cycle and go random.e
+
+[SPEECH: BobPage]
+Pomerne pusobive. Zacinajici uspech cele organizace.
+
+[SPEECH: JCDenton]
+Diky. Vy jste ze Spojenych narodu?
+
+[SPEECH: BobPage]
+Vase augmentace jsou v poradku. Opravdova zkouska zacne co nevidet: totiz aktivni sluzba.
+
+[SPEECH: JCDenton]
+Jsem pripraven, pane.
+
+[SPEECH: BobPage]
+Ano. Ano, to jsi.
+
+-----------------------------------------------------------------
+[Owner: JaimeReyes]
+[Name:  JaimeBark]
+
+[SPEECH: JaimeReyes]
+Manderley chce vzdycky slyset, kteri agenti tuhle oblast objevi. Patri totiz obvykle k tem, kteri pak v akci teroristy vzdycky necim prekvapi. Jako napriklad tvuj bracha Paul. Tak do toho, pokracuj! A at ti ta pochvala nestoupne do hlavy!
+
+-----------------------------------------------------------------
+[Owner: LAMTrooper]
+[Name:  LAMBarks]
+
+[SPEECH: LAMTrooper]
+Do pristi sekce se vam sikne par granatu LAM. Chytejte!
+
+[SPEECH: LAMTrooper]
+Ja mam kolem sebe rad srandu.
+
+[SPEECH: LAMTrooper]
+Je tady docela nuda.
+
+[SPEECH: LAMTrooper]
+Jednou jsem si nevylestil boty. Proto me zasili sem.
+
+[SPEECH: LAMTrooper]
+Sice by to nikdy nepriznali, ale chteji nas jenom buzerovat.
+
+[SPEECH: LAMTrooper]
+Bylo by tady mnohem pohodovejc, kdyby jen pridelovali ukoly, misto aby ve vas budili komplex menecennosti.
+
+[SPEECH: LAMTrooper]
+Parchanti. Mel jsem jim to hodit na hlavu. Ja jsem nekdo, ja si muzu vybirat!
+
+[SPEECH: LAMTrooper]
+Vite, dostal jsem nabidku z Wall Street. Mel bych tam u jedny spolecnosti delat ochranku.
+
+[SPEECH: LAMTrooper]
+Delat ochranku neni nic moc slavnyho, ale urcite mi tam daji vyssi plat.
+
+[SPEECH: LAMTrooper]
+Jednoho krasnyho dne se na armadu vykaslu. Pak budou litovat! Budou si rvat vlasy, ze s vojakama nezachazeli malicko laskavejc.
+
+[SPEECH: LAMTrooper]
+Hm - zda se mi, ze toho nesete moc. Kdyby vam granaty nahodou dosly, vratte se a ja vam pridam.
+
+[SPEECH: LAMTrooper]
+Hm - zda se mi, ze toho nesete moc. Mel byste neco odhodit.
+
+[SPEECH: LAMTrooper]
+Dosly vam granaty? Tady mate dalsi. Mne to je uplne fuk, z mejch penez to nejde.
+
+-----------------------------------------------------------------
+[Owner: MunitionsTrooper]
+[Name:  MunitionsTrooperFrob]
+
+[SPEECH: MunitionsTrooper]
+Jeste to nemate za sebou...
+
+[SPEECH: MunitionsTrooper]
+Provadite vycvikovej kurs, co? Nebojte se; tim musi projit kazdej, dokonce i zvlastni agenti.
+
+[SPEECH: MunitionsTrooper]
+Pokracujte ve vycviku, agente. Ja se vam tady jenom staram o vyzbroj.
+
+[SPEECH: MunitionsTrooper]
+Zatim vam to docela jde...
+
+[SPEECH: MunitionsTrooper]
+Mistama je to docela husty, co? Kdyz jsem byl ja na vasem miste... Clovece, ja si tehda pri jednou skoku vymknul kotnik! Takovy pitomosti by si teda meli odpustit. Jednou si tu nekdo zlame vaz!
+
+-----------------------------------------------------------------
+[Owner: MunitionsTrooper]
+[Name:  MunitionsTrooperTake]
+
+[SPEECH: MunitionsTrooper]
+Jsem tady, abych od vas vybral veskerou munici a vystroj. Diky za spolupraci, agente.
+
+[SPEECH: MunitionsTrooper]
+Odevzdejte svou vystroj. Tak je to spravny: zadny podvadeni!
+
+[SPEECH: MunitionsTrooper]
+Dalsi cast musite zahajit beze zbrani a vystroje. Pravidla musime dodrzovat.
+

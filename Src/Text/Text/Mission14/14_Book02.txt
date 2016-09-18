@@ -1,0 +1,9 @@
+<DC=255,255,255>
+<P><JC><B>Univerzalni konstruktor: Teorie, principy a praxe</B>
+<P><JC>Wayne Jin
+<P>
+<P>...vznikla tak potreba vseobecnejsi teorie, ktera by zahrnovala "univerzalni konstruktor" (UK), tedy zarizeni schopne resit libovolne slozite problemy nanotechnologickych konstrukci. Na rozdil od beznych konstruktoru, ktere pracuji na atomarni urovni, UK by mel kombinovat miliony s miliony atomu v paralelnim procesu, jenz by mel za vysledek vyrobu materialu ci mechanismu neskutecne slozitosti v nanomeritku nedosazitelnem dokonce ani temi nejlepsimi nanopristroji.
+<P>
+<P>Jednim z hlavnich ukolu UK - jestlize k jeho zhotoveni skutecne dojde - bude geneticka manipulace zivotnich forem na atomarni urovni, coz otevre nove cesty k leceni nemoci, naprave vrozenych vad ci vyraznemu zlepseni lidskych schopnosti. Teoreticky lze tvrdit, ze pokud bude mit UK k dispozici "inteligentni" ovladaci program v realnem case, bude pak celkem snadne sestavovat autonomni nanoorganismy. Peclivy navrh by mohl stvorit organismus, ktery pak bude schopen skutecne existence v realne symbioze s prirozenymi zivotnimi formami.
+<P>
+<P>Slusi se jeste zminit, ze existence UK by predstavovala hrozbu i na te "zle" strane: navrh organismu, ktery je evolucne natolik vyspely, aby zvitezil nad soucasnym ekosystemem...

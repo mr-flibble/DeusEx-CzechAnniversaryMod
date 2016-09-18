@@ -1,0 +1,7 @@
+<COMMENT>MJ12 lab</COMMENT> 
+<DC=255,255,255>
+<P><B>Od:</B> WS//UpNet.78543.98231
+<P><B>Ke:</B> JSteward//UpNet.332.88732
+<P><B>Vec:</B> Zasilka
+<P>
+<P>Hlavni zasilka dorazi uz zanedlouho, takze se presvedcte, ze jsou dokonceny vsechny chlorove testy. Souhlas ostatnich vodnich cisticek k aplikaci byl rovnez zajisten; vase studie vektorove difuze a pocatecni odhad obeti byl presvedcivy.

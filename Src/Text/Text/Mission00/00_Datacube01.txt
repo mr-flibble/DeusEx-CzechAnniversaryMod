@@ -1,0 +1,8 @@
+<DC=255,255,255>
+<P>Pripravili jsme ti jeden ze snadnych ukolu. Abys otevrel dvere, pouzij kod:
+<P>
+<P><JC><B>0012</B>
+<P>
+<P>Chapes?
+<P>
+<P>Jaime

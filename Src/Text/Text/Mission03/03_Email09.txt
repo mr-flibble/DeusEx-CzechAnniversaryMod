@@ -1,0 +1,12 @@
+<DC=255,255,255>
+<P><B>Od:</B> RosyCross//UnderNet.44567.22356
+<P><B>Ke:</B> AJacobson//UNATCO.00013.76490
+<P><B>Vec:</B> Dotaz
+<P>
+<P>Orakulum rika:
+<P>
+<P>Vasi otazku jsme shledali zajimavou. Ohledne entity "MJ12" mame sice nekolik odkazu, nicmene vsechny jsou nejasne. Bude zrejme nutne stravit nekolik cyklu procistovanim souvztaznosti kvuli kodifikaci odpovidajicich vzorku, nez bude moci byt provedena uspokojiva detekce. Bude to casove narocne, ale dosavadni souvztaznosti vykazovaly uspesnost 83.23%. Prace se souborem "SH-187" byla velice poucna.
+<P>
+<P>Spojime se s vami, jakmile porovname vsechny potrebne informace.
+<P>
+<P>[[Orakulum by chtelo vedet, jaka je vase oblibena barva.]]

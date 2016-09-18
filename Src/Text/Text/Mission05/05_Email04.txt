@@ -1,0 +1,12 @@
+<COMMENT>MJ12 lab</COMMENT>
+<DC=255,255,255>
+<P><B>Od:</B> DElmwood//OceanLab.21.33
+<P><B>Ke:</B> DMoreau//UpNet.2563.2290
+<P><B>Vec:</B> Biotesty krkounu
+<P>
+<P>Doktore Moreau,
+<P>
+<P>Musim vas jeste jednou pozadat, abyste mi poskytl vysledky vasi studie ohledne toxicity grazlu v souvislosti s neurologickymi kulturami krkounu, ktere jsem vam jiz zaslal, protoze bez nich nemohu uzavrit sve biotesty. Takoveto zdrzovani z vasi strany musim hodnotit jako nedostatek nadseni pro prevratne cile nasich vyzkumu.
+<P>
+<P>S pozdravem
+<P>Dr.Elmwood

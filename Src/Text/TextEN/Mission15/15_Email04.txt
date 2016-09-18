@@ -1,0 +1,10 @@
+<DC=255,255,255>
+<P><B>From:</B> JMacdonald//UpNet.879.8657
+<P><B>To:</B> JDwight//UpNet.9803.4584
+<P><B>Subject:</B> Aquinas Secure?
+<P>
+<P>Something strange... I just finished a packet analysis of the new v1.82 compression protocols we added to Aquinas last week, and while I was digging around in the headers I found a quirk in the security encryption algorithms that acts just like a backdoor -- you could even reformulate entire messages end to end if you knew what you were doing.  It's pretty subtle (and would require someone to matrix together several offsets from successive packets to generate a time differential key) but the end result could potentially open up every bit of traffic carried by Aquinas to someone who knew about the hole.
+<P>
+<P>I was thinking of mentioning this to Page, maybe get some points for discovering a potential security breach before we shipped.  What do you think?
+<P>--
+<P>Jim

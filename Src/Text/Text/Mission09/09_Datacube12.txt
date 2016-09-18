@@ -1,0 +1,9 @@
+<COMMENT>Dockyard</COMMENT>
+<DC=255,255,255>
+<P>OD: ASTON GREER
+<P>KE: AGENT PAUL JENKINS
+<P>
+<P>Konecne jsme schopni ridit ochranny system Brooklynske lodenice a posilit tak obranyschopnost oddilu FEMA. Login je "USFEMA" a heslo "Security". Az budete hotovi, mas to hlasit Simonsovi.
+<P>
+<P>Aston Greer
+<P>Reditel ochranky, FEMA

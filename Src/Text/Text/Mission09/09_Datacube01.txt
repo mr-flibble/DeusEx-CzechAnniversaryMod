@@ -1,0 +1,12 @@
+
+<COMMENT>Sub pen building, security office</COMMENT>
+<DC=255,255,255>
+<P>OD: ASTON GREER
+<P>KE: KAPITaN JAMES KEENE
+<P>
+<P>Kapitane Keene:
+<P>
+<P>Dokud bude PRCS Wall Cloud v doku, ocekavam z vasi strany plnou spolupraci v souladu s bezpecnostnim protokolem FEMA. Kvuli citlivemu charakteru nakladu lodi Wall Cloud bude tato lod po celou dobu kotveni uzavrena a povoleni ke vstupu na palubu bude mit jen minimum obsluzneho personalu. Domluvte se, prosim, s predakem ohledne pristupovych kodu pro jeho lidi - verim vam, ze dohlednete na prubeh operaci a presvedcite se, ze vsichni pochopili nezbytnost techto opatreni.
+<P>
+<P>Aston Greer
+<P>Velitel ochranky, FEMA

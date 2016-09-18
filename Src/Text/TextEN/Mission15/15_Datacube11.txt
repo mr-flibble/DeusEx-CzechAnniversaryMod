@@ -1,0 +1,5 @@
+<COMMENT>Helios elevator room</COMMENT>
+<DC=255,255,255>
+<P>Alain, I have a feeling that the truth about whatever we're involved with involves the Aquinas Protocol and Helios.  Page has restricted access to those areas, but the Aquinas Substation and Router are usually deserted during fourth shift.  Unfortunately, they'd notice if I was gone.  If you can get away, the code is 6765.  See if you can find out what's going on, and if anyone asks just tell them you're there because of variances in the fiber interface relays.
+<P>
+<P>Julia

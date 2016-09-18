@@ -1,0 +1,14 @@
+<COMMENT>10_Paris_Metro ATM Account</COMMENT>
+<P><JC><B>METROPOLITAN BANK OF PARIS</B>
+<P><JC><B>1, rue d'Astore</B>
+<P><JC><I>established 1834</I>
+<P>
+<P>Dear Customer:
+<P>
+<P>A recent hacking attempt has  made it necessary to change the passwords on a number of our accounts to insure the security of our patrons.  Please note that your account has in no way been compromised; this is merely a precaution.  If you have any questions, please feel free to contact a Metropolitan Bank Customer Care Advocate.
+<P>
+<P>Account: 002639
+<P>PIN: aramis01
+<P>
+<P>Thank you,
+<P>METROPOLITAN BANK

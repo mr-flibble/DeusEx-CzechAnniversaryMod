@@ -1,0 +1,10 @@
+<COMMENT>Sewers under warehouse</COMMENT>
+<DC=255,255,255>
+<P>Veliteli Frase,
+<P>
+<P>Dokoncil jsem inicializaci bezpecnostni sekce v okoli skladiste a nastavil pozadovany login a heslo; bude platit pro obe bezpecnostni site. Ted se chystam aktivovat bezpecnostni zarizeni uvnitr budovy - ze by to udelal uz predtim JoJo, tomu neverim ani nahodou.
+<P>
+<P>Login: NSF
+<P>Heslo: righteous
+<P>
+<P>-Decker

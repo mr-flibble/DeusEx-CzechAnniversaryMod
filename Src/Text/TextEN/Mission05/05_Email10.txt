@@ -1,0 +1,11 @@
+<COMMENT>MJ12 Lab</COMMENT>
+<DC=255,255,255>
+<P><B>From:</B> DJacobi//UNATCO.363.67398
+<P><B>To:</B> PSherman//UpNet.221.9981
+<P><B>Subject:</B> RE: Security Directives
+<P>
+<P>>* All augmentation canisters should immediately be removed
+<P>>to a secure area and access restricted to authorized
+<P>>personnel with clearance of Domination/5F or higher only.
+<P>
+<P>After inventory, we have moved one augmentation canister 12C (agressive defense/spy drone) to the Nanotech Lab where it has been placed in a suspension crate, coded 9905.

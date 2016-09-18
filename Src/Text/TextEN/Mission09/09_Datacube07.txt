@@ -1,0 +1,7 @@
+<COMMENT>Ship's sickbay</COMMENT>
+<DC=255,255,255>
+<P>Doctor Liu,
+<P>
+<P>I'm afraid we've completely gone through all of our motion sickness medication -- if you could restock the lockers downstairs, that'd be great.  I have a feeling this is going to be a rough outing.  BTW, Song's been running around changing all the codes lately, so if you need to raise the bridge in engineering use 9753.
+<P>
+<P>Ewan

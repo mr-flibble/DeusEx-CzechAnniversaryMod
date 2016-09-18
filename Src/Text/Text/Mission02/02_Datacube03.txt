@@ -1,0 +1,8 @@
+<COMMENT>MJ12 lab</COMMENT>
+<DC=255,255,255>
+<P>Od: Datova udrzba
+<P>Ke: Udrzba
+<P>
+<P>Zmente, prosim, vstupni kod na vychodnim vstupu na 2167.
+<P>
+<P>POZNaMKA: Tuto datakostku je nutno neprodlene po splneni rozkazu vymazat.

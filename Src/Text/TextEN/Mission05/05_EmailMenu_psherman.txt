@@ -1,0 +1,4 @@
+<EMAIL=05_Email01,Armory Code Changed,JBlane,PSherman,>
+<EMAIL=05_Email02,Operational Status,WS,PSherman,>         
+<EMAIL=05_Email10,RE: Security Directives,DJacobi,PSherman,>
+<EMAIL=05_Email13,Commando Refit,WS,PSherman,>    

@@ -1,0 +1,6592 @@
+-----------------------------------------------------------------
+[Owner: AlexJacobson]
+[Name:  AlexJacobson_BarkAllianceFriendly]
+
+[SPEECH: AlexJacobson]
+Vylekal jsi me.
+
+[SPEECH: AlexJacobson]
+Jenom klid.
+
+[SPEECH: AlexJacobson]
+Zkus se, prosim te, na chvili uklidnit, jo?
+
+-----------------------------------------------------------------
+[Owner: AlexJacobson]
+[Name:  AlexJacobson_BarkAllianceHostile]
+
+[SPEECH: AlexJacobson]
+Hele!
+
+[SPEECH: AlexJacobson]
+Co jsem ti udelal?!
+
+[SPEECH: AlexJacobson]
+Chces me snad zabit?
+
+-----------------------------------------------------------------
+[Owner: AlexJacobson]
+[Name:  AlexJacobson_BarkFutz]
+
+[SPEECH: AlexJacobson]
+Dobre, dochazi mi trpelivost!
+
+[SPEECH: AlexJacobson]
+Copak nechapes, ze me rusis?
+
+[SPEECH: AlexJacobson]
+Je ti dobre, JC? Chovas se nejak divne.
+
+-----------------------------------------------------------------
+[Owner: AnnaNavarre]
+[Name:  AnnaNavarre_BarkAreaSecure]
+
+[SPEECH: AnnaNavarre]
+Situace je pod kontrolou.
+
+[SPEECH: AnnaNavarre]
+Dalsi snadny cil.
+
+[SPEECH: AnnaNavarre]
+Ta pitoma krev mi zasvinila muj chrom!
+
+[COMMENT]
+i.e. 910 killsa
+
+[SPEECH: AnnaNavarre]
+Devet set deset! Dohnala jsem te, Gunthere!
+
+-----------------------------------------------------------------
+[Owner: AnnaNavarre]
+[Name:  AnnaNavarre_BarkCriticalDamage]
+
+[SPEECH: AnnaNavarre]
+Skoda jen povrchova.
+
+[SPEECH: AnnaNavarre]
+Bolest uz jsem davno prestala citit.
+
+[SPEECH: AnnaNavarre]
+Amatersky pokus. Zkus to znova!
+
+[SPEECH: AnnaNavarre]
+(jeci)
+
+[SPEECH: AnnaNavarre]
+(stena)
+
+-----------------------------------------------------------------
+[Owner: AnnaNavarre]
+[Name:  AnnaNavarre_BarkGoingForAlarm]
+
+[SPEECH: AnnaNavarre]
+Mame tu problem!
+
+[SPEECH: AnnaNavarre]
+Vyhlasuji ostry poplach!
+
+[SPEECH: AnnaNavarre]
+Navarrova zada posily!
+
+-----------------------------------------------------------------
+[Owner: AnnaNavarre]
+[Name:  AnnaNavarre_BarkGore]
+
+[SPEECH: AnnaNavarre]
+Mrtvola. At se ti nezvedne zaludek.
+
+[SPEECH: AnnaNavarre]
+Tenhle byl nedavno zabit.
+
+[SPEECH: AnnaNavarre]
+V infra mam porad obraz - je jeste teply.
+
+-----------------------------------------------------------------
+[Owner: AnnaNavarre]
+[Name:  AnnaNavarre_BarkOnFire]
+
+[COMMENT]
+OnFire scream 1kOnFire
+
+[SPEECH: AnnaNavarre]
+(jeci)
+
+[COMMENT]
+OnFire scream 2
+
+[SPEECH: AnnaNavarre]
+(jeci)
+
+[COMMENT]
+OnFire scream 3
+
+[SPEECH: AnnaNavarre]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: AnnaNavarre]
+[Name:  AnnaNavarre_BarkPostAttackSearching]
+
+[SPEECH: AnnaNavarre]
+Slysim tlukot srdce - nekde tady musi byt!
+
+[SPEECH: AnnaNavarre]
+Vylez, agente! Ja vim, ze tady jsi!
+
+[SPEECH: AnnaNavarre]
+Zrejme vi, ze se mi nemuze postavit.
+
+-----------------------------------------------------------------
+[Owner: AnnaNavarre]
+[Name:  AnnaNavarre_BarkPreAttackSearching]
+
+[SPEECH: AnnaNavarre]
+Cil je nekde v me oblasti!
+
+[SPEECH: AnnaNavarre]
+Vzduch se hybe - nekdo je nablizku!
+
+[SPEECH: AnnaNavarre]
+Zaznamenan pohyb - zdroj neznamy!
+
+-----------------------------------------------------------------
+[Owner: AnnaNavarre]
+[Name:  AnnaNavarre_BarkPreAttackSighting]
+
+[SPEECH: AnnaNavarre]
+Hlasim mozny kontakt!
+
+[SPEECH: AnnaNavarre]
+Kdo je tady?
+
+[SPEECH: AnnaNavarre]
+Vidim te!
+
+-----------------------------------------------------------------
+[Owner: AnnaNavarre]
+[Name:  AnnaNavarre_BarkSearchGiveUp]
+
+[SPEECH: AnnaNavarre]
+Cisty vzduch.
+
+[SPEECH: AnnaNavarre]
+Falesny poplach.
+
+[SPEECH: AnnaNavarre]
+Zrejme jenom krysa. Ale zustante v pohotovosti.
+
+-----------------------------------------------------------------
+[Owner: AnnaNavarre]
+[Name:  AnnaNavarre_BarkSurprise]
+
+[SPEECH: AnnaNavarre]
+Denton!
+
+[SPEECH: AnnaNavarre]
+To je on!
+
+[SPEECH: AnnaNavarre]
+Ale, ale.
+
+-----------------------------------------------------------------
+[Owner: AnnaNavarre]
+[Name:  AnnaNavarre_BarkTargetAcquired]
+
+[SPEECH: AnnaNavarre]
+Mam ho!
+
+[SPEECH: AnnaNavarre]
+Cil zameren!
+
+[SPEECH: AnnaNavarre]
+Postaram se o nej!
+
+[SPEECH: AnnaNavarre]
+Tohle bude snadne.
+
+-----------------------------------------------------------------
+[Owner: AnnaNavarre]
+[Name:  AnnaNavarre_BarkTargetLost]
+
+[SPEECH: AnnaNavarre]
+Nema to cenu. Necitim ho.
+
+[SPEECH: AnnaNavarre]
+Nekam utekl. Dobre udelal.
+
+[SPEECH: AnnaNavarre]
+Zustante v pohotovosti - muze se vratit!
+
+-----------------------------------------------------------------
+[Owner: AnnaNavarre]
+[Name:  AnnaNavarre_BarkTearGas]
+
+[COMMENT]
+TearGas scream 1
+
+[SPEECH: AnnaNavarre]
+(jeci)
+
+[COMMENT]
+TearGas scream 2r
+
+[SPEECH: AnnaNavarre]
+(jeci)
+
+[COMMENT]
+TearGas scream 3r
+
+[SPEECH: AnnaNavarre]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: Cop]
+[Name:  Cop_BarkAreaSecure]
+
+[SPEECH: Cop]
+Jednoho mam!
+
+[SPEECH: Cop]
+Myslim, ze naramky mu davat nemusime.
+
+[SPEECH: Cop]
+Volal jsem zachranku, ale tenhle uz je tuhej.
+
+[COMMENT]
+i.e. grievance board for things like police brutality complaints...
+
+[SPEECH: Cop]
+Myslim, ze za tohle me komise karat nebude.
+
+-----------------------------------------------------------------
+[Owner: Cop]
+[Name:  Cop_BarkCriticalDamage]
+
+[SPEECH: Cop]
+Ten chlap je cvok!
+
+[SPEECH: Cop]
+Dustojnik v nouzi!
+
+[SPEECH: Cop]
+(jeci)
+
+[SPEECH: Cop]
+(bruci)
+
+-----------------------------------------------------------------
+[Owner: Cop]
+[Name:  Cop_BarkFutz]
+
+[SPEECH: Cop]
+Davej pozor!
+
+[SPEECH: Cop]
+Co to ma znamenat?
+
+[SPEECH: Cop]
+Uklidnete se, pane!
+
+-----------------------------------------------------------------
+[Owner: Cop]
+[Name:  Cop_BarkGoingForAlarm]
+
+[SPEECH: Cop]
+Budu potrebovat posily!
+
+[SPEECH: Cop]
+Dustojnik zada posily!
+
+[SPEECH: Cop]
+Jezkovy zraky!
+
+-----------------------------------------------------------------
+[Owner: Cop]
+[Name:  Cop_BarkGore]
+
+[SPEECH: Cop]
+Jezkovy...
+
+[SPEECH: Cop]
+Mame tu mrtvyho!
+
+[SPEECH: Cop]
+Sakra. Nekdo bude mit praci.
+
+-----------------------------------------------------------------
+[Owner: Cop]
+[Name:  Cop_BarkIdle]
+
+[SPEECH: Cop]
+Nejvetsi mesto na svete!
+
+[SPEECH: Cop]
+Pokracujte.
+
+[SPEECH: Cop]
+Tahle prace by mela mit nejaky smysl.
+
+[SPEECH: Cop]
+Uz jsem zapomnel, jak vypada takovej kriminalnik.
+
+[SPEECH: Cop]
+Na tohle jsem uz moc starej...
+
+[SPEECH: Cop]
+(ziva)
+
+[SPEECH: Cop]
+(bruci)
+
+[SPEECH: Cop]
+(kasle)
+
+-----------------------------------------------------------------
+[Owner: Cop]
+[Name:  Cop_BarkOnFire]
+
+[COMMENT]
+OnFire scream 1 for this...
+
+[SPEECH: Cop]
+(jeci)
+
+[COMMENT]
+OnFire scream 2 for this...
+
+[SPEECH: Cop]
+(jeci)
+
+[COMMENT]
+OnFire scream 3 for this...
+
+[SPEECH: Cop]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: Cop]
+[Name:  Cop_BarkPostAttackSearching]
+
+[SPEECH: Cop]
+Podezrely je stale v oblasti.
+
+[SPEECH: Cop]
+Zustante v pohotovosti.
+
+[SPEECH: Cop]
+Je porad nekde kolem - slysel jsem ho.
+
+-----------------------------------------------------------------
+[Owner: Cop]
+[Name:  Cop_BarkPreAttackSearching]
+
+[SPEECH: Cop]
+Fajn, vylez na svetlo a ukaz se!
+
+[SPEECH: Cop]
+Kdo je tam?
+
+[SPEECH: Cop]
+Tady je policie! Je tam nekdo?
+
+-----------------------------------------------------------------
+[Owner: Cop]
+[Name:  Cop_BarkPreAttackSighting]
+
+[SPEECH: Cop]
+Zrejme narusitel!
+
+[SPEECH: Cop]
+Hej! Ruce nahoru!
+
+[SPEECH: Cop]
+Policie! Stat!
+
+-----------------------------------------------------------------
+[Owner: Cop]
+[Name:  Cop_BarkSearchGiveUp]
+
+[SPEECH: Cop]
+Nikdo tu neni. Copak jsem cvok?
+
+[SPEECH: Cop]
+Ja snad slysim travu rust.
+
+[SPEECH: Cop]
+Myslim, ze to byl jen stin.
+
+-----------------------------------------------------------------
+[Owner: Cop]
+[Name:  Cop_BarkSurprise]
+
+[SPEECH: Cop]
+Zatr...
+
+[SPEECH: Cop]
+Co to...
+
+[SPEECH: Cop]
+Hej!
+
+-----------------------------------------------------------------
+[Owner: Cop]
+[Name:  Cop_BarkTargetAcquired]
+
+[SPEECH: Cop]
+Vidim ho!
+
+[SPEECH: Cop]
+To je on! Na nej!
+
+[SPEECH: Cop]
+Sejmete ho!
+
+-----------------------------------------------------------------
+[Owner: Cop]
+[Name:  Cop_BarkTargetLost]
+
+[SPEECH: Cop]
+At se za nim honi nekdo jinej.
+
+[SPEECH: Cop]
+Byl primo tady...
+
+[SPEECH: Cop]
+Hm. Pitomy stiny.
+
+-----------------------------------------------------------------
+[Owner: Cop]
+[Name:  Cop_BarkTearGas]
+
+[COMMENT]
+TearGas scream 1
+
+[SPEECH: Cop]
+(jeci)
+
+[COMMENT]
+TearGas scream 2A
+
+[SPEECH: Cop]
+(jeci)
+
+[COMMENT]
+TearGas scream 3A
+
+[SPEECH: Cop]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: GarySavage]
+[Name:  GarySavage_BarkAllianceFriendly]
+
+[SPEECH: GarySavage]
+To uz nikdy nedelejte.
+
+[SPEECH: GarySavage]
+Necham vas nazivu jen proto, ze vas potrebujeme.
+
+[SPEECH: GarySavage]
+Ovladejte se, clovece!
+
+-----------------------------------------------------------------
+[Owner: GarySavage]
+[Name:  GarySavage_BarkAllianceHostile]
+
+[SPEECH: GarySavage]
+Hej!
+
+[SPEECH: GarySavage]
+Chcete me zabit?
+
+[SPEECH: GarySavage]
+Davejte prece pozor!
+
+-----------------------------------------------------------------
+[Owner: GarySavage]
+[Name:  GarySavage_BarkFutz]
+
+[SPEECH: GarySavage]
+Tak jste na nasi strane nebo ne?
+
+[SPEECH: GarySavage]
+Jste tak pitomej nebo navedenej?
+
+[SPEECH: GarySavage]
+Nechte toho.
+
+-----------------------------------------------------------------
+[Owner: GordonQuick]
+[Name:  GordonQuick_BarkAllianceFriendly]
+
+[SPEECH: GordonQuick]
+Muzeme spolupracovat. Duveruj Zarici stezce!
+
+[SPEECH: GordonQuick]
+Usetrim tvuj zivot. Protentokrat.
+
+[SPEECH: GordonQuick]
+Chovej se k lidem s uctou, jinak v Hongkongu dlouho neprezijes.
+
+-----------------------------------------------------------------
+[Owner: GordonQuick]
+[Name:  GordonQuick_BarkAllianceHostile]
+
+[SPEECH: GordonQuick]
+Blazne!
+
+[SPEECH: GordonQuick]
+Tos' udelal schvalne!
+
+[SPEECH: GordonQuick]
+Dej mi pokoj!
+
+-----------------------------------------------------------------
+[Owner: GordonQuick]
+[Name:  GordonQuick_BarkFutz]
+
+[SPEECH: GordonQuick]
+Nechapu, proc tohle delas.
+
+[SPEECH: GordonQuick]
+Chovas se jako silenec.
+
+[SPEECH: GordonQuick]
+To neni moc chytre.
+
+-----------------------------------------------------------------
+[Owner: GuntherHermann]
+[Name:  GuntherHermann_BarkAreaSecure]
+
+[SPEECH: GuntherHermann]
+Nikdy jsem mu nemel verit!
+
+[SPEECH: GuntherHermann]
+Nemel se na me vytahovat!
+
+[SPEECH: GuntherHermann]
+Ostuda. Mohl to byt dobry vojak.
+
+[SPEECH: GuntherHermann]
+Za Annu!
+
+-----------------------------------------------------------------
+[Owner: GuntherHermann]
+[Name:  GuntherHermann_BarkCriticalDamage]
+
+[SPEECH: GuntherHermann]
+(stena)...mit tak skull gun...
+
+[SPEECH: GuntherHermann]
+Unglaublich!
+
+[SPEECH: GuntherHermann]
+Skoda jen povrchova!
+
+[SPEECH: GuntherHermann]
+(jeci)
+
+[SPEECH: GuntherHermann]
+(stena)
+
+-----------------------------------------------------------------
+[Owner: GuntherHermann]
+[Name:  GuntherHermann_BarkGoingForAlarm]
+
+[SPEECH: GuntherHermann]
+Odtud se uz nedostanes!
+
+[SPEECH: GuntherHermann]
+Sem jsi nemel chodit!
+
+[SPEECH: GuntherHermann]
+Nase bezpecnost byla ohrozena!
+
+-----------------------------------------------------------------
+[Owner: GuntherHermann]
+[Name:  GuntherHermann_BarkGore]
+
+[SPEECH: GuntherHermann]
+Mrtvola. Podobnou praci jsem videl v Lipsku.
+
+[SPEECH: GuntherHermann]
+Opatrne. Vrah muze byt nablizku.
+
+[SPEECH: GuntherHermann]
+Snadna rana.
+
+-----------------------------------------------------------------
+[Owner: GuntherHermann]
+[Name:  GuntherHermann_BarkPostAttackSearching]
+
+[SPEECH: GuntherHermann]
+Jestli se vzdas, slibuju ti bezbolestnou smrt!
+
+[SPEECH: GuntherHermann]
+Ja vim, ze tu nekde jsi, priteli.
+
+[SPEECH: GuntherHermann]
+Tvoje schovavani na me neudelalo zadny dojem.
+
+[SPEECH: GuntherHermann]
+V akademii te nemohli naucit schovat se tak, abych te nenasel.
+
+[SPEECH: GuntherHermann]
+Slysis me? Nikdy te neprestanu pronasledovat!
+
+[SPEECH: GuntherHermann]
+Nemuzes uniknout. Ja nezapominam!
+
+[SPEECH: GuntherHermann]
+Vylez, at se ti muzu pomstit!
+
+-----------------------------------------------------------------
+[Owner: GuntherHermann]
+[Name:  GuntherHermann_BarkPreAttackSighting]
+
+[COMMENT]
+to himselfa
+
+[SPEECH: GuntherHermann]
+Tamhle nekdo je... Je to on?
+
+[SPEECH: GuntherHermann]
+To byl on? Nevidim ho.
+
+[SPEECH: GuntherHermann]
+Dentone! Jsi to ty?
+
+-----------------------------------------------------------------
+[Owner: GuntherHermann]
+[Name:  GuntherHermann_BarkSearchGiveUp]
+
+[SPEECH: GuntherHermann]
+To nic. Zase jsem se mylil.
+
+[SPEECH: GuntherHermann]
+Vsude je klid. Musim proverit sve senzory.
+
+[SPEECH: GuntherHermann]
+Ted uz je ticho.
+
+[SPEECH: GuntherHermann]
+Zatim ne. Trpelivost. Ja se nedam oblafnout.
+
+-----------------------------------------------------------------
+[Owner: GuntherHermann]
+[Name:  GuntherHermann_BarkSurprise]
+
+[SPEECH: GuntherHermann]
+Mein Gott!
+
+[SPEECH: GuntherHermann]
+Ty!
+
+[SPEECH: GuntherHermann]
+Kdo...?
+
+-----------------------------------------------------------------
+[Owner: GuntherHermann]
+[Name:  GuntherHermann_BarkTargetAcquired]
+
+[SPEECH: GuntherHermann]
+Je tady!
+
+[SPEECH: GuntherHermann]
+Jdu po nem!
+
+[SPEECH: GuntherHermann]
+Myslim, ze tohle se mi bude libit!
+
+-----------------------------------------------------------------
+[Owner: GuntherHermann]
+[Name:  GuntherHermann_BarkTargetLost]
+
+[SPEECH: GuntherHermann]
+Kontakt ztracen.
+
+[SPEECH: GuntherHermann]
+Myslim, ze neutekl daleko.
+
+[SPEECH: GuntherHermann]
+Je pryc. Hlasim se k pronasledovani.
+
+-----------------------------------------------------------------
+[Owner: GuntherHermann]
+[Name:  GuntherHermann_BarkTearGas]
+
+[COMMENT]
+Gunther's not the type to scream, he just grunts a bit.
+
+[COMMENT]
+TearGas grunt 1
+
+[SPEECH: GuntherHermann]
+(stena)
+
+[COMMENT]
+TearGas grunts 2A
+
+[SPEECH: GuntherHermann]
+(stena)
+
+[COMMENT]
+TearGas grunt 3
+
+[SPEECH: GuntherHermann]
+(stena)
+
+-----------------------------------------------------------------
+[Owner: HarleyFilben]
+[Name:  HarleyFilben_BarkAllianceFriendly]
+
+[SPEECH: HarleyFilben]
+Nenut me, abych ztratil rozvahu!
+
+[SPEECH: HarleyFilben]
+Jo, to bylo fakt profesionalni. Jezisi!
+
+[SPEECH: HarleyFilben]
+Chlapecku, uz ti nekdo nekdy poradne nakopal prdel?
+
+-----------------------------------------------------------------
+[Owner: HarleyFilben]
+[Name:  HarleyFilben_BarkAllianceHostile]
+
+[SPEECH: HarleyFilben]
+Hej, clovece!
+
+[SPEECH: HarleyFilben]
+Hele, ja prece patrim k vam!
+
+[SPEECH: HarleyFilben]
+Co to ma znamenat?
+
+-----------------------------------------------------------------
+[Owner: HarleyFilben]
+[Name:  HarleyFilben_BarkFutz]
+
+[SPEECH: HarleyFilben]
+Nech toho!
+
+[SPEECH: HarleyFilben]
+Prestan se tu ztrapnovat.
+
+[SPEECH: HarleyFilben]
+Bavis se dobre?
+
+-----------------------------------------------------------------
+[Owner: Hela]
+[Name:  Hela_BarkAreaSecure]
+
+[SPEECH: Hela]
+Vyridte Simonsovi, ze jsme tu hotovi.
+
+[SPEECH: Hela]
+Proverte oblast! Myslim, ze je cisty vzduch.
+
+[SPEECH: Hela]
+Skvela prace, vsichni.
+
+-----------------------------------------------------------------
+[Owner: Hela]
+[Name:  Hela_BarkCriticalDamage]
+
+[SPEECH: Hela]
+Poslete nam sem posily!
+
+[SPEECH: Hela]
+Mel neco jako...jako augmentace.
+
+[COMMENT]
+over radio link in here!
+
+[SPEECH: Hela]
+Myslim, ze jsem ho zasahla - subjekt stale zije.
+
+[SPEECH: Hela]
+(jeci)
+
+[SPEECH: Hela]
+(stena)
+
+-----------------------------------------------------------------
+[Owner: Hela]
+[Name:  Hela_BarkGoingForAlarm]
+
+[SPEECH: Hela]
+Vsem jednotkam: mame ho!
+
+[SPEECH: Hela]
+Tady Hotel Echo, mame ho!
+
+[COMMENT]
+Panicky.  As in "Perimeter breach."
+
+[SPEECH: Hela]
+Poplach! Poplach! Je tady!
+
+-----------------------------------------------------------------
+[Owner: Hela]
+[Name:  Hela_BarkGore]
+
+[SPEECH: Hela]
+Uz to zacalo!
+
+[SPEECH: Hela]
+Mame tu nejake ztraty.
+
+[SPEECH: Hela]
+To je Dentonovo dilo.
+
+-----------------------------------------------------------------
+[Owner: Hela]
+[Name:  Hela_BarkIdle]
+
+[COMMENT]
+Hela's feeling a little stressed out
+
+[COMMENT]
+Speaking over a bad radio link.
+
+[SPEECH: Hela]
+Ano? To je spravne. Hotel Echo Lima Alfa.
+
+[SPEECH: Hela]
+Mizerne misto. Nechame ho Frantikum.
+
+[SPEECH: Hela]
+Taktika rukojmi. To je zly sen!
+
+-----------------------------------------------------------------
+[Owner: Hela]
+[Name:  Hela_BarkOnFire]
+
+[COMMENT]
+OnFire scream 15dJùÎÄ
+
+[SPEECH: Hela]
+(jeci)
+
+[COMMENT]
+OnFire scream 25dJùÎÄ
+
+[SPEECH: Hela]
+(jeci)
+
+[COMMENT]
+OnFire scream 35dJùÎÄ
+
+[SPEECH: Hela]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: Hela]
+[Name:  Hela_BarkPostAttackSearching]
+
+[SPEECH: Hela]
+Jsi v pasti, Dentone!
+
+[SPEECH: Hela]
+Kazdy at je ve strehu!
+
+[SPEECH: Hela]
+Nenechte ho proklouznout!
+
+[SPEECH: Hela]
+Jestli ho nekdo mine, osobne ho zabiju!
+
+-----------------------------------------------------------------
+[Owner: Hela]
+[Name:  Hela_BarkPreAttackSearching]
+
+[SPEECH: Hela]
+Tady Hela. Nejspis tu neco mame.
+
+[SPEECH: Hela]
+Trevore! To jsi ty?
+
+[SPEECH: Hela]
+Tohle nebyla krysa...
+
+[SPEECH: Hela]
+Co se to tam hybe? Je tu prilis ozven...
+
+-----------------------------------------------------------------
+[Owner: Hela]
+[Name:  Hela_BarkPreAttackSighting]
+
+[SPEECH: Hela]
+Pohnul se tamhleten stin?
+
+[SPEECH: Hela]
+Tamhle neco je. Poplach pro vsechny!
+
+[COMMENT]
+i.e. one of our men
+
+[SPEECH: Hela]
+Je to nekdo z vasich?
+
+-----------------------------------------------------------------
+[Owner: Hela]
+[Name:  Hela_BarkSearchGiveUp]
+
+[SPEECH: Hela]
+Dalsi falesny poplach.
+
+[SPEECH: Hela]
+Prohledam ty tmave kouty. Co se mi muze stat?
+
+[SPEECH: Hela]
+To nebyl on. Musime byt trpelivi.
+
+-----------------------------------------------------------------
+[Owner: Hela]
+[Name:  Hela_BarkSurprise]
+
+[SPEECH: Hela]
+To je on!
+
+[SPEECH: Hela]
+Kdo...?
+
+[SPEECH: Hela]
+Straze!
+
+-----------------------------------------------------------------
+[Owner: Hela]
+[Name:  Hela_BarkTargetAcquired]
+
+[SPEECH: Hela]
+To je on!
+
+[SPEECH: Hela]
+Cil zameren!
+
+[SPEECH: Hela]
+Pozdravuje te Walton Simons!
+
+-----------------------------------------------------------------
+[Owner: Hela]
+[Name:  Hela_BarkTargetLost]
+
+[SPEECH: Hela]
+Zmizel. Pohotovost sousednim sekcim!
+
+[SPEECH: Hela]
+Pan Simons nas za tohle nepochvali.
+
+[SPEECH: Hela]
+Tohle nestoji za to - ty tunely se tahnou na mile daleko.
+
+-----------------------------------------------------------------
+[Owner: Hela]
+[Name:  Hela_BarkTearGas]
+
+[COMMENT]
+TearGas scream 1nïö *˜UàçCeë
+
+[SPEECH: Hela]
+(jeci)
+
+[COMMENT]
+TearGas scream 2A
+
+[SPEECH: Hela]
+(jeci)
+
+[COMMENT]
+TearGas scream 3A
+
+[SPEECH: Hela]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: HowardStrong]
+[Name:  HowardStrong_BarkAreaSecure]
+
+[COMMENT]
+This guy is standing in a cherry-picker device about to sabotage a missile.  The player's goal is to kill him.
+
+[SPEECH: HowardStrong]
+Haha! Mam te!
+
+[SPEECH: HowardStrong]
+Ou, to muselo bolet!
+
+-----------------------------------------------------------------
+[Owner: HowardStrong]
+[Name:  HowardStrong_BarkCriticalDamage]
+
+[COMMENT]
+This guy is standing in a cherry-picker device about to sabotage a missile.  The player's goal is to kill him.
+
+[COMMENT]
+Grunt of pain.
+
+[SPEECH: HowardStrong]
+µaaa!
+
+[COMMENT]
+Grunt of pain.t
+
+[SPEECH: HowardStrong]
+µaaa!
+
+-----------------------------------------------------------------
+[Owner: HowardStrong]
+[Name:  HowardStrong_BarkOnFire]
+
+[COMMENT]
+This guy is on fire.ç$!yjíÅIƒ0∑‡ˇnc˛k™
+
+[SPEECH: HowardStrong]
+µaaa!
+
+-----------------------------------------------------------------
+[Owner: HowardStrong]
+[Name:  HowardStrong_BarkPostAttackSearching]
+
+[COMMENT]
+This guy is standing in a cherry-picker device about to sabotage a missile.  The player's goal is to kill him.
+
+[SPEECH: HowardStrong]
+Rada je na tobe, Dentone!
+
+[SPEECH: HowardStrong]
+Nestarej se o tu strelu! Jestli te zabiju, pujdu zpatky k terminalu a znovu zamerim Vandenberg! Co ty na to? Dobry, co? X-51 nema sanci!
+
+[SPEECH: HowardStrong]
+Zacinam se tu nahore nudit!
+
+-----------------------------------------------------------------
+[Owner: HowardStrong]
+[Name:  HowardStrong_BarkTargetAcquired]
+
+[COMMENT]
+This guy is standing in a cherry-picker device about to sabotage a missile.  The player's goal is to kill him.
+
+[SPEECH: HowardStrong]
+Ty me nemuzes zastavit!
+
+[COMMENT]
+Maniacal laugh.  This guy is trying to blow up a missile.
+
+[SPEECH: HowardStrong]
+Ha ha ha!
+
+[SPEECH: HowardStrong]
+Pojd kousek bliz...
+
+-----------------------------------------------------------------
+[Owner: HowardStrong]
+[Name:  HowardStrong_BarkTargetLost]
+
+[COMMENT]
+This guy is standing in a cherry-picker device about to sabotage a missile.  The player's goal is to kill him.
+
+[SPEECH: HowardStrong]
+Spravne: kryj se! Tenhle bumbrlicek by mohl bouchnout!
+
+[SPEECH: HowardStrong]
+To bylo pusobive!
+
+[SPEECH: HowardStrong]
+Odtud nevidim nic podezreleho!
+
+-----------------------------------------------------------------
+[Owner: HowardStrong]
+[Name:  HowardStrong_BarkTearGas]
+
+[COMMENT]
+This guy has tear gas in his face.BarkTargetLost\HowardStrong03.mp3
+
+[SPEECH: HowardStrong]
+µaaa!
+
+-----------------------------------------------------------------
+[Owner: Child]
+[Name:  Child_BarkCriticalDamage]
+
+[SPEECH: Child]
+(jeci)
+
+[SPEECH: Child]
+(jeci)
+
+[SPEECH: Child]
+(vzdycha)
+
+-----------------------------------------------------------------
+[Owner: Child]
+[Name:  Child_BarkFutz]
+
+[COMMENT]
+(as though he felt a small pain, like a soda can hitting him in the head)
+
+[SPEECH: Child]
+(bruci)
+
+[SPEECH: Child]
+Co?
+
+[SPEECH: Child]
+(vzdycha)
+
+[SPEECH: Child]
+Puu!
+
+[COMMENT]
+(annoyed, as though the player has been pestering him for a while)a
+
+[SPEECH: Child]
+(kruci)
+
+[COMMENT]
+A whiny sound, as though Mommy just said it's time for bed.
+
+[SPEECH: Child]
+(breci)
+
+-----------------------------------------------------------------
+[Owner: Child]
+[Name:  Child_BarkGoingForAlarm]
+
+[COMMENT]
+The child is heading for an alarm.  His exclamations should the less wildly terrified and more determined, controlled, full of indignation and purpose.0[øNªî¡˛
+
+[SPEECH: Child]
+(vzdycha)
+
+[SPEECH: Child]
+(jeci)
+
+[COMMENT]
+A panicked, angry groan as he starts to sprint.
+
+[SPEECH: Child]
+(skuci)
+
+-----------------------------------------------------------------
+[Owner: Child]
+[Name:  Child_BarkGore]
+
+[SPEECH: Child]
+(jeci)
+
+[SPEECH: Child]
+(jeci)
+
+[SPEECH: Child]
+(vzdycha)
+
+-----------------------------------------------------------------
+[Owner: Child]
+[Name:  Child_BarkOnFire]
+
+[COMMENT]
+OnFire scream 1
+
+[SPEECH: Child]
+(jeci)
+
+[COMMENT]
+OnFire scream 2
+
+[SPEECH: Child]
+(jeci)
+
+[COMMENT]
+OnFire scream 3
+
+[SPEECH: Child]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: Child]
+[Name:  Child_BarkSurprise]
+
+[COMMENT]
+For these, the Child has been startled by the player.
+
+[SPEECH: Child]
+(krici)
+
+[SPEECH: Child]
+(jeci)
+
+[SPEECH: Child]
+(vzdycha)
+
+-----------------------------------------------------------------
+[Owner: Child]
+[Name:  Child_BarkTearGas]
+
+[COMMENT]
+TearGas scream 1
+
+[SPEECH: Child]
+(jeci)
+
+[COMMENT]
+TearGas scream 2A
+
+[SPEECH: Child]
+(jeci)
+
+[COMMENT]
+TearGas scream 3A
+
+[SPEECH: Child]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: JaimeReyes]
+[Name:  JaimeReyes_BarkAllianceFriendly]
+
+[SPEECH: JaimeReyes]
+Uklidni se, prosim, bud tak laskav, ano?
+
+[SPEECH: JaimeReyes]
+Co to do tebe vjelo?
+
+[SPEECH: JaimeReyes]
+Doufam, ze to bylo jen nedorozumeni?
+
+-----------------------------------------------------------------
+[Owner: JaimeReyes]
+[Name:  JaimeReyes_BarkAllianceHostile]
+
+[SPEECH: JaimeReyes]
+Nech toho!
+
+[SPEECH: JaimeReyes]
+Co to melo, sakra, znamenat?
+
+[SPEECH: JaimeReyes]
+Zblaznil ses?
+
+-----------------------------------------------------------------
+[Owner: JaimeReyes]
+[Name:  JaimeReyes_BarkFutz]
+
+[SPEECH: JaimeReyes]
+Stary vtipalek.
+
+[SPEECH: JaimeReyes]
+Opatrne...
+
+[SPEECH: JaimeReyes]
+Leta vycviku, ale ty jsi porad jeste jako dite.
+
+-----------------------------------------------------------------
+[Owner: JaniceReed]
+[Name:  JaniceReed_BarkFutz]
+
+[SPEECH: JaniceReed]
+Co vas to popadlo, JC?
+
+[SPEECH: JaniceReed]
+Udelate mi tu neporadek!
+
+[SPEECH: JaniceReed]
+Hej, ja se tu snazim pracovat!
+
+-----------------------------------------------------------------
+[Owner: Jock]
+[Name:  Jock_BarkAllianceFriendly]
+
+[SPEECH: Jock]
+Tak uz dost toho ometani kolem. Musime zaridit jine veci.
+
+[SPEECH: Jock]
+Prokrista! Prece si nebudeme vzajemne kroutit krkem!
+
+[SPEECH: Jock]
+Zkus to jeste jednou a nakopu ti prdel!
+
+-----------------------------------------------------------------
+[Owner: Jock]
+[Name:  Jock_BarkAllianceHostile]
+
+[SPEECH: Jock]
+To staci!
+
+[SPEECH: Jock]
+Tak dobra! Pojd na me! Ja se tak lehko nevzdam!
+
+[SPEECH: Jock]
+Ty jeden podelanej hajzle!
+
+-----------------------------------------------------------------
+[Owner: Jock]
+[Name:  Jock_BarkFutz]
+
+[SPEECH: Jock]
+Prestan s tim!
+
+[SPEECH: Jock]
+Co to, sakra, ma bejt?
+
+[SPEECH: Jock]
+Mas nejakej problem?
+
+-----------------------------------------------------------------
+[Owner: JoJoFine]
+[Name:  JoJoFine_BarkAreaSecure]
+
+[SPEECH: JoJoFine]
+Co se do me vubec montujes?
+
+[COMMENT]
+As in, "This is my hotel!"
+
+[SPEECH: JoJoFine]
+To je muj hotel! Chapes?
+
+[SPEECH: JoJoFine]
+Ja snad jeste zacnu verit na strasidla!
+
+[SPEECH: JoJoFine]
+Pani, ten kabat mi skvele sekne!
+
+-----------------------------------------------------------------
+[Owner: JoJoFine]
+[Name:  JoJoFine_BarkCriticalDamage]
+
+[SPEECH: JoJoFine]
+Madre de Dios!
+
+[SPEECH: JoJoFine]
+Clovece, ted jsi me ale nasral!
+
+[SPEECH: JoJoFine]
+Dobra rana, clovece.
+
+[SPEECH: JoJoFine]
+(jeci)
+
+[SPEECH: JoJoFine]
+(stena)
+
+-----------------------------------------------------------------
+[Owner: JoJoFine]
+[Name:  JoJoFine_BarkFutz]
+
+[SPEECH: JoJoFine]
+Co to delas?
+
+[SPEECH: JoJoFine]
+Zkousis bejt vtipnej?
+
+[SPEECH: JoJoFine]
+Se mnou si radsi nezacinej.
+
+-----------------------------------------------------------------
+[Owner: JoJoFine]
+[Name:  JoJoFine_BarkGore]
+
+[SPEECH: JoJoFine]
+Pani!
+
+[SPEECH: JoJoFine]
+Tady si nekdo koleduje!
+
+[SPEECH: JoJoFine]
+V zivejch barvach!
+
+-----------------------------------------------------------------
+[Owner: JoJoFine]
+[Name:  JoJoFine_BarkOnFire]
+
+[COMMENT]
+OnFire scream 1
+
+[SPEECH: JoJoFine]
+(jeci)
+
+[COMMENT]
+OnFire scream 2
+
+[SPEECH: JoJoFine]
+(jeci)
+
+[COMMENT]
+OnFire scream 3
+
+[SPEECH: JoJoFine]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: JoJoFine]
+[Name:  JoJoFine_BarkPostAttackSearching]
+
+[SPEECH: JoJoFine]
+Jsi tvrdej, to musim uznat.
+
+[SPEECH: JoJoFine]
+Nikam neuteces, clovece. Hotel neni tak velkej.
+
+[SPEECH: JoJoFine]
+Schoval ses, srabe?
+
+-----------------------------------------------------------------
+[Owner: JoJoFine]
+[Name:  JoJoFine_BarkPreAttackSearching]
+
+[SPEECH: JoJoFine]
+Co se deje? Nekdo me hleda?
+
+[SPEECH: JoJoFine]
+Chico? To jses ty, vole?
+
+[SPEECH: JoJoFine]
+Slysel jsem to, nejsem prece hluchej!
+
+-----------------------------------------------------------------
+[Owner: JoJoFine]
+[Name:  JoJoFine_BarkPreAttackSighting]
+
+[SPEECH: JoJoFine]
+Vylez na svetlo!
+
+[SPEECH: JoJoFine]
+Tak je to spravny!
+
+[SPEECH: JoJoFine]
+Vidim te, Dentone!
+
+-----------------------------------------------------------------
+[Owner: JoJoFine]
+[Name:  JoJoFine_BarkSearchGiveUp]
+
+[SPEECH: JoJoFine]
+Ach jo. Zacinam cvokatet.
+
+[SPEECH: JoJoFine]
+Co blbnu? Byla to nejspis nejaka krysa.
+
+[SPEECH: JoJoFine]
+Tady nikdo neni.
+
+-----------------------------------------------------------------
+[Owner: JoJoFine]
+[Name:  JoJoFine_BarkSurprise]
+
+[SPEECH: JoJoFine]
+Hej! Davej bacha!
+
+[COMMENT]
+cutting off before the expletive.
+
+[SPEECH: JoJoFine]
+Co to zatr...
+
+[COMMENT]
+In a "let's get it on!" kind of tone
+
+[SPEECH: JoJoFine]
+Jauvajs!
+
+-----------------------------------------------------------------
+[Owner: JoJoFine]
+[Name:  JoJoFine_BarkTargetAcquired]
+
+[SPEECH: JoJoFine]
+Ted je rada na mne, vole!
+
+[SPEECH: JoJoFine]
+Radsi zdrhej, clovece!
+
+[SPEECH: JoJoFine]
+Jsi mrtvej!
+
+[SPEECH: JoJoFine]
+'Ton potrebuje vymenit reditele.
+
+-----------------------------------------------------------------
+[Owner: JoJoFine]
+[Name:  JoJoFine_BarkTargetLost]
+
+[SPEECH: JoJoFine]
+Uz tady asi neni.
+
+[SPEECH: JoJoFine]
+Doufam, ze zdrhnul. Zacinam z nej mit husinu.
+
+[SPEECH: JoJoFine]
+Seru na nej! Mam prece lepsi veci na praci.
+
+-----------------------------------------------------------------
+[Owner: JoJoFine]
+[Name:  JoJoFine_BarkTearGas]
+
+[COMMENT]
+TearGas scream 1
+if”vmRsds∑–≤‡aV
+
+[SPEECH: JoJoFine]
+(jeci)
+
+[COMMENT]
+TearGas scream 2A
+
+[SPEECH: JoJoFine]
+(jeci)
+
+[COMMENT]
+TearGas scream 3A
+
+[SPEECH: JoJoFine]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: JordanShea]
+[Name:  JordanShea_BarkFutz]
+
+[SPEECH: JordanShea]
+Uberte paru, Texi!
+
+[SPEECH: JordanShea]
+Vy uz jste toho za tuhle noc stihnul obrazit dost, nemam pravdu?
+
+[SPEECH: JordanShea]
+Ale kamarade!
+
+[SPEECH: JordanShea]
+Zacinate mi lyzt na nervy.
+
+[SPEECH: JordanShea]
+Co se deje? Copak se neumite v klidu napit?
+
+[SPEECH: JordanShea]
+Jste trapnej.
+
+-----------------------------------------------------------------
+[Owner: JosephManderley]
+[Name:  JosephManderley_BarkFutz]
+
+[SPEECH: JosephManderley]
+To by stacilo, agente.
+
+[SPEECH: JosephManderley]
+Mel by ses chovat jako profesional. Je to rozkaz.
+
+[SPEECH: JosephManderley]
+Nehloupni, JC!
+
+[SPEECH: JosephManderley]
+Hej! Kdo si myslis, ze jsi?
+
+-----------------------------------------------------------------
+[Owner: MaggieChow]
+[Name:  MaggieChow_BarkAreaSecure]
+
+[SPEECH: MaggieChow]
+Hlupaku!
+
+[SPEECH: MaggieChow]
+Cha! Snadny ukol.
+
+[SPEECH: MaggieChow]
+To nebylo tak tezke.
+
+-----------------------------------------------------------------
+[Owner: MaggieChow]
+[Name:  MaggieChow_BarkCriticalDamage]
+
+[COMMENT]
+A yell of pain, basically.
+
+[SPEECH: MaggieChow]
+µaaa!
+
+[COMMENT]
+Hoping UNATCO troops will hear.
+
+[SPEECH: MaggieChow]
+Serzante! Pomoc!
+
+[SPEECH: MaggieChow]
+Pomozte mi nekdo!
+
+[SPEECH: MaggieChow]
+(jeci)
+
+[SPEECH: MaggieChow]
+(stena)
+
+-----------------------------------------------------------------
+[Owner: MaggieChow]
+[Name:  MaggieChow_BarkFutz]
+
+[SPEECH: MaggieChow]
+Co to delas?
+
+[SPEECH: MaggieChow]
+Pokousis se bejt vtipnej?
+
+[SPEECH: MaggieChow]
+Zacinas me stvat, agente!
+
+-----------------------------------------------------------------
+[Owner: MaggieChow]
+[Name:  MaggieChow_BarkGoingForAlarm]
+
+[SPEECH: MaggieChow]
+Udelal jste osudnou chybu, agente Dentone.
+
+[COMMENT]
+The "Sergeant" here would be one of the UNATCO troopers stationed in MC's apartment.
+
+[SPEECH: MaggieChow]
+Serzante! Ke mne!
+
+[SPEECH: MaggieChow]
+Zatracene! Kde jsou, sakra, moje posily?
+
+-----------------------------------------------------------------
+[Owner: MaggieChow]
+[Name:  MaggieChow_BarkGore]
+
+[COMMENT]
+These look a bit nonchalant -- should get delivered in a worried tone.r
+
+[SPEECH: MaggieChow]
+Dalsi neopravneny prunik! Ti idioti!
+
+[SPEECH: MaggieChow]
+Vypada to na profesionala.
+
+[SPEECH: MaggieChow]
+Mame tu potize.
+
+-----------------------------------------------------------------
+[Owner: MaggieChow]
+[Name:  MaggieChow_BarkOnFire]
+
+[COMMENT]
+OnFire scream 1
+
+[SPEECH: MaggieChow]
+(jeci)
+
+[COMMENT]
+OnFire scream 2
+
+[SPEECH: MaggieChow]
+(jeci)
+
+[COMMENT]
+OnFire scream 3
+
+[SPEECH: MaggieChow]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: MaggieChow]
+[Name:  MaggieChow_BarkPostAttackSearching]
+
+[SPEECH: MaggieChow]
+Vylez a bojuj!
+
+[SPEECH: MaggieChow]
+Osobne ti zakroutim krkem!
+
+[SPEECH: MaggieChow]
+Co se deje? Mas strach?
+
+-----------------------------------------------------------------
+[Owner: MaggieChow]
+[Name:  MaggieChow_BarkPreAttackSearching]
+
+[SPEECH: MaggieChow]
+Ja vim, ze tady jsi, JC.
+
+[SPEECH: MaggieChow]
+Slysim te!
+
+[SPEECH: MaggieChow]
+Jsi to ty, Dentone? Odsud se uz nedostanes, vis to?
+
+-----------------------------------------------------------------
+[Owner: MaggieChow]
+[Name:  MaggieChow_BarkPreAttackSighting]
+
+[SPEECH: MaggieChow]
+To byl on?
+
+[SPEECH: MaggieChow]
+Neco se hnulo. Halo?
+
+[SPEECH: MaggieChow]
+To by mohl byt on.
+
+-----------------------------------------------------------------
+[Owner: MaggieChow]
+[Name:  MaggieChow_BarkSearchGiveUp]
+
+[SPEECH: MaggieChow]
+Jenom krysa. Ve meste je jich plno.
+
+[SPEECH: MaggieChow]
+Nikdo tu neni. Mozna ho dostanou straze.
+
+[SPEECH: MaggieChow]
+Dalsi falesny poplach. Kez uz bych to mela za sebou!
+
+-----------------------------------------------------------------
+[Owner: MaggieChow]
+[Name:  MaggieChow_BarkSurprise]
+
+[SPEECH: MaggieChow]
+Dentone!
+
+[SPEECH: MaggieChow]
+Ty?! 
+
+[SPEECH: MaggieChow]
+Och!
+
+-----------------------------------------------------------------
+[Owner: MaggieChow]
+[Name:  MaggieChow_BarkTargetAcquired]
+
+[SPEECH: MaggieChow]
+Nastal okamzik tve smrti, JC!
+
+[SPEECH: MaggieChow]
+Zradce!
+
+[SPEECH: MaggieChow]
+Hra skoncila, JC!
+
+-----------------------------------------------------------------
+[Owner: MaggieChow]
+[Name:  MaggieChow_BarkTargetLost]
+
+[SPEECH: MaggieChow]
+Zatracene! Je lepsi, nez jsem cekala.
+
+[SPEECH: MaggieChow]
+Tak jo, mysli... Kam se mohl zasit?
+
+[SPEECH: MaggieChow]
+Ztratili jsme ho. Sakra!
+
+-----------------------------------------------------------------
+[Owner: MaggieChow]
+[Name:  MaggieChow_BarkTearGas]
+
+[COMMENT]
+TearGas scream 1
+
+[SPEECH: MaggieChow]
+(jeci)
+
+[COMMENT]
+TearGas scream 2o
+
+[SPEECH: MaggieChow]
+(jeci)
+
+[COMMENT]
+TearGas scream 3A
+
+[SPEECH: MaggieChow]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: Man]
+[Name:  Man_BarkCriticalDamage]
+
+[SPEECH: Man]
+(jeci)
+
+[SPEECH: Man]
+(jeci)
+
+[SPEECH: Man]
+(stena)
+
+-----------------------------------------------------------------
+[Owner: Man]
+[Name:  Man_BarkFutz]
+
+[COMMENT]
+(as though he felt a small pain, like a soda can hitting him in the head)
+
+[SPEECH: Man]
+(bruci)
+
+[SPEECH: Man]
+Co?
+
+[SPEECH: Man]
+(vzdycha)
+
+[SPEECH: Man]
+Puu!
+
+[COMMENT]
+(annoyed, as though the player has been pestering him for a while)k
+
+[SPEECH: Man]
+(kruci)
+
+[COMMENT]
+A whiny sound.É'⁄ﬂ?ŸdS
+
+[SPEECH: Man]
+(breci)
+
+-----------------------------------------------------------------
+[Owner: Man]
+[Name:  Man_BarkGoingForAlarm]
+
+[COMMENT]
+The man is heading for an alarm.  His exclamations should the less wildly terrified and more determined, controlled, full of indignation and purpose.e.0[øNªî¡˛
+
+[SPEECH: Man]
+(jeci)
+
+[SPEECH: Man]
+(vzdycha)
+
+[COMMENT]
+A panicked, angry groan as he starts to sprint.
+
+[SPEECH: Man]
+(skuci)
+
+-----------------------------------------------------------------
+[Owner: Man]
+[Name:  Man_BarkGore]
+
+[SPEECH: Man]
+(krici)
+
+[SPEECH: Man]
+(vzdycha)
+
+[SPEECH: Man]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: Man]
+[Name:  Man_BarkOnFire]
+
+[COMMENT]
+OnFire scream 1
+
+[SPEECH: Man]
+(jeci)
+
+[COMMENT]
+OnFire scream 2
+
+[SPEECH: Man]
+(jeci)
+
+[COMMENT]
+OnFire scream 3
+
+[SPEECH: Man]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: Man]
+[Name:  Man_BarkSurprise]
+
+[COMMENT]
+For these, the man has been startled.UiCE§ΩM8ì´ƒtiZ•_iFtt¿@
+
+[SPEECH: Man]
+(jeci)
+
+[SPEECH: Man]
+(vzdycha)
+
+[COMMENT]
+A shout of surprise.®ø	Ûçî?ÌÛc@sou{6øˇ
+
+[SPEECH: Man]
+(krici)
+
+-----------------------------------------------------------------
+[Owner: Man]
+[Name:  Man_BarkTearGas]
+
+[COMMENT]
+TearGas scream 1
+
+[SPEECH: Man]
+(jeci)
+
+[COMMENT]
+TearGas scream 2A
+
+[SPEECH: Man]
+(jeci)
+
+[COMMENT]
+TearGas scream 3A
+
+[SPEECH: Man]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: MaxChen]
+[Name:  MaxChen_BarkAllianceFriendly]
+
+[SPEECH: MaxChen]
+Jestli na sebe vzajemne zautocime, nebudeme z toho mit zadny uzitek.
+
+[SPEECH: MaxChen]
+Uz me podruhe neurazej!
+
+[SPEECH: MaxChen]
+Jsi zrejme silenec.
+
+-----------------------------------------------------------------
+[Owner: MaxChen]
+[Name:  MaxChen_BarkAllianceHostile]
+
+[SPEECH: MaxChen]
+To nebylo prozirave.
+
+[SPEECH: MaxChen]
+Troufas si vyzyvat Rudy sip?
+
+[SPEECH: MaxChen]
+Bezcenny americky gangster.
+
+-----------------------------------------------------------------
+[Owner: MaxChen]
+[Name:  MaxChen_BarkFutz]
+
+[SPEECH: MaxChen]
+Rozmysli si, co delas.
+
+[SPEECH: MaxChen]
+Tohle me nebavi.
+
+[SPEECH: MaxChen]
+Pokousis svoje stesti.
+
+-----------------------------------------------------------------
+[Owner: MaySung]
+[Name:  MaySung_BarkFutz]
+
+[SPEECH: MaySung]
+Respektujte, prosim, apartma slecny Couove!
+
+[SPEECH: MaySung]
+Nechte toho!
+
+[SPEECH: MaySung]
+Ovladejte se! Povim o tom slecne Couove.
+
+-----------------------------------------------------------------
+[Owner: Mechanic]
+[Name:  Mechanic_BarkCriticalDamage]
+
+[SPEECH: Mechanic]
+Jezis, nech toho!
+
+[SPEECH: Mechanic]
+Ja nic nevim!
+
+[SPEECH: Mechanic]
+Pomoc! Je to blazen!
+
+[SPEECH: Mechanic]
+(vriska)
+
+[SPEECH: Mechanic]
+(stena)
+
+-----------------------------------------------------------------
+[Owner: Mechanic]
+[Name:  Mechanic_BarkFutz]
+
+[SPEECH: Mechanic]
+Hej, prestan tu slidit!
+
+[SPEECH: Mechanic]
+Jestli neco rozbijes, tak si to spravis!
+
+[SPEECH: Mechanic]
+Ty mas divnej smysl pro humor.
+
+-----------------------------------------------------------------
+[Owner: Mechanic]
+[Name:  Mechanic_BarkGoingForAlarm]
+
+[SPEECH: Mechanic]
+Ale? Myslim, ze tady nemas co pohledavat!
+
+[SPEECH: Mechanic]
+Neboj se, ja sem jdu jenom stisknout tohle tlacitko.
+
+[SPEECH: Mechanic]
+Zrejme tu mame praci pro kluky z ochranky.
+
+-----------------------------------------------------------------
+[Owner: Mechanic]
+[Name:  Mechanic_BarkIdle]
+
+[SPEECH: Mechanic]
+Posledni dobou se dejou fakt neuveritelny veci!
+
+[SPEECH: Mechanic]
+Kdyby si s tim porad nekdo nehral...
+
+[SPEECH: Mechanic]
+Diky Bohu za ty vladni hochy!
+
+[SPEECH: Mechanic]
+(hvizda si)
+
+[SPEECH: Mechanic]
+(kasle)
+
+[SPEECH: Mechanic]
+(vzdycha)
+
+-----------------------------------------------------------------
+[Owner: Mechanic]
+[Name:  Mechanic_BarkOnFire]
+
+[COMMENT]
+OnFire scream 1
+
+[SPEECH: Mechanic]
+(jeci)
+
+[COMMENT]
+OnFire scream 2
+
+[SPEECH: Mechanic]
+(jeci)
+
+[COMMENT]
+OnFire scream 3
+
+[SPEECH: Mechanic]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: Mechanic]
+[Name:  Mechanic_BarkTearGas]
+
+[COMMENT]
+TearGas scream 1
+
+[SPEECH: Mechanic]
+(jeci)
+
+[COMMENT]
+TearGas scream 2A
+
+[SPEECH: Mechanic]
+(jeci)
+
+[COMMENT]
+TearGas scream 3A
+
+[SPEECH: Mechanic]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: MetroCop]
+[Name:  MetroCop_BarkAreaSecure]
+
+[SPEECH: MetroCop]
+To musi byt terorista!
+
+[SPEECH: MetroCop]
+Necetl jsem o nem uz nekde?
+
+[SPEECH: MetroCop]
+Prohlednu si jeho oci! Mozna to bude on!
+
+[SPEECH: MetroCop]
+Je po nem. V Parizi to ted neni lehky.
+
+[SPEECH: MetroCop]
+Kez by nam konecne vysvetlili, o co vlastne jde!
+
+[SPEECH: MetroCop]
+Oznamim to inspektorovi Gabilymu.
+
+-----------------------------------------------------------------
+[Owner: MetroCop]
+[Name:  MetroCop_BarkCriticalDamage]
+
+[SPEECH: MetroCop]
+Dustojnik v nesnazich!
+
+[SPEECH: MetroCop]
+(jeci)
+
+[SPEECH: MetroCop]
+(stena)
+
+-----------------------------------------------------------------
+[Owner: MetroCop]
+[Name:  MetroCop_BarkFutz]
+
+[SPEECH: MetroCop]
+Ovladejte se!
+
+[SPEECH: MetroCop]
+Pane, tropite tu vytrznosti!
+
+[SPEECH: MetroCop]
+Nenutte me, abych vas zatykal!
+
+-----------------------------------------------------------------
+[Owner: MetroCop]
+[Name:  MetroCop_BarkGore]
+
+[SPEECH: MetroCop]
+Dalsi obet teroristu.
+
+[SPEECH: MetroCop]
+Uz zase!
+
+[SPEECH: MetroCop]
+Za tim jiste vezi Silhouette.
+
+-----------------------------------------------------------------
+[Owner: MetroCop]
+[Name:  MetroCop_BarkOnFire]
+
+[COMMENT]
+OnFire scream 1
+
+[SPEECH: MetroCop]
+(jeci)
+
+[COMMENT]
+OnFire scream 2
+
+[SPEECH: MetroCop]
+(jeci)
+
+[COMMENT]
+OnFire scream 3
+
+[SPEECH: MetroCop]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: MetroCop]
+[Name:  MetroCop_BarkPostAttackSearching]
+
+[SPEECH: MetroCop]
+Musime toho muze zatknout!
+
+[SPEECH: MetroCop]
+Doufam, ze jeste nejsme mimo nas okrsek!
+
+[SPEECH: MetroCop]
+Musime ho najit!
+
+-----------------------------------------------------------------
+[Owner: MetroCop]
+[Name:  MetroCop_BarkPreAttackSearching]
+
+[SPEECH: MetroCop]
+Je tu nekdo? Tady je policie!
+
+[SPEECH: MetroCop]
+At jste kdokoliv, porusil jste zakon!
+
+[SPEECH: MetroCop]
+Myslim, ze jsem neco slysel.
+
+-----------------------------------------------------------------
+[Owner: MetroCop]
+[Name:  MetroCop_BarkPreAttackSighting]
+
+[SPEECH: MetroCop]
+Policie! Vyjdete ven, at vas vidim!
+
+[SPEECH: MetroCop]
+Kdo je to? Nevidim vas dobre...
+
+[SPEECH: MetroCop]
+Vypada to jako muz... Je tam moc velka tma.
+
+-----------------------------------------------------------------
+[Owner: MetroCop]
+[Name:  MetroCop_BarkSearchGiveUp]
+
+[SPEECH: MetroCop]
+Jenom stin.
+
+[SPEECH: MetroCop]
+Nikdo. Pripadam si jako pitomec.
+
+[SPEECH: MetroCop]
+Asi to byla jen kocka.
+
+-----------------------------------------------------------------
+[Owner: MetroCop]
+[Name:  MetroCop_BarkSurprise]
+
+[SPEECH: MetroCop]
+Dobry Boze!
+
+[SPEECH: MetroCop]
+Je to...
+
+[SPEECH: MetroCop]
+Coze?
+
+-----------------------------------------------------------------
+[Owner: MetroCop]
+[Name:  MetroCop_BarkTargetAcquired]
+
+[SPEECH: MetroCop]
+Podezrely na dohled!
+
+[SPEECH: MetroCop]
+Ten je muj!
+
+[SPEECH: MetroCop]
+Odpovida tomu popisu!
+
+-----------------------------------------------------------------
+[Owner: MetroCop]
+[Name:  MetroCop_BarkTargetLost]
+
+[SPEECH: MetroCop]
+Nic tu nevidim.
+
+[SPEECH: MetroCop]
+Ubozak! Roboti ho rozstrileji na cucky.
+
+[SPEECH: MetroCop]
+Utekl! Ale jiste neprezije dlouho.
+
+-----------------------------------------------------------------
+[Owner: MetroCop]
+[Name:  MetroCop_BarkTearGas]
+
+[COMMENT]
+TearGas scream 1“™âhcÔﬁÅIç˙é
+
+[SPEECH: MetroCop]
+(jeci)
+
+[COMMENT]
+TearGas scream 2A
+
+[SPEECH: MetroCop]
+(jeci)
+
+[COMMENT]
+TearGas scream 3A
+
+[SPEECH: MetroCop]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: MiB]
+[Name:  MiB_BarkAreaSecure]
+
+[SPEECH: MiB]
+Zabalte ho. Budou ho chtit videt.
+
+[SPEECH: MiB]
+Hotovo. Zavrete celou oblast.
+
+[SPEECH: MiB]
+Tak to by bylo. Prohledejte telo.
+
+[SPEECH: MiB]
+Pamatujte, ze tentokrat se tela nesmime dotykat.
+
+-----------------------------------------------------------------
+[Owner: MiB]
+[Name:  MiB_BarkCriticalDamage]
+
+[COMMENT]
+Spoken into some kind of radio link, clearly.
+
+[SPEECH: MiB]
+Ustupujeme!
+
+[SPEECH: MiB]
+Prosim o posily! Primo sem.
+
+[SPEECH: MiB]
+Utrpel jsem skodu. Zadam o radu!
+
+[SPEECH: MiB]
+(stena)
+
+-----------------------------------------------------------------
+[Owner: MiB]
+[Name:  MiB_BarkFutz]
+
+[SPEECH: MiB]
+Nechte toho!
+
+[SPEECH: MiB]
+To neni rozumne.
+
+[SPEECH: MiB]
+Neplette se do teto operace.
+
+-----------------------------------------------------------------
+[Owner: MiB]
+[Name:  MiB_BarkGoingForAlarm]
+
+[SPEECH: MiB]
+Mame tu ostry poplach!
+
+[SPEECH: MiB]
+Tahle budova neni bezpecna!
+
+[SPEECH: MiB]
+Mame tu poruseni ochranky!
+
+-----------------------------------------------------------------
+[Owner: MiB]
+[Name:  MiB_BarkGore]
+
+[SPEECH: MiB]
+Mrtvola. Zajimava zraneni.
+
+[SPEECH: MiB]
+Nasel jsem lidske telo.
+
+[SPEECH: MiB]
+Obet. Znamky odpovidaji predpokladanemu zpusobu utoku.
+
+-----------------------------------------------------------------
+[Owner: MiB]
+[Name:  MiB_BarkIdle]
+
+[SPEECH: MiB]
+Kdyby se tak vsichni tihle lide dali sledovat...
+
+[SPEECH: MiB]
+Subjekt se blizi.
+
+[SPEECH: MiB]
+My ty hybridy nedokazeme snad nikdy izolovat!
+
+[SPEECH: MiB]
+Na jeho biometrice je neco podezreleho.
+
+[COMMENT]
+Sometimes you'll get a MiB just whispering to himself, saying weird stuff.  Mentally, these guys are pretty far from normal.0
+
+[SPEECH: MiB]
+Zima. Zima a tma. Tak jako vzdycky.
+
+[SPEECH: MiB]
+Neco mi tady nehraje.
+
+[SPEECH: MiB]
+Nekteri z nich jsou androidi. Davejte pozor na to, jak se hybou.
+
+[SPEECH: MiB]
+(kasle)
+
+[SPEECH: MiB]
+(vzdycha)
+
+[SPEECH: MiB]
+(odkaslava si)
+
+-----------------------------------------------------------------
+[Owner: MiB]
+[Name:  MiB_BarkOnFire]
+
+[COMMENT]
+OnFire scream 1
+
+[SPEECH: MiB]
+(jeci)
+
+[COMMENT]
+OnFire scream 2
+
+[SPEECH: MiB]
+(jeci)
+
+[COMMENT]
+OnFire scream 3
+
+[SPEECH: MiB]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: MiB]
+[Name:  MiB_BarkPostAttackSearching]
+
+[SPEECH: MiB]
+Vizualni kontakt ztracen!
+
+[SPEECH: MiB]
+Bez obav, my ho najdeme!
+
+[SPEECH: MiB]
+Vzdejte se! Jsme zastupci zakona!
+
+[SPEECH: MiB]
+Drive nebo pozdeji ho dostaneme.
+
+-----------------------------------------------------------------
+[Owner: MiB]
+[Name:  MiB_BarkPreAttackSearching]
+
+[SPEECH: MiB]
+Vylezte ven, at vas vidim!
+
+[SPEECH: MiB]
+Prohledavam oblast - kontakt mozny.
+
+[SPEECH: MiB]
+Pockat - tady by neco mohlo byt!
+
+[SPEECH: MiB]
+Ticho! To by mohl byt on!
+
+-----------------------------------------------------------------
+[Owner: MiB]
+[Name:  MiB_BarkPreAttackSighting]
+
+[SPEECH: MiB]
+Mam vizualni identifikaci subjektu.
+
+[SPEECH: MiB]
+Zachovejte klid, prosim!
+
+[SPEECH: MiB]
+Halo, obcane!
+
+[SPEECH: MiB]
+Subjekt je muzskeho pohlavi, augmentovany.
+
+[SPEECH: MiB]
+Nekdo tady je. Prijdu na to, co je zac!
+
+-----------------------------------------------------------------
+[Owner: MiB]
+[Name:  MiB_BarkSearchGiveUp]
+
+[SPEECH: MiB]
+Zvlastni... Nikdo tu neni.
+
+[SPEECH: MiB]
+Zvlastni... Prisahal bych, ze jsem neco slysel.
+
+[SPEECH: MiB]
+Vubec nic!
+
+-----------------------------------------------------------------
+[Owner: MiB]
+[Name:  MiB_BarkSurprise]
+
+[SPEECH: MiB]
+Bezprostredni kontakt!
+
+[SPEECH: MiB]
+Je tady!
+
+[SPEECH: MiB]
+Zameril jsem cil!
+
+-----------------------------------------------------------------
+[Owner: MiB]
+[Name:  MiB_BarkTargetAcquired]
+
+[SPEECH: MiB]
+Sejmete ho! Dostali jsme plny souhlas!
+
+[SPEECH: MiB]
+Vetrelec - poradim si s nim!
+
+[SPEECH: MiB]
+Kontakt! Pokracuji podle dohody.
+
+[SPEECH: MiB]
+Cil na dohled!
+
+-----------------------------------------------------------------
+[Owner: MiB]
+[Name:  MiB_BarkTargetLost]
+
+[SPEECH: MiB]
+Cil zmizel. Oblast vypada cista.
+
+[SPEECH: MiB]
+Nic tady nemam.
+
+[SPEECH: MiB]
+Ztratil jsem stopu.
+
+-----------------------------------------------------------------
+[Owner: MiB]
+[Name:  MiB_BarkTearGas]
+
+[COMMENT]
+TearGas scream 1
+
+[SPEECH: MiB]
+(jeci)
+
+[COMMENT]
+TearGas scream 2A
+
+[SPEECH: MiB]
+(jeci)
+
+[COMMENT]
+TearGas scream 3A
+
+[SPEECH: MiB]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: MJ12Commando]
+[Name:  MJ12Commando_BarkAreaSecure]
+
+[COMMENT]
+MJ12 Commando barks should have a slightly tinny, over-the-radio soundŒ9Z‡SQ3~$T®Dµˇ˚0ƒÄQvxÍ o@õRﬁ·nánLU{\!„êéêˇˇ9À˘D/T Hê0ie
+
+[SPEECH: MJ12Commando]
+Nehyba se; proscanujeme ho.
+
+[SPEECH: MJ12Commando]
+Tenhle ma zvlastni augmentace.
+
+[SPEECH: MJ12Commando]
+Sonda 50 metru, zamereno!
+
+[SPEECH: MJ12Commando]
+Zamette to tu; ale sektor jeste neni bezpecny.
+
+-----------------------------------------------------------------
+[Owner: MJ12Commando]
+[Name:  MJ12Commando_BarkCriticalDamage]
+
+[COMMENT]
+MJ12 Commando barks should have a slightly tinny, over-the-radio soundŒ9Z‡SQ3~$T®Dµˇ˚0ƒÄQvxÍ o@õRﬁ·nánLU{\!„êéêˇˇ9À˘D/T Hê0ie
+
+[SPEECH: MJ12Commando]
+Sekundarni aktivni!
+
+[SPEECH: MJ12Commando]
+Ztratil jsem primarni... Nahrazuji.
+
+[SPEECH: MJ12Commando]
+Video je pryc! Vyladuji.
+
+[SPEECH: MJ12Commando]
+Prevodnik je pryc... Prepinam na vizualni.  
+
+[SPEECH: MJ12Commando]
+(stena)
+
+-----------------------------------------------------------------
+[Owner: MJ12Commando]
+[Name:  MJ12Commando_BarkGoingForAlarm]
+
+[COMMENT]
+MJ12 Commando barks should have a slightly tinny, over-the-radio sounda
+
+[SPEECH: MJ12Commando]
+Posily - presun do meho sektoru!
+
+[SPEECH: MJ12Commando]
+Prunik do oblasti - standardni utok!
+
+[SPEECH: MJ12Commando]
+Poplach - nas sektor zije, opakuji, zije!
+
+-----------------------------------------------------------------
+[Owner: MJ12Commando]
+[Name:  MJ12Commando_BarkGore]
+
+[COMMENT]
+MJ12 Commando barks should have a slightly tinny, over-the-radio sounda
+
+[SPEECH: MJ12Commando]
+Mame tu mrtvolu.
+
+[SPEECH: MJ12Commando]
+Je tady telo - infra ukazuje nahlou smrt.
+
+[SPEECH: MJ12Commando]
+Lidska obet. Telni tekutiny - nasilna smrt.
+
+-----------------------------------------------------------------
+[Owner: MJ12Commando]
+[Name:  MJ12Commando_BarkIdle]
+
+[COMMENT]
+MJ12 Commando barks should have a slightly tinny, over-the-radio sounda
+
+[SPEECH: MJ12Commando]
+Na tuhle praci je skoda posilat komando.
+
+[SPEECH: MJ12Commando]
+Na kratkych vlnach silne ruchy! Mozna to nic neni.
+
+[SPEECH: MJ12Commando]
+Na ultrasonice nic. Zkousim nizkofrekvencni ctecku.
+
+[SPEECH: MJ12Commando]
+Vnimam kosmicke zareni... Nadhera.
+
+[SPEECH: MJ12Commando]
+Ticho! Musim se soustredit na akci.
+
+[SPEECH: MJ12Commando]
+(bruci si)
+
+[SPEECH: MJ12Commando]
+(staticke praskani)
+
+[SPEECH: MJ12Commando]
+(vzdycha)
+
+-----------------------------------------------------------------
+[Owner: MJ12Commando]
+[Name:  MJ12Commando_BarkPostAttackSearching]
+
+[COMMENT]
+MJ12 Commando barks should have a slightly tinny, over-the-radio sounda
+
+[SPEECH: MJ12Commando]
+Pokousim se znovu zamerit.
+
+[SPEECH: MJ12Commando]
+Stale tu mam pohyb!
+
+[SPEECH: MJ12Commando]
+Nevidim ho. Proveruji soniku.
+
+[SPEECH: MJ12Commando]
+Spoustim vyhledavani.
+
+-----------------------------------------------------------------
+[Owner: MJ12Commando]
+[Name:  MJ12Commando_BarkPreAttackSearching]
+
+[COMMENT]
+MJ12 Commando barks should have a slightly tinny, over-the-radio sounda
+
+[SPEECH: MJ12Commando]
+Delejte neco - ja prave scanuju!
+
+[SPEECH: MJ12Commando]
+Sonika se mi nelibi - proverim to.
+
+[SPEECH: MJ12Commando]
+Neco tady je.
+
+[SPEECH: MJ12Commando]
+Slysite to? Myslim, ze tu nekoho mame.
+
+[SPEECH: MJ12Commando]
+Projizdim celou stupnici. Co se deje?
+
+-----------------------------------------------------------------
+[Owner: MJ12Commando]
+[Name:  MJ12Commando_BarkPreAttackSighting]
+
+[COMMENT]
+MJ12 Commando barks should have a slightly tinny, over-the-radio sounda
+
+[SPEECH: MJ12Commando]
+Vizualni kontakt! Neznamy cil!
+
+[SPEECH: MJ12Commando]
+Mam ho na dohled!
+
+[SPEECH: MJ12Commando]
+Stat! Identifikujte se, prosim!
+
+[SPEECH: MJ12Commando]
+Bandita! Je nablizku!
+
+-----------------------------------------------------------------
+[Owner: MJ12Commando]
+[Name:  MJ12Commando_BarkSearchGiveUp]
+
+[COMMENT]
+MJ12 Commando barks should have a slightly tinny, over-the-radio sounda
+
+[SPEECH: MJ12Commando]
+Zda se, ze je to falesny poplach.
+
+[SPEECH: MJ12Commando]
+Nic. Budu si muset dat opravit soniku.
+
+[SPEECH: MJ12Commando]
+Musela to byt nejaka porucha.
+
+[SPEECH: MJ12Commando]
+Vysledek negativni! Pokracuji ve scanovani.
+
+-----------------------------------------------------------------
+[Owner: MJ12Commando]
+[Name:  MJ12Commando_BarkSurprise]
+
+[COMMENT]
+MJ12 Commando barks should have a slightly tinny, over-the-radio sounda
+
+[SPEECH: MJ12Commando]
+Kontakt!
+
+[SPEECH: MJ12Commando]
+Co se to...
+
+[COMMENT]
+fast, panicky
+
+[SPEECH: MJ12Commando]
+Cil je tady! Na dosah!
+
+-----------------------------------------------------------------
+[Owner: MJ12Commando]
+[Name:  MJ12Commando_BarkTargetAcquired]
+
+[COMMENT]
+MJ12 Commando barks should have a slightly tinny, over-the-radio sounda
+
+[SPEECH: MJ12Commando]
+Mam ho zaramovanyho - bylo to snadny!
+
+[SPEECH: MJ12Commando]
+Je to on! Zlikviduju ho!
+
+[SPEECH: MJ12Commando]
+Cil zameren!
+
+[SPEECH: MJ12Commando]
+Kontakt! Opakuji, mam kontakt!
+
+-----------------------------------------------------------------
+[Owner: MJ12Commando]
+[Name:  MJ12Commando_BarkTargetLost]
+
+[COMMENT]
+MJ12 Commando barks should have a slightly tinny, over-the-radio sounda
+
+[SPEECH: MJ12Commando]
+Kam se podel? Spoustim zaznam!
+
+[SPEECH: MJ12Commando]
+Ztratil jsem ho. Nevim, co se stalo.
+
+[SPEECH: MJ12Commando]
+Vracim se.
+
+-----------------------------------------------------------------
+[Owner: MJ12Troop]
+[Name:  MJ12Troop_BarkAreaSecure]
+
+[SPEECH: MJ12Troop]
+Dostal jsem ho.
+
+[SPEECH: MJ12Troop]
+Dalsi to ma za sebou. Proverte oblast!
+
+[SPEECH: MJ12Troop]
+Dobra prace.
+
+[SPEECH: MJ12Troop]
+Je po nem. Zkuste ho identifikovat.
+
+[SPEECH: MJ12Troop]
+To ale byla tuha svine!
+
+[SPEECH: MJ12Troop]
+Fajn, ted zase trochu toho papirovani.
+
+[SPEECH: MJ12Troop]
+Narocnej den. Jde nekdo na obed?
+
+-----------------------------------------------------------------
+[Owner: MJ12Troop]
+[Name:  MJ12Troop_BarkCriticalDamage]
+
+[SPEECH: MJ12Troop]
+Ustupuju!
+
+[SPEECH: MJ12Troop]
+Stahuju se zpatky!
+
+[SPEECH: MJ12Troop]
+Volam posilu!
+
+[SPEECH: MJ12Troop]
+Zahajuju palbu!
+
+[SPEECH: MJ12Troop]
+Budeme potrebovat preskupit!
+
+[SPEECH: MJ12Troop]
+(jeci)
+
+[SPEECH: MJ12Troop]
+(stena)
+
+-----------------------------------------------------------------
+[Owner: MJ12Troop]
+[Name:  MJ12Troop_BarkFutz]
+
+[SPEECH: MJ12Troop]
+Hej!
+
+[SPEECH: MJ12Troop]
+To prece neni fer!
+
+[SPEECH: MJ12Troop]
+Kdo vlastne jste? Co tady vubec delate?
+
+-----------------------------------------------------------------
+[Owner: MJ12Troop]
+[Name:  MJ12Troop_BarkGoingForAlarm]
+
+[SPEECH: MJ12Troop]
+Poplach! Vetrelec!
+
+[SPEECH: MJ12Troop]
+To je on! Vyhlaste poplach!
+
+[SPEECH: MJ12Troop]
+Mame tu naruseni prostoru!
+
+[SPEECH: MJ12Troop]
+Poslete sem jednotku!
+
+-----------------------------------------------------------------
+[Owner: MJ12Troop]
+[Name:  MJ12Troop_BarkGore]
+
+[SPEECH: MJ12Troop]
+Mame tady ciziho muze!
+
+[SPEECH: MJ12Troop]
+Mame tuhyho!
+
+[SPEECH: MJ12Troop]
+Mame tady obeti na zivotech!
+
+-----------------------------------------------------------------
+[Owner: MJ12Troop]
+[Name:  MJ12Troop_BarkIdle]
+
+[SPEECH: MJ12Troop]
+Rika se, ze ten chlap ma nejaky novy implantaty!
+
+[SPEECH: MJ12Troop]
+Dalsi posrana hlidka.
+
+[SPEECH: MJ12Troop]
+Za dva mesice jdu konecne ke komandu.
+
+[SPEECH: MJ12Troop]
+Tahle sluzba se tahne jak hovno po bote!
+
+[SPEECH: MJ12Troop]
+Ja uz jsem na tohle asi moc starej.
+
+[SPEECH: MJ12Troop]
+Ja se snad ukousu nudou!
+
+[SPEECH: MJ12Troop]
+(kasle)
+
+[SPEECH: MJ12Troop]
+(bruci) 
+
+[SPEECH: MJ12Troop]
+(hvizda)
+
+-----------------------------------------------------------------
+[Owner: MJ12Troop]
+[Name:  MJ12Troop_BarkOnFire]
+
+[COMMENT]
+OnFire scream 1
+
+[SPEECH: MJ12Troop]
+(jeci)
+
+[COMMENT]
+OnFire scream 2
+
+[SPEECH: MJ12Troop]
+(jeci)
+
+[COMMENT]
+OnFire scream 3
+
+[SPEECH: MJ12Troop]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: MJ12Troop]
+[Name:  MJ12Troop_BarkOutOfAmmo]
+
+[SPEECH: MJ12Troop]
+Prazdnej!
+
+[SPEECH: MJ12Troop]
+Jsem na suchu!
+
+[SPEECH: MJ12Troop]
+Dosly!
+
+-----------------------------------------------------------------
+[Owner: MJ12Troop]
+[Name:  MJ12Troop_BarkPostAttackSearching]
+
+[SPEECH: MJ12Troop]
+Je nekde tady!
+
+[SPEECH: MJ12Troop]
+Pockej, neutekl daleko!
+
+[SPEECH: MJ12Troop]
+Porad tu nekde slidi!
+
+[SPEECH: MJ12Troop]
+Kam se podel?
+
+[SPEECH: MJ12Troop]
+Dorazte ho!
+
+[SPEECH: MJ12Troop]
+Proverte sve oblasti! Muze byt kdekoliv!
+
+-----------------------------------------------------------------
+[Owner: MJ12Troop]
+[Name:  MJ12Troop_BarkPreAttackSearching]
+
+[SPEECH: MJ12Troop]
+Slysel ho ted nekdo?
+
+[SPEECH: MJ12Troop]
+Serzante? To jste vy?
+
+[SPEECH: MJ12Troop]
+Kdo je tam?
+
+[SPEECH: MJ12Troop]
+Halo? At je tam, kdo chce, je v tezkym pruseru!
+
+[SPEECH: MJ12Troop]
+Ja vim, ze tam jsi! Slysim te!
+
+[SPEECH: MJ12Troop]
+At je tam, kdo chce, at se okamzite vzda!
+
+[COMMENT]
+quietly
+
+[SPEECH: MJ12Troop]
+Psst... Pockame, az se znovu pohne!
+
+-----------------------------------------------------------------
+[Owner: MJ12Troop]
+[Name:  MJ12Troop_BarkPreAttackSighting]
+
+[SPEECH: MJ12Troop]
+Urcite tu nekdo je!
+
+[SPEECH: MJ12Troop]
+Chlap v kabate - jdu to proverit!
+
+[SPEECH: MJ12Troop]
+Hej! Zustante stat!
+
+[SPEECH: MJ12Troop]
+Podezrely!
+
+[SPEECH: MJ12Troop]
+Mam tu podezreleho, nechce se identifikovat!
+
+-----------------------------------------------------------------
+[Owner: MJ12Troop]
+[Name:  MJ12Troop_BarkSearchGiveUp]
+
+[SPEECH: MJ12Troop]
+Takze zase nic.
+
+[SPEECH: MJ12Troop]
+Asi falesnej poplach.
+
+[SPEECH: MJ12Troop]
+Prisahal bych, ze...
+
+[SPEECH: MJ12Troop]
+Nic. Mam nervy na pochodu.
+
+-----------------------------------------------------------------
+[Owner: MJ12Troop]
+[Name:  MJ12Troop_BarkSurprise]
+
+[COMMENT]
+We might want to experiment with some generic "surprised" sounds as wellr
+
+[SPEECH: MJ12Troop]
+Panebo...
+
+[SPEECH: MJ12Troop]
+Ty hajzle...
+
+[SPEECH: MJ12Troop]
+Kdo to kurva...
+
+[SPEECH: MJ12Troop]
+Ke mne!
+
+-----------------------------------------------------------------
+[Owner: MJ12Troop]
+[Name:  MJ12Troop_BarkTargetAcquired]
+
+[SPEECH: MJ12Troop]
+To je on!
+
+[SPEECH: MJ12Troop]
+Mam te!
+
+[SPEECH: MJ12Troop]
+To je on! Rychle, na nej!
+
+[SPEECH: MJ12Troop]
+Davejte si bacha - tohle je nejakej posranej mech!
+
+[SPEECH: MJ12Troop]
+Mirte na hlavu!
+
+[SPEECH: MJ12Troop]
+Je to Denton - vzpominate?
+
+-----------------------------------------------------------------
+[Owner: MJ12Troop]
+[Name:  MJ12Troop_BarkTargetLost]
+
+[SPEECH: MJ12Troop]
+Zapomen na to. Je fuc.
+
+[SPEECH: MJ12Troop]
+Zdrhnul nam. Kaslem na nej.
+
+[SPEECH: MJ12Troop]
+Chm. Ted uz je kdovikde.
+
+[SPEECH: MJ12Troop]
+Rika se, ze prej umi zmizet jako by se do zeme propad'.
+
+[COMMENT]
+into radior
+
+[SPEECH: MJ12Troop]
+Pruzkum negativni, opakuji, negativni!
+
+-----------------------------------------------------------------
+[Owner: MJ12Troop]
+[Name:  MJ12Troop_BarkTearGas]
+
+[COMMENT]
+TearGas scream 1oËîòMêõqI@
+
+[SPEECH: MJ12Troop]
+(jeci)
+
+[COMMENT]
+TearGas scream 2A
+
+[SPEECH: MJ12Troop]
+(jeci)
+
+[COMMENT]
+TearGas scream 3A
+
+[SPEECH: MJ12Troop]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: MJ12TroopB]
+[Name:  MJ12TroopB_BarkAreaSecure]
+
+[SPEECH: MJ12TroopB]
+Dostal jsem ho.
+
+[SPEECH: MJ12TroopB]
+Dalsi to ma za sebou. Proverte oblast!
+
+[SPEECH: MJ12TroopB]
+Dobra prace.
+
+[SPEECH: MJ12TroopB]
+Je po nem. Zkuste ho identifikovat.
+
+[SPEECH: MJ12TroopB]
+To ale byla tuha svine!
+
+[SPEECH: MJ12TroopB]
+Fajn, ted zase trochu toho papirovani.
+
+[SPEECH: MJ12TroopB]
+Narocnej den. Jde nekdo na obed?
+
+-----------------------------------------------------------------
+[Owner: MJ12TroopB]
+[Name:  MJ12TroopB_BarkCriticalDamage]
+
+[SPEECH: MJ12TroopB]
+Ustupuju!
+
+[SPEECH: MJ12TroopB]
+Stahuju se zpatky!
+
+[SPEECH: MJ12TroopB]
+Volam posilu!
+
+[SPEECH: MJ12TroopB]
+Zahajuju palbu!
+
+[SPEECH: MJ12TroopB]
+Budeme potrebovat preskupit!
+
+[SPEECH: MJ12TroopB]
+(jeci)
+
+[SPEECH: MJ12TroopB]
+(stena)
+
+-----------------------------------------------------------------
+[Owner: MJ12TroopB]
+[Name:  MJ12TroopB_BarkFutz]
+
+[SPEECH: MJ12TroopB]
+Hej!
+
+[SPEECH: MJ12TroopB]
+To prece neni fer!
+
+[SPEECH: MJ12TroopB]
+Kdo vlastne jste? Co tady vubec delate?
+
+-----------------------------------------------------------------
+[Owner: MJ12TroopB]
+[Name:  MJ12TroopB_BarkGoingForAlarm]
+
+[SPEECH: MJ12TroopB]
+Poplach! Vetrelec!
+
+[SPEECH: MJ12TroopB]
+To je on! Vyhlaste poplach!
+
+[SPEECH: MJ12TroopB]
+Mame tu naruseni prostoru!
+
+[SPEECH: MJ12TroopB]
+Poslete sem jednotku!
+
+-----------------------------------------------------------------
+[Owner: MJ12TroopB]
+[Name:  MJ12TroopB_BarkGore]
+
+[SPEECH: MJ12TroopB]
+Mame tady ciziho muze!
+
+[SPEECH: MJ12TroopB]
+Mame tuhyho!
+
+[SPEECH: MJ12TroopB]
+Mame tady obeti na zivotech!
+
+-----------------------------------------------------------------
+[Owner: MJ12TroopB]
+[Name:  MJ12TroopB_BarkIdle]
+
+[SPEECH: MJ12TroopB]
+Rika se, ze ten chlap ma nejaky novy implantaty!
+
+[SPEECH: MJ12TroopB]
+Dalsi posrana hlidka.
+
+[SPEECH: MJ12TroopB]
+Za dva mesice jdu konecne ke komandu.
+
+[SPEECH: MJ12TroopB]
+Tahle sluzba se tahne jak hovno po bote!
+
+[SPEECH: MJ12TroopB]
+Ja uz jsem na tohle asi moc starej.
+
+[SPEECH: MJ12TroopB]
+Ja se snad ukousu nudou!
+
+[SPEECH: MJ12TroopB]
+(kasle)
+
+[SPEECH: MJ12TroopB]
+(bruci) 
+
+[SPEECH: MJ12TroopB]
+(hvizda)
+
+-----------------------------------------------------------------
+[Owner: MJ12TroopB]
+[Name:  MJ12TroopB_BarkOnFire]
+
+[COMMENT]
+OnFire scream 1
+
+[SPEECH: MJ12TroopB]
+(jeci)
+
+[COMMENT]
+OnFire scream 2
+
+[SPEECH: MJ12TroopB]
+(jeci)
+
+[COMMENT]
+OnFire scream 3
+
+[SPEECH: MJ12TroopB]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: MJ12TroopB]
+[Name:  MJ12TroopB_BarkOutOfAmmo]
+
+[SPEECH: MJ12TroopB]
+Prazdnej!
+
+[SPEECH: MJ12TroopB]
+Jsem na suchu!
+
+[SPEECH: MJ12TroopB]
+Dosly!
+
+-----------------------------------------------------------------
+[Owner: MJ12TroopB]
+[Name:  MJ12TroopB_BarkPostAttackSearching]
+
+[SPEECH: MJ12TroopB]
+Je nekde tady!
+
+[SPEECH: MJ12TroopB]
+Pockej, neutekl daleko!
+
+[SPEECH: MJ12TroopB]
+Porad tu nekde slidi!
+
+[SPEECH: MJ12TroopB]
+Kam se podel?
+
+[SPEECH: MJ12TroopB]
+Dorazte ho!
+
+[SPEECH: MJ12TroopB]
+Proverte sve oblasti! Muze byt kdekoliv!
+
+-----------------------------------------------------------------
+[Owner: MJ12TroopB]
+[Name:  MJ12TroopB_BarkPreAttackSearching]
+
+[SPEECH: MJ12TroopB]
+Slysel ho ted nekdo?
+
+[SPEECH: MJ12TroopB]
+Serzante? To jste vy?
+
+[SPEECH: MJ12TroopB]
+Kdo je tam?
+
+[SPEECH: MJ12TroopB]
+Halo? At je tam, kdo chce, je v tezkym pruseru!
+
+[SPEECH: MJ12TroopB]
+Ja vim, ze tam jsi! Slysim te!
+
+[SPEECH: MJ12TroopB]
+At je tam, kdo chce, at se okamzite vzda!
+
+[COMMENT]
+quietly
+
+[SPEECH: MJ12TroopB]
+Psst... Pockame, az se znovu pohne!
+
+-----------------------------------------------------------------
+[Owner: MJ12TroopB]
+[Name:  MJ12TroopB_BarkPreAttackSighting]
+
+[SPEECH: MJ12TroopB]
+Urcite tu nekdo je!
+
+[SPEECH: MJ12TroopB]
+Chlap v kabate - jdu to proverit!
+
+[SPEECH: MJ12TroopB]
+Hej! Zustante stat!
+
+[SPEECH: MJ12TroopB]
+Podezrely!
+
+[SPEECH: MJ12TroopB]
+Mam tu podezreleho, nechce se identifikovat!
+
+-----------------------------------------------------------------
+[Owner: MJ12TroopB]
+[Name:  MJ12TroopB_BarkSearchGiveUp]
+
+[SPEECH: MJ12TroopB]
+Takze zase nic.
+
+[SPEECH: MJ12TroopB]
+Asi falesnej poplach.
+
+[SPEECH: MJ12TroopB]
+Prisahal bych, ze...
+
+[SPEECH: MJ12TroopB]
+Nic. Mam nervy na pochodu.
+
+-----------------------------------------------------------------
+[Owner: MJ12TroopB]
+[Name:  MJ12TroopB_BarkSurprise]
+
+[COMMENT]
+We might want to experiment with some generic "surprised" sounds as wellr
+
+[SPEECH: MJ12TroopB]
+Panebo...
+
+[SPEECH: MJ12TroopB]
+Ty hajzle...
+
+[SPEECH: MJ12TroopB]
+Kdo to kurva...
+
+[SPEECH: MJ12TroopB]
+Ke mne!
+
+-----------------------------------------------------------------
+[Owner: MJ12TroopB]
+[Name:  MJ12TroopB_BarkTargetAcquired]
+
+[SPEECH: MJ12TroopB]
+To je on!
+
+[SPEECH: MJ12TroopB]
+Mam te!
+
+[SPEECH: MJ12TroopB]
+To je on! Rychle, na nej!
+
+[SPEECH: MJ12TroopB]
+Davejte si bacha - tohle je nejakej posranej mech!
+
+[SPEECH: MJ12TroopB]
+Mirte na hlavu!
+
+[SPEECH: MJ12TroopB]
+Je to Denton - vzpominate?
+
+-----------------------------------------------------------------
+[Owner: MJ12TroopB]
+[Name:  MJ12TroopB_BarkTargetLost]
+
+[SPEECH: MJ12TroopB]
+Zapomen na to. Je fuc.
+
+[SPEECH: MJ12TroopB]
+Zdrhnul nam. Kaslem na nej.
+
+[SPEECH: MJ12TroopB]
+Chm. Ted uz je kdovikde.
+
+[SPEECH: MJ12TroopB]
+Rika se, ze prej umi zmizet jako by se do zeme propad'.
+
+[COMMENT]
+into radioM
+
+[SPEECH: MJ12TroopB]
+Pruzkum negativni, opakuji, negativni!
+
+-----------------------------------------------------------------
+[Owner: MJ12TroopB]
+[Name:  MJ12TroopB_BarkTearGas]
+
+[COMMENT]
+TearGas scream 1
+
+[SPEECH: MJ12TroopB]
+(jeci)
+
+[COMMENT]
+TearGas scream 2p
+
+[SPEECH: MJ12TroopB]
+(jeci)
+
+[COMMENT]
+TearGas scream 3p
+
+[SPEECH: MJ12TroopB]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: MorganEverett]
+[Name:  MorganEverett_BarkAllianceFriendly]
+
+[SPEECH: MorganEverett]
+Tohle uz nezkousejte.
+
+[SPEECH: MorganEverett]
+Reknu vam to jasne. Bud poslouzite Iluminatum nebo zemrete.
+
+[SPEECH: MorganEverett]
+Kdyby me bylo snadne zabit, tak uz bych davno nezil.
+
+-----------------------------------------------------------------
+[Owner: MorganEverett]
+[Name:  MorganEverett_BarkAllianceHostile]
+
+[SPEECH: MorganEverett]
+Vy se na me odvazujete utocit?
+
+[SPEECH: MorganEverett]
+Zesilel jste?
+
+[SPEECH: MorganEverett]
+Nebudte smesny!
+
+-----------------------------------------------------------------
+[Owner: MorganEverett]
+[Name:  MorganEverett_BarkFutz]
+
+[SPEECH: MorganEverett]
+Trochu ucty, prosim!
+
+[SPEECH: MorganEverett]
+Myslim, ze kdyz jste chodil do skoly, asi vas veda prilis nezajimala.
+
+[SPEECH: MorganEverett]
+Ma laborator neni zadne misto ke hrani.
+
+-----------------------------------------------------------------
+[Owner: NicoletteDuClare]
+[Name:  NicoletteDuClare_BarkAllianceFriendly]
+
+[SPEECH: NicoletteDuClare]
+Zkratka se uklidnete. Jasne?
+
+[SPEECH: NicoletteDuClare]
+Mate vysokou hladinu testosteronu? Uzivaji se na to pilulky, vite?
+
+[SPEECH: NicoletteDuClare]
+Umite to hezky, ale me tak snadno nesbalite.
+
+-----------------------------------------------------------------
+[Owner: NicoletteDuClare]
+[Name:  NicoletteDuClare_BarkAllianceHostile]
+
+[SPEECH: NicoletteDuClare]
+Pozor!
+
+[SPEECH: NicoletteDuClare]
+Zcvoknul jste nebo co?
+
+[SPEECH: NicoletteDuClare]
+Co to sakra...?
+
+-----------------------------------------------------------------
+[Owner: NicoletteDuClare]
+[Name:  NicoletteDuClare_BarkFutz]
+
+[SPEECH: NicoletteDuClare]
+Prestante s tema pitomostma.
+
+[SPEECH: NicoletteDuClare]
+To neni zadna sranda.
+
+[SPEECH: NicoletteDuClare]
+Paneboze!
+
+-----------------------------------------------------------------
+[Owner: PaulDenton]
+[Name:  PaulDenton_BarkAllianceFriendly]
+
+[SPEECH: PaulDenton]
+Zkus to na me jeste jednou a zabiju te.
+
+[SPEECH: PaulDenton]
+Mel by sis zatrepat hlavou, aby se ti to v ni srovnalo.
+
+[SPEECH: PaulDenton]
+Meli bysme si navzajem verit, JC. Zalezi na tom hodne.
+
+-----------------------------------------------------------------
+[Owner: PaulDenton]
+[Name:  PaulDenton_BarkAllianceHostile]
+
+[SPEECH: PaulDenton]
+Copak jsi se zblaznil?
+
+[SPEECH: PaulDenton]
+Kriste Jezisi, JC!
+
+[SPEECH: PaulDenton]
+Kretene...
+
+-----------------------------------------------------------------
+[Owner: PaulDenton]
+[Name:  PaulDenton_BarkFutz]
+
+[SPEECH: PaulDenton]
+Nech tech pitomosti!
+
+[SPEECH: PaulDenton]
+To neni legracni.
+
+[SPEECH: PaulDenton]
+Tak dost. Bez radsi neco delat!
+
+-----------------------------------------------------------------
+[Owner: Sailor]
+[Name:  Sailor_BarkAreaSecure]
+
+[SPEECH: Sailor]
+Mame ho. Co to bylo za chlapa?
+
+[SPEECH: Sailor]
+Je po nem. Pujdu to oznamit kapitanovi.
+
+[SPEECH: Sailor]
+Poslete pro nekoho, at to uklidi!
+
+-----------------------------------------------------------------
+[Owner: Sailor]
+[Name:  Sailor_BarkCriticalDamage]
+
+[SPEECH: Sailor]
+Kriste! Ten chlap zesilel!
+
+[SPEECH: Sailor]
+Nejsem placenej za to, abych bojoval s poldama!
+
+[SPEECH: Sailor]
+Dostal jsem to!
+
+[SPEECH: Sailor]
+(jeci)
+
+[SPEECH: Sailor]
+(stena)
+
+-----------------------------------------------------------------
+[Owner: Sailor]
+[Name:  Sailor_BarkFutz]
+
+[SPEECH: Sailor]
+Dej si majzla, kamo!
+
+[SPEECH: Sailor]
+Hej!
+
+[SPEECH: Sailor]
+Co si, sakra, myslis, ze delas?
+
+-----------------------------------------------------------------
+[Owner: Sailor]
+[Name:  Sailor_BarkGoingForAlarm]
+
+[SPEECH: Sailor]
+Vsichni muzi! Ostry poplach!
+
+[SPEECH: Sailor]
+Mame na palube vetrelce!
+
+[SPEECH: Sailor]
+Bezte pro kapitana! Nekdo se vetrel na lod!
+
+-----------------------------------------------------------------
+[Owner: Sailor]
+[Name:  Sailor_BarkGore]
+
+[SPEECH: Sailor]
+Au, ne!
+
+[SPEECH: Sailor]
+Kriste Jezisi!
+
+[SPEECH: Sailor]
+Kdo to, kurva, udelal?
+
+-----------------------------------------------------------------
+[Owner: Sailor]
+[Name:  Sailor_BarkIdle]
+
+[SPEECH: Sailor]
+Radsi se vratim k bednam s bananama.
+
+[SPEECH: Sailor]
+Komu to sem vlastne vezem? Tohle mesto je mrtvy!
+
+[SPEECH: Sailor]
+Tohle je muj posledni takovejhle dzob. Pro vladu uz ani hovno.
+
+[SPEECH: Sailor]
+(kasle)
+
+[SPEECH: Sailor]
+(piska)
+
+[SPEECH: Sailor]
+(bruci)
+
+-----------------------------------------------------------------
+[Owner: Sailor]
+[Name:  Sailor_BarkOnFire]
+
+[COMMENT]
+OnFire scream 1
+
+[SPEECH: Sailor]
+(jeci)
+
+[COMMENT]
+OnFire scream 2
+
+[SPEECH: Sailor]
+(jeci)
+
+[COMMENT]
+OnFire scream 3
+
+[SPEECH: Sailor]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: Sailor]
+[Name:  Sailor_BarkPostAttackSearching]
+
+[SPEECH: Sailor]
+Porad tady nekde je.
+
+[SPEECH: Sailor]
+Tahle lod neni tak velka, aby utek'!
+
+[SPEECH: Sailor]
+Vylezte, pane! Nemuzete se schovavat vecne!
+
+-----------------------------------------------------------------
+[Owner: Sailor]
+[Name:  Sailor_BarkPreAttackSearching]
+
+[SPEECH: Sailor]
+Koho jsem to slysel?
+
+[SPEECH: Sailor]
+At je to cokoliv, mam rozkaz strilet bez varovani.
+
+[SPEECH: Sailor]
+Kdo je tam? Potrebujete povoleni od kapitana!
+
+-----------------------------------------------------------------
+[Owner: Sailor]
+[Name:  Sailor_BarkPreAttackSighting]
+
+[SPEECH: Sailor]
+Vy v tom kabate! Co jste zac?
+
+[SPEECH: Sailor]
+Myslim, ze jsem neco videl.
+
+[SPEECH: Sailor]
+Hej! Zustante okamzite stat!
+
+-----------------------------------------------------------------
+[Owner: Sailor]
+[Name:  Sailor_BarkSearchGiveUp]
+
+[SPEECH: Sailor]
+To nic. Jenom vlnobiti.
+
+[SPEECH: Sailor]
+Hm. Nikdo tu neni.
+
+[SPEECH: Sailor]
+To musely bejt krysy.
+
+-----------------------------------------------------------------
+[Owner: Sailor]
+[Name:  Sailor_BarkSurprise]
+
+[SPEECH: Sailor]
+Kdo jste?
+
+[SPEECH: Sailor]
+Zatracene!
+
+[SPEECH: Sailor]
+Paneboze!
+
+-----------------------------------------------------------------
+[Owner: Sailor]
+[Name:  Sailor_BarkTargetAcquired]
+
+[SPEECH: Sailor]
+Prominte, pane - rozkaz je rozkaz.
+
+[SPEECH: Sailor]
+Tady nemate co pohledavat.
+
+[SPEECH: Sailor]
+Tohle plavidlo je verejnosti nepristupne.
+
+-----------------------------------------------------------------
+[Owner: Sailor]
+[Name:  Sailor_BarkTargetLost]
+
+[SPEECH: Sailor]
+Neni tady - nejspis sel pres palubu.
+
+[SPEECH: Sailor]
+Ztratil jsem ho. Jeste prohledame skladiste na zadi.
+
+[SPEECH: Sailor]
+Hergot, ztratil jsem ho! Jak tohle vysvetlim?
+
+-----------------------------------------------------------------
+[Owner: Sailor]
+[Name:  Sailor_BarkTearGas]
+
+[COMMENT]
+TearGas scream 1r`õ.–∏”ò	∞JF
+
+[SPEECH: Sailor]
+(jeci)
+
+[COMMENT]
+TearGas scream 2A
+
+[SPEECH: Sailor]
+(jeci)
+
+[COMMENT]
+TearGas scream 3A
+
+[SPEECH: Sailor]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: SamCarter]
+[Name:  SamCarter_BarkAllianceFriendly]
+
+[SPEECH: SamCarter]
+Tohle uz radsi nikdy nezkousej, jasny?
+
+[SPEECH: SamCarter]
+Tak snadno se me rozhodne nezbavis!
+
+[SPEECH: SamCarter]
+Nekdo by ti mel poradne zatrepat hlavou, blazne. Odchod!
+
+-----------------------------------------------------------------
+[Owner: SamCarter]
+[Name:  SamCarter_BarkAllianceHostile]
+
+[SPEECH: SamCarter]
+Co si to dovolujes, vojaku?
+
+[SPEECH: SamCarter]
+Pojd sem - ukazu ti, jak se to ma delat...
+
+[SPEECH: SamCarter]
+Odchod! Ihned!
+
+-----------------------------------------------------------------
+[Owner: SamCarter]
+[Name:  SamCarter_BarkFutz]
+
+[SPEECH: SamCarter]
+Ovladej se, agente!
+
+[SPEECH: SamCarter]
+Tyhle vrazedne choutky by sis mel nechat zajit, vojaku. Nebo nebudes zit dlouho.
+
+[SPEECH: SamCarter]
+Ted neni vhodna doba na kockovani.
+
+-----------------------------------------------------------------
+[Owner: Smuggler]
+[Name:  Smuggler_BarkAllianceFriendly]
+
+[SPEECH: Smuggler]
+Takovej se nenarodil, aby prevezl Paseraka!
+
+[SPEECH: Smuggler]
+Kdyz ode me neco chces, musis napred zaplatit.
+
+[SPEECH: Smuggler]
+Hajzle!
+
+-----------------------------------------------------------------
+[Owner: Smuggler]
+[Name:  Smuggler_BarkAllianceHostile]
+
+[SPEECH: Smuggler]
+To bylo dobry.
+
+[SPEECH: Smuggler]
+Mas smulu.
+
+[SPEECH: Smuggler]
+At je tady po tvem.
+
+-----------------------------------------------------------------
+[Owner: Smuggler]
+[Name:  Smuggler_BarkFutz]
+
+[SPEECH: Smuggler]
+Jestli neco chces, promluv si se mnou.
+
+[SPEECH: Smuggler]
+Co si, sakra, myslis, ze delas?
+
+[SPEECH: Smuggler]
+Prima.
+
+-----------------------------------------------------------------
+[Owner: StantonDowd]
+[Name:  StantonDowd_BarkAllianceFriendly]
+
+[SPEECH: StantonDowd]
+Budeme si duverovat. Vzajemne. Musime.
+
+[SPEECH: StantonDowd]
+Jen se uklidnete! Nemusime se prece hned zabijet.
+
+[SPEECH: StantonDowd]
+Mne se nechce umirat. Zda se, ze vy na to mate jiny nazor.
+
+-----------------------------------------------------------------
+[Owner: StantonDowd]
+[Name:  StantonDowd_BarkAllianceHostile]
+
+[SPEECH: StantonDowd]
+Co to sakra --
+
+[SPEECH: StantonDowd]
+Zesilel jste?
+
+[SPEECH: StantonDowd]
+Hej!
+
+-----------------------------------------------------------------
+[Owner: StantonDowd]
+[Name:  StantonDowd_BarkFutz]
+
+[SPEECH: StantonDowd]
+Meli bychom si svoje krky spis chranit.
+
+[SPEECH: StantonDowd]
+Pane Dentone, o co se to vlastne pokousite?
+
+[SPEECH: StantonDowd]
+Troufam si hadat, ze vasi rodice nedokoncili ani zakladni skolu?
+
+-----------------------------------------------------------------
+[Owner: Terrorist]
+[Name:  Terrorist_BarkAreaSecure]
+
+[SPEECH: Terrorist]
+Ty chlapci nejsou zas tak dobry.
+
+[SPEECH: Terrorist]
+Radsi vocad, kurva, vypadnem!
+
+[SPEECH: Terrorist]
+Tak tenhle ma smulu.
+
+[SPEECH: Terrorist]
+Zabijeni je muj smysl zivota.
+
+[SPEECH: Terrorist]
+Sejmi ho! Mozna jeste mame sanci!
+
+[SPEECH: Terrorist]
+Jeste nikdy jsem nezabil poldu.
+
+[SPEECH: Terrorist]
+Ten chlapek nebyl zas tak tvrdej. Co se to deje?
+
+-----------------------------------------------------------------
+[Owner: Terrorist]
+[Name:  Terrorist_BarkCriticalDamage]
+
+[SPEECH: Terrorist]
+Koupil jsem ji!
+
+[SPEECH: Terrorist]
+(stena)
+
+[SPEECH: Terrorist]
+Do prdele!
+
+[SPEECH: Terrorist]
+(jeci)
+
+[SPEECH: Terrorist]
+(jeci)
+
+[SPEECH: Terrorist]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: Terrorist]
+[Name:  Terrorist_BarkFutz]
+
+[COMMENT]
+Not sure where these would be used - Mission 5 prison?
+
+[SPEECH: Terrorist]
+Vo co kraci?
+
+[SPEECH: Terrorist]
+Hele, neblazni, bracho!
+
+[SPEECH: Terrorist]
+Dej si vodchod!
+
+-----------------------------------------------------------------
+[Owner: Terrorist]
+[Name:  Terrorist_BarkGoingForAlarm]
+
+[SPEECH: Terrorist]
+Ten chlap je polda!
+
+[SPEECH: Terrorist]
+Vycmuchali nas!
+
+[SPEECH: Terrorist]
+Jsme v rejzi!
+
+-----------------------------------------------------------------
+[Owner: Terrorist]
+[Name:  Terrorist_BarkGore]
+
+[SPEECH: Terrorist]
+Ti hajzlove ho zabili!
+
+[SPEECH: Terrorist]
+Prisli jsme o jednoho manika - kazdej si davejte majzla.
+
+[SPEECH: Terrorist]
+Jezisi... von je snad mrtvej!
+
+-----------------------------------------------------------------
+[Owner: Terrorist]
+[Name:  Terrorist_BarkIdle]
+
+[SPEECH: Terrorist]
+Driv nebo pozdejc nas stejne vyhmatnou.
+
+[SPEECH: Terrorist]
+Kdy se konecne do neceho pustime?
+
+[SPEECH: Terrorist]
+(vzdycha) Ta hlidka se vlece jak hovno po bote.
+
+[SPEECH: Terrorist]
+Ctrnactidenni vycvik v bojovym tabore... a stejne se na to necejtim.
+
+[SPEECH: Terrorist]
+Hadam, ze tohle zebraky spolehlive zazene domu.
+
+[SPEECH: Terrorist]
+...jako Billy Kid, clovece! Jsme taky psanci.
+
+[SPEECH: Terrorist]
+Ti agenti od UNATCO jsou prej jako roboti... nikdo nevi, kde je vzali.
+
+[SPEECH: Terrorist]
+V tech maskach je horko jako v prdeli.
+
+[SPEECH: Terrorist]
+(kasle)
+
+[SPEECH: Terrorist]
+(bruci)
+
+[SPEECH: Terrorist]
+(vzdycha)
+
+-----------------------------------------------------------------
+[Owner: Terrorist]
+[Name:  Terrorist_BarkOnFire]
+
+[COMMENT]
+OnFire scream 1
+
+[SPEECH: Terrorist]
+(jeci)
+
+[COMMENT]
+OnFire scream 2
+
+[SPEECH: Terrorist]
+(jeci)
+
+[COMMENT]
+OnFire scream 3
+
+[SPEECH: Terrorist]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: Terrorist]
+[Name:  Terrorist_BarkOutOfAmmo]
+
+[SPEECH: Terrorist]
+Mam prazdnej zasobnik.
+
+[COMMENT]
+puzzled
+
+[SPEECH: Terrorist]
+Nestrili to...
+
+[SPEECH: Terrorist]
+Vsichni pozor...
+
+-----------------------------------------------------------------
+[Owner: Terrorist]
+[Name:  Terrorist_BarkPostAttackSearching]
+
+[SPEECH: Terrorist]
+Ja tu svini dostanu!
+
+[SPEECH: Terrorist]
+Bacha, ten chlap porad slidi kolem!
+
+[SPEECH: Terrorist]
+Davejte si majzla... Na tom chlapovi je neco divnyho.
+
+[SPEECH: Terrorist]
+Bacha. Ti chlapi od UNATCO znaji vselijaky triky.
+
+[SPEECH: Terrorist]
+Tricet kreditu tomu, kdo ho dostane!
+
+[SPEECH: Terrorist]
+Takovej velkej chlap... nemuze se schovavat dlouho.
+
+-----------------------------------------------------------------
+[Owner: Terrorist]
+[Name:  Terrorist_BarkPreAttackSearching]
+
+[SPEECH: Terrorist]
+Myslim, ze jsem neco slysel.
+
+[SPEECH: Terrorist]
+Moment! Ticho!
+
+[SPEECH: Terrorist]
+Ehm... Je tam nekdo?
+
+[SPEECH: Terrorist]
+Je klid. Myslel jsem, ze to jsou poldove.
+
+[SPEECH: Terrorist]
+Prisaham, ze jsem neco zaslech'!
+
+-----------------------------------------------------------------
+[Owner: Terrorist]
+[Name:  Terrorist_BarkPreAttackSighting]
+
+[SPEECH: Terrorist]
+Jako kdybych nekoho zahlid' - chlapka v kozenaku!
+
+[SPEECH: Terrorist]
+Neco se tam hnulo - mozna tajnej.
+
+[SPEECH: Terrorist]
+Mame tady vetrelce.
+
+[SPEECH: Terrorist]
+Kdo je tam? Myslim, ze tu cenichaj poldove!
+
+[SPEECH: Terrorist]
+Kdo je to? Nevidim zadnou uniformu...
+
+[SPEECH: Terrorist]
+Nekoho jsem zahlid'... mozna jen bezdomovce.
+
+-----------------------------------------------------------------
+[Owner: Terrorist]
+[Name:  Terrorist_BarkSearchGiveUp]
+
+[SPEECH: Terrorist]
+Asi to nic nebylo.
+
+[SPEECH: Terrorist]
+Zapomen na to. Ja uz slysel veci!
+
+[SPEECH: Terrorist]
+Vsude je klid.
+
+[SPEECH: Terrorist]
+Nic. Jsme v bezpeci.
+
+-----------------------------------------------------------------
+[Owner: Terrorist]
+[Name:  Terrorist_BarkSurprise]
+
+[SPEECH: Terrorist]
+Co?
+
+[SPEECH: Terrorist]
+Nasli nas!
+
+[SPEECH: Terrorist]
+Sakra!
+
+-----------------------------------------------------------------
+[Owner: Terrorist]
+[Name:  Terrorist_BarkTargetAcquired]
+
+[SPEECH: Terrorist]
+To je von! Je to polda!
+
+[SPEECH: Terrorist]
+Fasisti!
+
+[SPEECH: Terrorist]
+Svine!
+
+[SPEECH: Terrorist]
+Sejmete ho!
+
+[SPEECH: Terrorist]
+Dostal jsem ho!
+
+-----------------------------------------------------------------
+[Owner: Terrorist]
+[Name:  Terrorist_BarkTargetLost]
+
+[SPEECH: Terrorist]
+Ten chlap zmizel...
+
+[SPEECH: Terrorist]
+Myslim, ze zdrhnul.
+
+[SPEECH: Terrorist]
+Povidam, ze je klid.
+
+[SPEECH: Terrorist]
+Videl ho nekdo?
+
+-----------------------------------------------------------------
+[Owner: Terrorist]
+[Name:  Terrorist_BarkTearGas]
+
+[COMMENT]
+TearGas scream 1
+
+[SPEECH: Terrorist]
+(jeci)
+
+[COMMENT]
+TearGas scream 2A
+
+[SPEECH: Terrorist]
+(jeci) 
+
+[COMMENT]
+TearGas scream 3A
+
+[SPEECH: Terrorist]
+(jeci) 
+
+-----------------------------------------------------------------
+[Owner: TerroristB]
+[Name:  TerroristB_BarkAreaSecure]
+
+[SPEECH: TerroristB]
+Ty chlapci nejsou zas tak dobry.
+
+[SPEECH: TerroristB]
+Radsi vocad, kurva, vypadnem!
+
+[SPEECH: TerroristB]
+Tak tenhle ma smulu.
+
+[SPEECH: TerroristB]
+Zabijeni je muj smysl zivota.
+
+[SPEECH: TerroristB]
+Sejmi ho! Mozna jeste mame sanci!
+
+[SPEECH: TerroristB]
+Jeste nikdy jsem nezabil poldu.
+
+[SPEECH: TerroristB]
+Ten chlapek nebyl zas tak tvrdej. Co se to deje?
+
+-----------------------------------------------------------------
+[Owner: TerroristB]
+[Name:  TerroristB_BarkCriticalDamage]
+
+[SPEECH: TerroristB]
+Koupil jsem ji!
+
+[SPEECH: TerroristB]
+(bolestne zaskuceni)
+
+[SPEECH: TerroristB]
+Do prdele!
+
+[SPEECH: TerroristB]
+(jeci)
+
+[SPEECH: TerroristB]
+(jeci)
+
+[SPEECH: TerroristB]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: TerroristB]
+[Name:  TerroristB_BarkFutz]
+
+[COMMENT]
+Not sure where these would be used - Mission 5 prison?
+
+[SPEECH: TerroristB]
+Vo co kraci?
+
+[SPEECH: TerroristB]
+Hele, neblazni, bracho!
+
+[SPEECH: TerroristB]
+Dej si vodchod!
+
+-----------------------------------------------------------------
+[Owner: TerroristB]
+[Name:  TerroristB_BarkGoingForAlarm]
+
+[SPEECH: TerroristB]
+Ten chlap je polda!
+
+[SPEECH: TerroristB]
+Vycmuchali nas!
+
+[SPEECH: TerroristB]
+Jsme v rejzi!
+
+-----------------------------------------------------------------
+[Owner: TerroristB]
+[Name:  TerroristB_BarkGore]
+
+[SPEECH: TerroristB]
+Ti hajzlove ho zabili!
+
+[SPEECH: TerroristB]
+Prisli jsme o jednoho manika - kazdej si davejte majzla.
+
+[SPEECH: TerroristB]
+Jezisi... von je snad mrtvej!
+
+-----------------------------------------------------------------
+[Owner: TerroristB]
+[Name:  TerroristB_BarkIdle]
+
+[SPEECH: TerroristB]
+Driv nebo pozdejc nas stejne vyhmatnou.
+
+[SPEECH: TerroristB]
+Kdy se konecne do neceho pustime?
+
+[SPEECH: TerroristB]
+(vzdycha) Ta hlidka se vlece jak hovno po bote.
+
+[SPEECH: TerroristB]
+Ctrnactidenni vycvik v bojovym tabore... a stejne se na to necejtim.
+
+[SPEECH: TerroristB]
+Hadam, ze tohle zebraky spolehlive zazene domu.
+
+[SPEECH: TerroristB]
+...jako Billy Kid, clovece! Jsme taky psanci.
+
+[SPEECH: TerroristB]
+Ti agenti od UNATCO jsou prej jako roboti... nikdo nevi, kde je vzali.
+
+[SPEECH: TerroristB]
+V tech maskach je horko jako v prdeli.
+
+[SPEECH: TerroristB]
+(kasle)
+
+[SPEECH: TerroristB]
+(bruci)
+
+[SPEECH: TerroristB]
+(vzdycha)
+
+-----------------------------------------------------------------
+[Owner: TerroristB]
+[Name:  TerroristB_BarkOnFire]
+
+[COMMENT]
+OnFire scream 1OnFire
+
+[SPEECH: TerroristB]
+(jeci)
+
+[COMMENT]
+OnFire scream 2
+
+[SPEECH: TerroristB]
+(jeci)
+
+[COMMENT]
+OnFire scream 3
+
+[SPEECH: TerroristB]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: TerroristB]
+[Name:  TerroristB_BarkOutOfAmmo]
+
+[SPEECH: TerroristB]
+Mam prazdnej zasobnik.
+
+[COMMENT]
+puzzled
+
+[SPEECH: TerroristB]
+Nestrili to...
+
+[SPEECH: TerroristB]
+Vsichni pozor...
+
+-----------------------------------------------------------------
+[Owner: TerroristB]
+[Name:  TerroristB_BarkPostAttackSearching]
+
+[SPEECH: TerroristB]
+Ja tu svini dostanu!
+
+[SPEECH: TerroristB]
+Bacha, ten chlap porad slidi kolem!
+
+[SPEECH: TerroristB]
+Davejte si majzla... Na tom chlapovi je neco divnyho.
+
+[SPEECH: TerroristB]
+Bacha. Ti chlapi od UNATCO znaji vselijaky triky.
+
+[SPEECH: TerroristB]
+Tricet kreditu tomu, kdo ho dostane!
+
+[SPEECH: TerroristB]
+Takovej velkej chlap... nemuze se schovavat dlouho.
+
+-----------------------------------------------------------------
+[Owner: TerroristB]
+[Name:  TerroristB_BarkPreAttackSearching]
+
+[SPEECH: TerroristB]
+Myslim, ze jsem neco slysel.
+
+[SPEECH: TerroristB]
+Moment! Ticho!
+
+[SPEECH: TerroristB]
+Ehm... Je tam nekdo?
+
+[SPEECH: TerroristB]
+Je klid. Myslel jsem, ze to jsou poldove.
+
+[SPEECH: TerroristB]
+Prisaham, ze jsem neco zaslech'!
+
+-----------------------------------------------------------------
+[Owner: TerroristB]
+[Name:  TerroristB_BarkPreAttackSighting]
+
+[SPEECH: TerroristB]
+Jako kdybych nekoho zahlid' - chlapka v kozenaku!
+
+[SPEECH: TerroristB]
+Neco se tam hnulo - mozna tajnej.
+
+[SPEECH: TerroristB]
+Mame tady vetrelce.
+
+[SPEECH: TerroristB]
+Kdo je tam? Myslim, ze tu cenichaj poldove!
+
+[SPEECH: TerroristB]
+Kdo je to? Nevidim zadnou uniformu...
+
+[SPEECH: TerroristB]
+Nekoho jsem zahlid'... mozna jen bezdomovce.
+
+-----------------------------------------------------------------
+[Owner: TerroristB]
+[Name:  TerroristB_BarkSearchGiveUp]
+
+[SPEECH: TerroristB]
+Asi to nic nebylo.
+
+[SPEECH: TerroristB]
+Zapomen na to. Ja uz slysel veci!
+
+[SPEECH: TerroristB]
+Vsude je klid.
+
+[SPEECH: TerroristB]
+Nic. Jsme v bezpeci.
+
+-----------------------------------------------------------------
+[Owner: TerroristB]
+[Name:  TerroristB_BarkSurprise]
+
+[SPEECH: TerroristB]
+Co?
+
+[SPEECH: TerroristB]
+Nasli nas!
+
+[SPEECH: TerroristB]
+Sakra!
+
+-----------------------------------------------------------------
+[Owner: TerroristB]
+[Name:  TerroristB_BarkTargetAcquired]
+
+[SPEECH: TerroristB]
+To je von! Je to polda!
+
+[SPEECH: TerroristB]
+Fasisti!
+
+[SPEECH: TerroristB]
+Svine!
+
+[SPEECH: TerroristB]
+Sejmete ho!
+
+[SPEECH: TerroristB]
+Dostal jsem ho!
+
+-----------------------------------------------------------------
+[Owner: TerroristB]
+[Name:  TerroristB_BarkTargetLost]
+
+[SPEECH: TerroristB]
+Ten chlap zmizel...
+
+[SPEECH: TerroristB]
+Myslim, ze zdrhnul.
+
+[SPEECH: TerroristB]
+Povidam, ze je klid.
+
+[SPEECH: TerroristB]
+Videl ho nekdo?
+
+-----------------------------------------------------------------
+[Owner: TerroristB]
+[Name:  TerroristB_BarkTearGas]
+
+[COMMENT]
+TearGas scream 1
+
+[SPEECH: TerroristB]
+(jeci)
+
+[COMMENT]
+TearGas scream 2t
+
+[SPEECH: TerroristB]
+(jeci)
+
+[COMMENT]
+TearGas scream 3t
+
+[SPEECH: TerroristB]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: ThugMale]
+[Name:  ThugMale_BarkAreaSecure]
+
+[SPEECH: ThugMale]
+Ha! Ja nikdy neminu!
+
+[SPEECH: ThugMale]
+Tady mas!
+
+[SPEECH: ThugMale]
+Ten chlapek si o to rikal. 
+
+[SPEECH: ThugMale]
+Tak se na tohohle chlapa podivame...
+
+-----------------------------------------------------------------
+[Owner: ThugMale]
+[Name:  ThugMale_BarkCriticalDamage]
+
+[SPEECH: ThugMale]
+No tak, clovece! Jenom si to tu prohlizim!
+
+[SPEECH: ThugMale]
+Zdrham!
+
+[SPEECH: ThugMale]
+To je vsechno, co umis?
+
+[SPEECH: ThugMale]
+(jeci)
+
+[SPEECH: ThugMale]
+(stena)
+
+-----------------------------------------------------------------
+[Owner: ThugMale]
+[Name:  ThugMale_BarkFutz]
+
+[SPEECH: ThugMale]
+Dej mi svatek, hele.
+
+[SPEECH: ThugMale]
+Tohle radsi uz nedelej.
+
+[COMMENT]
+i.e. an exclamation, not a question
+
+[SPEECH: ThugMale]
+Co to ma znamenat!?
+
+-----------------------------------------------------------------
+[Owner: ThugMale]
+[Name:  ThugMale_BarkGoingForAlarm]
+
+[SPEECH: ThugMale]
+Ten chlap vypada jako polda!
+
+[SPEECH: ThugMale]
+Myslim, ze to je policejni razie!
+
+[SPEECH: ThugMale]
+Poldove! Hej! Poldove!
+
+-----------------------------------------------------------------
+[Owner: ThugMale]
+[Name:  ThugMale_BarkGore]
+
+[SPEECH: ThugMale]
+Tohle si nekdo odsere.
+
+[SPEECH: ThugMale]
+Fajn, vo co tady kraci?
+
+[SPEECH: ThugMale]
+Co se deje, sakra? Jsem mimo.
+
+-----------------------------------------------------------------
+[Owner: ThugMale]
+[Name:  ThugMale_BarkIdle]
+
+[SPEECH: ThugMale]
+Tihle poldove z UN jsou pomalu vsude.
+
+[SPEECH: ThugMale]
+Ha! Zenou si to ke mne poldove!
+
+[SPEECH: ThugMale]
+Skoda, ze tu nemam faro!
+
+[SPEECH: ThugMale]
+(odkaslava si)
+
+[SPEECH: ThugMale]
+(hvizda)
+
+[SPEECH: ThugMale]
+(kasle)
+
+[SPEECH: ThugMale]
+Necejtim se dvakrat. Ta Seda smrt mi docela nahani hruzu.
+
+[SPEECH: ThugMale]
+Okamzite zmiz! A nebudu to rikat dvakrat!
+
+[SPEECH: ThugMale]
+Tyhle vopruzy nesnasim. Nemaji paru, vo co tady kraci.
+
+[SPEECH: ThugMale]
+Vypadni vocad, cece! Jdi se rejsnit nekam na bulvar!
+
+-----------------------------------------------------------------
+[Owner: ThugMale]
+[Name:  ThugMale_BarkOnFire]
+
+[COMMENT]
+OnFire scream 1
+
+[SPEECH: ThugMale]
+(jeci)
+
+[COMMENT]
+OnFire scream 2
+
+[SPEECH: ThugMale]
+(jeci)
+
+[COMMENT]
+OnFire scream 3
+
+[SPEECH: ThugMale]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: ThugMale]
+[Name:  ThugMale_BarkOutOfAmmo]
+
+[SPEECH: ThugMale]
+Pitomej kver!
+
+[SPEECH: ThugMale]
+Kurva... Dosly naboje!
+
+[SPEECH: ThugMale]
+Jsem na suchu!
+
+-----------------------------------------------------------------
+[Owner: ThugMale]
+[Name:  ThugMale_BarkPostAttackSearching]
+
+[SPEECH: ThugMale]
+Ja vim, ze tady porad jsi! Tak koukej vylyzt na svetlo!
+
+[SPEECH: ThugMale]
+Ukaz se, clovece, at to vyridime!
+
+[SPEECH: ThugMale]
+Mas nahnano, co?
+
+-----------------------------------------------------------------
+[Owner: ThugMale]
+[Name:  ThugMale_BarkPreAttackSearching]
+
+[SPEECH: ThugMale]
+Slysel jsem to!
+
+[SPEECH: ThugMale]
+Uz jdu, clovece! Ja te najdu!
+
+[SPEECH: ThugMale]
+Kdo je tam? Vybral sis spatnou ctvrt, clovece!
+
+-----------------------------------------------------------------
+[Owner: ThugMale]
+[Name:  ThugMale_BarkPreAttackSighting]
+
+[SPEECH: ThugMale]
+Tamhle je!
+
+[SPEECH: ThugMale]
+To je ten chlap!
+
+[SPEECH: ThugMale]
+Hej! Kdo se to tady potlouka?
+
+-----------------------------------------------------------------
+[Owner: ThugMale]
+[Name:  ThugMale_BarkSearchGiveUp]
+
+[SPEECH: ThugMale]
+Asi nejakej somrak.
+
+[SPEECH: ThugMale]
+Hm, asi to nic nebylo.
+
+[SPEECH: ThugMale]
+Nejspis jenom vitr.
+
+-----------------------------------------------------------------
+[Owner: ThugMale]
+[Name:  ThugMale_BarkSurprise]
+
+[SPEECH: ThugMale]
+Kurva!
+
+[SPEECH: ThugMale]
+Ty hajzle...
+
+[SPEECH: ThugMale]
+Mam te!
+
+-----------------------------------------------------------------
+[Owner: ThugMale]
+[Name:  ThugMale_BarkTargetAcquired]
+
+[SPEECH: ThugMale]
+Tohle nezapomenes.
+
+[SPEECH: ThugMale]
+To byl tvuj nejvetsi omyl, chlape!
+
+[SPEECH: ThugMale]
+Spravne, hochu, jenom se hezky ukaz!
+
+-----------------------------------------------------------------
+[Owner: ThugMale]
+[Name:  ThugMale_BarkTargetLost]
+
+[SPEECH: ThugMale]
+Prave nam zdrhnul.
+
+[SPEECH: ThugMale]
+Do hajzlu! Vypadalo to slibne.
+
+[SPEECH: ThugMale]
+Hm. Ten uz je kdovikde.
+
+[SPEECH: ThugMale]
+Zmizel. Asi ufrnknul do nebe.
+
+[SPEECH: ThugMale]
+Je v prdeli. Zmizel jako stin.
+
+-----------------------------------------------------------------
+[Owner: ThugMale]
+[Name:  ThugMale_BarkTearGas]
+
+[COMMENT]
+TearGas scream 1h7–@xu4D56‡
+
+[SPEECH: ThugMale]
+(jeci)
+
+[COMMENT]
+TearGas scream 2jU·Ô¥f¡tU˛RXæia
+
+[SPEECH: ThugMale]
+(jeci)
+
+[COMMENT]
+TearGas scream 3
+
+[SPEECH: ThugMale]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: TracerTong]
+[Name:  TracerTong_BarkAllianceFriendly]
+
+[SPEECH: TracerTong]
+Tohle uz radeji nezkousejte.
+
+[SPEECH: TracerTong]
+Potrebujeme se navzajem. Nenutte me, abych vas zabil!
+
+[SPEECH: TracerTong]
+Jste prilis cenny, nez abyste byl znicen. Usetrim vas zivot.
+
+-----------------------------------------------------------------
+[Owner: TracerTong]
+[Name:  TracerTong_BarkAllianceHostile]
+
+[SPEECH: TracerTong]
+Prestante!
+
+[SPEECH: TracerTong]
+To neni dobry napad.
+
+[SPEECH: TracerTong]
+Troufate si vyzyvat M∑?
+
+-----------------------------------------------------------------
+[Owner: TracerTong]
+[Name:  TracerTong_BarkFutz]
+
+[SPEECH: TracerTong]
+Ja mam jen velice malou trpelivost, pane Dentone.
+
+[SPEECH: TracerTong]
+Prestante ztracet cas.
+
+[SPEECH: TracerTong]
+Co si myslite, ze delate?
+
+-----------------------------------------------------------------
+[Owner: TriadLumPath]
+[Name:  TriadLumPath_BarkAreaSecure]
+
+[SPEECH: TriadLumPath]
+Vitezstvi pro Zarici stezku!
+
+[SPEECH: TriadLumPath]
+Nakrmte s nim psy!
+
+[SPEECH: TriadLumPath]
+Musime to oznamit panu Tongovi.
+
+[SPEECH: TriadLumPath]
+Ted se nas snad zacnou bat vic.
+
+-----------------------------------------------------------------
+[Owner: TriadLumPath]
+[Name:  TriadLumPath_BarkCriticalDamage]
+
+[SPEECH: TriadLumPath]
+Nicemo! Klid se z Hongkongu!
+
+[SPEECH: TriadLumPath]
+Vsechny nas zabit nemuzes! 
+
+[SPEECH: TriadLumPath]
+Nas nezastavis!
+
+[SPEECH: TriadLumPath]
+(jeci)
+
+[SPEECH: TriadLumPath]
+(stena)
+
+-----------------------------------------------------------------
+[Owner: TriadLumPath]
+[Name:  TriadLumPath_BarkFutz]
+
+[SPEECH: TriadLumPath]
+Davej pozor, gwailo!
+
+[SPEECH: TriadLumPath]
+Tve stesti neni nevycerpatelne.
+
+[SPEECH: TriadLumPath]
+Chovej se trochu s uctou!
+
+-----------------------------------------------------------------
+[Owner: TriadLumPath]
+[Name:  TriadLumPath_BarkGoingForAlarm]
+
+[SPEECH: TriadLumPath]
+Bratri! Ten American je tady!
+
+[SPEECH: TriadLumPath]
+Nemas nase svoleni k tomu, abys tu byl.
+
+[SPEECH: TriadLumPath]
+Co tady pohledavas?
+
+-----------------------------------------------------------------
+[Owner: TriadLumPath]
+[Name:  TriadLumPath_BarkGore]
+
+[SPEECH: TriadLumPath]
+Jsi mrtvej!
+
+[SPEECH: TriadLumPath]
+Kdo to udelal?!
+
+[SPEECH: TriadLumPath]
+Dalsi mrtvy! Nicemove!
+
+-----------------------------------------------------------------
+[Owner: TriadLumPath]
+[Name:  TriadLumPath_BarkIdle]
+
+[SPEECH: TriadLumPath]
+Klicove stretnuti se odehraje uz brzy!
+
+[SPEECH: TriadLumPath]
+Policie je v tomhle meste bezmocna.
+
+[SPEECH: TriadLumPath]
+Proc si o nas mysli, ze jsme teroriste?
+
+[SPEECH: TriadLumPath]
+(kasle)
+
+[SPEECH: TriadLumPath]
+(bruci)
+
+[SPEECH: TriadLumPath]
+(stena)
+
+[SPEECH: TriadLumPath]
+Ted, kdyz jsme spojenci, nemame nic na praci.
+
+[SPEECH: TriadLumPath]
+Rudy sip ma nekolik skvelych restauraci.
+
+[SPEECH: TriadLumPath]
+Na trzisti je ted mnohem vetsi klid.
+
+-----------------------------------------------------------------
+[Owner: TriadLumPath]
+[Name:  TriadLumPath_BarkOnFire]
+
+[COMMENT]
+OnFire scream 1
+
+[SPEECH: TriadLumPath]
+(jeci)
+
+[COMMENT]
+OnFire scream 2
+
+[SPEECH: TriadLumPath]
+(jeci)
+
+[COMMENT]
+OnFire scream 3
+
+[SPEECH: TriadLumPath]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: TriadLumPath]
+[Name:  TriadLumPath_BarkPostAttackSearching]
+
+[SPEECH: TriadLumPath]
+My si te najdeme, Americane!
+
+[SPEECH: TriadLumPath]
+Vylez a bojuj, zbabelce!
+
+[SPEECH: TriadLumPath]
+Poplach trva.
+
+[SPEECH: TriadLumPath]
+Je nablizku.
+
+-----------------------------------------------------------------
+[Owner: TriadLumPath]
+[Name:  TriadLumPath_BarkPreAttackSearching]
+
+[SPEECH: TriadLumPath]
+Neco pobliz se pohnulo!
+
+[SPEECH: TriadLumPath]
+Poslouchejte! Cisi neobratne kroky!
+
+[SPEECH: TriadLumPath]
+Nekdo tu je! Pamatujte na svuj vycvik!
+
+-----------------------------------------------------------------
+[Owner: TriadLumPath]
+[Name:  TriadLumPath_BarkPreAttackSighting]
+
+[SPEECH: TriadLumPath]
+Tam! To je on!
+
+[SPEECH: TriadLumPath]
+Nekdo tam je... Kdo je to?
+
+[SPEECH: TriadLumPath]
+Kdo je tam? Cizinec?
+
+-----------------------------------------------------------------
+[Owner: TriadLumPath]
+[Name:  TriadLumPath_BarkSearchGiveUp]
+
+[SPEECH: TriadLumPath]
+Ja mam snad halucinace.
+
+[SPEECH: TriadLumPath]
+Asi to byl jen ptak...
+
+[SPEECH: TriadLumPath]
+Hm. Nejspis kocka.
+
+-----------------------------------------------------------------
+[Owner: TriadLumPath]
+[Name:  TriadLumPath_BarkSurprise]
+
+[SPEECH: TriadLumPath]
+Kdo...?
+
+[SPEECH: TriadLumPath]
+Pri Stezce!
+
+[COMMENT]
+Calling to his fellow Luminous Path members.a
+
+[SPEECH: TriadLumPath]
+Bratri!
+
+-----------------------------------------------------------------
+[Owner: TriadLumPath]
+[Name:  TriadLumPath_BarkTargetAcquired]
+
+[SPEECH: TriadLumPath]
+Vyridim si to s nim!
+
+[SPEECH: TriadLumPath]
+Sundejte ho, hosi!
+
+[SPEECH: TriadLumPath]
+Ja te naucim trose ucty!
+
+-----------------------------------------------------------------
+[Owner: TriadLumPath]
+[Name:  TriadLumPath_BarkTargetLost]
+
+[SPEECH: TriadLumPath]
+Utekl, ale ne nadlouho!
+
+[SPEECH: TriadLumPath]
+Nemuze utect nikam, kam bychom ho nepronasledovali!
+
+[SPEECH: TriadLumPath]
+Na ulici se za chvili prozradi sam!
+
+-----------------------------------------------------------------
+[Owner: TriadLumPath]
+[Name:  TriadLumPath_BarkTearGas]
+
+[COMMENT]
+TearGas scream 1Õ÷ÓïëaØ[ˇ˚0ƒ-ÄL
+
+[SPEECH: TriadLumPath]
+(jeci)
+
+[COMMENT]
+TearGas scream 2P
+
+[SPEECH: TriadLumPath]
+(jeci)
+
+[COMMENT]
+TearGas scream 3P
+
+[SPEECH: TriadLumPath]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: TriadRedArrow]
+[Name:  TriadRedArrow_BarkAreaSecure]
+
+[SPEECH: TriadRedArrow]
+Nemel ses protivit Rudemu sipu!
+
+[SPEECH: TriadRedArrow]
+Je po nem. Max bude potesen.
+
+[SPEECH: TriadRedArrow]
+Hodte ho do kanalu!
+
+[SPEECH: TriadRedArrow]
+Ha! Mam vynikajici vycvik!
+
+-----------------------------------------------------------------
+[Owner: TriadRedArrow]
+[Name:  TriadRedArrow_BarkCriticalDamage]
+
+[SPEECH: TriadRedArrow]
+Jestli me zabijes, Rudy sip te bude az do smrti stihat!
+
+[SPEECH: TriadRedArrow]
+Jsi lepsi, nez jsem predpokladal!
+
+[SPEECH: TriadRedArrow]
+Nemysli si, ze se ti vzdam!
+
+[SPEECH: TriadRedArrow]
+(jeci)
+
+[SPEECH: TriadRedArrow]
+(stena)
+
+-----------------------------------------------------------------
+[Owner: TriadRedArrow]
+[Name:  TriadRedArrow_BarkFutz]
+
+[SPEECH: TriadRedArrow]
+Promijim ti tvou hrubost.
+
+[SPEECH: TriadRedArrow]
+To mel byt zert?
+
+[SPEECH: TriadRedArrow]
+Tak dost!
+
+-----------------------------------------------------------------
+[Owner: TriadRedArrow]
+[Name:  TriadRedArrow_BarkGoingForAlarm]
+
+[SPEECH: TriadRedArrow]
+Bratri! Je tady vetrelec!
+
+[SPEECH: TriadRedArrow]
+Tamhle je! Zadrzte ho!
+
+[SPEECH: TriadRedArrow]
+Ty! Co tady delas?
+
+-----------------------------------------------------------------
+[Owner: TriadRedArrow]
+[Name:  TriadRedArrow_BarkGore]
+
+[SPEECH: TriadRedArrow]
+Co se tady stalo?
+
+[SPEECH: TriadRedArrow]
+Telo... Jeste teple!
+
+[SPEECH: TriadRedArrow]
+Neco je tu hrozne podezrele!
+
+-----------------------------------------------------------------
+[Owner: TriadRedArrow]
+[Name:  TriadRedArrow_BarkIdle]
+
+[SPEECH: TriadRedArrow]
+To odpoledne se vlece.
+
+[SPEECH: TriadRedArrow]
+Za chvili se sejdeme v Lucky Money.
+
+[SPEECH: TriadRedArrow]
+Uz brzy nastane priliv.
+
+[SPEECH: TriadRedArrow]
+(kasle)
+
+[SPEECH: TriadRedArrow]
+(stena)
+
+[SPEECH: TriadRedArrow]
+(bruci)
+
+-----------------------------------------------------------------
+[Owner: TriadRedArrow]
+[Name:  TriadRedArrow_BarkOnFire]
+
+[COMMENT]
+OnFire scream 1
+
+[SPEECH: TriadRedArrow]
+(jeci)
+
+[COMMENT]
+OnFire scream 2
+
+[SPEECH: TriadRedArrow]
+(jeci)
+
+[COMMENT]
+OnFire scream 3
+
+[SPEECH: TriadRedArrow]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: TriadRedArrow]
+[Name:  TriadRedArrow_BarkPostAttackSearching]
+
+[COMMENT]
+mockingdArrow
+
+[SPEECH: TriadRedArrow]
+Polezte, polezte, pane American!
+
+[SPEECH: TriadRedArrow]
+Rudemu sipu nikdo neunikne!
+
+[SPEECH: TriadRedArrow]
+Nevzdavejte to! On to ve meste nezna!
+
+-----------------------------------------------------------------
+[Owner: TriadRedArrow]
+[Name:  TriadRedArrow_BarkPreAttackSearching]
+
+[SPEECH: TriadRedArrow]
+Halo? Je tady nekdo?
+
+[SPEECH: TriadRedArrow]
+At jsi kdokoliv, potichu chodit neumis!
+
+[SPEECH: TriadRedArrow]
+Kdo je to? Jsi na uzemi Rudeho sipu!
+
+-----------------------------------------------------------------
+[Owner: TriadRedArrow]
+[Name:  TriadRedArrow_BarkPreAttackSighting]
+
+[SPEECH: TriadRedArrow]
+Nevidel jsi neco? Muze v dlouhem kabate...
+
+[SPEECH: TriadRedArrow]
+Neco se tam hnulo, tim jsem si jist!
+
+[SPEECH: TriadRedArrow]
+Kdo je tam? Videl jsem te!
+
+-----------------------------------------------------------------
+[Owner: TriadRedArrow]
+[Name:  TriadRedArrow_BarkSearchGiveUp]
+
+[SPEECH: TriadRedArrow]
+Jenom voda.
+
+[SPEECH: TriadRedArrow]
+Asi to nic nebylo.
+
+[SPEECH: TriadRedArrow]
+Nejaky civilista.
+
+-----------------------------------------------------------------
+[Owner: TriadRedArrow]
+[Name:  TriadRedArrow_BarkSurprise]
+
+[COMMENT]
+Starts to say, "Who's there?" but cuts off.
+
+[SPEECH: TriadRedArrow]
+Kdo...?
+
+[SPEECH: TriadRedArrow]
+Co to?
+
+[SPEECH: TriadRedArrow]
+Aha!
+
+-----------------------------------------------------------------
+[Owner: TriadRedArrow]
+[Name:  TriadRedArrow_BarkTargetAcquired]
+
+[COMMENT]
+A battle cry.
+
+[SPEECH: TriadRedArrow]
+Rudy sip!
+
+[SPEECH: TriadRedArrow]
+Podriznu te!
+
+[SPEECH: TriadRedArrow]
+Ted neco uvidis!
+
+-----------------------------------------------------------------
+[Owner: TriadRedArrow]
+[Name:  TriadRedArrow_BarkTargetLost]
+
+[SPEECH: TriadRedArrow]
+Nedostane se daleko. Rudy sip vlastni cely Hongkong!
+
+[SPEECH: TriadRedArrow]
+My ho najdeme - v Hongkongu se neschova!
+
+[SPEECH: TriadRedArrow]
+Utekl. Muze uz byt kdekoliv.
+
+-----------------------------------------------------------------
+[Owner: TriadRedArrow]
+[Name:  TriadRedArrow_BarkTearGas]
+
+[COMMENT]
+TearGas scream 1
+
+[SPEECH: TriadRedArrow]
+(jeci)
+
+[COMMENT]
+TearGas scream 2A
+
+[SPEECH: TriadRedArrow]
+(jeci)
+
+[COMMENT]
+TearGas scream 3A
+
+[SPEECH: TriadRedArrow]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: UNATCOTroop]
+[Name:  UNATCOTroop_BarkAreaSecure]
+
+[SPEECH: UNATCOTroop]
+To muselo bolet.
+
+[SPEECH: UNATCOTroop]
+Rychle a tise.
+
+[SPEECH: UNATCOTroop]
+Ajaj! Ti se nikdy nepoucej.
+
+[SPEECH: UNATCOTroop]
+Tak jo, kopnout do vrtule, prohledat oblast!
+
+[SPEECH: UNATCOTroop]
+Jako na strelnici!
+
+-----------------------------------------------------------------
+[Owner: UNATCOTroop]
+[Name:  UNATCOTroop_BarkCriticalDamage]
+
+[SPEECH: UNATCOTroop]
+Ty posranej...
+
+[SPEECH: UNATCOTroop]
+Potrebujem' zalohy!
+
+[SPEECH: UNATCOTroop]
+Sliznul jsem ji!
+
+[SPEECH: UNATCOTroop]
+Je strasne rychlej!
+
+[SPEECH: UNATCOTroop]
+Poslete nam sem par botu!
+
+[SPEECH: UNATCOTroop]
+(jeci)
+
+[SPEECH: UNATCOTroop]
+(stena)
+
+-----------------------------------------------------------------
+[Owner: UNATCOTroop]
+[Name:  UNATCOTroop_BarkFutz]
+
+[SPEECH: UNATCOTroop]
+Myslite, ze je to srandovni?
+
+[SPEECH: UNATCOTroop]
+Tohle byste nemel delat.
+
+[SPEECH: UNATCOTroop]
+Ja to nechapu... Co to ma znamenat?
+
+[SPEECH: UNATCOTroop]
+Na vasem miste uz bych to nedelal.
+
+[SPEECH: UNATCOTroop]
+Hej... Co to sakra...?
+
+[SPEECH: UNATCOTroop]
+Ehm... To je proti predpisum, agente.
+
+[SPEECH: UNATCOTroop]
+Mate dlouhou chvili, co?
+
+-----------------------------------------------------------------
+[Owner: UNATCOTroop]
+[Name:  UNATCOTroop_BarkGoingForAlarm]
+
+[SPEECH: UNATCOTroop]
+Nekdo tu je!
+
+[SPEECH: UNATCOTroop]
+Posilame pro zalohy!
+
+[SPEECH: UNATCOTroop]
+Mame ho tu zivyho!
+
+[SPEECH: UNATCOTroop]
+Pozor vsichni, ostry poplach!
+
+[SPEECH: UNATCOTroop]
+Vyhlasuji prunik vetrelce!
+
+-----------------------------------------------------------------
+[Owner: UNATCOTroop]
+[Name:  UNATCOTroop_BarkGore]
+
+[SPEECH: UNATCOTroop]
+Mame tady nezvaneho hosta!
+
+[SPEECH: UNATCOTroop]
+Hej! Mame nejaky ztraty!
+
+[SPEECH: UNATCOTroop]
+Nepritel na dohled!
+
+[SPEECH: MJ12Troop]
+Co se to tu, sakra, deje?
+
+-----------------------------------------------------------------
+[Owner: UNATCOTroop]
+[Name:  UNATCOTroop_BarkIdle]
+
+[SPEECH: UNATCOTroop]
+Sakra, to se to vlece!
+
+[SPEECH: UNATCOTroop]
+Psi zivot.
+
+[SPEECH: UNATCOTroop]
+Potrebuju dovolenou.
+
+[SPEECH: UNATCOTroop]
+Me snad nikdy neprelozej'!
+
+[SPEECH: UNATCOTroop]
+Kez bysme tu meli Gunthera!
+
+[SPEECH: UNATCOTroop]
+(hvizda)
+
+[SPEECH: UNATCOTroop]
+(odkaslava si)
+
+[SPEECH: UNATCOTroop]
+(kasle)
+
+-----------------------------------------------------------------
+[Owner: UNATCOTroop]
+[Name:  UNATCOTroop_BarkOnFire]
+
+[COMMENT]
+OnFire scream 1
+
+[SPEECH: UNATCOTroop]
+(jeci)
+
+[SPEECH: UNATCOTroop]
+(jeci)
+
+[COMMENT]
+OnFire scream 3
+
+[SPEECH: UNATCOTroop]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: UNATCOTroop]
+[Name:  UNATCOTroop_BarkOutOfAmmo]
+
+[SPEECH: UNATCOTroop]
+Zatracene!
+
+[SPEECH: UNATCOTroop]
+Jsem na suchu!
+
+[SPEECH: UNATCOTroop]
+Chtelo by to dalsi zasobnik!
+
+[SPEECH: UNATCOTroop]
+Dosly mi naboje! Ted jsem se vopravdu nasral!
+
+-----------------------------------------------------------------
+[Owner: UNATCOTroop]
+[Name:  UNATCOTroop_BarkPostAttackSearching]
+
+[SPEECH: UNATCOTroop]
+Jdete do nich, sakra!
+
+[SPEECH: UNATCOTroop]
+Porad bude nekde pobliz.
+
+[SPEECH: UNATCOTroop]
+Jeste neni konec.
+
+[SPEECH: UNATCOTroop]
+Zdrhnul nam. Manderley nam nakope prdel.
+
+[SPEECH: UNATCOTroop]
+Najdem ho. Vzdyt je to jen obycejny ucho!
+
+[SPEECH: UNATCOTroop]
+Sejmete toho chlapa a vsichni dostanem bonus!
+
+-----------------------------------------------------------------
+[Owner: UNATCOTroop]
+[Name:  UNATCOTroop_BarkPreAttackSearching]
+
+[SPEECH: UNATCOTroop]
+Co to bylo?
+
+[SPEECH: UNATCOTroop]
+Moment, neco jsem slysel!
+
+[SPEECH: UNATCOTroop]
+Dobre, polez ven!
+
+[SPEECH: UNATCOTroop]
+Postav se, at te dobre vidim!
+
+[SPEECH: UNATCOTroop]
+Zaregistroval jsem pohyb, pane!
+
+[SPEECH: UNATCOTroop]
+Slyseli jste to? Pripravte si zbrane!
+
+-----------------------------------------------------------------
+[Owner: UNATCOTroop]
+[Name:  UNATCOTroop_BarkPreAttackSighting]
+
+[COMMENT]
+panickyroop
+
+[SPEECH: UNATCOTroop]
+Kontakt, pane... Kontakt!
+
+[SPEECH: UNATCOTroop]
+Kontakt! Mam vizualni...
+
+[SPEECH: UNATCOTroop]
+Nekdo tady je. Jakoby civil.
+
+[SPEECH: UNATCOTroop]
+Urcite jsem nekoho videl!
+
+[SPEECH: UNATCOTroop]
+Hej! Kdo je tam?
+
+-----------------------------------------------------------------
+[Owner: UNATCOTroop]
+[Name:  UNATCOTroop_BarkSearchGiveUp]
+
+[SPEECH: UNATCOTroop]
+Nejspis falesnej poplach.
+
+[SPEECH: UNATCOTroop]
+Uf! Myslel jsem, ze to je terorista.
+
+[SPEECH: UNATCOTroop]
+Nejspis to nic nebylo.
+
+[SPEECH: MJ12Troop]
+Moje chyba.
+
+-----------------------------------------------------------------
+[Owner: UNATCOTroop]
+[Name:  UNATCOTroop_BarkSurprise]
+
+[COMMENT]
+We might want to experiment with some generic "surprised" sounds as wellP
+
+[SPEECH: UNATCOTroop]
+Co to sakra...?
+
+[SPEECH: UNATCOTroop]
+Je to Denton!
+
+[SPEECH: UNATCOTroop]
+Pomoc!
+
+-----------------------------------------------------------------
+[Owner: UNATCOTroop]
+[Name:  UNATCOTroop_BarkTargetAcquired]
+
+[SPEECH: UNATCOTroop]
+Ty! Zustan okamzite stat!
+
+[SPEECH: UNATCOTroop]
+Stat!
+
+[SPEECH: UNATCOTroop]
+Tamhle je!
+
+[SPEECH: UNATCOTroop]
+Zasranej terorista!
+
+[SPEECH: UNATCOTroop]
+Mame tu nepritele!
+
+[SPEECH: UNATCOTroop]
+Obklicit a zneskodnit!
+
+-----------------------------------------------------------------
+[Owner: UNATCOTroop]
+[Name:  UNATCOTroop_BarkTargetLost]
+
+[SPEECH: UNATCOTroop]
+Zdrhnul. Posrali jsme to.
+
+[SPEECH: UNATCOTroop]
+Pani, on se vyparil!
+
+[SPEECH: UNATCOTroop]
+Podle myho je uz v tahu.
+
+[SPEECH: UNATCOTroop]
+Uz davno je pryc.
+
+[SPEECH: UNATCOTroop]
+Ja nemam nic.
+
+[SPEECH: UNATCOTroop]
+Byl primo tady! Co se, kurva, stalo?
+
+-----------------------------------------------------------------
+[Owner: UNATCOTroop]
+[Name:  UNATCOTroop_BarkTearGas]
+
+[COMMENT]
+TearGas scream 1SYÉ0U≤oˇ˚0ƒ1
+
+[SPEECH: UNATCOTroop]
+(jeci)
+
+[COMMENT]
+TearGas scream 2o
+
+[SPEECH: UNATCOTroop]
+(jeci)
+
+[COMMENT]
+TearGas scream 3o
+
+[SPEECH: UNATCOTroop]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: UNATCOTroopB]
+[Name:  UNATCOTroopB_BarkAreaSecure]
+
+[SPEECH: UNATCOTroopB]
+To muselo bolet.
+
+[SPEECH: UNATCOTroopB]
+Rychle a tise.
+
+[SPEECH: UNATCOTroopB]
+Ajaj! Ti se nikdy nepoucej.
+
+[SPEECH: UNATCOTroopB]
+Tak jo, kopnout do vrtule, prohledat oblast!
+
+[SPEECH: UNATCOTroopB]
+Jako na strelnici!
+
+-----------------------------------------------------------------
+[Owner: UNATCOTroopB]
+[Name:  UNATCOTroopB_BarkCriticalDamage]
+
+[SPEECH: UNATCOTroopB]
+Ty posranej...
+
+[SPEECH: UNATCOTroopB]
+Potrebujem' zalohy!
+
+[SPEECH: UNATCOTroopB]
+Sliznul jsem ji!
+
+[SPEECH: UNATCOTroopB]
+Je strasne rychlej!
+
+[SPEECH: UNATCOTroopB]
+Poslete nam sem par botu!
+
+[SPEECH: UNATCOTroopB]
+(jeci)
+
+[SPEECH: UNATCOTroopB]
+(stena)
+
+-----------------------------------------------------------------
+[Owner: UNATCOTroopB]
+[Name:  UNATCOTroopB_BarkFutz]
+
+[SPEECH: UNATCOTroopB]
+Myslite, ze je to srandovni?
+
+[SPEECH: UNATCOTroopB]
+Tohle byste nemel delat.
+
+[SPEECH: UNATCOTroopB]
+Ja to nechapu... Co to ma znamenat?
+
+[SPEECH: UNATCOTroopB]
+Na vasem miste uz bych to nedelal.
+
+[SPEECH: UNATCOTroopB]
+Hej... Co to sakra...?
+
+[SPEECH: UNATCOTroopB]
+Ehm... To je proti predpisum, agente.
+
+[SPEECH: UNATCOTroopB]
+Mate dlouhou chvili, co?
+
+-----------------------------------------------------------------
+[Owner: UNATCOTroopB]
+[Name:  UNATCOTroopB_BarkGoingForAlarm]
+
+[SPEECH: UNATCOTroopB]
+Nekdo tu je!
+
+[SPEECH: UNATCOTroopB]
+Posilame pro zalohy!
+
+[SPEECH: UNATCOTroopB]
+Mame ho tu zivyho!
+
+[SPEECH: UNATCOTroopB]
+Pozor vsichni, ostry poplach!
+
+[SPEECH: UNATCOTroopB]
+Vyhlasuji prunik vetrelce!
+
+-----------------------------------------------------------------
+[Owner: UNATCOTroopB]
+[Name:  UNATCOTroopB_BarkGore]
+
+[SPEECH: UNATCOTroopB]
+Mame tady nezvaneho hosta!
+
+[SPEECH: UNATCOTroopB]
+Hej! Mame nejaky ztraty!
+
+[SPEECH: UNATCOTroopB]
+Nepritel na dohled!
+
+[SPEECH: MJ12TroopB]
+Co se to tu, sakra, deje?
+
+-----------------------------------------------------------------
+[Owner: UNATCOTroopB]
+[Name:  UNATCOTroopB_BarkIdle]
+
+[SPEECH: UNATCOTroopB]
+Sakra, to se to vlece!
+
+[SPEECH: UNATCOTroopB]
+Psi zivot.
+
+[SPEECH: UNATCOTroopB]
+Potrebuju dovolenou.
+
+[SPEECH: UNATCOTroopB]
+Me snad nikdy neprelozej'!
+
+[SPEECH: UNATCOTroopB]
+Kez bysme tu meli Gunthera!
+
+[SPEECH: UNATCOTroopB]
+(hvizda)
+
+[SPEECH: UNATCOTroopB]
+(odkaslava si)
+
+[SPEECH: UNATCOTroopB]
+(kasle)
+
+-----------------------------------------------------------------
+[Owner: UNATCOTroopB]
+[Name:  UNATCOTroopB_BarkOnFire]
+
+[COMMENT]
+OnFire scream 1
+
+[SPEECH: UNATCOTroopB]
+(jeci)
+
+[SPEECH: UNATCOTroopB]
+(jeci)
+
+[COMMENT]
+OnFire scream 3
+
+[SPEECH: UNATCOTroopB]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: UNATCOTroopB]
+[Name:  UNATCOTroopB_BarkOutOfAmmo]
+
+[SPEECH: UNATCOTroopB]
+Zatracene!
+
+[SPEECH: UNATCOTroopB]
+Jsem na suchu!
+
+[SPEECH: UNATCOTroopB]
+Chtelo by to dalsi zasobnik!
+
+[SPEECH: UNATCOTroopB]
+Dosly mi naboje! Ted jsem se vopravdu nasral!
+
+-----------------------------------------------------------------
+[Owner: UNATCOTroopB]
+[Name:  UNATCOTroopB_BarkPostAttackSearching]
+
+[SPEECH: UNATCOTroopB]
+Jdete do nich, sakra!
+
+[SPEECH: UNATCOTroopB]
+Porad bude nekde pobliz.
+
+[SPEECH: UNATCOTroopB]
+Jeste neni konec.
+
+[SPEECH: UNATCOTroopB]
+Zdrhnul nam. Manderley nam nakope prdel.
+
+[SPEECH: UNATCOTroopB]
+Najdem ho. Vzdyt je to jen obycejny ucho!
+
+[SPEECH: UNATCOTroopB]
+Sejmete toho chlapa a vsichni dostanem bonus!
+
+-----------------------------------------------------------------
+[Owner: UNATCOTroopB]
+[Name:  UNATCOTroopB_BarkPreAttackSearching]
+
+[SPEECH: UNATCOTroopB]
+Co to bylo?
+
+[SPEECH: UNATCOTroopB]
+Moment, neco jsem slysel!
+
+[SPEECH: UNATCOTroopB]
+Dobre, polez ven!
+
+[SPEECH: UNATCOTroopB]
+Postav se, at te dobre vidim!
+
+[SPEECH: UNATCOTroopB]
+Zaregistroval jsem pohyb, pane!
+
+[SPEECH: UNATCOTroopB]
+Slyseli jste to? Pripravte si zbrane!
+
+-----------------------------------------------------------------
+[Owner: UNATCOTroopB]
+[Name:  UNATCOTroopB_BarkPreAttackSighting]
+
+[COMMENT]
+panicky
+
+[SPEECH: UNATCOTroopB]
+Kontakt, pane... Kontakt!
+
+[SPEECH: UNATCOTroopB]
+Kontakt! Mam vizualni...
+
+[SPEECH: UNATCOTroopB]
+Nekdo tady je. Jakoby civil.
+
+[SPEECH: UNATCOTroopB]
+Urcite jsem nekoho videl!
+
+[SPEECH: UNATCOTroopB]
+Hej! Kdo je tam?
+
+-----------------------------------------------------------------
+[Owner: UNATCOTroopB]
+[Name:  UNATCOTroopB_BarkSearchGiveUp]
+
+[SPEECH: UNATCOTroopB]
+Nejspis falesnej poplach.
+
+[SPEECH: UNATCOTroopB]
+Uf! Myslel jsem, ze to je terorista.
+
+[SPEECH: UNATCOTroopB]
+Nejspis to nic nebylo.
+
+[SPEECH: MJ12TroopB]
+Moje chyba.
+
+-----------------------------------------------------------------
+[Owner: UNATCOTroopB]
+[Name:  UNATCOTroopB_BarkSurprise]
+
+[COMMENT]
+We might want to experiment with some generic "surprised" sounds as wellr
+
+[SPEECH: UNATCOTroopB]
+Co to sakra...?
+
+[SPEECH: UNATCOTroopB]
+Je to Denton!
+
+[SPEECH: UNATCOTroopB]
+Pomoc!
+
+-----------------------------------------------------------------
+[Owner: UNATCOTroopB]
+[Name:  UNATCOTroopB_BarkTargetAcquired]
+
+[SPEECH: UNATCOTroopB]
+Ty! Zustan okamzite stat!
+
+[SPEECH: UNATCOTroopB]
+Stat!
+
+[SPEECH: UNATCOTroopB]
+Tamhle je!
+
+[SPEECH: UNATCOTroopB]
+Zasranej terorista!
+
+[SPEECH: UNATCOTroopB]
+Mame tu nepritele!
+
+[SPEECH: UNATCOTroopB]
+Obklicit a zneskodnit!
+
+-----------------------------------------------------------------
+[Owner: UNATCOTroopB]
+[Name:  UNATCOTroopB_BarkTargetLost]
+
+[SPEECH: UNATCOTroopB]
+Zdrhnul. Posrali jsme to.
+
+[SPEECH: UNATCOTroopB]
+Pani, on se vyparil!
+
+[SPEECH: UNATCOTroopB]
+Podle myho je uz v tahu.
+
+[SPEECH: UNATCOTroopB]
+Uz davno je pryc.
+
+[SPEECH: UNATCOTroopB]
+Ja nemam nic.
+
+[SPEECH: UNATCOTroopB]
+Byl primo tady! Co se, kurva, stalo?
+
+-----------------------------------------------------------------
+[Owner: UNATCOTroopB]
+[Name:  UNATCOTroopB_BarkTearGas]
+
+[COMMENT]
+TearGas scream 1J∑d1Ä	b'∑a@"5
+
+[SPEECH: UNATCOTroopB]
+(jeci)
+
+[COMMENT]
+TearGas scream 2o
+
+[SPEECH: UNATCOTroopB]
+(jeci)
+
+[COMMENT]
+TearGas scream 3o
+
+[SPEECH: UNATCOTroopB]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: WaltonSimons]
+[Name:  WaltonSimons_BarkAreaSecure]
+
+[SPEECH: WaltonSimons]
+Varoval jsem Manderleyho, ze se to stane.
+
+[SPEECH: WaltonSimons]
+Dalsi mlady pitomy rebel.
+
+[SPEECH: WaltonSimons]
+Nekdo by to mel dat do poradku.
+
+-----------------------------------------------------------------
+[Owner: WaltonSimons]
+[Name:  WaltonSimons_BarkCriticalDamage]
+
+[SPEECH: WaltonSimons]
+Zatracene, Dentone!
+
+[SPEECH: WaltonSimons]
+Vedel jsem, ze jsi omyl!
+
+[SPEECH: WaltonSimons]
+Postavili te dobre, agente!
+
+[SPEECH: WaltonSimons]
+(jeci)
+
+[SPEECH: WaltonSimons]
+(chropti)
+
+-----------------------------------------------------------------
+[Owner: WaltonSimons]
+[Name:  WaltonSimons_BarkGore]
+
+[SPEECH: WaltonSimons]
+Hm. Dobra prace.
+
+[SPEECH: WaltonSimons]
+Dalsi papirovani.
+
+[SPEECH: WaltonSimons]
+Denton ma naspech.
+
+-----------------------------------------------------------------
+[Owner: WaltonSimons]
+[Name:  WaltonSimons_BarkOnFire]
+
+[COMMENT]
+OnFire scream 12paÚSîVZ3§
+
+[SPEECH: WaltonSimons]
+(jeci)
+
+[COMMENT]
+OnFire scream 2
+
+[SPEECH: WaltonSimons]
+(jeci)
+
+[COMMENT]
+OnFire scream 3
+
+[SPEECH: WaltonSimons]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: WaltonSimons]
+[Name:  WaltonSimons_BarkPostAttackSearching]
+
+[SPEECH: WaltonSimons]
+Ja te najdu, Dentone! Mam smysly, o jakych se ti ani nesnilo!
+
+[SPEECH: WaltonSimons]
+Zbytecne si to komplikujes, JC.
+
+[SPEECH: WaltonSimons]
+Schovavas se, JC? To neni prilis hrdinske.
+
+-----------------------------------------------------------------
+[Owner: WaltonSimons]
+[Name:  WaltonSimons_BarkPreAttackSearching]
+
+[SPEECH: WaltonSimons]
+Jestli jsi to ty, Dentone, tak vylez ven!
+
+[SPEECH: WaltonSimons]
+Je to on? Touhle dobou uz by tu byt mel.
+
+[SPEECH: WaltonSimons]
+Kroky...
+
+-----------------------------------------------------------------
+[Owner: WaltonSimons]
+[Name:  WaltonSimons_BarkPreAttackSighting]
+
+[SPEECH: WaltonSimons]
+Kdo je tam? Vylez na svetlo!
+
+[SPEECH: WaltonSimons]
+Dentone? To jsi ty?
+
+[SPEECH: WaltonSimons]
+Kdo je tady? Ukaz se!
+
+-----------------------------------------------------------------
+[Owner: WaltonSimons]
+[Name:  WaltonSimons_BarkSearchGiveUp]
+
+[SPEECH: WaltonSimons]
+Mam pretazene nervy.
+
+[SPEECH: WaltonSimons]
+Nic. Mel bych si nechat proverit soniku.
+
+[SPEECH: WaltonSimons]
+Nic. No, ale drive nebo pozdeji...
+
+-----------------------------------------------------------------
+[Owner: WaltonSimons]
+[Name:  WaltonSimons_BarkSurprise]
+
+[SPEECH: WaltonSimons]
+Sakra.
+
+[SPEECH: WaltonSimons]
+Halo, agente!
+
+[SPEECH: WaltonSimons]
+Je tady!
+
+-----------------------------------------------------------------
+[Owner: WaltonSimons]
+[Name:  WaltonSimons_BarkTargetAcquired]
+
+[SPEECH: WaltonSimons]
+Na tohle jsem se tesil!
+
+[SPEECH: WaltonSimons]
+Mel by ses radsi vzdat!
+
+[SPEECH: WaltonSimons]
+Mne nedostanes, JC! Videl jsem tvoje manualy.
+
+-----------------------------------------------------------------
+[Owner: WaltonSimons]
+[Name:  WaltonSimons_BarkTargetLost]
+
+[COMMENT]
+Sighs, then speaks.ﬂ∑SOUzªˆm˜8c7S|‡
+
+[SPEECH: WaltonSimons]
+Ty parchante!
+
+[SPEECH: WaltonSimons]
+Kam zmizel?
+
+[SPEECH: WaltonSimons]
+Zacina se mi to vymykat.
+
+[SPEECH: WaltonSimons]
+Utekl. Ty pitome implantaty!
+
+-----------------------------------------------------------------
+[Owner: WaltonSimons]
+[Name:  WaltonSimons_BarkTearGas]
+
+[COMMENT]
+TearGas scream 1
+
+[SPEECH: UNATCOTroop]
+(jeci)
+
+[COMMENT]
+TearGas scream 2o
+
+[SPEECH: UNATCOTroop]
+(jeci)
+
+[COMMENT]
+TearGas scream 3o
+
+[SPEECH: UNATCOTroop]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: WiB]
+[Name:  WiB_BarkAreaSecure]
+
+[SPEECH: WiB]
+Tady jsme hotovi. Zacneme uklizet.
+
+[SPEECH: WiB]
+Ten je vyrizenej. Zabalime ho.
+
+[SPEECH: WiB]
+Zadne znamky zivota.
+
+[SPEECH: WiB]
+Pripad uzavren. Jsme hotovi.
+
+-----------------------------------------------------------------
+[Owner: WiB]
+[Name:  WiB_BarkCriticalDamage]
+
+[SPEECH: WiB]
+Zahajuji palbu! Jdu do protiutoku!
+
+[SPEECH: WiB]
+Hlasim nesnaze!
+
+[SPEECH: WiB]
+Narazila jsem na tezky odpor!
+
+[SPEECH: WiB]
+(jeci)
+
+[SPEECH: WiB]
+(stena)
+
+-----------------------------------------------------------------
+[Owner: WiB]
+[Name:  WiB_BarkFutz]
+
+[SPEECH: WiB]
+Ja te vidim!
+
+[SPEECH: WiB]
+Nech toho. Okamzite.
+
+[SPEECH: WiB]
+Tva cinnost je monitorovana.
+
+-----------------------------------------------------------------
+[Owner: WiB]
+[Name:  WiB_BarkGoingForAlarm]
+
+[SPEECH: WiB]
+Vsem jednotkam: mame tu vetrelce!
+
+[SPEECH: WiB]
+Mame tady prunik!
+
+[SPEECH: WiB]
+Do oblasti pronikl vetrelec!
+
+-----------------------------------------------------------------
+[Owner: WiB]
+[Name:  WiB_BarkGore]
+
+[SPEECH: WiB]
+Mrtvy clovek. Mnoho telnich tekutin.
+
+[SPEECH: WiB]
+Zda se, ze ho zabili nedavno.
+
+[SPEECH: WiB]
+Mame tady mrtveho.
+
+-----------------------------------------------------------------
+[Owner: WiB]
+[Name:  WiB_BarkIdle]
+
+[SPEECH: WiB]
+Ten vypada podezrele: proverim ho!
+
+[SPEECH: WiB]
+Tenhle je na seznamu. Tamten take...
+
+[SPEECH: WiB]
+Tuhle oblast je nutno lepe hlidat. Podivejte na ty lidi!
+
+[SPEECH: WiB]
+Pst! Je porad nekde tady.
+
+[SPEECH: WiB]
+Proverila jsem zaznamy: je klid.
+
+[SPEECH: WiB]
+Vsude je cisty vzduch... Tak je to.
+
+[SPEECH: WiB]
+Rekli mi, ze ted budu schopnejsi, ale nevim nevim.
+
+[SPEECH: WiB]
+(bruci si)
+
+[SPEECH: WiB]
+(vzdycha)
+
+[SPEECH: WiB]
+(kasle)
+
+-----------------------------------------------------------------
+[Owner: WiB]
+[Name:  WiB_BarkOnFire]
+
+[COMMENT]
+OnFire scream 1 in the room.
+
+[SPEECH: WiB]
+(jeci)
+
+[COMMENT]
+OnFire scream 2 in the room.
+
+[SPEECH: WiB]
+(jeci)
+
+[COMMENT]
+OnFire scream 3 in the room.
+
+[SPEECH: WiB]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: WiB]
+[Name:  WiB_BarkPostAttackSearching]
+
+[SPEECH: WiB]
+Ticho! Brzy se zase pohne.
+
+[SPEECH: WiB]
+Pokuste se nezasahnout jeho implantaty!
+
+[SPEECH: WiB]
+Ted uz klidne muzete vylezt, pane Dentone!
+
+[COMMENT]
+i.e., just kill hime out, Mr. Denton.
+
+[SPEECH: WiB]
+Nedoufejte, ze vas zajmeme!
+
+[SPEECH: WiB]
+Vecne utikat nemuzete, agente.
+
+[SPEECH: WiB]
+Hledejte stopy krve!
+
+[COMMENT]
+agitated6
+
+[SPEECH: WiB]
+Opakujte, prosim... Videli jste ho?
+
+-----------------------------------------------------------------
+[Owner: WiB]
+[Name:  WiB_BarkPreAttackSearching]
+
+[SPEECH: WiB]
+Mame tady podezrely pohyb - proveruji to!
+
+[SPEECH: WiB]
+Neco tady mame - zrejme neopravneny vstup.
+
+[SPEECH: WiB]
+Je tady nekdo? Sem je vstup zakazan!
+
+[SPEECH: WiB]
+Neco slysim. Ale nikoho zatim nevidim.
+
+[SPEECH: WiB]
+Tohle nebyla ozvena...
+
+[SPEECH: WiB]
+Zvuky. Nekdo je nablizku.
+
+-----------------------------------------------------------------
+[Owner: WiB]
+[Name:  WiB_BarkPreAttackSighting]
+
+[SPEECH: WiB]
+Pohyb, nekde tady!
+
+[SPEECH: WiB]
+Neco jsem zahledla! Pokousim se ziskat blizsi popis.
+
+[SPEECH: WiB]
+Neco se pohnulo... Dvojnozec...
+
+[SPEECH: WiB]
+Co to mohlo byt?
+
+[SPEECH: WiB]
+Nekdo tu je. Pujdu to proverit.
+
+[SPEECH: WiB]
+Muz v kabate. Ze by to byl on?
+
+-----------------------------------------------------------------
+[Owner: WiB]
+[Name:  WiB_BarkSearchGiveUp]
+
+[SPEECH: WiB]
+Uz tady nic neni.
+
+[SPEECH: WiB]
+Vsude je uz klid.
+
+[SPEECH: WiB]
+Bohuzel, falesny poplach. Cisty vzduch.
+
+-----------------------------------------------------------------
+[Owner: WiB]
+[Name:  WiB_BarkSurprise]
+
+[COMMENT]
+Was going to say something else, but interrupted by JC's appearance.n_∏O¥[EjiZÆqu?àçƒQÜ®T6’ôˇWo(ycH`@
+
+[SPEECH: WiB]
+Pockat, nekdo tu je!
+
+[SPEECH: WiB]
+Nepratele!
+
+[SPEECH: WiB]
+Mame potize!
+
+-----------------------------------------------------------------
+[Owner: WiB]
+[Name:  WiB_BarkTargetAcquired]
+
+[SPEECH: WiB]
+Kontakt - postaram se o nej!
+
+[SPEECH: WiB]
+Odsud se uz nikdy nedostanes!
+
+[SPEECH: WiB]
+Tamhle je!
+
+-----------------------------------------------------------------
+[Owner: WiB]
+[Name:  WiB_BarkTargetLost]
+
+[SPEECH: WiB]
+Ztratila jsem ho. Mame neco na satelitu?
+
+[SPEECH: WiB]
+Zatim je klid. Zadne znamky pohybu.
+
+[SPEECH: WiB]
+To je zvlastni. Prece se nepropadl do zeme!
+
+-----------------------------------------------------------------
+[Owner: WiB]
+[Name:  WiB_BarkTearGas]
+
+[COMMENT]
+TearGas scream 1
+
+[SPEECH: WiB]
+(jeci)
+
+[COMMENT]
+TearGas scream 2BarkTearGas\WiB0
+
+[SPEECH: WiB]
+(jeci)
+
+[COMMENT]
+TearGas scream 3BarkTearGas\WiB0
+
+[SPEECH: WiB]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: Woman]
+[Name:  Woman_BarkCriticalDamage]
+
+[SPEECH: Woman]
+(jeci)
+
+[SPEECH: Woman]
+(jeci)
+
+[SPEECH: Woman]
+(skuci)
+
+-----------------------------------------------------------------
+[Owner: Woman]
+[Name:  Woman_BarkFutz]
+
+[COMMENT]
+(as though she felt a small pain, like a soda can hitting her in the head)k
+
+[SPEECH: Woman]
+(vzdycha)
+
+[SPEECH: Woman]
+Co?
+
+[SPEECH: Woman]
+(vzdycha)
+
+[SPEECH: Woman]
+Auu!
+
+[COMMENT]
+(annoyed, as though the player has been pestering him for a while)
+
+[SPEECH: Woman]
+(bruci)
+
+[COMMENT]
+A whiny sound.ø¡±äÅ‡Ò“t
+
+[SPEECH: Woman]
+(breci)
+
+-----------------------------------------------------------------
+[Owner: Woman]
+[Name:  Woman_BarkGoingForAlarm]
+
+[COMMENT]
+The woman is heading for an alarm.  Her exclamations should the less wildly terrified and more determined, controlled, full of indignation and purpose.0[øNªî¡˛
+
+[SPEECH: Woman]
+(stena)
+
+[SPEECH: Woman]
+(jeci)
+
+[COMMENT]
+A panicked, angry groan as she starts to sprint.G
+
+[SPEECH: Woman]
+(bruci)
+
+-----------------------------------------------------------------
+[Owner: Woman]
+[Name:  Woman_BarkGore]
+
+[SPEECH: Woman]
+(jeci)
+
+[SPEECH: Woman]
+(jeci)
+
+[SPEECH: Woman]
+(stena)
+
+-----------------------------------------------------------------
+[Owner: Woman]
+[Name:  Woman_BarkOnFire]
+
+[COMMENT]
+OnFire scream 1
+
+[SPEECH: Woman]
+(jeci)
+
+[COMMENT]
+OnFire scream 2
+
+[SPEECH: Woman]
+(jeci)
+
+[COMMENT]
+OnFire scream 3
+
+[SPEECH: Woman]
+(jeci)
+
+-----------------------------------------------------------------
+[Owner: Woman]
+[Name:  Woman_BarkSuprise]
+
+[SPEECH: Woman]
+Och!
+
+[SPEECH: Woman]
+(jeci)
+
+[SPEECH: Woman]
+(stena)
+
+-----------------------------------------------------------------
+[Owner: Woman]
+[Name:  Woman_BarkTearGas]
+
+[COMMENT]
+TearGas scream 1
+
+[SPEECH: Woman]
+(jeci)
+
+[COMMENT]
+TearGas scream 2
+
+[SPEECH: Woman]
+(jeci)
+
+[COMMENT]
+TearGas scream 3
+
+[SPEECH: Woman]
+(jeci)
+

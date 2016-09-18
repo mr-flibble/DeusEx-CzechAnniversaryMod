@@ -1,0 +1,7 @@
+<DC=255,255,255>
+<P><JC><B>PROJEKT DIBBUK</B>
+<P><JC>Shrnuti
+<P>
+<P><JC><I>POUZE pro povereni Domination/5F!</I>
+<P>
+<P>...zminene selhani predchozich pokusu vytvorit nizkoprofilovy rotacni letoun bylo zavineno pouzitim a zpetnou upravou dostupneho vojenskeho hardwaru, ktery vsak nemel potrebny dolet, vysku ani elektromagnetickou pruhlednost, nehlede na mnozstvi ocitych svedku, kteri s nim nahodne prichazeli do styku. Nadavkem ke zhorsujicimu se verejnemu mineni ohledne vladnich operaci byl tento projekt ohrozen i nekterymi konkurencnimi projekty. PROJEKT DIBBUK si klade za cil vyresit tento problem navrzenim "neviditelneho" letounu, jenz by se dal pouzivat jako zakladna pro plneni ruznych cilu...

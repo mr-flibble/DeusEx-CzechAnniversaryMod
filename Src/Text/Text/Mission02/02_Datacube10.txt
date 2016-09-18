@@ -1,0 +1,7 @@
+<COMMENT>Roof near warehouse</COMMENT>
+<DC=255,255,255>
+<P>Vsem hrdym clenum NSF: Nas cas nastane co nevidet; to, ceho jsme se vzdycky obavali, stoji pred nami, o tom neni pochyb - v sazce je nase bezprostredni porazka a otroctvi. Ale vy jste odvazni, vy jste silni a nakonec zvitezite!
+<P>
+<P>Docasna kancelar pro distribuci zarizeni, vybaveni a zbrani byla zrizena v suterenu skladiste. Zadame, aby se v teto kancelari hlasil kazdy clen, nebot bude pred odchodem na urcene stanoviste vybaven telemetrickym pristrojem. Kod kancelare je 9923.
+<P>
+<P>JL

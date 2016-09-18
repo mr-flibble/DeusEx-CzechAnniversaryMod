@@ -1,0 +1,7 @@
+<COMMENT>MJ12 detenion block</COMMENT>
+<DC=255,255,255>
+<P>Poruciku Jacksone:
+<P>
+<P>Neuspesny pokus o prunik do site LabNet bohuzel neblaze ovlivnil jine klicove systemy, takze vetsina bezpecnostnich zarizeni musi byt resetovana. Dokud nebude vse plne funkcni, kod dveri do bloku veznice je nastaven na 4089 a _vsechny_ vazebni cely maji stejny kod 4679. Jakmile se situace napravi, budete o tom neprodlene informovan.
+<P>
+<P>Agent Sherman

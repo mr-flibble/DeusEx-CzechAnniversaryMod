@@ -1,0 +1,12 @@
+<DC=255,255,255>
+<P>Od: NY Prvni federalni narodni banka
+<P>Ke: John Palmer
+<P>
+<P>Litujeme toho, ze na vas ucet u Prvni federalni narodni byl uskutecnen hackersky prunik; u nas v NYFF nebereme takove veci na lehkou vahu a necinime vas v zadnem pripade odpovednym za zpusobenou skodu. Vsechna vase aktiva pred neautorizovanou transakci byla prevedena na ucet cislo 947761 s cislem PIN 2867. Doporucujeme vam, abyste si PIN zmenil co nejrychleji pote, co si stav sveho noveho uctu overite.
+<P>
+<P>Jeste jednou se vam velmi omlouvame. Jiste vas nemusime presvedcovat o tom, ze NYFF zajisti, aby k takovemu pruniku jiz nikdy nemohlo dojit.
+<P>
+<P>S pozdravem,
+<P>Bob Latham
+<P>viceprezident bezpecnosti
+<P>NY Prvni federalni narodni banka

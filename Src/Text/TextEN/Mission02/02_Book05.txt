@@ -1,0 +1,9 @@
+<DC=255,255,255>
+<P><JC><B>The Man Who Was Thursday</B>
+<P><JC>by G. K. Chesterton
+<P>
+<P>"... First of all, what is it really all about?  What is it you object to?  You want to abolish Government?"
+<P>
+<P>"To abolish God!" said Gregory, opening the eyes of a fanatic.  "We do not only want to upset a few despotisms and police regulations; that sort of anarchism does exist, but it is a mere branch of the Nonconformists.  We dig deeper and we blow you higher.  We wish to deny all those arbitrary distinctions of vice and virtue, honour and treachery, upon which mere rebels base themselves.  The silly sentimentalists of the French Revolution talked of the Rights of Man!  We hate Rights as we hate Wrongs. We have abolished Right and Wrong."
+<P>
+<P>"And Right and Left," said Syme with a simple eagerness, "I hope you will abolish them too.  They are much more troublesome to me..."

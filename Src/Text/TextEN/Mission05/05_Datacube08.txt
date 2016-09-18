@@ -1,0 +1,18 @@
+<COMMENT>Agent Sherman's office</COMMENT>
+<DC=255,255,255>
+<P><JC>MJ12 Cyberinformation Warfare Division
+<P>
+<P>Your request for: LOGINS/PASSWORDS
+<P>was completed at 18:34:23.
+<P>
+<P>ajacobson - calvo
+<P>anavarre - scryspc
+<P>ghermann - zeitgeist
+<P>JCD - bionicman
+<P>jmanderley - knight_killer
+<P>jreed - redshoes
+<P>jreyes - amigo
+<P>klloyd - target
+<P>scarter - antique
+<P>
+<P><JC>MJ12CWD * "Ipsa scientia potestas est."

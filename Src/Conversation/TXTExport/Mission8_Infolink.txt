@@ -1,0 +1,72 @@
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_DaedalusEnd]
+
+[SPEECH: Daedalus]
+Az bude ta zasilka znicena, zadam te, abys odjel do Parize. Musis tam najit Dowdova spolecnika Morgana Everetta.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_DangerOnStreets]
+
+[SPEECH: TracerTong]
+Mame tu problem, JC. Obcanske nepokoje na Manhattanu se zhorsily do te miry, ze bylo vyhlaseno stanne pravo. V tuto hodinu maji vojaci povoleno strilet na kohokoliv a ja vidim pobliz hotelu nekolik strazi a jednoho robota. Radsi se dobre kryjte!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_DangerUnderground]
+
+[SPEECH: TracerTong]
+V tehle oblasti se hodne bojovalo. Davejte pozor na straze!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Entry]
+
+[GOAL:]
+Bez do baru Underworld a setkej se tam s Harley Filbenem.
+
+[SPEECH: TracerTong]
+Nemel byste ztracet cas. Musite se dostat do baru Underworld a setkat se s Harley Filbenem. Je jednim z Dowdovych pomocniku a dojedna vam s nim schuzku. Ridte se jeho instrukcemi.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_EntryDaedalus]
+
+[COMMENT]
+Maybe the "ps -al" is just static (a Unix command), while "attach" is the faint voice of Icarus.  (?)  This is the first time the Icarus AI is heard in the game.
+
+[SPEECH: Daedalus]
+Nespravna inform -- ps -al || pripojen. Ulice ciste. Zadne nebezpeci.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Exit]
+
+[SPEECH: Jock]
+Stahujou se k tobe oddily MJ12, JC. Pristanu s vrtulnikem na strese 'Tonu. Zdejchni se pryc!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_GuntherThreat]
+
+[SPEECH: GuntherHermann]
+Pripravujeme se k zasahu. Jsi vyrizenej!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_JockShipWarning]
+
+[SPEECH: Jock]
+Vidim pribihat oddily MJ12... Musely o tobe vedet! Radsi si pronto vyrid s Paserakem svy ksefty a vrat se ke mne na strechu hotelu!
+
+[GOAL:]
+Jakmile od Paseraka nakoupis zbozi, vrat se na hotelovou strechu a odlet vrtulnikem do Brooklynske lodenice.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_SmugglerHome]
+
+[SPEECH: TracerTong]
+Na Paserakovych avatarech vidim sitovou aktivitu. To znamena, ze musi byt doma.
+

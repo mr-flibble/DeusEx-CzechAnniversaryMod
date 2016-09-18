@@ -1,0 +1,5 @@
+<EMAIL=02_Email01,Miss You,SweetCharity,Paul Denton,>
+<EMAIL=02_Email02,SPAM: Tired of life?,KVORK Inc.,Multiple Recipients,>
+<EMAIL=02_Email03,Settled in yet?,JReyes,Paul Denton,>
+<EMAIL=02_Email04,Message Undeliverable,Network Administrator,user,>
+<EMAIL=02_Email05,Account Verification,ClassicMovies,Paul Denton,>              

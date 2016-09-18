@@ -1,0 +1,260 @@
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Ambush]
+
+[COMMENT]
+The player is about to be ambushed by MJ12 troops.
+
+[SPEECH: BobPage]
+Zbyva nam jeste nekolik minut k zabijeni, nez znicime tu strelu. Mozna, ze zabijeme i tebe.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Dead]
+
+[GOAL:]
+Sejdi se s Jockem za jadernym silem.
+
+[SPEECH: BobPage]
+Tohle kolo jsi vyhral, ale porad jeste mam Helia a ukryvam se dva kilometry pod zemi. Takze Plan C!
+
+[SPEECH: Jock]
+Strela pripravena k odpaleni. Cekam na tebe na strese!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Downloaded]
+
+[GOAL:]
+Sejdi se s Garym Savagem a Jockem na strese velitelskeho modulu na pobrezi.
+
+[SPEECH: GarySavage]
+Kopii schematu posilam do vasi databanky. Presne tohle jsme potrebovali! Svezu se s Jockem a sejdeme se na strese velitelskeho modulu na pobrezi!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Everett_Area51]
+
+[SPEECH: MorganEverett]
+A ted do Oblasti 51, JC! Page bude oslaben. To je nase sance!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Everett_Congrats]
+
+[SPEECH: MorganEverett]
+Vyborne. Nyni muzeme vylecit Tonga a dalsi obeti epidemie... A jeste mnohem vic, JC! Jen si predstavte, co vsechno dokazeme s UK!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Flooded]
+
+[COMMENT]
+Perhaps since the base is so far underwater(and underground later.) the DL's sound distorted and echo a bit throughout this map and the next.0
+
+[SPEECH: GarySavage]
+Cele jizni kridlo je zaplaveno. Do vetsiny zrejme nebudete mit pristup.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_FrontGate]
+
+[GOAL:]
+Znemozni vypusteni jaderne strely.
+
+[SPEECH: GarySavage]
+Ovladaci sal je v podzemi. Meli jsme tu bezpecnostni kod 8456, ale to jeste v dobach, kdy jsme pracovali v Oblasti 51. Pochybuji, ze by jeste fungoval na vsechny dvere.
+
+[NOTE:]
+Kod ke vchodu do sila: 8456.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_HeliosPleased]
+
+[COMMENT]
+Perhaps since the base is so far underwater(and underground later.) the DL's sound distorted and echo a bit throughout this map and the next.0
+
+[SPEECH: Helios]
+µa-a-a-no...
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Intro]
+
+[COMMENT]
+Perhaps since the base is so far underwater(and underground later.) the DL's sound distorted and echo a bit throughout this map and the next.0
+
+[SPEECH: GarySavage]
+Podivejte se z okna na severovychod. Ta budova se zelenym majakem je modul posadky. Tam byste mel najit vytah, ktery vas sveze dolu do dilen. Opatrne, JC! Elektricka zarizeni podmorske laboratore jsou zaplavena a zkratovana! Kulomety a ochranne systemy se nebudou chovat obvyklym zpusobem a krome toho zrejme utekla i nektera pokusna zvirata!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_PageCall]
+
+[SPEECH: BobPage]
+Pristup ke komunikatoru. Musim ti neco rict.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Savage]
+
+[COMMENT]
+Perhaps since the base is so far underwater(and underground later.) the DL's sound distorted and echo a bit throughout this map and the next.0
+
+[SPEECH: GarySavage]
+To schema by melo byt ulozeno na pocitaci v teto mistnosti.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Savage1]
+
+[SPEECH: GarySavage]
+Primo pred sebou mate prerusovac. Nejprve preruste odpaleni a potom pouzijte ten terminal vlevo, abyste preprogramoval strelu na zasah Oblasti 51!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Savage2]
+
+[GOAL:]
+Preprogramuj strelu tak, aby zasahla Oblast 51.
+
+[SPEECH: GarySavage]
+Odpaleni strely preruseno. Nyni pouzijte ten terminal, abyste preprogramoval strelu.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Savage3]
+
+[GOAL:]
+Bez k odpalovaci rampe a presvedc se, ze MJ12 nemuze ohrozit odpaleni strely.
+
+[SPEECH: GarySavage]
+Zahajeno odpocitavani odpaleni strely. V Oblasti 51 bude za chvili pekne horko...
+
+[SPEECH: BobPage]
+Jsi stejne netrpelivy, jako pri sve praci, Savage: radujes se predcasne!
+
+[SPEECH: GarySavage]
+Zbyva ti pouhych deset minut, Page!
+
+[SPEECH: BobPage]
+Jako vedec bys mel byt zvykly na vselijaka prekvapeni.
+
+[SPEECH: GarySavage]
+JC, bezte do jaderneho sila! Presvedcte se, ze odpaleni strely nikdo neohrozi!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_ScientistHelp]
+
+[SPEECH: GarySavage]
+Nejspis se vam natrefi jit kolem mych vedcu, kteri byli zajati a prinuceni pracovat v genetickych laboratorich. Mozna tam najdete pomocnou ruku.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Sealed]
+
+[COMMENT]
+Perhaps since the base is so far underwater(and underground later.) the DL's sound distorted and echo a bit throughout this map and the next.0
+
+[SPEECH: Helios]
+Ano, musis se dostat do severniho kridla a tunelem proniknout do modulu posadky! Ne vsechny dvere jsou zajistene proti vybuchu!
+
+[SPEECH: BobPage]
+Pospes si, Dentone!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_SecondDoors]
+
+[COMMENT]
+Perhaps since the base is so far underwater(and underground later.) the DL's sound distorted and echo a bit throughout this map and the next.0
+
+[SPEECH: GarySavage]
+Vrata ponorneho doku jsou zavrena. Musite je otevrit!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Simons1]
+
+[SPEECH: WaltonSimons]
+Nakonec stejne pracujes pro nas. Jaka ironie osudu!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Simons2]
+
+[SPEECH: WaltonSimons]
+Koneckoncu, nebyl jsi nevydareny experiment. Budes posledni prototyp, ktereho se zbavime.
+
+[SPEECH: WaltonSimons]
+Pamatujes na toho pana od NSF, ktereho jsem vam poslal zpatky do Centra UNATCO? Predstav si, ze by se ti stalo totez, co jemu! Vis, jakmile dostanes tu nemoc, zbyva ti uz jen jedina moznost!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Simons3]
+
+[SPEECH: WaltonSimons]
+Tak se podivame, jak dobre jsme te sestrojili!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Start]
+
+[GOAL:]
+Ukradni miniponorku z URV modulu pod urovni hladiny tesne u brehu, potom vypluj k podmorske laboratori.
+
+[SPEECH: GarySavage]
+Nezapominejte, ze Tiffany tady zajali! Musite ukrast miniponorku, abyste se dostal do podmorske laboratore. Zakladnu tvori serie propojenych modulu. Ponorky jsou v tom modulu pod hladinou tesne u brehu.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Submarine]
+
+[COMMENT]
+Perhaps since the base is so far underwater(and underground later.) the DL's sound distorted and echo a bit throughout this map and the next.0
+
+[SPEECH: GarySavage]
+Zachytili jsme, ze k podmorskemu doku se blizi nejaka miniponorka. Zrejme prepadeni! Pospeste si!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_subnotready]
+
+[SPEECH: GarySavage]
+Spolehame na vas, JC! Nevracejte se, dokud z pocitace v podmorske laboratoci neziskate to schema!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Tunnel]
+
+[COMMENT]
+Perhaps since the base is so far underwater(and underground later.) the DL's sound distorted and echo a bit throughout this map and the next.0
+
+[SPEECH: GarySavage]
+Za kontrolnim stanovistem je oblast vykopu, kde se rozsiruje prostor teto budovy. Potom uz se dostanete do modulu posadky.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_uc]
+
+[COMMENT]
+Perhaps since the base is so far underwater(and underground later.) the DL's sound distorted and echo a bit throughout this map and the next.0
+
+[SPEECH: Helios]
+Ano, pronikl jsi siti ochranky; ano, je zmatena, ocekava prulom, k nemuz nikdy nedojde.
+
+[SPEECH: BobPage]
+Vidis, jak kousky skladacky zapadaji dohromady? UK, UI a brzy i Helios budou bezprostredne propojeny primo s mym mozkem! Budu schopen videt cokoliv, vytvorit cokoliv, D·LAT - COKOLIV! Uz jenom kratky kousek cesty, Dentone...
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Underwater]
+
+[COMMENT]
+Perhaps since the base is so far underwater(and underground later.) the DL's sound distorted and echo a bit throughout this map and the next.0
+
+[SPEECH: GarySavage]
+Ponorny dok je v tomto modulu. Mozna, ze me ted chvili neuslysite. Nevim jiste, jestli mikrovlnna vysilacka pronikne az do podmorske laboratore. To brzy zjistime.
+

@@ -1,0 +1,13 @@
+<DC=255,255,255>
+<P><B>From:</B> GSavage//UnderNet.289.83.54
+<P><B>To:</B> JTaylor//UnderNet.498.784.90
+<P><B>Subject:</B> RE: Reaction Modules
+<P>
+<P>>I've done several run-up tests on the reaction modules
+<P>>and I'm a little concerned about the power curves --
+<P>>you'll find some samples attached from the last run.
+<P>>We're getting a pretty steep rise in the sigma variance.
+<P>
+<P>I believe the variance can be explained by an interference pattern from the reaction module linkages; we had a similar problem at Area 51 resulting from the feedback paths -- but keep an eye on it anyways.  We can't afford a repeat of what happened there.
+<P>
+<P>Gary

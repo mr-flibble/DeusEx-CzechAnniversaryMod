@@ -1,0 +1,24 @@
+<COMMENT>Ship's electronics lab</COMMENT>
+<DC=255,255,255>
+<P>BLUEOS INSTALLATION LOG 19:55:33
+<P>Compiling kernel v23.4a...
+<P>Created kernel.
+<P>Installing kernel!
+<P>Installing kernel files to \system\bluekernel...
+<P>...copying vbluemod.kernel!
+<P>...copying vconnect.kernel!
+<P>...copying ispp33.yht!
+<P>...copying ispp56.yht!
+<P>...copying bluedrivers.interface!
+<P>...copying bluesecurity.kernel!
+<P>Initializing bluesecurity "root" login.
+<P>Default password: "reindeerflotilla".
+<P>...copying xholoarray.interface!
+<P>...copying xhardwire.interface!
+<P>...copying xsolo.interface!
+<P>...copying qazmod.kernel!
+<P>Morphing kernel driver interface! /temp/morph
+<P>Installing morphed interface to \system\bluekernel\interface...
+<P>...copying bluetranslut.6ty!
+<P>...copying tripodmod.ker
+<P>*** SYSTEM FAILURE 00x627d893 ***

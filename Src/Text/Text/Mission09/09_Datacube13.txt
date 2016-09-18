@@ -1,0 +1,3 @@
+<COMMENT>Zhao's quarters</COMMENT>
+<DC=255,255,255>
+<P>Soucasny login/heslo: KZhao, Captain.

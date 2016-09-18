@@ -1,0 +1,8 @@
+<COMMENT>Jaime's office</COMMENT>
+<DC=255,255,255>
+<P>JANINE'S BOTS
+<P>SPECS AND OVERVIEW
+<P> 
+<P>MATSU-GRAVAS GV-4 "NIGHTINGALE" MEDICAL BOT
+<P>
+<P>The Matsu-Gravas GV-4 is the newest addition to the M-G line, their first foray into the medical bot category largely monopolized by Page Industries and Chiang subsidiary HealTech.  Unlike the competing Page or HealTech units, the M-G GV-4 benefits from a completely proprietary operating system -- developed at M-G's research campus in Prague -- that promises to revolutionize automated healing by combining a comprehensive medical and pharmaceutical database with M-G's already proven autonomous heuristic routines.  While actual field data is sketchy at this point in time, anecdotal evidence suggests that the GV-4 can heal wounds far beyond the capabilities of any other competing model, though it does require a substantial recharging period...

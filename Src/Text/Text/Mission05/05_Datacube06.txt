@@ -1,0 +1,5 @@
+<COMMENT>MJ12 lab</COMMENT>
+<DC=255,255,255>
+<P><JC>AKUSTICKY ZVUKOVY SENZOR, JEHO PRINCIP A VLASTNOSTI
+<P>
+<P>Akusticky senzor strelby byl nezavisle vyvinut nekolika organizacemi na celem svete v tech osidlenych oblastech, kde by bylo jinak obtizne a drahe zrizovat a udrzovat bezpecnostni zasahove jednotky. S pouzitim klasickeho DSP algoritmu dokaze senzor spustit, kdykoliv se v jeho ucinnem okruhu ozve charakteristicky zvuk strelby; terenni zkousky v Hongkongu prokazaly 88procentni ucinnost, coz melo za nasledek dvanactiprocentni pokles zlocinnosti v nasledujicim pulroce. Akusticke senzory strelby jsou levne a snadno instalovatelne: lze je montovat na budovy, sloupy verejneho osvetleni nebo na jakekoliv jine podobne objekty...

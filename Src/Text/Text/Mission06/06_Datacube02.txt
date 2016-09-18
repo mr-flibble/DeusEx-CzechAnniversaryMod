@@ -1,0 +1,3 @@
+<COMMENT>MJ12 helibase barracks</COMMENT>
+<DC=255,255,255>
+<P>Zaznamenali jsme dalsi z lokalnich pokusu o prunik bezpecnostni klavesnici u vytahu - tentokrat to vypada na dite, ale odvedlo slusnou praci, kdyz se dokazalo vyhnout bezpecnostnim kameram. Nicmene Nichole se podarilo zasahnout jeste pred vlastnim prunikem a nastavit kod na 989; doufejme, ze je to znechuti az do te doby, nez posilime bezpecnost u vchodu.

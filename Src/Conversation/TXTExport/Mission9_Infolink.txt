@@ -1,0 +1,232 @@
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_AllDone]
+
+[SPEECH: TracerTong]
+Vsechny svary jsou rozbite. Cerpadla bezi. Rychle utikejte pryc, protoze lod se do pul hodiny rozpadne. Venku v doku na vas ceka Jock.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_AllPlaced]
+
+[SPEECH: TracerTong]
+O plast tedy mame postarano. Ted jeste musite zapnout cerpadla a obratit je na zpetny chod.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_BadNews]
+
+[SPEECH: Jock]
+Tomu nebudes verit, JC! U Paseraka probehla razie! Videl jsem, jak Gunther na strese nastupuje do vrtulniku a miri zpatky do UNATCO. Tentokrat se z toho Paserak asi nedostal. Jen jsem si myslel, ze bys to mel vedet...
+
+[SPEECH: Jock]
+Tomu nebudes verit, JC! U Paseraka probehla razie! Videl jsem, jak Gunther na strese nastupuje do vrtulniku a miri zpatky do UNATCO. Projel jsem policejni frekvence, ale patrani po Paserakovi porad pokracuje. Zda se, ze se mu podarilo uniknout...
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Bilge]
+
+[SPEECH: TracerTong]
+Tohle jsou ta cerpadla. Nejdriv je musite zapnout a potom obratit jejich chod! Nekde na stene bude jejich spinac a pocitacem docilite obraceni chodu.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_BilgeOpenHullPointsLeft]
+
+[SPEECH: TracerTong]
+Pumpy jsou v cinnosti. Ted jeste rozbit posledni svary.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_BuildingEntryAir]
+
+[SPEECH: TracerTong]
+Tohle je vetrak hlavni klimatizace. Jestlize chcete proklouznout tudy, mel byste najit udrzbarsky poklop nebo se dostat ven klimatizacnimi sachtami, ale nenechte se zaskocit nebezpecnymi stroji a nepratelskymi boty!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_BuildingEntryMain]
+
+[SPEECH: TracerTong]
+Toto je peclive strezena budova. Budte pripraven na ozbrojeny odpor!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_BuildingEntrySewer]
+
+[GOAL:]
+Dostan se na lod.
+
+[SPEECH: TracerTong]
+Ty stoky vedou primo do vody. I tak byste se na tu lod mohl dostat, jestli vam nevadi plavani.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_ComingIn]
+
+[SPEECH: Jock]
+JC, uz se ritim! Je tu pekne horko, takze sem upaluj co nejrychlejc! Posadim masinu nekde pobliz.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Daedalus1]
+
+[SPEECH: Daedalus]
+Zacal jsem planovat tvoje dalsi ukoly. Dowd te zrejme posle do Parize. Postarej se o to, aby ti oznamil misto soucasneho pobytu sveho spolecnika, Morgana Everetta. K teto informaci nemam pristup.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Daedalus2]
+
+[SPEECH: Daedalus]
+Existuje jeste jiny zpusob, jak najit Everetta. Jeho pani se jmenuje Beth DuClarova. Vzpomen si na to jmeno, az se dostanes do Parize!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Daedalus3]
+
+[SPEECH: Daedalus]
+Nezapomen na Everetta. Objevil jsem jeho pani, Beth DuClarovou, ale ta je mrtva. Posledni zijici clen vedeni Iluminatu je jeji dcera, Nicolette DuClarova. Zeptej se na Nicolette Dowda. Potrebujeme nekoho, kdo by te zavedl k Everettovi...
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Entry]
+
+[GOAL:]
+Sejdi se se Stantonem Dowdem u jeho rodinne hrobky na hrbitove.
+
+[SPEECH: Jock]
+Vyklopil jsem te u hlavni brany. Nikde zadna znamka nebezpeci. Promluv si s Dowdem a ja te potom zase nalozim.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Insertion]
+
+[SPEECH: TracerTong]
+A jste za plotem! Dobra! Pred sebou vidite kasarna. Musite se nejak dostat na zakladnu a postupne dojit az k te velke budove na severu. Cestou se rozhlizejte po municnim skladu. Budete potrebovat vybusniny.
+
+[GOAL:]
+Vnikni ho hlavni budovy na severni strane lodenice. Zrejme se tam budes moci dostat vice zpusoby.
+
+[GOAL:]
+Najdi municni sklad a obstarej si tam vice granatu LAM nebo raket.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_JockCryptWarning]
+
+[SPEECH: Jock]
+Maler, JC. Ulice se rojej vojakama. Uvidim, jestli na tom hrbitove dokazu pristat. Radsi se drz stranou!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_JockDropOff]
+
+[SPEECH: Jock]
+Vysadil jsem te na opusteny parcele vedle zakladny. Ve zdi bys mel najit starou mriz, ktera ti umozni vniknout dovnitr. Ja odsud radsi vypadnu, nez zacnou straze neco tusit!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_MainGate]
+
+[SPEECH: TracerTong]
+Jste u hlavni brany. Musite se dostat ke dverim u zakladny toho velkeho jerabu v dalce, ale davejte pozor na straze a strazne boty!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_OnRoof]
+
+[SPEECH: TracerTong]
+Dobra. Nektery z tech bloku bude mit odnimatelny panel. Proplazte se tim potrubim do budovy.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Problem]
+
+[COMMENT]
+Jock partly loses control of the helicopter at the beginning of this.  That's why he says "whoa!"hat you can gain entry through.  I've got to get out of here before the sentries get suspicious.
+
+[GOAL:]
+Vypni rusive elektromagneticke pole, ktere Jockovi brani pristat. Jeho zdroj se naleza v male budove tesne za hrbitovni branou.
+
+[SPEECH: Jock]
+Sakra! Velkej problem! Nekdo zapnul elektromagneticky rusivy pole - moje kontrolky se ani nehnou! Zdroj se naleza nejspis v tom baracku u hrbitovni brany. Musis ten generator znicit nebo vypnout, jinak nebudu schopnej pristat.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Scuttled]
+
+[COMMENT]
+Tong just detonated the charges that destroy the ship.   "Yeeow!" could be any exclamation that fits his voice.
+
+[SPEECH: TracerTong]
+Tak, to bychom meli. Lod se potapi. Jock pristava na strese a odveze vas za Stantonem Dowdem. Dowd mezitim prisel na to, kdo vyvinul ten virus.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_SewerEntry]
+
+[SPEECH: TracerTong]
+Tyhle stoky vedou pod ponorkovou zakladnou. Muzete dat krk na to, ze vojaci tuhle pristupovou cestu prospikovali ruznymi detektory a pastmi!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_ShipEntry]
+
+[GOAL:]
+Najdi cestu do podpalubi.
+
+[SPEECH: TracerTong]
+Dobra prace! Ted pozor na straze a najdete cestu do podpalubi!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_ShipExit]
+
+[GOAL:]
+Setkej se na strese s Jockem. V zapadni casti doku je udrzbarsky pristup do ventilacniho systemu. Po zebriku vylez nahoru do ventilacnich sachet a potom pokracuj dale na strechu.
+
+[SPEECH: TracerTong]
+Vidim, ze vsude se spustil poplach a zaviraji se prechodove komory. Musite rychle zmizet! Na zapadnim konci doku najdete dvere pro udrzbu, kudy se dostanete do vetraciho systemu. Musite vylezt po zebriku az nahoru. Jock vas bude cekat na strese.
+
+[COMMENT]
+I detect alarms going off all over the base. Doors
+and bulkheads are being closed off. Your only exit is the air conditioning
+system. Get off the ship and you will find the air system maintenance door
+at the west end of the dock. Use the ladder inside to get into the air
+system.ÿJ9
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_ShipView]
+
+[SPEECH: TracerTong]
+Tohle je vas cil: nakladni lod Wall Cloud. S tim, abyste proklouzl mezi strazemi v doku, by nemely byt vetsi problemy; obchazeji na svych pravidelnych hlidkovych trasach.
+
+[GOAL:]
+Dostan se na lod.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_UseCrane]
+
+[SPEECH: TracerTong]
+Zkuste pouzit vytah a vyjet na vrcholek toho jerabu. Snad se tak dostanete na strechu a do budovy se dostanete ventilacnimi sachtami.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_VentOpening]
+
+[SPEECH: TracerTong]
+Otevrte tu mriz a mozna dokazete doskocit na lod. Nejsem si jist... je to dost daleko. Pokud mate augmentovane nohy, nezapomente si do nich pustit stavu.
+
+[GOAL:]
+Dostan se na lod.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_WeldPoint]
+
+[SPEECH: TracerTong]
+Tohle je to misto, JC! Na stene vidite jeden z tech peti svaru. Mel byste ho dokazat rozbit raketou z GEPky nebo granatem LAM. Az budete hotov s timhle, musite najit a znicit jeste ty ctyri dalsi. Ridte se podle Dowdovy mapy!
+

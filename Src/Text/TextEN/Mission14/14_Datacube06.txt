@@ -1,0 +1,9 @@
+<COMMENT>Trashed office of MJ12 guard in OceanLab</COMMENT>
+<DC=255,255,255>
+<P>Corporal Hutchens:
+<P>
+<P>This place has gone to hell and it's all Ridley's fault.  I've been able to track him and it looks like he's heading for the dock -- he must have a URV scheduled to pick him up.  There's no way I'm going to let him get away, not after what he's done.  Grab some firepower and hole up wherever you can.  An extraction team is bound to show up sooner or later.  If you run into trouble, bypass security with the "Oceanguard" login and "Kraken" password, but I don't know how much longer that'll work.
+<P>
+<P>Good luck.
+<P>
+<P>Sergeant Mann

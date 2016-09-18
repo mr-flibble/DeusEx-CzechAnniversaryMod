@@ -1,0 +1,12 @@
+<COMMENT>Zhao's quarters</COMMENT>
+<DC=255,255,255>
+<P>FROM: Captain Kang Zhao, PRCS Wall Cloud
+<P>TO: Walton Simons, FEMA
+<P>SUBJECT: Status (Draft Text)
+<P>
+<P>We arrived at 18:27 today, three hours ahead of schedule.  The modifications to the cargo bays have been completed as specified and the helicopters should begin loading within the hour.  I trust your people will be careful with the cargo -- the crew of this ship is still my responsibility.
+<P>
+<P>Be careful of my Ling; she is my responsibility as well.
+<P>
+<P>Captain Kang Zhao
+<P>PRCS Wall Cloud

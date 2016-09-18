@@ -1,0 +1,7 @@
+<COMMENT>18th Street station</COMMENT>
+<DC=255,255,255>
+<P>Youngu,
+<P>
+<P>Kod je 6653. Sejdeme se v lodenici, kde mi pomuzes vylozit naklad, aby ho bylo mozne co nejrychleji vyexpedovat. Drzte se zpatky. Nepotrebujeme mrtvy hrdiny, ale zivy lidi.
+<P>
+<P>Decker

@@ -1,0 +1,9 @@
+<DC=255,255,255>
+<P><JC><B>Universal Constructor: Theory, Principles, and Practice</B>
+<P><JC>by Wayne Yin
+<P>
+<P>... and thus arose the need for a more generalized theory encompassing a "Universal Constructor" (UC) that would be able to handle such arbitrarily complex nanoscale design problems.  Unlike the simple atom by atom nanotech constructors common today, a UC would combine millions upon millions of atoms in a parallel process that could produce materials or mechanisms of unmatched intricacy on a scale currently not possible even with the best nanoscale foundry.
+<P>
+<P>One of the most obvious applications of a UC -- if its construction were even practical -- would be the genetic manipulation of lifeforms at the atomic level to cure disease, correct congenital defects, or expand their capabilities in beneficial ways.  Theoretically, if an "intelligent," real-time control program were developed for the UC, then autonomous, artifical nanoscale organisms could be assembled.  Careful design could create organisms that might actually exist in "symbiosis" with other life.
+<P>
+<P>However, a UC also creates the tangible threat of a "gray goo" scenario: the design of an organism that is so evolutionarily advanced as to overwhelm the current ecosystem...

@@ -1,0 +1,13 @@
+<COMMENT>Jaime Reyes inbox</COMMENT>
+<DC=255,255,255>
+<P><B>Od:</B> MedDirectorate//UNATCO.15888.00342
+<P><B>Ke:</B> JReyes//UNATCO.00973.20892
+<P><B>Vec:</B> Principy nanoaugmentace (Domination/5F)
+<P>
+<P>Jako lekarsky odbornik budete mit za ukol opravovat a modifikovat systemy nasich nanoaugmentovanych agentu. Tato porada ma slouzit pouze jako uvod do teto technologie.
+<P>
+<P>Bunky kazde dulezitejsi tkane v tele nanoaugmentovaneho agenta jsou hostiteli nanitokapsularnich "hybridu". Takove hybridy lze replikovat ve dvou stadiich: ve stadiu virovem, kdy hostitelska bunka vylucuje kapsularni bilkoviny a uklada je do vyhloubenych casti viru; a ve stadiu nanotechnickem, kdy dochazi k duplikaci prijimacich a vysilacich mechanismu a k jejich vlozeni do ochranneho plaste viru. Retezce RNA jsou dale prenaseny mikrovlnami a prekladany do plazmidovych vektoru, coz ma za nasledek zcela prirozeny organicky proces.
+<P>
+<P>Pridavne augmentace lze realizovat s pouzitim mikroskopickych modulu ROM - ve tvaru miniaturnich "letajicich taliru" - ktere se rozpousteji v krevnim obehu a pripevnuji nanity k vybezkum patere. Tyto pridavne augmentace lze velice dobre prirovnat k softwarovym "upgradum".
+<P>
+<P>Doufame, ze vas nase zprava zaujala; pripojujeme k ni soubor s podrobnou technickou dokumentaci. Prosime, abyste si vse radne prostudoval a byl tak lepe schopen vykonavat lekarskou peci o vzrusujici novou rasu augmentovanych agentu.

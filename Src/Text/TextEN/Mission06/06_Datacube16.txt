@@ -1,0 +1,5 @@
+<COMMENT>Helibase gas release</COMMENT>
+<DC=255,255,255>
+<P>Maintenance Note!
+<P>
+<P>Got a shipment of that experimental fuel, but this is scary stuff -- toxic six ways to Sunday, and while the emergency purge is designed to shunt it into the basement tanks in case of a problem, the fumes alone could creep back up the ventilation system and put most of the facility out of business.  Definitely lowest bid contractor work.  Until I can get a hold of someone to fix this mess, I've slapped a temporary lockout on the purge valve: 99871. Give me a ring at (443) 2334-2388-123 if there's a problem.

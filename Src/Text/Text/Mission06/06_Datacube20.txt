@@ -1,0 +1,7 @@
+<COMMENT>Queen's Tower computer codes</COMMENT>
+<DC=255,255,255>
+<P>Morte --
+<P>
+<P>Zejtra tady nebudu, tak na tebe spolyham, ze vsecko zaridis. Jen pro tvou informaci, elektrikari dneska dokoncili instalaci bezpecnostniho zarizeni, login je QUEENSTOWER a heslo SECURITY, kdyby sis snad chtel trochu pohrat s konfiguraci. (Myslim, ze tenhle system zcela presahuje omezeny chapani toho vratnyho, takze bys mu moh' treba trosku helfnout.) Nez zmizim, nastavim jeste kod zadniho vejtahu na 1709, pokud bys ho nahodou potreboval. Az se vratej' remeslnici na sedmy patro, rekni jim ten kod 3444. Kdyby se vyskytly nejaky problemy, vis, jak me zastihnout.
+<P>
+<P>:Lin

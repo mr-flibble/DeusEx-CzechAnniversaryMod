@@ -1,0 +1,8 @@
+<COMMENT>Storage room</COMMENT>
+<DC=255,255,255>
+<P>FROM: JACOB MACKENZIE
+<P>TO: AGENT KARYO
+<P>
+<P>I'm moving all the explosives we find into storage.  I don't think there's any danger of sweating or spontaneous detonation -- this stuff looked like it was pretty stable -- but I thought it might be best to put it in a secure, structurally sound location.  If you or your people require access, the explosives locker code is 4225.
+<P>
+<P>Mac

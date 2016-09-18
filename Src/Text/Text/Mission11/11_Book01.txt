@@ -1,0 +1,16 @@
+<COMMENT>MJ12 Hit List</COMMENT>
+<DC=255,255,255>
+<P><JC><B>MJ12 - Seznam kompromitovanych osob</B>
+<P><JC>Pariz, Francie
+<P>
+<P>Nasledujici osoby byly ohodnoceny koeficientem 85% nebo vyssim, co se tyce pravdepodobnosti navazani styku s podezrelou ci ideologicky kontraproduktivni skupinou na zaklade Chasen-Bikalovy stupnice, popripade ktere dosahly hodnoty minimalne 4.31 bodu pri pruzkumu JKL-LB behem predchozich sesti mesicu. Agentum se doporucuje, aby rozpoutali dezinformacni kampane nizkeho stupne, jez budou mit za cil jmenovane osoby kompromitovat, nez bude prikroceno k jejich pravni likvidaci. Tato likvidace muze v pripade nutnosti postihnout i cleny samotne organizace MJ12-COL. Sve dotazy, prosim, smerujte na Simulacni a strategicke oddeleni MJ12, MJ12SAS//UpNet.2748.2738.22.
+<P>
+<P>Jean Renois (MJID-7037XD8374)
+<P>Erin Toddova (MJID-3793YH3803)
+<P>Decker Parkes (MJID-0984IS3270)
+<P>Rene Delon (MJID-9834TR1008)
+<P>Wayne Young (MJID-9904MG9401)
+<P>Henri Rota (MJID-7778AD2096)
+<P>Ave Javet (MJID-7982MV1924)
+<P>Raymond Kearns (MJID-4684II3900)
+<P>...

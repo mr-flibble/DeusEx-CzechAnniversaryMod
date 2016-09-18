@@ -1,0 +1,11 @@
+<COMMENT>MJ12 Lab</COMMENT>
+<DC=255,255,255>
+<P><B>Od:</B> DJacobi//UNATCO.363.67398
+<P><B>Ke:</B> PSherman//UpNet.221.9981
+<P><B>Vec:</B> RE: Bezpecnostni opatreni
+<P>
+<P>>* Vsechny augmentacni zasobniky at jsou okamzite presunuty
+<P>>do bezpecne oblasti a pristup k nim at je omezen na osoby
+<P>>s poverenim Domination/5F nebo vyssim.
+<P>
+<P>Po inventure jsme premistili jeden augmentacni zasobnik 12C (agresivni obrana/vyzvedna sonda) do nanotechnicke laboratore, kde byl ulozen v suspenzni prepravce s kodem 9905.

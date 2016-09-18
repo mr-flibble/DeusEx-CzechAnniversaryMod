@@ -1,0 +1,10 @@
+<DC=255,255,255>
+<P>>MJ12 CWD
+<P>TECHNICKa ZPRaVA 12-Y
+<P>OD: SANDY PRINSLOO
+<P>KE: KIM KRIZAN
+<P>VEC: POSTUP PRACI NA ROZHRANI
+<P>
+<P>Konecne se nam podarilo doladit par poslednich chybicek v pripojeni - Page chce byt k Heliovi pripojeny hned potom, co probehnou posledni zkousky. Nevim, jestli je to dobry napad, ale v tomhle spoleham na doktory... Jsem jen obycejny technik. Predpokladam, ze schazi jeste poslednich pet nebo sest hodin poslednich diagnostickych zkousek, nez to budeme moci sjet naostro. Page rovnez naridil, abychom propojili ctyri generatory modre fuze do redundantniho pole; kazda z techhle vecicek by dokazala zasobovat energii cely tenhle komplex minimalne mesic - tak proc je takhle seskupovat? Propojit je vsechny bude sila, ale myslim, ze s tim neco vyvedu. Mrknu se na reaktory B13, jakmile dostanu od Maca kod, protoze by se mi odtamtud mohlo treba neco hodit. Mel bych znat vic, nez jen 2300. A dej mi vedet, az dostanes zpravu od Murdocha ohledne te vysilaci komory!
+<P>
+<P>MJ12CWD * "Ipsa scientia potestas est".

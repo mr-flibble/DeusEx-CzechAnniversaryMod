@@ -1,0 +1,1011 @@
+-----------------------------------------------------------------
+[Owner: BarracksSoldier]
+[Name:  BarracksSoldierBarks]
+
+[COMMENT]
+These cycle and repeat the last.o
+
+[SPEECH: BarracksSoldier]
+Vy jste priletel tim vrtulnikem? To asi patrite k lidem z D.C.?
+
+[SPEECH: BarracksSoldier]
+Moje sestra ve Washingtonu bydli. Pracuje ve Vesmirnym muzeu.
+
+[SPEECH: BarracksSoldier]
+Od Beltway jsem tu nevidel tolika lidi. Je to jak predvolebni sjezd.
+
+[SPEECH: BarracksSoldier]
+Nas, obycejny vojaky, hodne znepokojuje, kdyz nevime, co se deje.
+
+[SPEECH: BarracksSoldier]
+Myslim, ze se dozvime az ve zpravach, vo co tady kraci, a pak nam to teprve dojde.
+
+[SPEECH: BarracksSoldier]
+Vcera tady byl Bob Page. Zrejme se jedna o velky prachy.
+
+[SPEECH: BarracksSoldier]
+Spojeny staty zrejme zadaji o dalsi pujcku. To si myslim ja.
+
+[SPEECH: BarracksSoldier]
+Dalsi prachy od Cinanu by se teda urcite sikly.
+
+[SPEECH: BarracksSoldier]
+Dobre se mi s vama povida.
+
+[SPEECH: BarracksSoldier]
+Presne podle rozkazu: tohle misto jsme neprodysne uzavreli. Muzete se na nas spolehnout.
+
+-----------------------------------------------------------------
+[Owner: CafWorker1]
+[Name:  CafWorker1Barks]
+
+[COMMENT]
+These cycle and repeat the last.ksSoldierBarks\BarracksSoldier10
+
+[SPEECH: CafWorker1]
+Nazdarek.
+
+[SPEECH: CafWorker1]
+Nechal jsem si vercajk na lodi. Ted uz se zpatky na palubu nedostanu.
+
+[SPEECH: CafWorker1]
+Nechapu, co si myslej, ze bez vercajku udelam!
+
+[SPEECH: CafWorker1]
+Chlapci od FEMA by byli zrejme nejradsi, kdybysme vubec prestali chodit do prace.
+
+[SPEECH: CafWorker1]
+Dneska rano tu pristalo par cernejch vrtulniku. To se mi nelibi.
+
+[SPEECH: CafWorker1]
+Hosi z Washingtonu. Jeden z nich vypadal jako politik.
+
+[SPEECH: CafWorker1]
+Cerny vrtulniky. Vojsko je pouziva pri operacich proti civilistum.
+
+-----------------------------------------------------------------
+[Owner: CafWorker1]
+[Name:  CafWorker1Barks2]
+
+-----------------------------------------------------------------
+[Owner: CafWorker1]
+[Name:  CafWorker1FriendlyBarks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: CafWorker1]
+Hodne stesti!
+
+[SPEECH: CafWorker1]
+Je tady spousta divnejch cizincu, cert vi, proc.
+
+[SPEECH: CafWorker1]
+Rad bych vedel, co tu vcera delal Walton Simons.
+
+[SPEECH: CafWorker1]
+Pozdravujte za me Sandru!
+
+[SPEECH: CafWorker1]
+Vinny ma z pekla stesti.
+
+-----------------------------------------------------------------
+[Owner: CafWorker1]
+[Name:  CafWorker1Help]
+
+[SPEECH: CafWorker1]
+Hele, vy jste ten chlapek, co o nem mluvil Vinny? Kamos Sandry?
+
+[SPEECH: JCDenton]
+Jo...
+
+[SPEECH: CafWorker1]
+Mate nasi stoprocentni podporu. Chceme vedet, co se na ty lodi deje.
+
+[SPEECH: JCDenton]
+To ja taky.
+
+[SPEECH: CafWorker1]
+Kod k rampe je 6655. To je ta nejsnadnejsi cesta, ale musite davat bacha na nocni hlidky.
+
+[SPEECH: JCDenton]
+Budu. Diky.
+
+[NOTE:]
+Kod k rampe: 6655.
+
+-----------------------------------------------------------------
+[Owner: CafWorker2]
+[Name:  CafWorker2Barks]
+
+[COMMENT]
+These cycle and repeat the last.r
+
+[COMMENT]
+(bored, disinterested)e
+
+[SPEECH: CafWorker2]
+Jak se vede?
+
+[SPEECH: CafWorker2]
+Jojo, bez predaku toho moc nenadelame.
+
+[SPEECH: CafWorker2]
+Myslim, ze to budem prave my, koho ted poslou domu.
+
+[SPEECH: CafWorker2]
+At si s tou lodi tropej' hosi z D.C. cokoliv, rozhodne nechtej', aby se jim nekdo koukal na prsty.
+
+[SPEECH: CafWorker2]
+Hadam, ze tam s Cinanama pecou nejakou tajnou dohodu.
+
+[COMMENT]
+These cycle and repeat the last.r
+
+[SPEECH: CafWorker2]
+To je bezva, ze se znas s Vinnym!
+
+[SPEECH: CafWorker2]
+Doufam, ze zjistis, vo co tady jde.
+
+[SPEECH: CafWorker2]
+Volal jsem dokonce i novinarum, ale nikdo se mi neozval.
+
+[SPEECH: CafWorker2]
+Myslim, ze FEMA tady ve skutecnosti dela neco uplne jinyho.
+
+[SPEECH: CafWorker2]
+Neco tady smrdi. Jaka je tady katastrofa? K cemu je tady FEMA?
+
+-----------------------------------------------------------------
+[Owner: DoorGuard]
+[Name:  DoorGuardBarks]
+
+[COMMENT]
+These cycle and repeat the last.t's the emergency?  Why's FEMA h
+
+[SPEECH: DoorGuard]
+Ty musis bejt Denton. Pojd se mnou, musim ti neco rict.
+
+[COMMENT]
+(under his voice, not quite a whisper)
+
+[SPEECH: DoorGuard]
+Predak vyfasoval klic od nakladni rampy. Jeho skrinku najdes o kus dal v tyhle chodbe.
+
+[COMMENT]
+These cycle and repeat the last.t's the emergency?  Why's FEMA h
+
+[SPEECH: DoorGuard]
+Davej si ale majzla.
+
+[SPEECH: DoorGuard]
+Lidi od FEMA vyhlasili cervenej poplach. Netusim, proc.
+
+[SPEECH: DoorGuard]
+Hej! Co jsi zac?
+
+[SPEECH: DoorGuard]
+Vypadni odtud!
+
+[SPEECH: DoorGuard]
+Stat!
+
+-----------------------------------------------------------------
+[Owner: Electrician]
+[Name:  ElectricianBarks]
+
+[COMMENT]
+These cycle and go random.<%‹Ž	”À
+
+[SPEECH: Electrician]
+Litaj' z toho blesky jako pri velky bource.
+
+[SPEECH: Electrician]
+Jestli se vam neco stane, tak nenesu zadnou odpovednost!
+
+[SPEECH: Electrician]
+Museli bysme vypnout oba ovladaci panely, aby tam prestala jit stava.
+
+[SPEECH: Electrician]
+Kazdou chvili uz dorazej' boti.
+
+[SPEECH: Electrician]
+Nebojte se; do rana se mi to podari opravit.
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: Electrician]
+Skvely. Zbytek uz zvladnu odtud.
+
+[SPEECH: Electrician]
+Diky moc.
+
+[SPEECH: Electrician]
+Mel byste zvazit, jestli nestojite o praci. Tady je kazda ruka dobra.
+
+[SPEECH: Electrician]
+Jsem rad, ze uz je to za nama.
+
+-----------------------------------------------------------------
+[Owner: Electrician]
+[Name:  ElectricianFleeing]
+
+[SPEECH: Electrician]
+Roztrhla se lod!
+
+[SPEECH: Electrician]
+Zachran se, kdo muzes!
+
+[SPEECH: Electrician]
+Vsichni se tu utopime!
+
+-----------------------------------------------------------------
+[Owner: Electrician]
+[Name:  ElectricianShortCircuit]
+
+-----------------------------------------------------------------
+[Owner: Electrician]
+[Name:  MeetElectrician]
+
+[GOAL:]
+Vypni privod elektriny ke zkratovanym transformatorum, ktere se vybijeji pres ocelovy ochoz. Musis vypnout dva ovladaci panely, jeden z nich je pod podlahou.
+
+[SPEECH: Electrician]
+Musite to obejit; tady natahujeme novy vedeni.
+
+[SPEECH: JCDenton]
+Nechci prekazet.
+
+[SPEECH: Electrician]
+Zkratovaly se transformatory a ja je nedokazu vypnout. Jsou porad dost nabity. Ten ocelovej ochoz ted funguje jako druha kondenzatorova deska.
+
+[SPEECH: JCDenton]
+Ted by se hodili boti.
+
+[SPEECH: Electrician]
+To mate recht; tak vysokej plat nemam, abych se tam sel nechat uskvarit. Cekam na dalsi varku pavouku; ti prvni dva prestali reagovat.
+
+[SPEECH: JCDenton]
+Kvuli vam se na to mrknu.
+
+[SPEECH: Electrician]
+To vam neradim. Musel byste vypnout dva ovladaci panely, jeden z nich je pod podlahou. Uz mi zkouseli pomahat kluci z kancelare heliportu - zblaznily se jim tak kvuli tomu pocitace - ale za to riziko to nestoji. Ani nahodou!
+
+-----------------------------------------------------------------
+[Owner: FrontGuard]
+[Name:  AfterBreeched]
+
+-----------------------------------------------------------------
+[Owner: FrontGuard]
+[Name:  FrontGuardBarks]
+
+[COMMENT]
+These cycle and repeat the last.t's the emergency?  Why's FEMA h
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: FrontGuard]
+Nechapu, jak se chces dostat na palubu, kdyz je hlavni rampa odstavena. Jedine doplavat.
+
+[SPEECH: FrontGuard]
+Davej tam na sebe pozor!
+
+[SPEECH: FrontGuard]
+Soucasny rozkazy pro tuhle oblast jsou: strilet bez vystrahy.
+
+[SPEECH: FrontGuard]
+Mame tady cervenej poplach. Dokonce nam porucili sledovat jerab, jestli se z nej nekdo nepokousi seskocit na palubu.
+
+[SPEECH: FrontGuard]
+Hodne stesti!
+
+[SPEECH: FrontGuard]
+FEMA je na velkym omylu, kdyz si mysli, ze budeme slepe plnit rozkazy.
+
+[SPEECH: FrontGuard]
+Jen to, ze nosim uniformu, jeste neznamena, ze mam taky vylizanej mozek!
+
+[SPEECH: FrontGuard]
+Jestli zjistime, co tady vlada tropi, za tepla to oznamime nasemu kamosovi Joeovi Greenovi z Midnight Sunu.
+
+[SPEECH: FrontGuard]
+Jestli se nemejlim, tak tebe tu vidim poprve.
+
+[SPEECH: FrontGuard]
+Slysel jsem, ze na zejtrek planujou neco velkyho - vzdusnej most nebo tak neco.
+
+[SPEECH: FrontGuard]
+Znas taky Sandru? Pani, ten Vinny ma ale kliku!
+
+[SPEECH: FrontGuard]
+Lidi od FEMA nam dali jasny rozkazy: dovnitr nikdo nesmi.
+
+[SPEECH: FrontGuard]
+Jestli se tu budes takhle potloukat, tak nejspis brzo schytas kulku.
+
+[SPEECH: FrontGuard]
+Jak ja si oddychnu, az tohle vsechno bude za mnou!
+
+[SPEECH: FrontGuard]
+Nebudu riskovat krk kvuli nejakymu Pageove poskokovi - a to jeste nevim jiste, jestli mluvis pravdu.
+
+[SPEECH: FrontGuard]
+Mel bys radsi uz jit, abys neprisel pozde.
+
+[SPEECH: FrontGuard]
+Nelibi se nam, co jste nam tady zacali provadet.
+
+[SPEECH: FrontGuard]
+Nemame radi, jak se FEMA bratrickuje s tema cizakama. To neni dobry.
+
+[SPEECH: FrontGuard]
+Hele, ja mam svy rozkazy. Ta vase tajna operace by byla pekne na houby, kdyby nebylo poctivejch vojaku, ktery dodrzujou predpisy.
+
+[SPEECH: FrontGuard]
+Vrat se sem zejtra.
+
+[SPEECH: FrontGuard]
+Ted nemam kdy si tady s tebou vykladat.
+
+-----------------------------------------------------------------
+[Owner: FrontGuard]
+[Name:  MeetFrontGuard]
+
+[SPEECH: FrontGuard]
+Ty patris k Pageove skupine?
+
+[SPEECH: JCDenton]
+Jo.
+
+[SPEECH: FrontGuard]
+Prave sli dovnitr.
+
+[SPEECH: JCDenton]
+Vadilo by, kdybych se mrknul na lod?
+
+[SPEECH: FrontGuard]
+Lidi od FEMA nemaji radi, kdyz se tam nekdo moc produciruje. Aby se na tebe zacali usmivat, to bys musel mit sikmy voci.
+
+[SPEECH: JCDenton]
+Tem se zdaleka vyhnu.
+
+[SPEECH: FrontGuard]
+Na tvym miste bych se na tu pitomou lod neodvazil ani PODÖVAT, pokud by ses tam nepotreboval dostat za kazdou cenu. Ale proc tak riskovat?
+
+[SPEECH: JCDenton]
+Prijdu pozde. Pustte me dal.
+
+[SPEECH: FrontGuard]
+Ta brana zustane zavrena. Ve skutecnosti mame rozkaz strilet na kazdyho, kdo se pokusi vejit. Takovy kreteni nejsme, ale to neznamena, ze bysme te tady videli radi.
+
+[SPEECH: FrontGuard]
+Ty musis bejt Denton.
+
+[SPEECH: JCDenton]
+Kdo se pta?
+
+[SPEECH: FrontGuard]
+Nas kamos Vinny vzkazal, ze te mame cekat. Jestli si troufas zjistit, co se tady deje, tak smele do toho!
+
+[SPEECH: JCDenton]
+Fakticky tady hraje hlavni roli FEMA?
+
+[SPEECH: FrontGuard]
+FEMA a Cinani. Rakosniky nemuzu ani cejtit.
+
+[SPEECH: JCDenton]
+Ani ja ne.
+
+[SPEECH: FrontGuard]
+Tenhle klic je od hlavni brany. Straznej u hlavniho vchodu te necha projit, ale lidi od FEMA uz na tebe tak hodny nebudou.
+
+-----------------------------------------------------------------
+[Owner: Gatekeeper]
+[Name:  GatekeeperBarks]
+
+[COMMENT]
+These cycle and stop on the last.
+
+[SPEECH: Gatekeeper]
+Pan Dowd vas ocekava pred rodinnym mauzoleem.
+
+[SPEECH: Gatekeeper]
+Je to ta budova na zapadnim konci hrbitova, na pruceli ma napsano "Dowd".
+
+[SPEECH: Gatekeeper]
+Uz tam na vas ceka.
+
+-----------------------------------------------------------------
+[Owner: GatekeepersCallButton]
+[Name:  RingForService]
+
+[SPEECH: GatekeepersCallButton]
+Ano? Co se deje?
+
+[SPEECH: JCDenton]
+Potrebuju se sejit s Dowdem.
+
+[SPEECH: GatekeepersCallButton]
+Okamzik, prosim. Hned vas jdu pustit dovnitr.
+
+-----------------------------------------------------------------
+[Owner: Guard1]
+[Name:  Guard1Overheard]
+
+[SPEECH: Guard1]
+RX 84.
+
+[SPEECH: Guard2]
+Co to ma bejt?
+
+[SPEECH: Guard1]
+Jeden z tech planu. Copak jsi nikdy neslysel o RX 84?
+
+[SPEECH: Guard2]
+Ehm-hm.
+
+[SPEECH: Guard1]
+FEMA se zmocni dalnicni site, policie, letist, medii a ozbrojenejch sil.
+
+[SPEECH: Guard2]
+Ale porad bude zodpovedna prezidentovi, ne?
+
+[SPEECH: Guard1]
+Dokud neskonci stav nouze, tak ne. Tak je to ucinnejsi. Taky maji v umyslu zavrit pet milionu Americanu v ten den, kdy stav nouze vyhlasej'.
+
+[SPEECH: Guard2]
+Nejaky teroristy?
+
+[SPEECH: Guard1]
+Vetsinou pristehovalce, ale taky vsechny, ktery sleduje FBI.
+
+[SPEECH: Guard2]
+Myslis, ze k tomu dojde?
+
+[SPEECH: Guard1]
+Jestli o tom bude rozhodovat Simons, tak ten pouzije plan RX 84 docela urcite. Tezko hadat, co se bude dit pak.
+
+-----------------------------------------------------------------
+[Owner: Guard3]
+[Name:  Guard3Overheard]
+
+[SPEECH: Guard3]
+Vykonny rozkaz 10990. Opravnuje nas prevzit kontrolu nad dopravou.
+
+[SPEECH: Guard4]
+To si FEMA muze dovolit?
+
+[SPEECH: Guard3]
+Kdyz prezident vyhlasi stav nouze. Vykonny rozkaz 10995. Opravnuje nas prevzit kontrolu nad medii.
+
+[SPEECH: Guard4]
+Nade vsemi?
+
+[SPEECH: Guard3]
+Presne tak. Vykonny rozkaz 10997. Opravnuje nas prevzit kontrolu nad prirodnimi zdroji.
+
+[SPEECH: Guard4]
+Takze je to vsechno legalni?
+
+[SPEECH: Guard3]
+Akce v ramci narodni bezpecnosti taky spadaji do nasi kompetence. Taky akce narodni obrany. Kdyz bude setrit trumfama, Walton Simons z toho vyjde jako vitez bez ztraty kvetinky.
+
+[SPEECH: Guard4]
+Cim dal, tim lip. Takze my vubec nebudeme muset bojovat.
+
+[SPEECH: Guard3]
+Presne tak.
+
+-----------------------------------------------------------------
+[Owner: Jock]
+[Name:  M09JockLeave]
+
+[SPEECH: Jock]
+To bylo vo fous.
+
+[SPEECH: JCDenton]
+Muzeme letet? Dowd si preje, abychom kontaktovali jeho pritele v Parizi.
+
+[SPEECH: Jock]
+Everetta, co? To je vudce Iluminatu. Ale najit ho bude docela zaber.
+
+[CHOICES:2]
+
+[CHOICE:]
+Letime.
+
+[CHOICE:]
+Pockej, jeste se tu porozhlidnu kolem.
+
+[SPEECH: Jock]
+Hlavne aby v Parizi nevyhlasili stanny pravo. Jaky to bejvalo krasny mesto!
+
+[SPEECH: Jock]
+Hni sebou!
+
+[SPEECH: Jock]
+Muzem?
+
+-----------------------------------------------------------------
+[Owner: LockerWorker]
+[Name:  LockerWorkerBarks]
+
+[COMMENT]
+These cycle and repeat the last.
+
+[SPEECH: LockerWorker]
+Ani vam nemusim rikat, ze uklizeci se tady uz par dni vubec neobjevili.
+
+[SPEECH: LockerWorker]
+Nechapu, proc nas rovnou neposlou vsechny domu.
+
+[SPEECH: LockerWorker]
+Myslite, ze mi zaplatej' za prescas?
+
+[SPEECH: LockerWorker]
+Mel jsem si sem vzit aspon nejakou knizku.
+
+-----------------------------------------------------------------
+[Owner: Mechanic1]
+[Name:  Mechanic1Barks]
+
+[COMMENT]
+Mechanic1 is meant to have a Northeastern/Maine accent.
+
+[SPEECH: Mechanic1]
+Vy tady mate nejakou praci?
+
+[SPEECH: Mechanic1]
+Prominte, ze to tak reknu, ale horsi, nez ten...Simons bejt nemuzete.
+
+[SPEECH: Mechanic1]
+Jojo, nechci na nikoho nasazovat, ale tady uz pomalu neni jedinyho cloveka, kterymu by se dalo verit.
+
+[SPEECH: Mechanic1]
+Jestli si myslite, ze si stezuju, tak to se mejlite. Chtel jsem tim jenom rict, ze kdyz tady cloveka zrovna nepotrebujou na praci, bez okolku ho kopnou do zadku.
+
+[SPEECH: Mechanic1]
+Mate zvlastni tetovani - jako by se vam pod tou kuzi hejbalo! Jakzivo jsem nic podobnyho nevidel.
+
+[SPEECH: Mechanic1]
+Neda se nic delat, musime zpatky do fachy.
+
+[SPEECH: Mechanic1]
+Jestli potrebujete neco vedet, zeptejte se tamhle v predni kancelari.
+
+[SPEECH: Mechanic1]
+Heledte, ja tu klapu pantem a pritom me ceka jeste pet hodin sichty.
+
+-----------------------------------------------------------------
+[Owner: Mechanic1]
+[Name:  Mechanic1Overheard]
+
+[COMMENT]
+Mechanic1 is meant to have a Northeastern/Maine accent.
+
+[SPEECH: Mechanic1]
+Uz jsem te nepotkal celej tejden. Kdes' byl?
+
+[SPEECH: Mechanic2]
+µle...ani se neptej. Drel jsem se na ty novy uzaviraci mrizi ve stokach - ta posrana vec se znicehonic zacala zavirat a malem mi ufikla celou ruku!
+
+[SPEECH: Mechanic1]
+A jak to dopadlo?
+
+[SPEECH: Mechanic2]
+Jo, jsem dobrej. Rekli mi, ze prej se na to podivaji. Samozrejme s tim museli cekat tak dlouho, dokud me to neprizabilo.
+
+[SPEECH: Mechanic1]
+Jojo, je to par dni, co jsem videl par chlapu makat tamhle v tom hangaru. Podle myho museli neco natuty delat s ovladacim ventilem.
+
+[SPEECH: Mechanic2]
+Co se to tady vlastne vubec deje? Po ceste me nejakej trouba s bouchackou prosacoval vod hlavy az k pate a jeste mel vrky, ze si na me bude davat pozor!
+
+[SPEECH: Mechanic1]
+To musela bejt FEMA. Jakmile vyhlasili stanny pravo, zacali tu pobihat jako doma na cvicaku. Uzavreli ponorkovou zakladnu a chteji zastrelit kazdyho, kdo se k ni priblizi.
+
+[SPEECH: Mechanic2]
+Jo, vsimnul jsem si, ze se vosiraji kolem. Jezis! Tady to jde do hoven pekne rychlym tempem. Jsem zvedavej, co tomu reknou odbory.
+
+[SPEECH: Mechanic1]
+Odbory? Ty drzej' hubu jako zarezany.
+
+-----------------------------------------------------------------
+[Owner: Mechanic2]
+[Name:  Mechanic2Barks]
+
+[SPEECH: Mechanic2]
+Hele, ja se nenecham vochcat. Jestli po mne chces neco nad ramec my prace, obrat se na odbory.
+
+[SPEECH: Mechanic2]
+Zmenilo se to tady na vojenskej tabor. Staci tejden a clovek je v prdeli.
+
+[SPEECH: Mechanic2]
+Hele, delej si svou praci a ja si budu delat taky svou. Reknu ti jenom to, ze chlapkum s bouchackama a poldovskym kukucem ja neverim.
+
+[SPEECH: Mechanic2]
+Nedelam tu prece nic spatnyho, tak mi dej laskave pokoj, jasny?
+
+[SPEECH: Mechanic2]
+Jestli chces jenom vopruzovat, tak to sis vybral spatnyho chlapa.
+
+-----------------------------------------------------------------
+[Owner: Mechanic3]
+[Name:  Mechanic3Barks]
+
+[SPEECH: Mechanic3]
+Vy jste dozorce? Od ty doby, co otevreli tuhle ponorkovou zakladnu, je to tady vzhuru nohama.
+
+[SPEECH: Mechanic3]
+Jo, byl jsem u toho taky. Pan multimiliardar Bob Page se krasne usmival a prestrihnul stuhu, nacez nam povypravel, jaka je to pro New York velka cest.
+
+[SPEECH: Mechanic3]
+Jenze jakmile Page vypadnul, prilitla tlupa tech vojaku od FEMA a vsude to tam obsadila. Prej ze "vojenska ochrana".
+
+[SPEECH: Mechanic3]
+O vojensky ochrane ja vim houby. Kdyz jsem byl v doku naposled, nebyla tam zadna ponorka, ale ta vobrovska nakladni lod. Nejspis cinska.
+
+[SPEECH: Mechanic3]
+Nedoneslo se vam nahodou neco o premiich? Chci rict, ze tu ted hodne makame prescas.
+
+[SPEECH: Mechanic3]
+Hm, jestli se minulej tejden vyradili, bude to mozna jen jednorazovka. Snad se to nebude opakovat.
+
+[SPEECH: Mechanic3]
+Sakra, copak neumite nic jinyho, nez nekomu podupavat za zadkem?
+
+[SPEECH: Mechanic3]
+Budu mlcet jako hrob. Vubec nic jsem nevidel. Tak uz jste spokojenej?
+
+-----------------------------------------------------------------
+[Owner: Ops1]
+[Name:  Ops1Bump]
+
+[SPEECH: Ops1]
+Hej, tady nahore nemate co delat!
+
+[SPEECH: Ops1]
+Mame tu praci.
+
+[SPEECH: Ops1]
+Zrovna se vystridala smena. Ceka nas spousta prace.
+
+[SPEECH: Ops1]
+Copak nevidite, ze ted nemame cas?
+
+-----------------------------------------------------------------
+[Owner: Ops1]
+[Name:  Ops1Overheard]
+
+[COMMENT]
+This exact dialogue is duplicated in Ops1Dummy -- Ops1DummyOverheard.  The difference is that this conversation is overheard in the room where the announcers are sitting, whereas the other one is heard over a loudspeaker.
+
+[COMMENT]
+These cycle.w
+
+[SPEECH: Ops1]
+Jeste jednou.
+
+[SPEECH: Ops2]
+Prepinam na kanal A.
+
+[SPEECH: Ops1]
+Nic.
+
+[SPEECH: Ops2]
+Zpatky na B.
+
+[SPEECH: Ops1]
+Sakra! Vydrz.
+
+[SPEECH: Ops2]
+Cekam na nahozeni.
+
+[SPEECH: Ops1]
+To je divny...
+
+[SPEECH: Ops2]
+Musi bejt tuhej server.
+
+[SPEECH: Ops1]
+Ne, ne... Nepinknu si ani na Bismarka. Vubec nejsme v siti.
+
+[SPEECH: Ops2]
+Co se to, sakra, deje?
+
+[SPEECH: Ops1]
+Jak to vypada ted?
+
+[SPEECH: Ops2]
+Zkus to jeste za moment. Nejspis maji jeste porad problemy s elektrikou.
+
+[SPEECH: Ops1]
+Copak je na vypnuti transformatoru neco tezkyho?
+
+[SPEECH: Ops2]
+Zrejme to nebude tak snadny.
+
+[COMMENT]
+These cycle.l is going o
+
+[SPEECH: Ops1]
+Tomu se mi nechce verit.
+
+[SPEECH: Ops2]
+Nechapu, proc jim to trva tak dlouho.
+
+[COMMENT]
+(make-believe radio voice)
+
+[SPEECH: Ops1]
+Volam vsechny vozy, 10-24, hlaste se centrale...
+
+[COMMENT]
+(annoyed)
+
+[SPEECH: Ops2]
+Funguje to. No, to je dost!
+
+[SPEECH: Ops1]
+Kod 4. Podezrely je ve vazbe. Konec.
+
+[SPEECH: Ops2]
+Urvi to.
+
+[SPEECH: Ops1]
+Mel jsem se radsi dat k hongkongskejm poldum.
+
+-----------------------------------------------------------------
+[Owner: Ops1Dummy]
+[Name:  Ops1DummyOverheard]
+
+[COMMENT]
+This exact dialogue is duplicated in Ops1 -- Ops1Overheard.  The difference is that this conversation is heard over a loudspeaker, whereas the other one is overheard in the room where the announcers are sitting.
+
+[COMMENT]
+These cycle.w
+
+[SPEECH: Ops1Dummy]
+Jeste jednou.
+
+[SPEECH: Ops2Dummy]
+Prepinam na kanal A.
+
+[SPEECH: Ops1Dummy]
+Nic.
+
+[SPEECH: Ops2Dummy]
+Zpatky na B.
+
+[SPEECH: Ops1Dummy]
+Sakra! Vydrz.
+
+[SPEECH: Ops2Dummy]
+Cekam na nahozeni.
+
+[SPEECH: Ops1Dummy]
+To je divny...
+
+[SPEECH: Ops2Dummy]
+Musi bejt tuhej server.
+
+[SPEECH: Ops1Dummy]
+Ne, ne... Nepinknu si ani na Bismarka. Vubec nejsme v siti.
+
+[SPEECH: Ops2Dummy]
+Co se to, sakra, deje?
+
+[SPEECH: Ops1Dummy]
+Jak to vypada ted?
+
+[SPEECH: Ops2Dummy]
+Zkus to jeste za moment. Nejspis maji jeste porad problemy s elektrikou.
+
+[SPEECH: Ops1Dummy]
+Copak je na vypnuti transformatoru neco tezkyho?
+
+[SPEECH: Ops2Dummy]
+Zrejme to nebude tak snadny.
+
+[COMMENT]
+These cycle.m
+
+[SPEECH: Ops1Dummy]
+Tomu se mi nechce verit.
+
+[SPEECH: Ops2Dummy]
+Nechapu, proc jim to trva tak dlouho.
+
+[COMMENT]
+(make-believe radio voice)
+
+[SPEECH: Ops1Dummy]
+Volam vsechny vozy, 10-24, hlaste se centrale...
+
+[COMMENT]
+(annoyed)
+
+[SPEECH: Ops2Dummy]
+Funguje to. No, to je dost!
+
+[SPEECH: Ops1Dummy]
+Kod 4. Podezrely je ve vazbe. Konec.
+
+[SPEECH: Ops2Dummy]
+Urvi to.
+
+[SPEECH: Ops1Dummy]
+Mel jsem se radsi dat k hongkongskejm poldum.
+
+-----------------------------------------------------------------
+[Owner: Ops2]
+[Name:  Ops2Bump]
+
+[SPEECH: Ops2]
+Jeste minutku.
+
+[SPEECH: Ops2]
+Ted mame moc prace.
+
+[SPEECH: Ops2]
+Nestojime o zadnou pomoc.
+
+[SPEECH: Ops2]
+Zacinate mi jit na nervy.
+
+-----------------------------------------------------------------
+[Owner: SimonsButton]
+[Name:  M09SimonsMessage]
+
+[SPEECH: SimonsButton]
+Kapitane Cao! Vrtulniky tu za chvilku budou. Museji byt nalozeny, aby mohly rozptylit virus. Neodkladne. Chci mit nalozene vrtulniky k dispozici jeste pred usvitem!
+
+-----------------------------------------------------------------
+[Owner: StantonDowd]
+[Name:  DowdChatting]
+
+[COMMENT]
+These cycle and repeat the last.]÷wtÃ¾ˆ
+
+[SPEECH: StantonDowd]
+Bob Page byl oblibencem Morgana Everetta, dobry student, ale velmi netrpelivy.
+
+[SPEECH: StantonDowd]
+Kdyby se nakazil nekdo z Pageovych blizkych, popadl by perlik a vsechno by rozmlatil napadrt.
+
+[SPEECH: StantonDowd]
+Mel jsem tusit, ze se takhle zvrhne.
+
+[SPEECH: StantonDowd]
+Page odmital zavedene "iluminatske stupne". Nikdy se nedostal vys, nez na "Tyrskeho mistra".
+
+[SPEECH: StantonDowd]
+Kdyz se rano cvicila hatajoga, Page spal, takze logicky nemohl postoupit nikam dal.
+
+[SPEECH: StantonDowd]
+U Majestic 12, pokud mohu hadat, jsou iluminatske stupne nahrazeny hierarchii bezpecnostnich povereni - v podstate totez v blede modrem.
+
+[SPEECH: StantonDowd]
+Mnoho takovych povereni pojmenoval podle nebeskych bytosti. Asi to myslel ironicky.
+
+[SPEECH: StantonDowd]
+Bystry muz. Dobre chape nezbytnost loajality. Odhalovani prediv tajemstvi slouzi k tomu, aby rekruti meli sami zajem o postup.
+
+[SPEECH: StantonDowd]
+Nepodcenujte kouzlo dobre strezeneho tajemstvi! Nase organizace vydrzela od krizovych vyprav az do zacatku 21.stoleti a nasim jedinym tajemstvim byla meditacni technika; zpusob, jakym jsme sva tela rozpousteli ve svetle.
+
+[SPEECH: StantonDowd]
+Kdyz se budete chtit dozvedet neco o Pageovi, zeptejte se v Parizi Everetta. Kdysi se k sobe meli jako otec se synem.
+
+[SPEECH: StantonDowd]
+Radeji byste mel uz jit.
+
+-----------------------------------------------------------------
+[Owner: StantonDowd]
+[Name:  M09MeetStantonDowd]
+
+[SPEECH: StantonDowd]
+Jak jste se dostal dovnitr?
+
+[SPEECH: JCDenton]
+Pustil me vratny. Jak jinak?
+
+[SPEECH: StantonDowd]
+To je divne... Takhle pozde v noci uz tu nikdo nebyva. Rikal vam neco?
+
+[SPEECH: JCDenton]
+Ani ne. Myslite, ze ho mam jit proverit?
+
+[SPEECH: StantonDowd]
+Ale ne, to jsou ty moje paranoidni myslenky. Nemoc z povolani. Kdo jiny nez vratny by tam hlidal?
+
+[SPEECH: JCDenton]
+Vypadal neskodne. Mimochodem, potopil jsem tu nakladni lod a s ni jsem znicil i cely naklad toho viru.
+
+[COMMENT]
+Dowd coughs pretty badly during this line, after which the player either offers him Ambrosia or apologizes for not finding any.
+
+[SPEECH: StantonDowd]
+Vytecne, priteli! Davame jim co proto!
+
+[SPEECH: JCDenton]
+Prinesl jsem vam neco na ten kasel. Doufam, ze to pomuze.
+
+[SPEECH: StantonDowd]
+Ambrozie... Tak vy jste ji nasel...
+
+[SPEECH: JCDenton]
+Vypadate dost nemocne. Je mi lito, ale... Zadnou Ambrozii se mi nepodarilo sehnat.
+
+[COMMENT]
+(coughs)b
+
+[SPEECH: StantonDowd]
+Na tom nesejde.
+
+[SPEECH: JCDenton]
+Pane Dowde, rad bych neco vedel. Nekdo, kdo si rika Daidalos, si se mnou povida mym infolinkem. Zada me, abych jel do Parize a nasel tam vaseho spolupracovnika, Morgana Everetta.
+
+[SPEECH: StantonDowd]
+Ano, ano... Everett. Budeme ho potrebovat, aby nam pomohl pri vyrobe leku. Kdo je ten Daidalos?
+
+[SPEECH: JCDenton]
+To nevim... Zda se, ze nas spojenec. Ale jestli se ten vas pritel nebude chtit nechat najit --
+
+[SPEECH: StantonDowd]
+V tuto chvili nemame na vybranou. Vite, dokazal jsem desifrovat ten molekularni podpis, ktery objevil Tracer Tong, a zjistil jsem, ze eutakticky komponent viru vyvinul prave Everett.
+
+[SPEECH: JCDenton]
+Everett vyrobil ten virus pro Iluminaty?
+
+[SPEECH: StantonDowd]
+Ne tak docela. Pracoval na augmentacich. Byl to Bob Page, kdo zatouzil vyvinout na tomto principu zbran. Tong objevil ve strukture viru take jeho podpis.
+
+[SPEECH: JCDenton]
+Page? Ten miliardar? Jak ten souvisi s organizaci Majestic 12?
+
+[SPEECH: StantonDowd]
+Byl v te skupine puvodnich Iluminatu, ktera se odtrhla, aby zalozila Majestic 12. Nebyl prilis zdatnym vedcem, ackoliv... Urcite ma nad sebou nekoho, kdo mu veli.
+
+[SPEECH: JCDenton]
+Takze Everett by mohl reverznim inzenyrstvim dekodovat Pageovy modifikace viru... A najit proti nemu lek.
+
+[SPEECH: StantonDowd]
+Presne tak.
+
+[SPEECH: JCDenton]
+Daidalos rekl, ze mam nejdriv najit Nicolette DuClarovou.
+
+[SPEECH: StantonDowd]
+Ano, Everett byl s DuClarovymi v uzkem vztahu. Souhlasim s tim doporucenim. Bohuzel, s parizskou skupinou uz neudrzuji zadne styky.
+
+[SPEECH: JCDenton]
+Jak bych tu Nicolette nasel?
+
+[SPEECH: StantonDowd]
+Je clenkou francouzske teroristicke skupiny Silhouette, jak jsem slysel. Pry se schazeji v parizskych katakombach.
+
+[SPEECH: JCDenton]
+Bezva. Reknu Jockovi, at me pobliz tech katakomb vysadi.
+
+[GOAL:]
+Odlet vrtulnikem do Parize. V parizskych katakombach se zkontaktuj se skupinou Silhouette.
+
+[SPEECH: StantonDowd]
+Dam vam o Nicolette nejake materialy. Neni to nic moc - jen par snimku oblasti katakomb.
+
+[SPEECH: JCDenton]
+Diky. Urcite se mi budou hodit.
+
+[SPEECH: JCDenton]
+Vyridil jsem ho driv, nez mohl neco rict. Mam radsi klid a bezpeci.
+
+[SPEECH: StantonDowd]
+Zacinate si osvojovat nasi filosofii, co? Budte opatrny. Paranoia je jako droga; mohl byste se stat zavislym.
+
+[SPEECH: JCDenton]
+Mam pro vas dobrou zpravu. Potopil jsem tu nakladni lod a znicil tak celou zasilku toho viru.
+

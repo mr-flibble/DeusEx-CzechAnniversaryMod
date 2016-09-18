@@ -1,0 +1,12 @@
+<COMMENT>Guard shack</COMMENT>
+<DC=255,255,255>
+<P><B>Patrani po vudci teroristu se priostruje</B>
+<P>APR - New York
+<P>
+<P>UNATCO v tesne spolupraci s FEMA a dalsimi mezinarodnimi bezpecnostnimi agenturami na celem svete stale stiha muze jmenem <PLAYERNAME>, teroristu, ktery udrzuje duverne styky s nekolika skupinami vcetne NSF, Silhouette a organizovanych skupin v Hongkongu.
+<P>
+<P>"Cinime ho zodpovednym za pripravu a provedeni utoku na Ostrov svobody i za nesmyslnou smrt desitek agentu UNATCO," uvedl Walton Simons, reditel FEMA. "Nezbytnost vyhlaseni stanneho prava v New Yorku - v americkych dejinach neslychane veci - nepostrada primou souvislost s kriminalnimi zivly podlehajicimi jeho veleni."
+<P>
+<P>Simons dale pokracuje, ze dukazy ziskane pri nedavnem pumovem utoku na budovu VersaLife v Hongkongu ozrejmily "nad ocekavani jasne", jakou ulohu hraje <PLAYERNAME> v organizovane, systematicke kampani teroristu, ktera ma slouzit "k ohrozeni svobody politicky nebezpecnou ideologii, vedenou jakymikoliv prostredky".
+<P>
+<P>Urady rovnez uvitaji kazdou informaci o miste pobytu Alexe Jacobsona a Briana "Jocka" Flanagana, vyznamnych pohunku v teroristickych radach.

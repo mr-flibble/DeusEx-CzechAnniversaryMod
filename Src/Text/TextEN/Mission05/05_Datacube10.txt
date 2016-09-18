@@ -1,0 +1,9 @@
+<DC=255,255,255>
+<P><JC>PROSPECTUS: SERIES P AGENTS
+<P><JC>proposal by Dr. Arthur Donovan (Versalife/HK)
+<P>
+<P>The Series P Agents are the logical continuation of research resulting from the Series N: the development of a human agent with enhanced capabilities and absolute loyalty, but without the non-standard appearance of mechanical augmentation or the unpredictability of nano-augmentation.  Like the Series N, the strength and speed of the Series P should be substantially above baseline while new conditioning techniques will result in minimal pain response.  We conservatively predict a Series P agent would be 78% more effective in combat than a normal operative without any form of augmentation.
+<P>
+<P>Key features from the Series N agent will also be carried over, including the self-termination mechanism.  An ingenious variation on the "kill-switch," the self-termination mechanism is wired into the autonomous nervous system of an agent.  If mortally wounded, the mechanism will activate and explode, eliminating any evidence of the agent and damaging nearby hostiles.
+<P>
+<P>However, we are still continuing in our attempts to isolate the source of the albino traits present ever since the Series L, but so far the simple addition of sunglasses and dark clothing appear to have resolved the matter in a practical fashion...

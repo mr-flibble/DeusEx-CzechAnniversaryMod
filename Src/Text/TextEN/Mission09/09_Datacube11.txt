@@ -1,0 +1,9 @@
+<COMMENT>Commander's office</COMMENT>
+<DC=255,255,255>
+<P>Okay, I've added a new account for our friendly neighborhood FEMA rep -- it's only temporary, but it should allow him to check his e-mail and all that.  Let him know we're behind a firewall, so if he wants to access any privnet stuff that'll take some working out with IS.
+<P>
+<P>Login: Walton
+<P>Password: Simons
+<P>
+<P>See you in the morning,
+<P>Josy

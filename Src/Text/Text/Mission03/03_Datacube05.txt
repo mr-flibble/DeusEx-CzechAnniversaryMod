@@ -1,0 +1,5 @@
+<COMMENT>Airfield security room</COMMENT>
+<DC=255,255,255>
+<P>Erin, Ambrozie prave dorazila a prvni zasobnik nakladame do vrtulniku - ty ostatni se povezou lodi a letadlem, takze se nam snad podari dopravit aspon jeden vzorek na analyzu. Jestli muzes, dej si s nami sraz na nekterem z ustupovych stanovist; kdyby se neco podelalo, tak vis, kde se sejdeme. Udelala jsi pro vec hodne a muzes byt na sebe hrda. Ted mysli na sebe a rychle se uklid do bezpeci.
+<P>
+<P>JL

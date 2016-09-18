@@ -1,0 +1,5 @@
+<COMMENT>Helibase computer codes</COMMENT>
+<DC=255,255,255>
+<P><B>DODATEK, MJ12 H.K. OPERACNI MANUaL HELIPORTU</B>
+<P>
+<P>Vsechny opravnene osoby s poverenim urovne 3 a vyssim necht vezmou na vedomi, ze heslo pro login "TALON" do site ochranky bylo zmeneno z puvodniho "VALKYRIE" na "SKYEYE". Funkce loginu "TALON" nedoznala zadnych podstatnych zmen a stale odpovida tomu, co je o nem uvedeno v odstavci 3B Operacniho manualu. Vsechny pripadne dotazy smerujte na sveho nadrizeneho.

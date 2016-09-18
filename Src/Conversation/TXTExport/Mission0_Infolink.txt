@@ -1,0 +1,493 @@
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Arena]
+
+[SPEECH: GuntherHermann]
+Vyber si nekterou zbran na stolku. Kazde tlacitko na stolku vypusti do salu jednoho robota, se kterym se musis utkat. Dvere k vychodu se ti neotevrou driv, dokud neporazis vsechny roboty. Jestli jsi skutecne tak dobrej, jak rikaji, nebude ti delat problemy dostat vsechny ctyri najednou.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_body]
+
+[SPEECH: JaimeReyes]
+Pred tebou lezi jeden odvazny kadet, ktery se nechal dobrovolne privest do stavu bezvedomi, abys na nem vyzkousel sve dalsi cviceni. Zamer se na nej a prohledej ho, abys ziskal klic k osetrovne. Potom zvedni jeho telo a poloz ho na lekarsky stul, aby ho jeden z mych pomocniku mohl ozivit, jakmile svuj ukol dokoncis.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_bodyexit]
+
+[SPEECH: JaimeReyes]
+Dobra prace. Hned tam dolu nekoho poslu, aby vojina Winslowa ozivil. Presun se do dalsiho salu.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_BreechDoor]
+
+[SPEECH: GuntherHermann]
+Dale budes muset vyrazit dvere do chodby. Na konec chodby hod jeden LAM. Az vybuchne, pokracuj uvolnenou cestou dal.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_CombatEntry]
+
+[SPEECH: GuntherHermann]
+Vitej na nasi strelnici. Jsem Gunther Hermann a budu tady sledovat tvoje pokroky. Zacneme seznamenim se zbranemi.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_crate]
+
+[SPEECH: JaimeReyes]
+Ted si vyber zbran a pokus se rozbit tyhle bedny. Jedna z nich je neznicitelna, ale ty ostatni obsahuji uzitecne veci.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_cratestack]
+
+[SPEECH: JaimeReyes]
+Potrebujes projit dvermi na konci mistnosti, ale ty jsou zatarasene. Tyto drevene bedny jsou prilis velke, nez aby se na ne dalo vyskocit, a prilis tezke, nez aby se daly zvednout, takze pouzij kovove bednicky u steny a udelej si z nich schudky. Chces-li zvednout bednu, pribliz se k ni, az se prosviti, a potom klikni pravym tlacitkem. Chces-li odhodit neco, co prave drzis, staci stisknout klavesu TAB.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_dark]
+
+[SPEECH: JaimeReyes]
+Muzes se vsadit, ze tohle neni naposled, co te posilame do tmy. Zapni si svou svetelnou augmentaci a najdi vychod na opacne strane. Staci stisknout klavesu F12.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_DefuseFinish]
+
+[SPEECH: GuntherHermann]
+Varuju te, agente Dentone. Tohle vsechno je jenom simulace; se skutecnym granatem bys tak lehce nevyvazl! Muzes pokracovat do dalsi mistnosti.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_DefuseProcess]
+
+[SPEECH: GuntherHermann]
+Na kazdem rohu tohoto salu najdes jeden LAM pripevneny ke stene. Musis zajistit a odstranit vsechny ctyri granaty, nez budes moci pokracovat do dalsi vycvikove casti. Granaty je nutno zajistovat rychle kliknutim praveho tlacitka mysi. Dalsim kliknutim praveho tlacitka sejmes granat se zdi.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_DefusingEntry]
+
+[SPEECH: GuntherHermann]
+Oblast za temi dvermi slouzi jako vycvikovy prostor pro zachazeni s granaty. Dozvis se tu, jak zneskodnovat nastrazene vybusniny.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Demolition]
+
+[SPEECH: GuntherHermann]
+Tohle je demolicni vycvikova oblast. Nejdriv se naucis pouzivat LAM jako distancni minu. Pristup k tomu vyklenku a na te cerno-cervene stene uvidis LAM pripevneny k symbolu terce.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_DemolitionLast]
+
+[SPEECH: GuntherHermann]
+Vyborne, agente Dentone! Muzes pokracovat do nasledujici oblasti k dalsimu demolicnimu vycviku.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_DestroyObject]
+
+[SPEECH: GuntherHermann]
+Vsimni si dvou veci na druhe strane. Prvni je kamera a to druhe automaticky kulomet. Ani jedno neni lehke znicit a budes k tomu potrebovat vybusninu nebo EMP granat. Muzes si k tomu vybrat to, co je na stolku. Nezapomen se kryt za tou rimsou. Az budou ta zarizeni zneskodnena, vypinac u kulometu ti otevre dvere, ktere te zavedou do bojove areny.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_door]
+
+[SPEECH: JaimeReyes]
+Otevri dvere kliknutim praveho tlacitka mysi. Prave tlacitko pouziva okolni veci.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_EMP]
+
+[SPEECH: GuntherHermann]
+Prave jsi z centralniho bunkru vypustil robota. Hod na nej EMP granat. Jestlize vybuchne dost blizko robota, vypne ho. EMP granaty se take hodi na vypinani kamerovych systemu, automatickych kulometu a distancnich min, napriklad granatu LAM.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_F1F2]
+
+[SPEECH: JaimeReyes]
+Behem vycviku jsi ziskal urcitou vystroj. Stiskem klavesy F1 si kdykoliv zavolas Inventar, ktery ti umoznuje pridavat i ubirat veci z Opasku. Stisknuti klavesy F2 ti ukaze tve soucasne ukoly a vsechny poznamky, ktere sis ucinil. Behem typicke mise jsou ukoly agenta UNATCO automaticky zaznamenavany elektronickou cestou, takze se na ne muze kdykoliv podivat.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_FailedStealth]
+
+[SPEECH: AnnaNavarre]
+Posrals to. Poplach prave zavrel severni dvere. Vrat se do velina na jihu a stiskni tlacitko ve vyhlidkovem okne, aby se cely test spustil znovu.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_final]
+
+[SPEECH: JaimeReyes]
+A nyni posledni zkouska! Mas za ukol najit cestu pres reku k vychodu na druhe strane. Muzes se tam dostat nekolika zpusoby, zalezi na tvem pristupu a schopnostech, ktere vyuzijes. Je to na tobe... System IFF ti pomuze identifikovat nepratele. Nitkovy kriz se zbarvi cervene u nepritele, zelene u spojence a bile u neutralni osoby.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_FinishWall]
+
+[SPEECH: GuntherHermann]
+Vytecne! Vsimni si, ze ta zed je napraskla. Hledej dalsi takove napraskle zdi, protoze vybusninami si v nich dokazes proklestit cestu. Pokracuj tou trhlinou do dalsi oblasti.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_GEP]
+
+[SPEECH: GuntherHermann]
+Vypustil jsi cvicneho robota. K jeho zniceni pouzij GEPku a jeji rakety.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Golphers]
+
+[SPEECH: GuntherHermann]
+Teto soustave cilu rikame "sakali mesto". Nahodne se k tobe otoci celkem sest cilu. Zkus je rychle a ciste zasahnout .
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_holojaime]
+
+[SPEECH: JaimeReyes]
+Postav se ke komunikatoru. Nekdo si s tebou preje mluvit.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_holoroom]
+
+[SPEECH: JaimeReyes]
+Postav se ke kazdemu hologramu, aby ses dovedel vic. Az budes hotov, odejdi protejsimi dvermi.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_jump]
+
+[SPEECH: JaimeReyes]
+Preskakej ty plosiny. Pod temi rourami se budes muset podplazit. Kdyz spadnes dolu, vrat se po schodech na zacatek.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_key]
+
+[SPEECH: JaimeReyes]
+Ten klic na stole otvira zakryptovane nanotechnicke zamky. Kdyz ho zvednes, automaticky se ti prida ke tvym klicum. Sve klice pouzij pri odemykani dveri a pokracuj do dalsi mistnosti.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_keypad]
+
+[SPEECH: JaimeReyes]
+Kod k temto dverim byl vlozen do datakostky. Klikni pravym tlacitkem na datakostku a precti si jeji obsah, potom vytukej kod na klavesnici. Klavesnice se aktivuje pravym tlacitkem mysi, stejne jako datakostka nebo kterykoli jiny okolni predmet.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_ladder]
+
+[SPEECH: JaimeReyes]
+Pokracuj k zebriku na druhem konci mistnosti. Staci se podivat nahoru a pouzit kurzorove sipky, abys po nem vysplhal.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_LAM]
+
+[SPEECH: GuntherHermann]
+Prave jsi do areny vypustil dalsiho robota. Znic ho granatem LAM. Granaty LAM se take hodi na bourani slabych zdi, nekterych plotu a malo odolnych dveri. Dokazi zlikvidovat i obrnene kamery a automaticke kulomety.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_LAW]
+
+[SPEECH: GuntherHermann]
+Tohle je lehka protitankova strela LAW. Na druhe strane streliste se ti objevil staticky cil. Znic ho.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_lockpick]
+
+[SPEECH: JaimeReyes]
+Ted seber ten paklic a pouzij ho k otevreni dveri. Pouziti paklice je casove narocne a vyzaduje az nekolik exemplaru modernich paklicu. Zachovej trpelivost a pamatuj na svuj vycvik. Az dosahnes vyssi zkusenostni urovne, odemykani paklicem ti pujde rychleji a spotrebujes pritom mene paklicu.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_lockstr]
+
+[SPEECH: JaimeReyes]
+Dvere maji dva dulezite udaje. Odolnost dveri ti sdeluje, nakolik bys musel dvere fyzicky poskodit, aby se otevrely. Odolnost zamku ti zase rika, kolik paklicu bys na jejich odemceni spotreboval. Nektere dvere maji obe hodnoty nekonecne (INF). To znamena, ze k nim musis najit klic.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_medbot]
+
+[SPEECH: JaimeReyes]
+Tihle lekarsti boti, obvykle pouzivani na rychle leceni, by te meli obzvlast zajimat, JC, protoze pri instalaci novych augmentaci se bez nich neobejdes. Jestli jsi behem plavani utrpel nejake zraneni, mas vhodnou prilezitost se nechat uzdravit.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_mechagent]
+
+[SPEECH: JaimeReyes]
+Tohle je zastarala augmentacni technologie, prakticky uz na odpis. Je postavena vyhradne na elektronice a servomechanice. Nocni mura kazdeho udrzbare. Kdybych dostal dva kredity za kazdou rucne provedenou opravu, kterou jsem na osetrovne provedl...
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_multitool]
+
+[SPEECH: JaimeReyes]
+Pouzij jednoucelove multitooly na stole, abys zkratoval klavesnici pred sebou. Multitool vydrzi jen omezenou dobu. Jakmile ho vycerpas, muzes ho rovnou zahodit. Dalsi vyuziti multitoolu najdes v prirucce. Az budes mit lepsi vycvik, bude ti prace s nim trvat kratsi dobu a nebudes jich potrebovat tolik.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_NotArena]
+
+[SPEECH: GuntherHermann]
+Jsi nedockavy. To se mi libi, ale nez te pustim do areny, musis podstoupit demolicni vycvik.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_NotOutdoor]
+
+[SPEECH: GuntherHermann]
+Na tohle jeste nejsi pripraven. Nejdriv se musis jit naucit strilet na nehybne terce, tamhle vedle.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_nsf]
+
+[SPEECH: JaimeReyes]
+NSF: nejvetsi teroristicka hrozba Spojenym statum. Tahle vlastenecka ozbrojena skupina si mysli, ze bojuje za druhou americkou revoluci.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_ObserveDoors]
+
+[SPEECH: GuntherHermann]
+Vsimni si, ze se drevene dvere znicily, ale ty kovove a zamrizovane nikoliv. Nezapomen na to ani v budoucnu! Za temi znicenymi dvermi vidis poskozenou zed, kterou muzes take poborit granatem. Vyzkousej si to!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_OutdoorRange]
+
+[SPEECH: GuntherHermann]
+Tohle je venkovni strelnice. Pod sebou vidis simulovanou cast mestske ctvrti. Kazde tlacitko na okne vyzkousi tvou streleckou zrucnost. Jakmile stisknes tlacitko, otevre se prislusna prihradka se zbranemi. Pouzivej tu zbran, ktera se k cili hodi. Pokud si budes prat obnovit puvodni stav, stiskni tlacitko na stene.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_part2]
+
+[SPEECH: JaimeReyes]
+Blahopreji, prave jsi dokoncil prvni cast. Pres rampu prejdi do dalsi mistnosti, kde se zacnes ucit pohybovat. Budeme te sledovat kamerami; jednu z nich muzes videt tam v koute. Pamatuj si, ze teroriste obcas pouzivaji takovehle kamery ve svych bezpecnostnich sitich, aby odhalily vetrelce a upozornily na ne straze.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_paul]
+
+[SPEECH: JaimeReyes]
+Novi nanoaugmentovani agenti UNATCO jsou k nerozeznani podobni civilnimu obyvatelstvu, az na to, ze ani ty, ani tvuj bratr se neumite usmivat, dokonce ani u fotografa ne.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Pistols]
+
+[SPEECH: GuntherHermann]
+Vyber si pistoli, JC. Zkus sejmout nehybne terce dole co nejrychleji. Jestli budes presny, mel by ti na vsechny stacit jediny zasobnik.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_PlaceLam]
+
+[SPEECH: GuntherHermann]
+Kdyz chces pripevnit LAM, musis se dostat co nejbliz ke stene. Kdybys nebyl dost blizko, LAM ti upadne na zem a vybuchne.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Releasebot1]
+
+[SPEECH: GuntherHermann]
+Stiskni prvni tlacitko pred vyklenkem a vypustis tim prvniho strazneho bota. Sleduj, jak se bude blizit ke granatu LAM. Granaty LAM pripevnene ke stene funguji jako distancni miny.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_ReleaseBot2]
+
+[SPEECH: GuntherHermann]
+Tentokrat umistis svuj vlastni granat LAM. Ze zasobniku si jeden vezmi a pokracuj k cerveno-cerne stene pred tebou.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_repairbot]
+
+[SPEECH: JaimeReyes]
+Sice nejsi mech, ale stejne mas v sobe dost mechaniky na to, abys obcas potreboval opravneho bota. Jestlize spotrebujes cast sve bioelektricke energie napriklad tim, ze si budes ve tmavych oblastech svitit, tohle monstrum ti ji dokaze dobit.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_RifleRange]
+
+[SPEECH: GuntherHermann]
+Cile se vypousteji tlacitky na pultu. Vypust tedy prvni cil a znic ho puskou. Klavesou leve hranate zavorky "[" si zapni puskohled.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_RifleRangeIntro]
+
+[SPEECH: GuntherHermann]
+Tohle je puskova strelnice. Tady se poucis, jak vyssi zkusenostni uroven zmeni stupen presnosti tve strelby. Priprav se a prejdi k pultu.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_RifleRangeShot1]
+
+[SPEECH: GuntherHermann]
+Vyborne. Ted docasne zlepsime tvou zkusenostni uroven strelby na mistrovskou. Vypust druhy cil a znic ho.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_RifleRangeShot2]
+
+[SPEECH: GuntherHermann]
+Dobra prace. Jak muzes videt, s vyssi zkusenostni urovni dosahnes lepsi presnosti, dostrelu a ucinnosti. Pokracuj do dalsi mistnosti, az budes pripraven.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Sniping]
+
+[SPEECH: GuntherHermann]
+V oknech budovy na opacnem konci areny uvidis pohybujici se cile. Zkus je vsechny sejmout odstrelovackou!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Start]
+
+[SPEECH: JaimeReyes]
+Teorie uz mas urcite plne zuby. Doufam, ze te nas vycvikovy kurs bude zajimat vic, nez suchoparne uceni v akademii.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_StealthAdvice1]
+
+[SPEECH: AnnaNavarre]
+Pamatuj: at te straze neobjevi! Kryj se za temi bednami a snaz se co nejvic plizit!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_StealthAdvice2]
+
+[SPEECH: AnnaNavarre]
+At te tentokrat straze nevidi! Musis se plizit, kryj se za bednami a pohybuj se za zady strazi.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_StealthAdvice3]
+
+[SPEECH: AnnaNavarre]
+Straze muzes i odlakat. Zvedni nejaky predmet a hod ho do jejich blizkosti; urcite se pujdou podivat, co to bylo. Muzes pouzivat lahve, kvetinace, zkratka cokoliv.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_StealthAdvice4]
+
+[SPEECH: AnnaNavarre]
+Mej na pameti ctyri zakladni veci, jak se udelat nenapadnym: vsude se snaz plizit, pohybuj se za zady nepratel, nedelej hluk, aby te nezaslechli, a maximalne vyuzivej stin. Bud pripraven na vsechny moznosti.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_StealthComplete]
+
+[SPEECH: AnnaNavarre]
+Vyborne. Doufam, ze si to budes pamatovat, agente. My dva mame byt partneri a ja te rozhodne neminim vodit za rucicku ani ti opakovat vycvik, jakmile se dostaneme do blizkosti skutecnych nepratel.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_StealthMaze]
+
+[SPEECH: AnnaNavarre]
+Zkouska je jednoducha. Musis dojit ke dverim na severu, aniz by te zpozorovaly straze dole. Jakmile te nekdo z nich uvidi, spusti poplach a zavre ti dvere.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_swim]
+
+[SPEECH: JaimeReyes]
+Par lidi si stezovalo na tenhle kurs plavani, protoze voda je tu kontaminovana. Nekteri rekruti si zapomneli vzit hazmat a skoncili u mne v ordinaci. Nebylo to nic hezkeho, to mi ver. Jini si hazmat sice vzali, ale zapomneli ho vybrat a aktivovat levym tlacitkem mysi. Pamatuj, ze hazmat je na jedno pouziti; jakmile ho jednou vycerpas - coz netrva moc dlouho - neni ti k nicemu. Na druhe strane bazenu vysplhas nahoru po rampe.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_TargetRange]
+
+[SPEECH: GuntherHermann]
+Cile se vypousteji temi tlacitky na pulte. Vypust prvni cil, zamir na nej a nekolikrat do nej vystrel z pistole, dokud ho neznicis. Vsimni si, ze pri mireni se ti objevi nitkovy kriz.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_TargetRangeIntro]
+
+[SPEECH: GuntherHermann]
+Nase prvni cviceni se bude zabyvat mirenim na cil. Postav se ke strelnici na zapade.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_TargetRangeShot1]
+
+[SPEECH: GuntherHermann]
+Dobra. Kdyz budes pred strelbou drzet pazi nekolik vterin natazenou, vsimni si, ze se ti nitkovy kriz zacne rozsirovat a zuzovat. Cim dele udrzis cil na musce aniz by se ti hnul, tim vetsi presnosti strelby dosahnes. Vypust druhy cil a tentokrat na ne pred vystrelem zamir.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_TargetRangeShot2]
+
+[SPEECH: GuntherHermann]
+Dobra prace. Ted pokracuj do dalsi oblasti.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_terrorbot]
+
+[SPEECH: JaimeReyes]
+Je to levny bezpecnostni bot, oblibeny nastroj Tretiho sveta a ochranek ruznych spolecnosti. Neni moc pohyblivy, ale neplet se v nem: jeho dobre obrnena utocna puska uz nas pripravila o spoustu agentu. Stejne jako ostatni boty, ani jeho prilis neposkodis beznymi kulkami.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_tnt]
+
+[SPEECH: JaimeReyes]
+Pozor na to TNT! Muzes ty bednicky zvednout a prenaset je, ale az je budes pokladat, radeji se vzdycky sehni. Jinak bych ti musel prisivat obe ruce.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_unatcobot]
+
+[SPEECH: JaimeReyes]
+Tenhle kracejici kulomet od firmy Page Industries, ktery se prodava do celeho sveta, patri k vybaveni vetsiny narodnich ozbrojenych slozek. Diky jeho tezkemu pancerovani mu obycejna kulka skoro neublizi. Kdyz budes chtit zlikvidovat takoveho bota, musis pouzit EMP granat, rusivy granat nebo nejakou vybusninu.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_unatcotroop]
+
+[COMMENT]
+"occupation" used on purpose.<u}0º¸2k \¸y!,uèWÿd»Öî®
+
+[SPEECH: JaimeReyes]
+Klasicky prislusnik UNATCO je zakladnim clankem vsech mirotvornych jednotek Spojenych narodu.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_WelcomeArena]
+
+[SPEECH: GuntherHermann]
+Vitej do areny. Strazny si od tebe vyzvedne vsechny zbrane, ktere jsi az doposud ziskal. Pristup ke stolku a ja ti popisu arenu.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_WelcomeStealth]
+
+[SPEECH: AnnaNavarre]
+Tady se naucis pohybovat tise a skryte, aby te nikdo nezpozoroval.
+

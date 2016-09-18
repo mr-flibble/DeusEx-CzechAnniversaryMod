@@ -1,0 +1,7 @@
+<COMMENT>Ship's command center</COMMENT>
+<DC=255,255,255>
+<P>Song,
+<P>
+<P>You said you were going to rotate the security codes personally this time around, but you should check with the Captain -- I just changed his yesterday to 65678.  Not sure if he wants to keep it or what.
+<P>
+<P>Ewan

@@ -1,0 +1,19 @@
+<COMMENT>10_Paris_Metro ATM Account</COMMENT>
+<DC=255,255,255>
+<P><B>NAVI 008-BLUE v4.28 ('OBELIX')</B>
+<P>
+<P>*** THIS NAVI IS THE PROPERTY OF PIERRE BOULLE; IF FOUND, PLEASE RETURN TO PIERRE BOULLE AT 74, RUE MONTAIGNE, OR CONTACT PBOULLE//PARISNET.3729.293.834. ***
+<P>
+<P><JC>- TO DO LIST -
+<P>
+<P>* Tickets for Cavallera Rusticana, 21/7
+<P>
+<P>* Meet Traci at Enfants Terrible, 18:30
+<P>
+<P>* New CD by Brewer's Phrase
+<P>
+<P>* New account, 14th arrondissement branch: 001506/naga066
+<P>
+<P>* Chocolate & '34 Seven Crows Est. Sauvignon Blanc for Marie
+<P>
+<P>* Download Navi 4.31 security patch

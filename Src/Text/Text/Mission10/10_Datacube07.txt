@@ -1,0 +1,3 @@
+<COMMENT>10_Paris_Club door code</COMMENT>
+<DC=255,255,255>
+<P>Novej kod do uschovny je 1966 - a ne abys tam zase kostoval absint! Mam spocitany flasky. -- Louis

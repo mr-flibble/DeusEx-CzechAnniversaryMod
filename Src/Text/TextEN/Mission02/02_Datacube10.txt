@@ -1,0 +1,7 @@
+<COMMENT>Roof near warehouse</COMMENT>
+<DC=255,255,255>
+<P>All Proud Members of the NSF: Our time is fast approaching; what we have always feared is upon us, have no doubt -- we are fighting against our own imminent slavery.  But you are Brave, you are Strong, and we will Triumph.
+<P>
+<P>A temporary office has been arranged in the warehouse basement for the coordination of equipment, armament, and other supplies.  We request that each member report to the office to be fitted with a telemetry rig prior to proceeding to your assigned post.  The office code is 9923.
+<P>
+<P>JL

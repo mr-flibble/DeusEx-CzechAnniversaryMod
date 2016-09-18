@@ -1,0 +1,5 @@
+<COMMENT>Maggie's apartment</COMMENT>
+<DC=255,255,255>
+<P>When you have the time, May-Sung, I would suggest that you read two of my favorite books: <I>Insurgent</I> and <I>Tai-Fun</I>. I believe you'll find both of them as illuminating as I have.  They're in my office if you'd like to borrow them.
+<P>
+<P>-Maggie

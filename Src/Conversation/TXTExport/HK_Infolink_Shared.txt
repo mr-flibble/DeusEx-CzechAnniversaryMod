@@ -1,0 +1,259 @@
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Daedalus_01]
+
+[GOAL:]
+Najdi Tracera Tonga.
+
+[SPEECH: Daedalus]
+Prohledej ctvrt Van-Caj a najdi laborator Tracera Tonga - presna poloha mi neni znama. Neduveruj zlocineckym organizacim oznacovanym pojmem "triady".
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Daedalus_02]
+
+[SPEECH: Daedalus]
+Neriskuj vstup do spolecnosti VersaLife, dokud Tracer Tong nevypne tvou pojistku zkazy. Az nastane vhodna doba, dostanes ode mne dalsi instrukce.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Daedalus_03]
+
+[SPEECH: Daedalus]
+Zadam te, abys pronikl do laboratori na Urovni 2.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Daedalus_04]
+
+[GOAL:]
+Znic univerzalni konstruktor pouzivany k vyrobe viru Sede smrti.
+
+[SPEECH: Daedalus]
+Najdes tu i zarizeni zvane univerzalni konstruktor. Jedna se o jeden ze dvou pristroju na svete, ktery je schopen vyrabet nanomechanicky virus jmenem "Seda smrt". Zadam te, abys ho znicil. Pouzij kod 525.
+
+[NOTE:]
+Kod k UK: 525.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Daedalus_05]
+
+[GOAL:]
+Unikni z laboratore VersaLife spodkem komory s univerzalnim konstruktorem.
+
+[SPEECH: Daedalus]
+Uspech. Vyroba viru byla zastavena. Kontaminacni ochrana uzavrela vychody. Budes muset uniknout odtokovymi rourami na dne te komory. Ale pozor na koncentrovane toxicke odpady!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Daedalus_06]
+
+[SPEECH: Daedalus]
+Univerzalni konstruktor je v teto budove.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Daedalus_07]
+
+[SPEECH: Daedalus]
+V budove uz vedi o tve pritomnosti a tato unikova cesta byla odriznuta. Nouzovy vychod se ti otevre po zniceni univerzalniho konstruktoru.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_FuelTank]
+
+[COMMENT]
+Sounds like a radio voice.a
+
+[SPEECH: Jock]
+Bud tam dole opatrnej! Tohle tankovaci zarizeni instalovali pekny zabari. Jednou jsem musel letel s parem priotravenejch techniku do spitalu!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Jock_01]
+
+[COMMENT]
+Sounds like a radio voice.uuyT–|°®n÷Gë–“Î2­ñ_ûµ¹À:
+
+[SPEECH: Jock]
+Omlouvam se, JC, ale posral jsem to. MJ12 te chce zrejme dostat za kazdou cenu - zablokovali nam vrtulnik a navigacnimu pocitaci dali prikaz vlitnout rovnou sem. Vychod je zamcenej a moje zbrane jsou taky zablokovany. Ovladaci panel je v Letovem veline jedna. Musis mi vratit vladu nad strojem, jinak je po nas!
+
+[GOAL:]
+Aktivuj zablokovane zbrane Jockova vrtulniku. Panel dalkoveho ovladani najdes v Letovem velinu jedna.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Jock_02]
+
+[COMMENT]
+Sounds like a radio voice.
+
+[SPEECH: Jock]
+Kontrolky svitej! Vrat se dolu a nepriblizuj se k tem vratum na jihu. Naperu to do nich raketou!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Jock_03]
+
+[COMMENT]
+Sounds like a radio voice.
+
+[SPEECH: Jock]
+Letim to vycistit! Bez zatim k vychodu a ja se ti zase za chvili ohlasim!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Jock_04]
+
+[COMMENT]
+Sounds like a radio voice.
+
+[SPEECH: Jock]
+Jsi vedle toho komplexu, kam chodival Paul, ale netusim, kdo v nem sidli. Na chvili ted zmizim - jeste ze NSA vynalezla tu neviditelnou technologii!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Jock_05]
+
+[COMMENT]
+Sounds like a radio voice.ðB"R5B™Dð
+
+[SPEECH: Jock]
+Tak jo, ted musis vypatrat Tracera Tonga! Obvykle jsem Paula vysazoval u maleho komplexu vychodne od trziste - tam bys mohl zacit. Ale neztracej cas - tva pojistka zkazy uz tika celych 12 hodin!
+
+[SPEECH: Daedalus]
+Pokud zemres, nase plany budou zmareny. Najdi Tracera Tonga!
+
+[GOAL:]
+Nekde v Hongkongu najdi Tracera Tonga.
+
+[GOAL:]
+Hledej stopy, ktere by te zavedly k Tracerovi Tongovi. Zacni u komplexu, ktery navstevoval Paul, vychodne od trziste Van-Caj.
+
+[NOTE:]
+Jock obvykle vysazoval Paula u maleho komplexu vychodne od trziste Van-caj.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Jock_Fired]
+
+[COMMENT]
+Sounds like a radio voice.i¹È±u5wn{¯ÊZî€Tp4*H
+
+[SPEECH: Jock]
+Trefa do cernyho!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_PoisonGas]
+
+[COMMENT]
+Sounds like a radio voice.
+
+[SPEECH: Jock]
+Prave jsi tam dole vypustil otravnej plyn! Nasad si hazmat nebo odtamtud urychlene zmiz!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Tong_00]
+
+[GOAL:]
+Dokaz Rudemu sipu zradu Maggie Couove tim, ze Maxovi Cenovi predvedes mec Draci zub. Maxe Cena najdes v klubu Lucky Money pobliz trziste Van-Caj.
+
+[SPEECH: TracerTong]
+Dobra. Ted ten mec odneste Maxovi Cenovi do klubu Lucky Money. Jestli se vam podari triady usmirit, mozna budu moci i ja vyresit vase potize.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Tong_00B]
+
+[GOAL:]
+Zmocni se mece Draci zub a vyckej dalsich instrukci od Tracera Tonga.
+
+[SPEECH: TracerTong]
+Zdravim vas, J.C.Dentone! Sledoval jsem vas pomoci toho uzasneho zarizeni, ktere mate v lebce. Nasel jste dukaz, ktery jsme potrebovali: mec Draci zub - je uvnitr te sklenene schranky! Chcete-li se stat mym spojencem, zmocnete se toho mece a cekejte na me dalsi instrukce.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Tong_01]
+
+[SPEECH: TracerTong]
+Tohle skladiste by bylo logickym mistem k uskladneni viru. Jenom nechapu, proc je tak prazdne.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Tong_02]
+
+[SPEECH: TracerTong]
+Hledejte pocitacovy terminal nekde v laboratori na Urovni 2. Az ho najdete, budu moci stahnout potrebna data pres vas infolink.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Tong_03]
+
+[SPEECH: TracerTong]
+Ten system, ktery hledate, je v laboratori pred vami!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Tong_04]
+
+[SPEECH: TracerTong]
+Dokazal jste to! Zda se, ze jste narazil na neco vic, nez na pouhe schema viru... Radsi odtamtud zmizte! Za moment vam reknu vic!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Tong_05]
+
+[GOAL:]
+Navstiv Tracera Tonga, aby ses dozvedel neco o Stantonovi Dowdovi a Iluminatech.
+
+[SPEECH: TracerTong]
+Vypada to, ze mame k dispozici prvni data; VersaLife syntetizuje virus Sede smrti v obrovskych mnozstvich. Cela velka zasilka byla nalozena na jednu nakladni lod mirici do New Yorku. Zajimave... Predchozi majitel te lodi byl Stanton Dowd. Slysel jste nekdy o Iluminatech? Vratte se ke mne. Musim vam toho jeste hodne vysvetlit.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Tong_06]
+
+[SPEECH: TracerTong]
+...jasne to musi souviset s Dowdem! Na cele sterice molekuly jsou otisky prstu Iluminatu - mam na mysli molekularni tvar: 17 segmentu, 23 stycnych bodu... Pouze technici Iluminatu pouzivaji priruby symetricke podle cisla 34 a 46: nasobku 17 a 23. 1723. Rok narozeni Adama Weishaupta. To nemuze byt nahoda!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Tong_07]
+
+[COMMENT]
+This should get launched if the player talked to Tracer Tong before going after the ROM-encoding of the Dragon's Tooth sword.  It should be launched via scripting when the player picks up the ROM.cfzþ»O»Žšÿû0Ä€|k]'°ÃÀð‹mhó$°n€h@´id»•^:‰íðÊ?bs @]ozÍ©<²hbRõš
+2Ž½SdÞ(oeà?~Õr
+
+[SPEECH: TracerTong]
+Rozeslal jsem triadam komponent nutny k sestrojeni toho mece. Bezte do chramu vedle trziste. Pozvu tam obe draci hlavy na spolecne setkani!
+
+[GOAL:]
+Bez do chramu ve Van-Caj, abys potvrdil alianci mezi triadami.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Tong_08]
+
+[COMMENT]
+This should get launched if the player talked to Tracer Tong before going after the ROM-encoding of the Dragon's Tooth sword.  It can be radius-based.
+
+[SPEECH: TracerTong]
+Ten modul ROM by mel byt v tomto kridle laboratore!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_TongFixesKillswitch1]
+
+[SPEECH: TracerTong]
+Zustante tam stat.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_TongFixesKillswitch2]
+
+[SPEECH: TracerTong]
+Vyborne. Vratte se zpatky nahoru.
+

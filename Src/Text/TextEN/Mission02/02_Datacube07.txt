@@ -1,0 +1,7 @@
+<COMMENT>Paul's apartment on kitchen table</COMMENT>
+<DC=255,255,255>
+<P>Quick note, if you need any help with... work, check the painting on the wall and count back from 4.
+<P>
+<P>Gotta run.
+<P>
+<P>-P

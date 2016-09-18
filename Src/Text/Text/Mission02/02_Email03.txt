@@ -1,0 +1,11 @@
+<COMMENT>J.C. Denton apartment inbox</COMMENT>
+<DC=255,255,255>
+<P><B>Od:</B> JReyes//UNATCO.00973.20892
+<P><B>Ke:</B> Paul Denton//NYCNET.33.34.4346
+<P><B>Vec:</B> Uz ses aklimatizoval?
+<P>
+<P>Ahoj, <PLAYERFIRSTNAME>,
+<P>
+<P>Rad bych ti pomohl vybalovat kufry, ale misto toho se tu musim pachtit s opravou lekarskeho analyzeru. Ten parchant mi malem upalil laserem jeden prst! Stav se nekdy, zajdeme na pivo!
+<P>
+<P>Jaime

@@ -1,0 +1,23 @@
+<COMMENT>VersaLife receptionist</COMMENT>
+<DC=255,255,255>
+<P><JC><B>VITEJTE VE VERSALIFE</B>
+<P><JC>"Ze zitrka cinime vcerejsek"
+<P>
+<P><JC>ZAPISTE SE, PROSIM!
+<P>
+<P>20:55   A. Donovan
+<P>21:20   Miriam Casswellova
+<P>21:32   Richard Hundley
+<P>21:34   Dr.Michalopolis
+<P>21:46   Claude Harrison
+<P>22:52   Cassandra Vargasova
+<P>22:52   Dr.Lundquist
+<P>23:51   Bates, M.
+<P>01:10   Dr.Kohl
+<P>01:45   Sarah Sternova
+<P>02:12   Tom Bunch
+<P>02:17   Louis Elban
+<P>02:24   M.Morgan
+<P>02:36   Trellaine V.
+<P>03:13   Gary Burkett
+<P>...

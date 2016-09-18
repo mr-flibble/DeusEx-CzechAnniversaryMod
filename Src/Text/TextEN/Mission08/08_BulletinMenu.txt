@@ -1,0 +1,5 @@
+<FILE=08_Bulletin01,DECLARATION OF MARTIAL LAW>
+<FILE=08_Bulletin02,MOST WANTED: J.C. Denton>
+<FILE=08_Bulletin03,New Cremation Center>
+<FILE=08_Bulletin04,Government Shutdowns>
+<FILE=08_Bulletin05,Transit Disruptions>

@@ -1,0 +1,5 @@
+<COMMENT>Paul's apartment</COMMENT>
+<DC=255,255,255>
+<P>Hej, <PLAYERFIRSTNAME>, jestli sis na Siti jeste nezalozil svy vlastni konto, klidne si mezitim posluz tim mym. Login je "pdenton" a heslo "chameleon". Chovej se tu jako doma a doufam, ze se brzy uvidime.
+<P>
+<P>-P

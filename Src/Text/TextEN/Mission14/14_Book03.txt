@@ -1,0 +1,15 @@
+<DC=255,255,255>
+<P>1st Force Recon Company Log
+<P>Captain Veronica Oberst, Company Commander
+<P>
+<P>... initial resistance was light and by 19:45 we were able to secure the silo and surrounding facilities with minimal casualties -- nothing more than a bunch of scientists, most of them not even armed.  I've detached a platoon for mop-up and identification.  HQ has asked for a complete list of enemy casualties; I've also been asked to locate Howard Strong -- he's one of our assets -- and turn him over to Agent Karyo.  A preliminary list follows; I'll update it as more information becomes available.
+<P>
+<P>Dr. Sue Feguson - Deceased
+<P>Dr. Royce Davison - Deceased
+<P>Elroy Jones - Deceased
+<P>Dr. L. Bernard - Captured
+<P>Rory Calloway - Deceased
+<P>Jessica Hutchens - Deceased
+<P>Dr. Yuri Alibek - Deceased
+<P>Dr. Hanako Miyase - Deceased?
+<P>...

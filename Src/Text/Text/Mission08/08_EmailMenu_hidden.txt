@@ -1,0 +1,3 @@
+<EMAIL=08_Email01,Informacija,IVelikovsky,328.2133.1230,>
+<EMAIL=08_Email02,Pritel v nouzi,GenericMail883,328.2133.1230,>
+<EMAIL=08_Email03,PRECTI SI ME,UpNet,JCDenton,>

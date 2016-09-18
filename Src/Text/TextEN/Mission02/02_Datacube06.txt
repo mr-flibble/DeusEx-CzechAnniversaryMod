@@ -1,0 +1,10 @@
+<COMMENT>Body in sewer near warehouse</COMMENT>
+<DC=255,255,255>
+<P>From: XXXXXXXXXXXXXXXX
+<P>To: Lt. Maxwell Hammer
+<P>
+<P>OBJECTIVE: Covert surveillance of warehouse.
+<P>
+<P>DETAILS: This mission is authorized at a level of Throne/6G.  You will not interface with local authorities, UNATCO, or other government agencies.  You are to act with prejudice against any threat to mission objectives.
+<P>
+<P>NOTES: The entry code is 2167.

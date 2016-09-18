@@ -1,0 +1,7 @@
+<COMMENT>Karkian Lab, OceanLab Base</COMMENT>
+<DC=255,255,255>
+<P>Dr. Awase, zjistil jsem pro vas ten kod do tunelu - vedeni projektu vas poverilo sesbiranim vzorku jadra v oblasti, kde se bude vrtat, ale na vasem miste bych si dal pozor. Obri stroje ani diamantovy vrtak obvykle nejsou zarukou toho nejbezpecnejsiho pracovniho prostredi.
+<P>
+<P>Pristupovy kod: 5690
+<P>
+<P>Paul

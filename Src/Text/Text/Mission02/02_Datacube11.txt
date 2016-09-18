@@ -1,0 +1,6 @@
+<COMMENT>NYC Sump</COMMENT>
+<DC=255,255,255>
+<P>Od: Ostraha
+<P>Ke: J.Steward, MJ12, chemicka sekce
+<P>
+<P>Nase ochranna sit je ozivena a aktivni. Kazdych dvanact hodin se bude provadet kompletni test v zajmu zajisteni bezpecnostni integrity kvuli ocekavane zasilce z Hongkongu. Budete-li si prat monitorovat nas stav, do site se dostanete pres login "MJ12" a heslo "coupdetat".

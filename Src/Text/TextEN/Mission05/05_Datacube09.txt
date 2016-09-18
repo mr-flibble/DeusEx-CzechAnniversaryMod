@@ -1,0 +1,7 @@
+<DC=255,255,255>
+<P>JANINE'S BOTS
+<P>SPECS AND OVERVIEW
+<P>
+<P>PAGE BRAVO-3 PEACEBRINGER
+<P>
+<P>The Page Industries Bravo-3 Peacebringer is an affordable security and patrol bot that combines a bipedal frame with an air-cooled mini-gun that utilizes the 7.62x51mm NATO round.  While the AI is limited in its capabilities, it is more than adequate to the needs of most security -- and many military -- forces around the world, having been deployed in such troubled hot-spots as Hong Kong, Chicago, New York, Buenos Aires, New Dehli, Moscow, and Paris.  Like almost all bots designed to maneuver in urban environments, the Bravo-3 employs a radar imaging system for situational awareness, but unlike previous models in the Peacebringer line the Bravo-3 is now equipped with a RazorThorn signal processor for target acquisition.  Organizations or facilities in need of heavier bot armament often turn to the larger Delta-2 Peacebringer, equipped with thicker armor and missiles...

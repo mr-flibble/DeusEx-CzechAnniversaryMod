@@ -1,0 +1,137 @@
+-----------------------------------------------------------------
+[Owner: ClinicSecretary]
+[Name:  ClinicSecretaryBarks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: ClinicSecretary]
+Vitejte na klinice Tenderloin.
+
+[SPEECH: ClinicSecretary]
+Pokracujte, prosim, k vysetrovne.
+
+[SPEECH: ClinicSecretary]
+Prijimame vsechny druhy digitalnich plateb. Pripravte si, prosim, svou kartu.
+
+[SPEECH: ClinicSecretary]
+Bohuzel, nemohu vam poskytnout lekarskou peci osobne.
+
+[SPEECH: ClinicSecretary]
+Pripravte se, abyste dokazal formulovat sve potize mene nez ctyrmi vetami.
+
+[SPEECH: ClinicSecretary]
+Budete muset konzultovat nektereho z lekaru.
+
+[SPEECH: ClinicSecretary]
+Jak vidite, mame tu naspech. Posadte se a budte trpelivy!
+
+-----------------------------------------------------------------
+[Owner: Doctor1]
+[Name:  Doctor1Barter]
+
+[SPEECH: Doctor1]
+Nabizime automatickou peci za 2000 a medkity za 300.
+
+[CHOICES:4]
+
+[CHOICE:]
+Vezmu si medkit.
+
+[CHOICE:]
+Muzu si dovolit jenom medkit.
+
+[CHOICE:]
+Chci cely program.
+
+[CHOICE:]
+Nic nechci.
+
+[SPEECH: Doctor1]
+Smim vam nabidnout medkit za 300?
+
+[CHOICES:2]
+
+[CHOICE:]
+Jasne.
+
+[CHOICE:]
+Ne, diky.
+
+[SPEECH: Doctor1]
+Prosim, tady to je. Pred pouzitim si prectete instrukce.
+
+[SPEECH: Doctor1]
+Kod k chirurgickemu oddeleni je 2153. Od teto chvile se o vas postaraji medboti.
+
+[NOTE:]
+Kod k chirurgicke koji: 2153.
+
+[SPEECH: Doctor1]
+Jak chcete.
+
+[SPEECH: Doctor1]
+Vypadate jako sobestacny clovek. Co kdybyste zvolil automaticky program? Pouhych 2000 kreditu. Medkity jsou za 300, ale jestli budete chtit augmentace, potrebujete k tomu boty.
+
+[SPEECH: JCDenton]
+Nemuzu zaplatit.
+
+[SPEECH: Doctor1]
+Hm... Dobra, odpocivejte, pijte dostatek tekutin a za par dni se tu ukazte.
+
+[SPEECH: Doctor1]
+Obcas mame potize investovat do sveho zdravi, ale jak mame vedet, ze to nebyl osudovy omyl?
+
+[SPEECH: Doctor1]
+S politovanim musim trvat na platbe predem.
+
+[SPEECH: Doctor1]
+Skutecne? Vy totiz vubec nevypadate dobre.
+
+[SPEECH: JCDenton]
+Jo.
+
+[SPEECH: JCDenton]
+Pockejte, rozmyslel jsem si to. Momentalne uz nic vic neunesu.
+
+-----------------------------------------------------------------
+[Owner: Nurse1]
+[Name:  Nurse1Barks]
+
+[SPEECH: Nurse1]
+Pokud se domnivate, ze mate Sedou smrt, vezmete si, prosim, nas informacni letak.
+
+[SPEECH: Nurse1]
+Obeti epidemie maji pravo na zasilani leku do svych domovu bez dodatecnych nakladu.
+
+[SPEECH: Nurse1]
+Nasi momentalni nabidku konzultujte, prosim, s lekarem.
+
+[SPEECH: Nurse1]
+Kazdemu doporucujeme, aby se zameril na automaticky program. Medboti jsou pak neustale k dispozici.
+
+[SPEECH: Nurse1]
+Chapejte, prosim, ze i statni klinika musi za jiste sluzby pozadovat poplatek, aby pokryla sve zakladni vydaje.
+
+[SPEECH: Nurse1]
+Ohledne epidemie se snazime pracovat na maximum.
+
+-----------------------------------------------------------------
+[Owner: Nurse2]
+[Name:  Nurse2Barks]
+
+[SPEECH: Nurse2]
+Nektery z lekaru vam jiste pomuze.
+
+[SPEECH: Nurse2]
+Nez zacne vase vysetreni, musite lekari zaplatit v hotovosti.
+
+[SPEECH: Nurse2]
+Test na epidemii je zdarma.
+
+[SPEECH: Nurse2]
+Neruste, prosim, ostatni pacienty.
+
+[SPEECH: Nurse2]
+Musim se postarat jeste o jine pacienty.
+

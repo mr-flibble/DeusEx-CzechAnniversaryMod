@@ -1,0 +1,6 @@
+<COMMENT>MJ12 surgical ward</COMMENT>
+<DC=255,255,255>
+<P><B>Chirurgicka predbezna analyza</B>
+<P><B>Predmet:</B> Paul Denton
+<P>
+<P>...subjekt vykazuje mnozstvi odchylek od nominalni lidske fyziognomie, vcetne pozoruhodne absence vsech imunoglobulinu typu H-epsilon, coz zrejme souvisi s jeho schopnosti prijimat i takove nanoaugmentace, ktere jsou velkou vetsinou lidi odmitany. Zvlastni zminku si zasluhuje pozitivni test subjektu na "Sedou smrt", prestoze subjekt nevykazuje zadne symptomy ani vedlejsi ucinky teto choroby...

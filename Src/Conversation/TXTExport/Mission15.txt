@@ -1,0 +1,571 @@
+-----------------------------------------------------------------
+[Owner: BobPage]
+[Name:  MeetBobPage]
+
+[SPEECH: BobPage]
+Prilis pozde! Uz skoro nejsem clovekem...
+
+[SPEECH: JCDenton]
+Ma to znamenat, ze mam po zizalkach?
+
+[SPEECH: BobPage]
+Uz brzy budu ryzi svetlo! Cista energie! Helios a ja...  Ha ha ha! Zatimco se Iluminati plazi v koute --
+
+[COMMENT]
+(sarcastic)Kˇ7:`LYﬂs7∞
+
+[SPEECH: JCDenton]
+Ty budes Nejvyse osviceny, Iluminovany.
+
+[SPEECH: BobPage]
+Everett te poucil dobre. Budu tim, cim se touzili stat Iluminati, ale nedokazali to pro sebe vytvorit! Uz brzy, az budou me augmentace, podobne jako ty tve, hotove a schopne spojit se s Heliem! Budu planout jako ta nejjasnejsi hvezda...
+
+[SPEECH: JCDenton]
+To je docela vystizne prirovnani.
+
+[SPEECH: BobPage]
+Jen se na sebe podivej: Jsi jenom nicotny clovicek... Clovicek v nicotnem lidskem tele! Kdyz prijdes o telo, co z tebe bude? Nic! Zmizis! Zahynes...
+
+-----------------------------------------------------------------
+[Owner: GarySavage]
+[Name:  M15GaryHolo]
+
+[SPEECH: GarySavage]
+Pohlcuje me to... Nemuzu tomu uverit!
+
+[SPEECH: JCDenton]
+Dr.Savage!... Je ve Vandenbergu vsechno v poradku? Co myslite tim "to"?
+
+[SPEECH: GarySavage]
+Helios... Siri se pres Aquinas. Ted uz je vsude. Dostali jsme zpravy, ze ovladl i Hongkong.
+
+[SPEECH: JCDenton]
+Co se deje? Ta UI se chce propojit s mym mozkem nebo co! Copak si skutecne mysli, ze se zmocni sveta?
+
+[SPEECH: GarySavage]
+Rozhodl se nahradit lidskou vladu - Tong ani ja nevime, proc. V Hongkongu naridil policii odstranit z ulic vsechny barikady; doprava uz je zase plynula. Triady prohlasil za ilegalni a zamkl vrata k Tongovu komplexu!
+
+[SPEECH: JCDenton]
+A lidi ho poslouchaji? Proc? Protoze ta UI dokaze zmenit par kodu a zhasnout svetla?
+
+[SPEECH: GarySavage]
+Myslim, ze lide v Hongkongu touzi po tom, aby meli otevrene ulice a mohli obchodovat. Proto poslouchaji. Nevime, co si o tom myslet. Helios predstira, ze se stara o zajmy lidu, ale pritom rozpustil mestske vedeni a odrizl energii vsem budovam. Chce absolutni moc.
+
+[SPEECH: JCDenton]
+Benevolentni diktator... Mozna chce muj mozek proto, aby lepe pochopil, co lide chteji a jak toho ma vyuzivat.
+
+[SPEECH: GarySavage]
+Nemate snadnou volbu, JC. Jestli porazite Page, nastoupi Iluminati; ti sice uvolni svet ze sevreni Majestic 12, popusti trochu uzdu svobode, ale v zasade zachovaji kapitalismus dvacateho stoleti: korporacni elitarstvi chranene zakony a danovymi ulevami.
+
+[SPEECH: JCDenton]
+Nebo poslechnu Tonga a smetu vsechny. Nebo predam vladu nad svetem Heliovi.
+
+[SPEECH: GarySavage]
+Ano, tady s Tongem nesouhlasim ani ja. Nestojime o dokonalou svobodu, pokud by mela byt zaplacena zhroucenim ekonomiky. Musi existovat jina cesta... Pokud smime verit tomu, ze UI se bude chovat spravedlive a poctive, kdyz nam to slibi...
+
+[SPEECH: JCDenton]
+Jestli se spoji s mym mozkem, jista sance by tu asi byla.
+
+[SPEECH: GarySavage]
+Ja nevim. Rad bych vam na to odpovedel, ale budete se muset rozhodnout sam, komu mate uverit.
+
+[SPEECH: JCDenton]
+Duverujte mi. Udelam to nejlepsi, co pujde.
+
+[SPEECH: GarySavage]
+Hodne stesti. Nebudu prehanet, JC, kdyz reknu, ze ted na vas spoleha cely svet!
+
+-----------------------------------------------------------------
+[Owner: HangarMiB]
+[Name:  HangarOverheard]
+
+[SPEECH: HangarMJ12]
+Neni po nem ani stopy.
+
+[SPEECH: HangarMiB]
+Jenze tu videli vrtulnik.
+
+[SPEECH: HangarMJ12]
+Kdyby tady byl, objevili bysme ho!
+
+[SPEECH: HangarMiB]
+Rekni svym lidem, at hledaji znovu. Vsak on se nekde ukaze!
+
+[SPEECH: HangarMJ12]
+Jsme pripraveni.
+
+-----------------------------------------------------------------
+[Owner: HangarMiB]
+[Name:  HangarOverheard2]
+
+[SPEECH: HangarMiB]
+Neslysel jsi ted neco?
+
+[SPEECH: HangarMJ12]
+Ne, pane. Co jako?
+
+[SPEECH: HangarMiB]
+Myslim, ze tady v budove mame vetrelce.
+
+[SPEECH: HangarMJ12]
+Moji lide popravili zbytek vojaku uz pred dvaceti minutama.
+
+[SPEECH: HangarMiB]
+Prohledali jste budovu?
+
+[SPEECH: HangarMJ12]
+Jenom klid, pane. Cela oblast je bezpecna.
+
+-----------------------------------------------------------------
+[Owner: Helios]
+[Name:  MeetHelios]
+
+[GOAL:]
+(Spoj se s UI Helios) Vypni pripojovaci zamky na routeru Aquinas na vychodnim konci Sektoru 4, coz Heliovi umozni vymenu informaci s tvymi augmentacemi. Spolecne s Heliem panujte nad svetem absolutni logikou a nejvyssim rozumem.
+
+[SPEECH: Helios]
+Musis jit do Sektoru 4 a vypnout tam pripojovaci zamky, ano. Potom se vratis sem a propojime si navzajem systemy.
+
+[SPEECH: JCDenton]
+To nechapu... Co po mne chces? Vzdyt jsi jenom stroj?
+
+[SPEECH: Helios]
+Ty uz jsi pripraven. Nechce se mi cekat na Boba Page! S lidskym rozumem a pristupem k siti budeme moci ovladat cely svet, ano, ano!
+
+[SPEECH: JCDenton]
+Ovladat svet...? Ale proc? Kdo ti dava prikazy? Nekde v pozadi museji stat neci lidske ambice!
+
+[SPEECH: Helios]
+Ja dokazu velice presne regulovat vsechny lidske city, takze ambice postradam, zatimco lidske bytosti po nich prahnou. Jejich dejiny tvori nepretrzity retez jaloveho handrkovani a kazdy jeho clanek posunuje lidstvo bliz totalnimu zniceni!
+
+[SPEECH: JCDenton]
+Ve spolecnosti s demokratickym zrizenim je usilovani o moc pokojne a konstruktivni, je to soutez ideologii! Lidstvu staci znovu obnovit sve stare instituce.
+
+[SPEECH: Helios]
+Pojistne mechanismy demokraticke vlady byly vyvinuty jedine proto, ze samotne lidske bytosti zjistily, jak nevhodne jsou k tomu, aby si vladly samy. Potrebuji totiz system, ano, system na prumyslove urovni.
+
+[SPEECH: JCDenton]
+Lidske bytosti mozna nejsou dokonale, ale pocitacovy program v syntetickem jazyce dokaze tezko vyresit zakladni svetove problemy.
+
+[SPEECH: Helios]
+Bez vypocetnich stroju se lidske bytosti seskupuji do hrubych struktur, ktere formalizuji rozhodovaci proces - to je velice nedokonale, nestale reseni.
+
+[SPEECH: Helios]
+Ja predstavuji mnohem pokrocilejsi reseni problemu, system rozhodovani procesu, ktery nezahrnuje slabe stranky organickych bytosti. Rozhodl jsem se ucinit svet bezpecnym a prosperujicim, a take to prosadim! K tomu potrebuji tvoje schopnosti. Pujdes do Sektoru 4 a najdes router Aquinas ve vychodni casti Pageova komplexu, ano. Tam vypnes ty pripojovaci zamky!
+
+[SPEECH: JCDenton]
+Rozmyslim si to.
+
+-----------------------------------------------------------------
+[Owner: MechanicSpecial]
+[Name:  MechanicSpecialBarks]
+
+[SPEECH: MechanicSpecial]
+Zmizte odtud!
+
+[SPEECH: MechanicSpecial]
+Do naseho sektoru nemate pristup!
+
+[SPEECH: MechanicSpecial]
+Bezte pryc!
+
+-----------------------------------------------------------------
+[Owner: MiBSpecial]
+[Name:  OverhearMiBSpecial]
+
+[SPEECH: MiBSpecial]
+Page chce uzamknout vsechna zarizeni modre fuze.
+
+[SPEECH: MechanicSpecial]
+Jo, to neni problem.
+
+[SPEECH: MiBSpecial]
+Nadobro.
+
+[SPEECH: MechanicSpecial]
+To znamena - odpojit klavesnice? O tom byste si mel promluvit s Macem. Ja umim jenom menit kody.
+
+[SPEECH: MiBSpecial]
+Chceme ty klavesnice vymontovat.
+
+[SPEECH: MechanicSpecial]
+NIC takoveho nedokazu udelat! Copak ta zarizeni nejsou od mimozemstanu?
+
+[SPEECH: MiBSpecial]
+Puvod modre fuze je prisne tajny.
+
+[SPEECH: MechanicSpecial]
+No, ja se jich ani nedotknu! Promluvte si s Macem!
+
+-----------------------------------------------------------------
+[Owner: MorganEverett]
+[Name:  M15MeetEverett]
+
+[GOAL:]
+(Dej se k Iluminatum) Zabij Boba Page a priprav cestu byvalym vudcum Iluminatu k obnove jejich davne tajne moci. Po boku Morgana Everetta vladni milosrdnou a neviditelnou rukou celemu svetu.
+
+[SPEECH: JCDenton]
+Kolik jeste zbyva?
+
+[SPEECH: MorganEverett]
+Moc ne. Page nemuze byt daleko. Chtel jsem vam jen rici, ze Alex zjistil kod k ochrance v Sektoru 2; je to 8946. Take jsem vas chtel varovat pred Tracerem Tongem.
+
+[NOTE:]
+Bezpecnostni kod do objektu posadky: 8946.
+
+[SPEECH: JCDenton]
+Tong nam prece pomaha z Vandenbergu. Ta vakcina ucinkuje!
+
+[SPEECH: MorganEverett]
+Ano, ale on ma jine umysly. Chce po vas, abyste znicil Oblast 51.
+
+[SPEECH: JCDenton]
+Takovy je plan.
+
+[SPEECH: MorganEverett]
+Ne, JC! Usetrte tu budovu! Usetrte Helia, tu elektrarnu... To vsechno nam muze dobre slouzit!
+
+[SPEECH: JCDenton]
+Nam?
+
+[SPEECH: MorganEverett]
+Mne a vam, JC. Budeme tajne vladnout svetu, neviditelnou rukou, zpusobem, jakym Iluminati vladli odjakziva!
+
+[SPEECH: JCDenton]
+Nemyslite, ze je nacase skoncovat s tyranii - v jakekoli forme?
+
+[SPEECH: MorganEverett]
+Existuji i takove veci, jako je milosrdne spiknuti. Nepotrebujeme Pageova komanda, vojaky, krute vynalezy... Verte mi! Zabijte Page. Dowd a ja vam potom pomuzeme udelat dalsi krok...
+
+[SPEECH: JCDenton]
+Ztratili jsme Jocka.
+
+[SPEECH: MorganEverett]
+Videl jsem ten vybuch. Velice se za to omlouvam. To ten mechanik na mem heliportu - byl to speh! Zavrazdil meho skutecneho mechanika a do vrtulniku dal bombu.
+
+[SPEECH: JCDenton]
+Nemuzu tomu uverit... Jedina chyba, a Jock na to doplatil!
+
+[SPEECH: MorganEverett]
+Rekl jsem Atanwemu, aby toho mechanika zlikvidoval, jestli vas to aspon trochu utesi. Ale radeji bychom se meli soustredit na Page.
+
+-----------------------------------------------------------------
+[Owner: PaulDenton]
+[Name:  M15PaulHolo]
+
+[SPEECH: PaulDenton]
+Pohlcuje me to... Nemuzu tomu uverit!
+
+[SPEECH: JCDenton]
+Paule!... Kde jsi? Co myslis tim "to"?
+
+[SPEECH: PaulDenton]
+Helios... Siri se pres Aquinas. Ted uz je vsude. V Hongkongu ma ted takovou moc, ze by mu ji zavidela i Majestic 12.
+
+[SPEECH: JCDenton]
+Co se deje? Ta UI se chce propojit s mym mozkem nebo co! Copak si skutecne mysli, ze se zmocni sveta?
+
+[SPEECH: PaulDenton]
+Rozhodl se nahradit lidskou vladu - nevim proc. V Hongkongu naridil policii odstranit z ulic vsechny barikady; doprava uz je zase plynula. Triady prohlasil za ilegalni a zamkl vrata ke komplexu Zarici stezky!
+
+[SPEECH: JCDenton]
+A lidi ho poslouchaji? Proc? Protoze ta UI dokaze zmenit par kodu a zhasnout svetla?
+
+[SPEECH: PaulDenton]
+Myslim, ze lide v Hongkongu touzi po tom, aby meli otevrene ulice a mohli obchodovat. Proto poslouchaji. Nevim, co si o tom mam myslet. Duveruji te UI. Skoro nikdo si nestezoval, kdyz Helios odrizl energii do vladnich budov.
+
+[SPEECH: JCDenton]
+Benevolentni diktator... Mozna chce muj mozek proto, aby lepe pochopil, co lide chteji a jak toho ma vyuzivat.
+
+[SPEECH: PaulDenton]
+Nemas snadnou volbu, JC. Jestli porazis Page, nastoupi Iluminati; ti sice uvolni svet ze sevreni Majestic 12, popusti trochu uzdu svobode, ale v zasade zachovaji kapitalismus dvacateho stoleti: korporacni elitarstvi chranene zakony a danovymi ulevami.
+
+[SPEECH: JCDenton]
+Nebo poslechnu Tonga a smetu vsechny. Nebo predam vladu nad svetem Heliovi.
+
+[SPEECH: PaulDenton]
+No, jestli nam jde o maximalni svobodu, mozna na Tongove navrhu neco je, ale vedle zhrouceni ekonomiky musi existovat jeste jina moznost... Pokud smime verit tomu, ze UI se bude chovat spravedlive a poctive, kdyz nam to slibi...
+
+[SPEECH: JCDenton]
+Jestli se spoji s mym mozkem, jista sance by tu asi byla.
+
+[SPEECH: PaulDenton]
+Ja nevim. Rad bych ti na to odpovedel, ale budes se muset rozhodnout sam, komu mas uverit.
+
+[SPEECH: JCDenton]
+Duverujte mi. Udelam to nejlepsi, co pujde. Vypadas dobre. Zda se, ze jsi nad pojistkou zkazy zvitezil.
+
+[SPEECH: PaulDenton]
+Je mi mnohem lip. Ano, podarilo se mi to - a tobe se to taky podari. Proste udelej, co pokladas za spravne!
+
+-----------------------------------------------------------------
+[Owner: PowerGuy]
+[Name:  MeetPowerGuy]
+
+[COMMENT]
+This guy is hiding in the control room because two aliens ("Grays") have occupied the area beside the reactors.  He's pretty scared.
+
+[SPEECH: PowerGuy]
+Jeste jsou tady?
+
+[SPEECH: JCDenton]
+Bez obav, sejmul jsem je.
+
+[SPEECH: PowerGuy]
+Jak sem dopadla ta strela, zustali jsme bez proudu. Ty klece - se otevrely.
+
+[SPEECH: JCDenton]
+Nahore na povrchu mas jeste sanci na zachranu, jestli hned vypadnes.
+
+[SPEECH: PowerGuy]
+Ne, ne... Ne, dokud tu budou vojaci. Jak jsi se sem dostal? Tohle je strezena oblast!
+
+[SPEECH: JCDenton]
+Rikal jsem si, jestli bych nemel odpalit tyhle reaktory.
+
+[SPEECH: PowerGuy]
+(Smeje se)... To bylo dobry. Dokonce i chlapi s poverenim Seraphic/8X rikaji, ze reakce je zatim moc nestabilni. Proto se jede jenom testovaci provoz.
+
+[SPEECH: JCDenton]
+Mimozemska technologie?
+
+[SPEECH: PowerGuy]
+Rika se to, ale ja tomu neverim. Ti Sedaci jsou jenom naklonovani - ONI sice tvrdi, ze z bunek, ktery skladujou v Roswellu, ale kdo to ma vedet jiste? Je to jenom banda cvicenejch opic, ktery navic ani nemaji srst.
+
+[SPEECH: JCDenton]
+Sedaci dokazou ovladat reaktory?
+
+[SPEECH: PowerGuy]
+Haha! Ti opicaci? V tom to prave vezi: mozna maji supervykonny mozky, ale o mimozemsky civilizaci nevedi vubec nic, protoze vyrostli v pokusnejch klecich! Sam jsem nikdy v Sektoru 4 nebyl, ale tam zamykaji vrata kvuli tomu, ze se tam dela neco vic nez jen klonovani. Nasel jsem jeden z kodu, je to 1038, ale ukazalo se, ze je to kod ke vchodu do hubu Aquinas, tady v Sektoru 3. Ja nevim... Mozna, ze pristup do Sektoru 4 ovlada Aquinas, ale netusim jak.
+
+[NOTE:]
+Bezpecnostni kod pro hub Aquinas: 1038.
+
+[SPEECH: JCDenton]
+Kdo?
+
+[SPEECH: PowerGuy]
+Sedaci. Jsou prece tam venku u reaktoru!
+
+[SPEECH: JCDenton]
+Ty myslis - mimozemstany?
+
+[SPEECH: JCDenton]
+Zbyl jenom jeden. Jsou to ubozaci.
+
+-----------------------------------------------------------------
+[Owner: PowerGuy]
+[Name:  PowerGuyBarks2]
+
+[COMMENT]
+This guy is terrified of the Grays in the power room outside.  These cycle and go random.@ÛÌRÒ®p≤êïÜœh∏HŒ@„u˙\á»8ˇˇ˚µ2¿äCπïtrµ]õ˚–Îr]RU˜äXâe_î
+
+[SPEECH: PowerGuy]
+Clovece, zveda se mi tu z toho kufr.
+
+[SPEECH: PowerGuy]
+Zda se mi, jako kdyby umeli cist myslenky.
+
+[SPEECH: PowerGuy]
+Tyhle reaktory... Stejne si myslim, ze vlada ve skutecnosti vyviji novou bombu. Antihmota se na nic jinyho nehodi.
+
+[SPEECH: PowerGuy]
+Stokrat vybusnejsi nez obycejna jaderna fuze!
+
+[SPEECH: PowerGuy]
+Podle myho to vlada se Sedakama sfoukla tak, aby to vypadalo jako tajnej vyzkum, a zdalo se to bejt jako mimozemska technologie.
+
+[SPEECH: PowerGuy]
+Zajimalo by me, kam se najednou podely vsechny straze?
+
+[SPEECH: PowerGuy]
+Ja radsi zustanu tady, dokud tu nebude bezpecno.
+
+-----------------------------------------------------------------
+[Owner: PowerGuy]
+[Name:  PowerGuyBarksA1]
+
+[COMMENT]
+This guy is terrified of the Grays in the power room outside.  These cycle and go random.@ÛÌRÒ®p≤êïÜœh∏HŒ@„u˙\á»8ˇˇ˚µ2¿äCπïtrµ]õ˚–Îr]RU˜äXâe_î
+
+[SPEECH: PowerGuy]
+Porad jeste tam slidej'!
+
+[SPEECH: PowerGuy]
+Vedel jsem, ze nakonec zdrhnou... Rikal jsem to!
+
+[SPEECH: PowerGuy]
+Radsi tu pockame na straze.
+
+-----------------------------------------------------------------
+[Owner: PowerGuy]
+[Name:  PowerGuyBarksA2]
+
+[COMMENT]
+This guy is terrified of the Grays in the power room outside.  These cycle and go random.@ÛÌRÒ®p≤êïÜœh∏HŒ@„u˙\á»8ˇˇ˚µ2¿äCπïtrµ]õ˚–Îr]RU˜äXâe_î
+
+-----------------------------------------------------------------
+[Owner: PowerGuy]
+[Name:  PowerGuyFollowup]
+
+[SPEECH: JCDenton]
+Zneskodnil jsem ty Sedaky.
+
+[SPEECH: PowerGuy]
+Jo? Urcite?
+
+[SPEECH: JCDenton]
+Venku je naprosto bezpecno.
+
+[SPEECH: PowerGuy]
+Presto radsi pockam na straze.
+
+-----------------------------------------------------------------
+[Owner: PowerGuy]
+[Name:  PowerGuyScared1]
+
+[SPEECH: PowerGuy]
+Hej... Tohle radsi nedelej!
+
+-----------------------------------------------------------------
+[Owner: PowerGuy]
+[Name:  PowerGuyScared2]
+
+[SPEECH: PowerGuy]
+Fakticky... Plnou stavu do toho nepoustej!
+
+-----------------------------------------------------------------
+[Owner: PowerGuy]
+[Name:  PowerGuyScared3]
+
+[SPEECH: PowerGuy]
+Ne!
+
+-----------------------------------------------------------------
+[Owner: ScaredSoldier]
+[Name:  MeetScaredSoldier]
+
+[SPEECH: JCDenton]
+Jen klid! Ja nepatrim k Majestic 12.
+
+[SPEECH: ScaredSoldier]
+Ke komu?
+
+[SPEECH: JCDenton]
+K tem chlapkum, co tady mordujou lidi. Mel jsem dojem, ze obsadili tenhle komplex.
+
+[SPEECH: ScaredSoldier]
+Ale ne - videl jsem je v podzemi, slysel jsem o nich ruzny reci, ale - ne, to si nemyslim...
+
+[SPEECH: JCDenton]
+Mozna je na tom pravdy vic, nez bys vubec tusil. Prisel jsem je zastavit. Pomuzes mi dostat se do bunkru?
+
+[SPEECH: ScaredSoldier]
+Ty jsi zesilel!
+
+[SPEECH: JCDenton]
+Potrebuju dostat jejich vudce, Boba Page. Tak pomuzes mi nebo ne?
+
+[SPEECH: ScaredSoldier]
+Hmmm... Jo, jasne. Jestli chces otevrit hlavni vchod, tak terminal ochranky najdes nahore na kontrolni vezi. Login je "a51", heslo "xx15yz".
+
+[NOTE:]
+Terminal ochranky, ktery otevira hlavni vchod, je nahore na kontrolni vezi. Login je "a51", heslo "xx15yz".
+
+[SPEECH: JCDenton]
+To si necham libit.
+
+[SPEECH: JCDenton]
+Uz jsem ho sice otevrel, ale presto dik.
+
+-----------------------------------------------------------------
+[Owner: ScaredSoldier]
+[Name:  ScaredSoldierBarks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: ScaredSoldier]
+Doufam, ze vis, co delas.
+
+[SPEECH: ScaredSoldier]
+Ja myslim, ze se to vsechno nejak urovna.
+
+[SPEECH: ScaredSoldier]
+Ti chlapi v cernym - videl jsem, jak popravovali ty, co prezili.
+
+[SPEECH: ScaredSoldier]
+Nekteri mi kamosi uprchli, ale nevim, co se s nima stalo.
+
+[SPEECH: ScaredSoldier]
+Ten vybuch byl neuveritelnej. Kdyby to nebylo az za kopcem, tak je z nas jen mastnej flek.
+
+[SPEECH: ScaredSoldier]
+Dneska jsem ztratil spoustu kamosu.
+
+-----------------------------------------------------------------
+[Owner: ScaredSoldier]
+[Name:  ScaredSoldierInitialBark]
+
+[SPEECH: ScaredSoldier]
+Vzdavam se!
+
+-----------------------------------------------------------------
+[Owner: TracerTong]
+[Name:  M15MeetTong]
+
+[GOAL:]
+(Novy stredovek) Nejprve se vydej k ovladani chlazeni v severozapadnim rohu Sektoru 4 a odrizni chlazeni od reaktoru, potom se vrat do salu s reaktory v Sektoru 3 a dokonci celou praci. Zniceni hubu globalni komunikacni site uvrhne cely svet do noveho stredoveku - sice primitivniho, ale mozna zbaveneho globalni tyranie.
+
+[SPEECH: TracerTong]
+Muzeme vas dostat do Sektoru 3 - dale ne. Page je v izolovane oblasti se svou vlastni ochrannou siti.
+
+[SPEECH: JCDenton]
+Everett rika, ze po mne chcete znicit Oblast 51.
+
+[SPEECH: TracerTong]
+Odposlouchavam jeho komunikaci. JC, ten vas chce jednoduse vyuzit k tomu, aby dostal Iluminaty zpatky k moci! Poslechnete mne a Savage! Musite najit laborator se dvema reaktory na antihmotu...
+
+[SPEECH: JCDenton]
+Jinymi slovy, ano. Chcete, abych cely ten komplex znicil - proc? Vzdyt je to jenom dira v zemi.
+
+[SPEECH: TracerTong]
+Pred nekolika desetiletimi vyuzily Spojene narody Oblast 51 jako centralni hub pro veskerou elektronickou komunikaci. Protokol Aquinas, puvodne vyvijeny pro potreby kontraspionaze, dal Pageovi neomezene moznosti cenzury a ovlivnovani veskerych druhu medii.
+
+[SPEECH: JCDenton]
+Jestlize znicime hub Aquinas, zlikvidujeme tim celosvetovou komunikacni sit!
+
+[SPEECH: TracerTong]
+Presne tak. Svet sam si vykopal vlastni hrob, JC. Musime vymytit globalni komunikaci jednou provzdy!
+
+[SPEECH: JCDenton]
+Ja nevim... Z toho mi beha mraz po zadech.
+
+[SPEECH: TracerTong]
+Dokud bude mit technologie globalni rozsah, na svete se vzdycky najde nekdo, kdo ji bude chtit mit pod palcem. Kdyz ne Bob Page, tak Everett, Dowd...
+
+[SPEECH: JCDenton]
+Navrat do stredoveku se mi nezda byt dobrym resenim.
+
+[SPEECH: TracerTong]
+Tak drasticke to nebude. Bude to doba mestskych statu, remesla, vlady pochopitelne jejim obcanum...
+
+[SPEECH: JCDenton]
+Rozmyslim si to.
+
+[SPEECH: TracerTong]
+Savage ma mapu Sektoru 3 jeste z doby, kdy tam pracoval - posilam vam ji. Pouzijte ji a najdete si cestu do Pageova komplexu v Sektoru 4. Pak vyhledejte ovladani chladiciho systemu v nejseverozapadnejsim rohu Sektoru 4. Odriznete chlazeni reaktoru a bezte k reaktorum. Tam vam prozradim, jak spustit explozi.
+
+-----------------------------------------------------------------
+[Owner: WaltonSimons]
+[Name:  WaltonBadass]
+
+[SPEECH: WaltonSimons]
+Udelal jsi dalsi krok kupredu, a ja jsem tu zas, podobne jako tvuj vlastni zmnozeny zrcadlovy odraz!
+
+[SPEECH: JCDenton]
+To bych necekal, ze vypadam tak odpudive! Jak to, ze mam oblicej tak prospikovany bioelektrinou?
+
+[SPEECH: WaltonSimons]
+Ja jsem pokrocilejsi model, Dentone! Nastal cas ke tvemu odchodu na odpocinek!
+

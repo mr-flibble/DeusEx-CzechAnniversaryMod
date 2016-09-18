@@ -1,0 +1,12 @@
+<COMMENT>Water chamber in UC lab</COMMENT>
+<DC=255,255,255>
+<P>Jusio --
+<P>
+<P>Ridley neco vyvedl s pocitaci, pustil do nich nejaky tunelovaci vir s prizpusobivym polymorfnim enginem, jaky jsem nikdy nevidela. Vyspela technologie. Samoopravovaci rutiny nemaji sanci a podle meho mame tak tricet, mozna ctyricet minut, nez se to tu vsechno polozi. Budu to zdrzovat, co to da, a proto jsem povolila nizkourovnovy login do rootu s rekurzivnim refreshem, zasazeny do ochranneho prstence -- az dojde k nejhorsimu, _mel_ by nam umoznit pristup k pocitacum ochranky i v dobe, kdyz se tomu viru podari sejmout cely zbytek systemu. Aspon doufam.
+<P>
+<P>Login: MJ12
+<P>Heslo: SKYWALKER
+<P>
+<P>Ty se koukej taky snazit!
+<P>
+<P>:Mary Beth

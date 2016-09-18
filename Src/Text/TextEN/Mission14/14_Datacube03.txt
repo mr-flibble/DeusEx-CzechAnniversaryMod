@@ -1,0 +1,12 @@
+<COMMENT>Water chamber in UC lab</COMMENT>
+<DC=255,255,255>
+<P>Yushio --
+<P>
+<P>Ridley's done something to the computers, some kind of tunneling virus with an adaptable polymorph engine like I've never seen before.  Way advanced stuff.  It's overwhelming the self-repair routines and I figure we've got thirty, maybe forty minutes before this whole place goes haywire.  I'll do what I can to block it, but as a CYA I installed a low-level login at root with a recursive refresh built into the protected ring -- if worse comes to worse, it _should_ give us access to the security computers even if the virus brings down the rest of the system.  Hopefully.
+<P>
+<P>Login: MJ12
+<P>Password: SKYWALKER
+<P>
+<P>See what you can do on your end.
+<P>
+<P>:Mary Beth

@@ -1,0 +1,17 @@
+<DC=255,255,255>
+<P><JC><B>NEJSVATEJSI KRONIKA ZaRICI STEZKY,</B>
+<P><JC><B>VEDOUCI SPRAVEDLIVê DO LUNA</B>
+<P><JC><B>VNITRNIHO NEBESKêHO KRaLOVSTVI</B>
+<P>
+<P><JC><I>Wong Fej Hong</I>
+<P><JC><I>Jim Wing Cun</I>
+<P><JC><I>Co Ji-Hang</I>
+<P><JC><I>Wai Ko Lo</I>
+<P><JC><I>Jan-Fang Mej</I>
+<P><JC><I>Cing-sia Lin</I>
+<P><JC><I>Kong-sang Can</I>
+<P><JC><I>Jusen Wu</I>
+<P><JC><I>Cu-Cheng Jeo</I>
+<P><JC><I>Juen Wo-Ping</I>
+<P><JC><I>Tracer Tong</I>
+<P><JC><I><PLAYERNAME></I>

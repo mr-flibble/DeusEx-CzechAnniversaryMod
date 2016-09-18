@@ -1,0 +1,7 @@
+<COMMENT>Contraband cargo</COMMENT>
+<DC=255,255,255>
+<P>LOG ENTRY 00:2345:2223
+<P>
+<P>Took that damn repair bot we picked up last week and wired him into the engine compartment -- might finally be useful and give us enough power to clear the maritime partrols before it burns out.  Now we just have to wait for harbormaster clearance.
+<P>
+<P>*** CLOSE LOG, SHIP'S CAPTAIN SUN CHUN

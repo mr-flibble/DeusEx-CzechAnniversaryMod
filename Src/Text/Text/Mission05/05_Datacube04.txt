@@ -1,0 +1,4 @@
+<COMMENT>MJ12 bot guard room</COMMENT>
+<DC=255,255,255>
+<P>
+<P>Halo, Martine, byl tady nejakej vofuk kolem bezpecaku, takze se kvuli tomu menily vsecky kody - naridil to nejakej novej panak, kteryho jsem nikdy nevidel, asi nejakej pitomej agent nebo co. Novej kod do zbrojnice je 2971, ale nikomu to nerikej... Davam ti ho jenom pro pripad, kdyby zase zcvokli roboti. Ten posledni upgrade jejich operacniho systemu stoji za prd a svira se mi zadek pri pomysleni, co by mohly ty obrneny plechovky natropit. -- Peter

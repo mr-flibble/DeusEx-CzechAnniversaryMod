@@ -1,0 +1,5 @@
+<COMMENT>Coolant testing room</COMMENT>
+<DC=255,255,255>
+<P>Purvis -- I hacked the door lock on the coolant system, saves you the trouble: 2242.  Amazing no one ever bothered to write this stuff down, I'm still finding doors with unknown codes.  Anyways, check the secondary cooling interchange... the numbers it's been reporting back don't look right.  Of course, I'm just guessing at what right is.
+<P>
+<P>Mac

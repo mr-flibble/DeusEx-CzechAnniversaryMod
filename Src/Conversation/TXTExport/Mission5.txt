@@ -1,0 +1,1213 @@
+-----------------------------------------------------------------
+[Owner: AlexJacobson]
+[Name:  M05JacobsonBarks]
+
+[COMMENT]
+These cycle and repeat on A3.D
+
+[SPEECH: AlexJacobson]
+Mrknu se do logu. Mozna, ze ten Daidalos po sobe spatne zamete stopy.
+
+[SPEECH: AlexJacobson]
+Po ceste nahoru by ses mel stavit za Manderleyem a poradne ho kopnout do prdele.
+
+[SPEECH: AlexJacobson]
+Je na case se pohnout.
+
+-----------------------------------------------------------------
+[Owner: AlexJacobson]
+[Name:  M05MeetAlexJacobson]
+
+[SPEECH: JCDenton]
+Nazdar, Daidale! Doufam, ze ten muj utek byl kasovni trhak.
+
+[SPEECH: AlexJacobson]
+Daidale?... Co tim chces rict?
+
+[SPEECH: JCDenton]
+Copak tos' nebyl ty, kdo mi pod tou prezdivkou pomahal?
+
+[SPEECH: AlexJacobson]
+Infolink ti prece jednostranne odpojili. Nejdriv jsem myslel, ze uz jsi mrtvej.
+
+[SPEECH: JCDenton]
+Kdo jinej by to dokazal? Nekdo odpojil okruhy vazebni cely!
+
+[SPEECH: AlexJacobson]
+Celej bezpecnostni system UNATCO jsem instaloval ja osobne! Je neprustrelnej! Zacinas me fakticky desit.
+
+[SPEECH: JCDenton]
+Mnohem vic se desim ja. Kdo je to Daidalos a proc se me rozhodl zachranit?
+
+[SPEECH: AlexJacobson]
+Je to lepsi hacker nez ja. Neco takovyho by -- mimochodem, vis o tom, ze tady s tim chci prastit? Z tyhle agentury je mi pekne na bliti - jenze by me hned chytili.
+
+[SPEECH: JCDenton]
+Nemel by ses o to aspon pokusit?
+
+[SPEECH: AlexJacobson]
+No, aspon tu nebudu jen tak sedet a koukat. Dam ti klic k hlavnimu vchodu. Zakladna je zamcena, dokud te znova nechytej'.
+
+[SPEECH: JCDenton]
+To jses hodnej. Pro UNATCO je te asi prece jenom skoda.
+
+[SPEECH: AlexJacobson]
+Ale co mam delat?
+
+[SPEECH: JCDenton]
+Muzes se za mnou rozjet do Hongkongu. Potrebuju se setkat s Tracerem Tongem a pridat se ke hnuti odporu.
+
+[SPEECH: AlexJacobson]
+To by vlastne slo... Jasne, promyslim si to. Ale musim se poohlidnout po tom tajemnym hackerovi.
+
+[SPEECH: AlexJacobson]
+Tady mas ten klic.
+
+[SPEECH: JCDenton]
+Diky, Daidale.
+
+[SPEECH: AlexJacobson]
+O cem to mluvis?
+
+[SPEECH: AlexJacobson]
+Anna si nic jineho nezaslouzila. Temahle ocima jsem videl, jak zabila tucty podezrelych. Ted uz se nemusim bat vystrcit nos, takze tady mas ten klic.
+
+[SPEECH: JCDenton]
+Myslim, ze ted uz muzes vystrcit nos, Daidale.
+
+[SPEECH: AlexJacobson]
+Promin, JC. Nebudu riskovat krk, dokud bude Anna nazivu. Ta by me rozdupala na placku.
+
+[SPEECH: JCDenton]
+Jo, je to temperamentni kus zensky.
+
+[SPEECH: AlexJacobson]
+Budes potrebovat klic, ale riskovat kvuli tomu nechci.
+
+[SPEECH: AlexJacobson]
+Promin, JC. Nikdo z nas se nedostane daleko, dokud tu bude slidit Anna.
+
+[SPEECH: JCDenton]
+Uvidime, co se da delat.
+
+[GOAL:]
+Zlikviduj Annu Navarrovou.
+
+[GOAL:]
+Az bude Anna Navarrova mrtva, stav se u Alexe pro klic k vychodu.
+
+[SPEECH: AlexJacobson]
+JC! Sledoval jsem te infolinkem! Famozni unik!
+
+[SPEECH: JCDenton]
+Diky za vysokou sledovanost.
+
+[SPEECH: AlexJacobson]
+Aby ses dostal z UNATCO, na to potrebujes klic - jsme tu zamceny. Rad bych ti ho dal, ale - ja nevim. Vartuje tu Anna. Kdyby na to prisla ---
+
+[SPEECH: JCDenton]
+O Annu se postaram.
+
+[SPEECH: AlexJacobson]
+Vis, ja mam rad svy jisty. Jestli ji dokazes zlikvidovat, dam ti ten klic a mozna utecu taky. Ale jinak s tim nechci nic mit.
+
+[SPEECH: AlexJacobson]
+No, aspon tu nebudu jen tak sedet a koukat.
+
+-----------------------------------------------------------------
+[Owner: AnnaNavarre]
+[Name:  AnnaExitKillphrase]
+
+[SPEECH: AnnaNavarre]
+Mela jsem te uz davno zabit sama.
+
+[SPEECH: JCDenton]
+A ja uz jsem ti mel davno rict, ze jsi D·SNµ KRµVA.
+
+[COMMENT]
+She screams in pain at the end of this line.  When the conversation ends, she explodes.  Literally.
+
+[SPEECH: AnnaNavarre]
+Co si to ---
+
+-----------------------------------------------------------------
+[Owner: AnnaNavarre]
+[Name:  M05AnnaAtExit]
+
+[SPEECH: AnnaNavarre]
+Mela jsem te uz davno zabit sama.
+
+[SPEECH: JCDenton]
+Tak to musis poradne mirit.
+
+-----------------------------------------------------------------
+[Owner: AnnaNavarre]
+[Name:  M05AnnaAtExit2]
+
+-----------------------------------------------------------------
+[Owner: AnnaNavarre]
+[Name:  M05AnnaAtExit3]
+
+-----------------------------------------------------------------
+[Owner: AnnaNavarre]
+[Name:  M05AnnaTaunt]
+
+[SPEECH: AnnaNavarre]
+Prisla jsem se pokochat, jak chcipas.
+
+[SPEECH: JCDenton]
+Jdes moc brzo. Zbylo mi jeste nejmin dvanact hodin.
+
+[SPEECH: AnnaNavarre]
+Myslela jsem, ze uz ti zapojili pojistku zkazy.
+
+[SPEECH: JCDenton]
+Ja nic necejtim.
+
+[SPEECH: AnnaNavarre]
+Dlouho se uz pretvarovat nedokazes.
+
+[SPEECH: JCDenton]
+Co jste udelali s Paulem?
+
+[SPEECH: AnnaNavarre]
+Potkal ho osud veci, ktere se pokazily. A totez ceka tebe.
+
+-----------------------------------------------------------------
+[Owner: Doctor]
+[Name:  M05DoctorBarks]
+
+[COMMENT]
+The cycle indefinitely.
+
+[SPEECH: Doctor]
+Lituji, ale vasemu bratrovi zbyva asi osmnact hodin zivota. Je mi to opravdu lito.
+
+[SPEECH: Doctor]
+Jakmile aktivuji vasi vlastni pojistku zkazy, tak neprezijete osmactyricet hodin.
+
+[SPEECH: Doctor]
+Walton Simons nam naridil prostudovat poskozeni tkani.
+
+[SPEECH: Doctor]
+Sice nevim presne, jak k tomu doslo, ale predpokladam, ze je to v zajmu mezinarodni bezpecnosti.
+
+[SPEECH: Doctor]
+Pro vaseho bratra jsme uz nemohli nic udelat.
+
+[SPEECH: Doctor]
+Je mi lito... To ti vojaci, vite?
+
+[SPEECH: Doctor]
+Mel stesti. Ta pojistka zkazy by mu pusobila strasna muka.
+
+-----------------------------------------------------------------
+[Owner: Doctor]
+[Name:  M05DoctorRadiusBarks]
+
+[SPEECH: Doctor]
+Muj Boze! On jim utekl!
+
+[SPEECH: Doctor]
+Tady nemuzete zustat.
+
+[SPEECH: Doctor]
+Nechceme zadne potize s vojaky.
+
+-----------------------------------------------------------------
+[Owner: DoctorMoreau]
+[Name:  MeetDoctorMoreau]
+
+[COMMENT]
+MJ12 guards *might be* nearby, so Doctor Moreau has to talk quietly.  He is being held against his will and is being forced to do research for MJ-12.€aù@Ï
+
+[SPEECH: DoctorMoreau]
+Muj Boze! Pan Denton... Vy jste uprchl?
+
+[SPEECH: JCDenton]
+Jo. Jak to, ze me znate?
+
+[SPEECH: DoctorMoreau]
+Jsem take vezen a vase jmeno sklonuji ve vsech padech kazdy den. Kultivuji totiz bunky z vaseho tela. I z tela vaseho bratra.
+
+[SPEECH: JCDenton]
+Meho bratra? Je tady nekde?
+
+[SPEECH: DoctorMoreau]
+Maji ho v lekarske oblasti. Agente Dentone, verte mi, ze sdilim vasi zlost ohledne te pojistky zkazy.
+
+[SPEECH: JCDenton]
+Vy Paula znate?
+
+[SPEECH: DoctorMoreau]
+Jeho mrtve telo lezi v lekarske oblasti. Agente Dentone, verte mi, ze sdilim vasi ztratu.
+
+[SPEECH: JCDenton]
+Vy jste Paula znal?
+
+[SPEECH: DoctorMoreau]
+Pouze po strance biologicke. Ochranka mi naridila, abych zjistil, proc vase tela neodmitaji nanity - je to tvrdy orisek, to musim priznat.
+
+[SPEECH: JCDenton]
+Prokazte mi laskavost: predstirejte hloupeho! Uz ted toho vedi az moc.
+
+[SPEECH: DoctorMoreau]
+Pokusim se! Pokusim se ze vsech sil!
+
+[SPEECH: JCDenton]
+Mozna byste mohl uprchnout, az se mi podari otevrit vychod.
+
+[SPEECH: DoctorMoreau]
+Jednou uz si do mne strelili, dekuji pekne. Ale drzim vam palce! Jediny kod, ktery znam, je 0199 - dvere do lekarske oblasti. Mozna byste se rad setkal se svym bratrem.
+
+[SPEECH: JCDenton]
+Spravne. Mockrat dekuju.
+
+[NOTE:]
+Pristup do lekarske oblasti: 0199.
+
+[SPEECH: DoctorMoreau]
+Jednou uz si do mne strelili, dekuji pekne. Ale drzim vam palce! Jediny kod, ktery znam, je 0199 - dvere do lekarske oblasti.
+
+[SPEECH: JCDenton]
+Uz jsem tam sice byl, ale presto dekuju.
+
+[NOTE:]
+Pristup do lekarske oblasti: 0199.
+
+-----------------------------------------------------------------
+[Owner: DoctorMoreau]
+[Name:  MoreauBarks]
+
+[COMMENT]
+These cycle.o
+
+[SPEECH: DoctorMoreau]
+Prave jdu z lekarske oblasti - je to tamhle o kus dal.
+
+[SPEECH: DoctorMoreau]
+Vedecti pracovnici nesmeji opustit toto patro.
+
+[SPEECH: DoctorMoreau]
+Za cele tri roky nejsem schopen odhalit, pro koho to vlastne pracuji. Ale s jistotou vim, ze to neni UNATCO.
+
+[SPEECH: DoctorMoreau]
+Porad se tu prohaneji paragani. Zrejme ochrana mezinarodnich zajmu.
+
+[SPEECH: DoctorMoreau]
+Pane Dentone, mnoho stesti!
+
+-----------------------------------------------------------------
+[Owner: ChattingMJ12]
+[Name:  ChattingMJ12Overheard]
+
+[SPEECH: Secretary]
+Je ozbrojeny?
+
+[SPEECH: ChattingMJ12]
+Je to Denton! Nesmime mu dat ani tu nejmensi sanci!
+
+[SPEECH: Secretary]
+Doufam, ze uz nikoho nezrani.
+
+[SPEECH: ChattingMJ12]
+Mame ho pod zamkem. Nikam se nedostane.
+
+[SPEECH: Secretary]
+A co kdyby prece? Jsme tu v bezpeci?
+
+[COMMENT]
+Emphasis on "I'm".ea?  Is it safe?
+
+[SPEECH: ChattingMJ12]
+Dokud mas me, nemusis se niceho bat.
+
+-----------------------------------------------------------------
+[Owner: JaimeReyes]
+[Name:  M05JaimeBarks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: JaimeReyes]
+Vezmi si tu, co chces. Ja uz tady nepracuju.
+
+[SPEECH: JaimeReyes]
+Tohle je velice uzitecna augmentace. Dokaze te ochranit proti energetickym utokum nebo ti umoznit rychle uzdravovani tkani.
+
+[SPEECH: JaimeReyes]
+Jsme tady pod zamkem. Budes si muset obstarat klic k hlavnim dverim.
+
+[SPEECH: JaimeReyes]
+Hned zitra si chytim letadlo.
+
+[SPEECH: JaimeReyes]
+Budu mit oci dokoran.
+
+-----------------------------------------------------------------
+[Owner: JaimeReyes]
+[Name:  M05MeetJaime]
+
+[SPEECH: JaimeReyes]
+JC! Tys' jim utekl? Kvuli tomu nas tady zamkli?
+
+[SPEECH: JCDenton]
+Zapomnel jsem dat Manderleymu svoji vypoved.
+
+[SPEECH: JaimeReyes]
+Slysel jsem, ze zabili Paula.
+
+[SPEECH: JCDenton]
+Do jeho apartma vtrhli agenti, ale prezil to. Rikal mi, ze jim dokaze uniknout sam.
+
+[SPEECH: JCDenton]
+Jo. Do jeho apartma vtrhli agenti.
+
+[SPEECH: JaimeReyes]
+Manderley je peknej had. Predtim mi nasliboval, ze tvyho brachu nechaji bezet. Muzu ti nejak pomoct?
+
+[CHOICES:2]
+
+[CHOICE:]
+Prechazim k hnuti odporu. Nechces se ke mne pridat? Sesli bychom se v Hongkongu.
+
+[CHOICE:]
+Zustan tady. Spojenec v UNATCO se mi muze hodit.
+
+[SPEECH: JaimeReyes]
+Doufal jsem, ze mi neco takoveho navrhnes.
+
+[SPEECH: JCDenton]
+Oba ted musime najit jednoho muze, co si rika Tracer Tong. Je to Pauluv kontakt.
+
+[SPEECH: JaimeReyes]
+Tong. Budu si to pamatovat.
+
+[SPEECH: JCDenton]
+Jaime... Bud opatrnej.
+
+[SPEECH: JaimeReyes]
+Jasne. Mimochodem, konecne mi poslali ten zasobnik s augmentaci, ktery jsem si objednal.
+
+[SPEECH: JCDenton]
+Ten na stolku? Dokaze ho tvuj bot nainstalovat?
+
+[SPEECH: JaimeReyes]
+Jiste. Mel to byt muj darek na privitanou.
+
+[SPEECH: JCDenton]
+Myslim, ze k odchodu do vysluzby ho taky muzu prijmout.
+
+[SPEECH: JaimeReyes]
+Dobrej napad. Dam o sobe vedet.
+
+[SPEECH: JCDenton]
+Udelej to, ale opatrne. Vis prece, jak umeji spehovat.
+
+-----------------------------------------------------------------
+[Owner: JaniceReed]
+[Name:  M05JaniceBark1]
+
+[COMMENT]
+(screams, exclaims, then shouts a warning to Manderley)
+
+[COMMENT]
+(to the player)
+
+[SPEECH: JaniceReed]
+JC!
+
+[COMMENT]
+(to the other room)
+
+[SPEECH: JaniceReed]
+Pane Manderley! Je tu JC!
+
+-----------------------------------------------------------------
+[Owner: JaniceReed]
+[Name:  M05JaniceBark2]
+
+[SPEECH: JaniceReed]
+Jak jsi mohl zradit organizaci?
+
+-----------------------------------------------------------------
+[Owner: JaniceReed]
+[Name:  M05JaniceFinalBarks]
+
+[COMMENT]
+(grave, introspective)r
+
+[SPEECH: JaniceReed]
+Myslela jsem, ze jsme jako jedna rodina...
+
+[SPEECH: JaniceReed]
+Ach, uz nikdy to nebude takove!
+
+[SPEECH: JaniceReed]
+Zklamal jsi nasi duveru, JC...
+
+-----------------------------------------------------------------
+[Owner: Jock]
+[Name:  M05MeetJock]
+
+[SPEECH: JCDenton]
+Jak vis, ze me tu mas nalozit?
+
+[SPEECH: Jock]
+Daidalos. Vzkazal mi jistej Daidalos.
+
+[SPEECH: JCDenton]
+Tvuj kamos?
+
+[SPEECH: Jock]
+Kdepak. Letel jsem hlavne proto, ze tvymu brachovi Paulovi hodne dluzim.
+
+[SPEECH: JCDenton]
+Pral bych si, aby letel s nama.
+
+[COMMENT]
+Grave.  Paul is dead.
+
+[SPEECH: Jock]
+Ja taky, JC. Ja taky. Naskoc! Vezmu te do Hongkongu.
+
+[SPEECH: JCDenton]
+Muzes me seznamit s Tracerem Tongem?
+
+[SPEECH: Jock]
+Znam jedno misto ve meste, kde si muzeme sednout, ale Tong je k cizim lidem strasne neduverivej. Duveru spojencu svyho brachy si musis nejdriv zaslouzit. Jen oni ti poradi, jak se setkat s Tongem.
+
+[SPEECH: JCDenton]
+Prima. Tak letime!
+
+[SPEECH: Jock]
+Ted se ukaze, jestli tahle neviditelna skatule za neco stoji. MJ12 ma v Hongkongu sidlo a urcite uz po nas zahajili patrani.
+
+[SPEECH: Jock]
+Kdepak. Letel jsem hlavne proto, ze tvymu brachovi Paulovi hodne dluzim. Naskoc! Vezmu te do Hongkongu.
+
+-----------------------------------------------------------------
+[Owner: Jock]
+[Name:  MiguelHack]
+
+[SPEECH: Miguel]
+Hodne stesti, JC! Dal uz tvou pomoc nebudu potrebovat.
+
+-----------------------------------------------------------------
+[Owner: JosephManderley]
+[Name:  M05ManderleyBarks]
+
+[COMMENT]
+These cycle and repeat the last.
+
+[COMMENT]
+(impatient)erley_Playe
+
+[SPEECH: JosephManderley]
+Pokracuj! Dokonci svuj utek!
+
+[SPEECH: JosephManderley]
+Vy, Dentonove, nas privedete na mizinu.
+
+[SPEECH: JosephManderley]
+Za par dni bys UNATCO nepoznal. Simons ho meni na svou soukromou armadu.
+
+[SPEECH: JosephManderley]
+Zachovaval jsem velice peclive rovnovahu mezi Washingtonem a verejnymi zajmy. Jenze to uz ted neni mozne.
+
+-----------------------------------------------------------------
+[Owner: JosephManderley]
+[Name:  M05MeetManderley]
+
+[SPEECH: WaltonSimons]
+V Kongresove knihovne budes mnohem uzitecnejsi.
+
+[COMMENT]
+(talking about JC's defection)eetManderley\WaltonSimons01.mp
+
+[SPEECH: JosephManderley]
+Ja nedokazu ovladat lidskou mysl...
+
+[SPEECH: WaltonSimons]
+Ty nejsi vudci typ, Manderley. Doufali jsme, ze v UNATCO si vypracujes pevny, diplomaticky profil - nic vic. Zvorali jsme svoje priority.
+
+[SPEECH: JosephManderley]
+Ja se od vas nenecham strcit do zadne pitome byrokraticke diry!
+
+[SPEECH: WaltonSimons]
+Myslim, ze k tomu skutecne ani nedojde. Ohledni se. Tvuj nejlepsi zak prisel udelit lekci svemu staremu uciteli.
+
+[SPEECH: JosephManderley]
+JC!
+
+[SPEECH: JCDenton]
+Jeste jsem nemel prilezitost slozit organizaci slavnostni slib. Tak tedy poslouchejte: Prisaham, ze nebudu mit klid, dokud UNATCO nezbavim vas a podobnych bezpaternych byrokratu, kteri zneuzili svoje postaveni!
+
+[SPEECH: JosephManderley]
+Na zelenace jsou to silna slova. Maly problem spociva v tom, ze uz jsem o tvem uteku uvedomil Annu Navarrovou. Ver mi, ze ta uz se postara, abys tuto budovu neopustil zivy.
+
+[SPEECH: JosephManderley]
+Na zelenace jsou to silna slova. Maly problem spociva v tom, ze uz jsem o tvem uteku uvedomil ochranku. Ver mi, ze ta uz se postara, abys tuto budovu neopustil zivy.
+
+[SPEECH: WaltonSimons]
+Nemate kam utect, Dentone. I kdybyste se dostal mimo nas dosah, vase pojistka zkazy stale funguje. Za triadvacet hodin z vas bude mrtvola. Dalsich padesat milionu dolaru vyhozenych z okna.
+
+[SPEECH: JCDenton]
+To se jeste ukaze.
+
+-----------------------------------------------------------------
+[Owner: Mechanic]
+[Name:  M05MechanicBarks]
+
+[COMMENT]
+These guys are kind of scared.  The player is an escaped prisoner at this point and has probably exchanged fire with guards in the vicinity.
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: Mechanic]
+Hele, ja se tu jenom staram o boty.
+
+[SPEECH: Mechanic]
+Me vynechte.
+
+[SPEECH: Mechanic]
+Jenom byste sem privolal vojaky!
+
+[SPEECH: Mechanic]
+Nechci se do niceho zaplyst.
+
+[SPEECH: Mechanic]
+Vy jste ten Denton! Myslel jsem, ze je po vas!
+
+[SPEECH: Mechanic]
+Jestli chcete splasit nejaky veci, promluvte si se Svenem.
+
+[SPEECH: Mechanic]
+Cely tohle patro ma zakodovanej vychod. Ven se nedostanete.
+
+-----------------------------------------------------------------
+[Owner: Miguel]
+[Name:  ChangeMiguel]
+
+[SPEECH: Miguel]
+Co ted?
+
+[CHOICES:3]
+
+[CHOICE:]
+Drz se za mnou.
+
+[CHOICE:]
+Pockej tady.
+
+[CHOICE:]
+Pokus se prorazit.
+
+-----------------------------------------------------------------
+[Owner: Miguel]
+[Name:  MeetMiguel]
+
+[SPEECH: Miguel]
+Ty jses ten speh, co ho chytili, ze jo?
+
+[SPEECH: JCDenton]
+Ja pro NSF nikdy nepracoval, ale muj bracha jo. Myslim, ze se taky dostal do zajeti.
+
+[SPEECH: Miguel]
+Urcite nejsi sam, koho tady drzej'; slysel jsem divny zvuky tamhle z druhyho konce chodby.
+
+[SPEECH: JCDenton]
+Fajn. Mozna se mi ho podari najit.
+
+[SPEECH: JCDenton]
+Ja pro NSF nikdy nepracoval, ale muj bracha jo.
+
+[SPEECH: Miguel]
+Slysel jsem straznyho, jak rika, ze tys' prezil jako jedinej.
+
+[SPEECH: JCDenton]
+Urcite?
+
+[SPEECH: Miguel]
+Nerad ti to rikam...
+
+[SPEECH: JCDenton]
+To nemuze bejt...
+
+[SPEECH: Miguel]
+Meli bysme vypadnout! Mam ulitej nuz - a taky medkit. Chtel bys ten medkit?
+
+[SPEECH: Miguel]
+Meli bysme vypadnout! Mam ulitej nuz - a taky medkit. Vypadas, ze by ses mel trochu osetrit.
+
+[SPEECH: JCDenton]
+Jo, vezmu si ten medkit.
+
+[SPEECH: Miguel]
+Co rikas? Ja myslim, ze to zvladnem!
+
+[CHOICES:3]
+
+[CHOICE:]
+Jasne, padame!
+
+[CHOICE:]
+Radsi bych, kdybys pockal tady.
+
+[CHOICE:]
+Vyklouzni ven. Ja se postaram o straze.
+
+[SPEECH: Miguel]
+Ved nas!
+
+[COMMENT]
+(apprehensive)e
+
+[SPEECH: Miguel]
+No... tak dobre.
+
+[SPEECH: Miguel]
+Az bude vzduch cistej, dej mi vedet!
+
+[SPEECH: JCDenton]
+Nesu plno veci. Pockej, az neco odhodim.
+
+-----------------------------------------------------------------
+[Owner: Miguel]
+[Name:  MiguelFightingBarks]
+
+[SPEECH: Miguel]
+Budu te krejt.
+
+[SPEECH: Miguel]
+Jdu s tebou!
+
+[SPEECH: Miguel]
+Jsem pripravenej na vejlet.
+
+[SPEECH: Miguel]
+Padame!
+
+[SPEECH: Miguel]
+Jeste nejsme venku.
+
+[SPEECH: Miguel]
+Davej pozor.
+
+-----------------------------------------------------------------
+[Owner: Miguel]
+[Name:  MiguelLeavingBarks]
+
+[SPEECH: Miguel]
+Chci se pokusit zdrhnout.
+
+[SPEECH: Miguel]
+Myslim, ze trefim ven.
+
+[SPEECH: Miguel]
+Snad se mi podari probehnout jim za zadama.
+
+-----------------------------------------------------------------
+[Owner: Miguel]
+[Name:  MiguelWanderingBarks]
+
+[SPEECH: Miguel]
+Fofrem pryc!
+
+[SPEECH: Miguel]
+Budu mit oci na stopkach.
+
+[SPEECH: Miguel]
+Davej bacha.
+
+-----------------------------------------------------------------
+[Owner: Nurse]
+[Name:  NurseBarks]
+
+[COMMENT]
+These cycle and go random
+
+[SPEECH: Nurse]
+Daleko se nedostanete. Jsme tu zamceni.
+
+[SPEECH: Nurse]
+Jemu se dari dobre. Spis se starejte o sebe.
+
+[SPEECH: Nurse]
+Dostali jsme ho uz mrtveho.
+
+[SPEECH: Nurse]
+Z tehle pitvy se hodne poucime.
+
+[SPEECH: Nurse]
+Tim, ze tady budete zirat na jeho mrtvolu, nic nevyresite.
+
+[SPEECH: Nurse]
+Nechte nas, prosim, v klidu pracovat.
+
+-----------------------------------------------------------------
+[Owner: PaulDenton]
+[Name:  M05PaulBarks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: PaulDenton]
+Utecu jim sam.
+
+[SPEECH: PaulDenton]
+Jsme pod Centrem UNATCO. Vychod vede do Reyesovy kancelare.
+
+[SPEECH: PaulDenton]
+Tong nas muze ochranit. Jenom se musime dostat do Hongkongu.
+
+[SPEECH: PaulDenton]
+Radsi bys mel odtud vypadnout!
+
+[SPEECH: PaulDenton]
+Ja to zvladnu. Slibuju.
+
+-----------------------------------------------------------------
+[Owner: PaulDenton]
+[Name:  PaulInMedLab]
+
+[SPEECH: JCDenton]
+Paule! Jsi v poradku? Co to s tebou udelali?
+
+[SPEECH: PaulDenton]
+Jsem jako ten ruskej vedec, co se nechal zamerne nakazit svym novym virem. Chteji me odborne sledovat, jakym zpusobem zhebnu.
+
+[SPEECH: JCDenton]
+Nerad rusim vedecky pokusy, ale musime te co nejrychlejc dostat k Tracerovi Tongovi.
+
+[SPEECH: PaulDenton]
+Mas prednost. Ja jim utecu sam.
+
+[SPEECH: JCDenton]
+Vis to jiste?
+
+[SPEECH: PaulDenton]
+Davej na sebe pozor a udelej mi jednu laskavost. Nez se k nemu dostanes, nezapomen se stavit u Alexe. Nekteri lidi z UNATCO jsou na tvy strane.
+
+[SPEECH: JCDenton]
+Tak dobre. Ale mel bys sebou hodit.
+
+[SPEECH: PaulDenton]
+Mam jeste neco k vyrizovani na Manhattanu. Uvidime se v Hongkongu.
+
+[SPEECH: JCDenton]
+Tak dobre. Ale mel bys sebou hodit. Mimochodem, dej si majzla na Annu! Prisla se na me mrknout do cely.
+
+[SPEECH: PaulDenton]
+Anna? Ohledne mechu bys mel vedet jednu dulezitou vec. Oni taky maji "pojistky zkazy". Jenze ty jejich ucinkuji okamzite.
+
+[SPEECH: JCDenton]
+To je zajimavy. Koukam, ze mechove maji nad nami prece jen jednu vyhodu.
+
+[SPEECH: PaulDenton]
+Rika se tomu "vrazedna fraze". NSF se dozvedelo, ze ta Annina je ulozena ve dvou castech na dvou ruznych pocitacich UNATCO. Login je "demiurge" a heslo "archon", jenze ja to nikdy neobjevil.
+
+[SPEECH: JCDenton]
+Diky za radu.
+
+[NOTE:]
+Vrazedna fraze pro Annu Navarrovou je ulozena ve dvou castech na dvou pocitacich: kazdy z nich ma login: "demiurge" a heslo: "archon".
+
+[GOAL:]
+Vrazedna fraze pro Annu Navarrovou je ulozena ve dvou castech na dvou pocitacich: kazdy z nich ma login: "demiurge" a heslo: "archon".
+
+-----------------------------------------------------------------
+[Owner: SamCarter]
+[Name:  CarterTruth]
+
+-----------------------------------------------------------------
+[Owner: SamCarter]
+[Name:  M05CarterBarks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: SamCarter]
+Rika se, ze centralizovana moc vede k jejimu zneuziti, ale podle meho nazoru, pokud ma takova instituce pevny zaklad, dokaze prezit i zkazonosne vykyvy vlastnich clenu.
+
+[SPEECH: SamCarter]
+Napakuj se. Musis jeste prorazit ven z Centra.
+
+[SPEECH: SamCarter]
+Vratime to tu do starych koleji.
+
+-----------------------------------------------------------------
+[Owner: SamCarter]
+[Name:  M05CarterBarks2]
+
+-----------------------------------------------------------------
+[Owner: SamCarter]
+[Name:  M05MeetSamCarter]
+
+[SPEECH: JCDenton]
+Generale Cartere...
+
+[SPEECH: SamCarter]
+Uz jsme se jednou dohodli, vojaku. Toho generala vynechte.
+
+[SPEECH: JCDenton]
+Odhalil jsem jiste skutecnosti ohledne UNATCO!
+
+[SPEECH: SamCarter]
+Odemykam zbrojnici. Nezajima mne, odkud a kam jdes; proste se napakuj.
+
+[SPEECH: JCDenton]
+Walton Simons, reditel FEMA...
+
+[SPEECH: SamCarter]
+Povidam, aby ses napakoval! Nic vic nechci slyset!
+
+[SPEECH: JCDenton]
+Odchazim ke vzbourencum. Mel byste se ke mne pridat.
+
+[SPEECH: SamCarter]
+Vyjasneme si jednu vec: za ty odporne byrokraty neseme svuj dil viny take my - to myslim vazne - a tohle je porad jeste UNATCO, kde se mota spousta uprimnych a ryzich lidi.
+
+[SPEECH: JCDenton]
+Co muze slusnemu vojakovi vyhovovat na tom, kdyz dostane rozkazy k teroristickym akcim?
+
+[SPEECH: SamCarter]
+Jediny zpusob, jak tuhle organizaci zachranit, je, nabrat sem co nejvic poctivych lidi. To je muj nazor.
+
+[SPEECH: JCDenton]
+Mimochodem, toho tajemneho zlodeje uz jsem vypatral.
+
+[SPEECH: SamCarter]
+Mozna, ze o tom vim vic nez ty. Je do toho namoceny Simons; Kaplan kvicel jako vepr. Ta zenska Shannon bude zitra rano velice prekvapena. Ale nam se to hodi. Vezmi si, co chces.
+
+-----------------------------------------------------------------
+[Owner: Scientist]
+[Name:  M05ScientistBarks]
+
+[COMMENT]
+These cycle and go random.sˆ\p"	)E,Úi‹˜ 
+
+[SPEECH: Scientist]
+Nechceme mit zadne potize s temi vojaky.
+
+[SPEECH: Scientist]
+Dr.Moreau se jednou pokusil o utek, ale postrelili ho do nohy.
+
+[SPEECH: Scientist]
+Jestli nas musite obtezovat, vyberte si Moreaua. Ten se aspon umi dostat do lekarske oblasti.
+
+-----------------------------------------------------------------
+[Owner: Scientist]
+[Name:  M05ScientistInitialBark]
+
+[SPEECH: Scientist]
+Hej! Nemuzete se schovavat nekde jinde?
+
+-----------------------------------------------------------------
+[Owner: ScientistConsulting]
+[Name:  ScientistConsultingBarks]
+
+[SPEECH: ScientistConsulting]
+Z toho nas vynechte.
+
+[SPEECH: ScientistConsulting]
+Nechceme mit zadne potize.
+
+[SPEECH: ScientistConsulting]
+JC Denton... Takze vy skutecne existujete...
+
+-----------------------------------------------------------------
+[Owner: ScientistConsulting]
+[Name:  ScientistsConsulting]
+
+[SPEECH: ScientistFemaleConsulting]
+Vypada to na zmateni zamerovace.
+
+[SPEECH: ScientistConsulting]
+Jenze ta sekvence vychazi primo ze softwaru VersaLife!
+
+[SPEECH: ScientistFemaleConsulting]
+Zkontroloval jsi endonukleazu? Vsimla jsem si, ze upevneni in vivo naprosto selhalo.
+
+[SPEECH: ScientistConsulting]
+Ten pitomy program by mel prece fungovat!
+
+[SPEECH: ScientistFemaleConsulting]
+Cytoplazma neni presne v eutaktickem prostredi. Jiste operace se nezdarily.
+
+[SPEECH: ScientistConsulting]
+Jak mame rekonfigurovat cely imunologicky system, kdyz tu porad zapasime se zakladnimi nedostatky v rekombinacni technologii?
+
+[SPEECH: ScientistConsulting]
+Cupaninu vyfasujete ve skladu.
+
+-----------------------------------------------------------------
+[Owner: ScientistConsulting]
+[Name:  ScientistsConsulting2]
+
+[SPEECH: ScientistFemaleConsulting]
+Kdybychom meli problem jenom s nekolika endonukleaznimi molekulami...
+
+[SPEECH: ScientistConsulting]
+Reknu ti, co je horsi: ta raptori kurata z Hongkongu. Nikdy jsem nevidel dokonalejsi ukazku soucasne pavedy.
+
+[SPEECH: ScientistFemaleConsulting]
+Zkontrolovala jsem vysledky. Imunologicky system nedava absolutne zadnou odpoved.
+
+[SPEECH: ScientistConsulting]
+Pamatuj si, co rikam: nez uplyne rok, v nejake luxusni restauraci uz z nich budou porcovat rizky.
+
+[SPEECH: ScientistFemaleConsulting]
+Ale Richarde!
+
+[SPEECH: ScientistConsulting]
+Kdybychom ten problem chteli skutecne vyresit, museli bychom desettisickrat naklonovat nektereho z Dentonu, kazdeho s ponekud pozmenenou sekvenci.
+
+[SPEECH: ScientistFemaleConsulting]
+Kdyz je rec o sekvencich, nemel by ses zase pustit do prace?
+
+[SPEECH: ScientistConsulting]
+Jenom jsem se nahlas zamyslel...
+
+[SPEECH: ScientistConsulting]
+Kam mam slozit tohle?
+
+-----------------------------------------------------------------
+[Owner: ScientistFemale]
+[Name:  ScientistFemaleBarks]
+
+[COMMENT]
+These cycle and go random
+
+[SPEECH: ScientistFemale]
+Bez obav. Tady na vas nikdo straze volat nebude.
+
+[SPEECH: ScientistFemale]
+Kdybych byla na vasem miste, vyuzila bych sachty klimatizace.
+
+[SPEECH: ScientistFemale]
+Hodne stesti! Doufam, ze se vam to podari!
+
+-----------------------------------------------------------------
+[Owner: ScientistFemaleConsulting]
+[Name:  GreaselBark]
+
+[SPEECH: ScientistFemaleConsulting]
+To at vas ani nenapadne! Vypustil byste grazly!
+
+-----------------------------------------------------------------
+[Owner: ScientistFemaleConsulting]
+[Name:  ScientistFemaleConsultingBarks]
+
+[SPEECH: ScientistFemaleConsulting]
+Porad nechapu, co se to tu deje.
+
+[SPEECH: ScientistFemaleConsulting]
+Povidam vam, ze se v tom nevyznam.
+
+[SPEECH: ScientistFemaleConsulting]
+Nenutte me zavolat straze!
+
+-----------------------------------------------------------------
+[Owner: Secretary]
+[Name:  M05SecretaryScared]
+
+[SPEECH: Secretary]
+Bezte pryc!
+
+[SPEECH: Secretary]
+Pomoc! To je on!
+
+-----------------------------------------------------------------
+[Owner: Shannon]
+[Name:  M05ShannonBarks]
+
+[SPEECH: Shannon]
+Jsem z toho cela pryc.
+
+[SPEECH: Shannon]
+Budeme muset pockat, dokud lidi nezacnou odchazet domu.
+
+[SPEECH: Shannon]
+Nerikejte to nikomu!
+
+-----------------------------------------------------------------
+[Owner: Shannon]
+[Name:  M05ShannonConvos]
+
+[COMMENT]
+Shannon's been stealing from somebody's account.  JC surprises her.s of one of the Dentons, each with a different sequence knocked out
+
+[SPEECH: Shannon]
+Jejda! JC!
+
+[SPEECH: JCDenton]
+Jenom si klidne dal vybirejte. Prisel jsem se naposledy podivat na znama mista. Kdyz si tak predstavim vsechny ty hodiny, ktere jsem tady prosnil... Ty sve hrdinske fantazie, ktere jsem v tomhle zelezobetonovem bunkru prozival...
+
+[SPEECH: Shannon]
+Vybirejte? Aha, jiste! Jako bych tady nebyla... Jen klidne prchejte dal! Ja poplach delat nebudu!
+
+[SPEECH: JCDenton]
+Neco snad neni v poradku? Vzdyt prece vite, ze kdyz se mi nebudete plest do cesty, nemam duvod vam ublizovat.
+
+[SPEECH: Shannon]
+Dobre! Priznavam se! Jsem to ja, kdo tady v Centru krade! Celou tu dobu. Kaplan, ta falesna podlaha v Alexove kancelari, vsechny ty ztracene veci... Byla jsem to ja!
+
+[SPEECH: JCDenton]
+Ja jsem ten posledni, kdo by vas mel soudit za kradez. Co mate u sebe? Neco, co by se mi hodilo?
+
+[SPEECH: Shannon]
+Ja nevim... Umite drzet jazyk za zuby? Nasla jsem par rusivych granatu a chtela jsem je podstrcit Kaplanovi - hodi se proti botum, vite - ale kdybyste je chtel... Mam tri, kazdy za 1250.
+
+[CHOICES:5]
+
+[CHOICE:]
+Dejte mi jeden z tech rusivych granatu za 1250.
+
+[CHOICE:]
+1250 za rusivy granat...? Nemam dost penez ani na jeden.
+
+[CHOICE:]
+Vezmu si dva za 2500.
+
+[CHOICE:]
+Dam vam 3750 za vsechny tri.
+
+[CHOICE:]
+Nemam zajem.
+
+[SPEECH: Shannon]
+Beru.
+
+[SPEECH: JCDenton]
+Pamatujte: jazyk za zuby!
+
+[SPEECH: JCDenton]
+Pockejte chvili... Musim zahodit par veci.
+
+[SPEECH: Shannon]
+Pockam tu na proviantniho. Ten ode me taky bral.
+
+[SPEECH: Shannon]
+Chcete jeden nebo ne?
+
+[SPEECH: Shannon]
+Chcete jeste jeden?
+
+-----------------------------------------------------------------
+[Owner: Sven]
+[Name:  SvenBarks]
+
+[SPEECH: Sven]
+Hodne stesti!
+
+[SPEECH: Sven]
+Je mi lito - na prodej uz nic nemam.
+
+[SPEECH: Sven]
+Zustavat tady dole je pro vas nebezpecny.
+
+-----------------------------------------------------------------
+[Owner: Sven]
+[Name:  SvenConvos]
+
+[SPEECH: Sven]
+Neprekazejte tady. Mame svejch starosti dost.
+
+[SPEECH: JCDenton]
+Problemy s boty?
+
+[SPEECH: Sven]
+Jasne, ze jo! Jen se podivejte: funkcni je jenom jeden  - a oni po nas chteji zazraky!
+
+[SPEECH: JCDenton]
+Ja se v botech trochu vyznam. Prozradte mi login do terminalu a ja se podivam, co se da delat.
+
+[SPEECH: Sven]
+Cha! Dobrej vtip! Tak blbej zase nejsem, jasny? Ja dobre vim, ze ten uprchlej vezen jste vy - ze se jim pokousite zdrhnout!
+
+[SPEECH: JCDenton]
+Ano? Proc nespustite poplach?
+
+[SPEECH: Sven]
+Mozna bysme se mohli dohodnout. Chtel byste prozradit login - za 500 kreditu. Mel bych taky naboje 762mm za 600 nebo vylepseni zbrane (presnost) za 750.
+
+[CHOICES:7]
+
+[CHOICE:]
+Tady je 500. Prozradte mi ten login.
+
+[CHOICE:]
+Kez bych mel 500! Potreboval bych vedet ten login.
+
+[CHOICE:]
+Vezmu si naboje 762mm za 600.
+
+[CHOICE:]
+Naboje 762mm za 600? To si momentalne nemuzu dovolit.
+
+[CHOICE:]
+Dejte mi to vylepseni zbrane (presnost) za 750.
+
+[CHOICE:]
+750 za vylepseni zbrane (presnost) je vic, nez mam.
+
+[CHOICE:]
+Stavim se u vas jeste pozdeji.
+
+[SPEECH: Sven]
+Tak jo, udelame kseft. Ten login je "MJ12"; heslo je "Invader". Pocitacem muzete naridit i jednomu z botu, aby zautocil na vojaky.
+
+[SPEECH: JCDenton]
+To by se mi libilo.
+
+[NOTE:]
+Udrzbarsky login do systemu: "MJ12". Heslo: "Invader".
+
+[SPEECH: Sven]
+Tak jo, udelame kseft. Ten login je "MJ12"; heslo je "Invader". Jak uz mozna vite, pocitacem muzete naridit i jednomu z botu, aby zautocil na vojaky.
+
+[SPEECH: JCDenton]
+Diky.
+
+[SPEECH: Sven]
+Drzim vam palce.
+
+[SPEECH: Sven]
+Nejradsi bych zdrhnul s vama. Drzej' me tu zasperovanyho uz par mesicu.
+
+[SPEECH: JCDenton]
+Pockejte chvili. Ted toho zrovna nesu moc. Musim neco odhodit.
+
+[SPEECH: Sven]
+Jsem na vasi strane. Nechtel byste neco koupit?
+
+[SPEECH: Sven]
+Pomuzu vam, ale mel byste mi neco dat za to, ze nesu tak velky riziko.
+
+[SPEECH: Sven]
+Jasne, ze jo! Jen se podivejte: funkcni je jenom jeden - a ten se ted podelal!
+
+[SPEECH: JCDenton]
+Mozna se nekdo naboural do bezpecnostniho systemu a pohral si s naprogramovanim.
+
+[SPEECH: Sven]
+Myslim, ze jste to byl vy! Tak blbej zase nejsem, jasny? Ja dobre vim, ze ten uprchlej vezen jste vy - ze se jim pokousite zdrhnout!
+
+-----------------------------------------------------------------
+[Owner: WaltonSimons]
+[Name:  M05WaltonAlone]
+
+[SPEECH: WaltonSimons]
+Skvele. Odvedl jste spinavou praci misto nas.
+
+[SPEECH: JCDenton]
+Byl to presne vas typ, taky peknej hajzl.
+
+[SPEECH: WaltonSimons]
+Naopak, na svou funkci byl presprilis uhlazeny a peclivy. Musim se te funkce ujmout sam a obnovit kazen a disciplinu.
+
+[SPEECH: JCDenton]
+Jestli jste muj novej sef, dobre si prohlidnete Manderleyho mrtvolu. Povazujte to za moji vypoved; na papir vam jim sepisovat nebudu.
+

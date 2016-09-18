@@ -1,0 +1,7 @@
+<DC=255,255,255>
+<DC=255,255,255>
+<P>Commander Frase:
+<P>
+<P>The satellite uplink is still intermittent at best; until I can track down the source of the problem, I've established a secure tunneling communications channel for you over NYCNET.  It's encrypted and looks like normal public bulletin traffic to any network sniffers, so it should do until the uplink has been fixed.  Login is "TFrase" and password is "valleyforge".
+<P>
+<P>-Decker

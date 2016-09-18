@@ -1,0 +1,12 @@
+<DC=255,255,255>
+<P>From: NY First Federal National Bank
+<P>To: John Palmer
+<P>
+<P>We regret the breach of security in your New York First Federal account; we here at NYFF obviously take such matters seriously and will hold you in no way responsible for the damages incurred.  All of your assets prior to the unauthorized transactions have been transferred to account number 947761 with the PIN number 2867.  We suggest you change this PIN number as soon as you have had a chance to verify your new account.
+<P>
+<P>Again, our most sincere apologies.  Rest assured that NYFF will insure that such intrusions do not happen again.
+<P>
+<P>Sincerely,
+<P>Bob Latham
+<P>Vice President, Computer Security
+<P>New York First Federal National Bank

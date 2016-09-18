@@ -1,0 +1,9 @@
+<DC=255,255,255>
+<P><JC><B>Art of War</B>
+<P><JC>by Sun Tzu
+<P>
+<P>III. ATTACK BY STRATAGEM
+<P>
+<P>1. Sun Tzu said: In the practical art of war, the best thing of all is to take the enemy's country whole and intact; to shatter and destroy it is not so good.  So, too, it is better to recapture an army entire than to destroy it, to capture a regiment, a detachment or a company entire than to destroy them.
+<P>
+<P>2. Hence to fight and conquer in all your battles is not supreme excellence; supreme excellence consists in breaking the enemy's resistance without fighting...

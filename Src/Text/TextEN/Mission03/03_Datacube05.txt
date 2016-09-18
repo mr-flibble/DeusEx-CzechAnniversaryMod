@@ -1,0 +1,5 @@
+<COMMENT>Airfield security room</COMMENT>
+<DC=255,255,255>
+<P>Erin, the Ambrosia's been delivered and the first barrel is being offloaded onto the helicopter -- the other barrels are heading out by boat and plane so we can hopefully get at least one sample away for analysis.  If you can, rendevous with us at one of the departure points, otherwise you know where to meet if something goes wrong.  You've done a lot for the cause and should be proud of yourself.  Now play it safe and get gone.
+<P>
+<P>JL

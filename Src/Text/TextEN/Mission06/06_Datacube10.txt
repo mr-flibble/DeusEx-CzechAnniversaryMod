@@ -1,0 +1,8 @@
+<COMMENT>MJ12 lounge</COMMENT>
+<DC=255,255,255>
+<P>Harrison,
+<P>
+<P>As per our discussion, I will retain root access.  Regarding the other key members of the Weapons Research Team, MChow should be given full access, while the others will be granted only user access until further notice.
+<P>
+<P>Thanks,
+<P>Dr. Lundquist

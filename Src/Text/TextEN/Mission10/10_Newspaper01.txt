@@ -1,0 +1,9 @@
+<DC=255,255,255>
+<P><B>Catacombs Closed to Public</B>
+<P>Paris Investigateur
+<P>
+<P>The government announced today that the famous Paris Catacombs would be closed to the public until further notice, citing increased criminal activity and possible terrorist connections to the area.  "The Catacombs have become a haven for any number of unseemly elements," said Inspector Gabily of the Metropolitan Police, "and we are taking all necessary steps to contain this threat to the peace and welfare of Paris citizens."
+<P>
+<P>The Catacombs are part of an extensive network of tunnels that mostly lie beneath the 5th, 6th, and 14th arrondissements, originally part of larger excavations undertaken by the Romans to remove valuable deposits of gypsum and limestone from the area.  The Catacombs themselves date back to 1786 when bones were removed from the grossly overcrowded Cemetary of Innocents to be stored in the quarries of Mont-Rouge; since that time, innumerable additional burials have resulted in the vast ossuary that exists today.
+<P>
+<P>The publicly accessible sections of the Catacombs are only a small part of the complete tunnel system whose many entrances and exits have made it a popular diversion for cataphiles wishing to explore the underground history of the city.

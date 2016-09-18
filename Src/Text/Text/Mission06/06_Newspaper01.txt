@@ -1,0 +1,10 @@
+<COMMENT>Helibase bathroom</COMMENT>
+<DC=255,255,255>
+<P><B>UNATCO odpovida na teroristicky utok</B>
+<P>New World Press - New York City
+<P>
+<P>Teroristicky utok na Ostrov svobody, ktery se odehral tento tyden, se nesetkal s uspechem, kdyz se oddily UNATCO rychle presunuly, aby neutralizovaly jeho hrozbu. Samotny utok, vysledek chabeho pokusu o prunik dokonalou bezpecnostni siti Centra UNATCO ze strany Narodnich secesionistu (NSF), charakterizoval jeden z neuvedenych zdroju jako "prazdne gesto". Walton Simons, reditel FEMA, uzce spolupracoval s UNATCO pri koordinaci oddilu US i UNATCO s cilem spolecne vykorenit prezivajici prvky teroristicke site v New Yorku.
+<P>
+<P>"Terorismus se podoba hadovi, ktery na vas vyrazi z vysoke travy," uvedl Simons. "Nasi povinnosti je zachovat neustalou bdelost a ostrazitost vuci jeho nebezpeci, stejne jako rozhodne jednat, jakmile se objevi na scene."
+<P>
+<P>Odpovedna mista v soucasnosti nejvice zamestnava <PLAYERNAME>, jeden z teroristickych vudcu, jimz se podarilo utok prezit a nasledne uprchnout.

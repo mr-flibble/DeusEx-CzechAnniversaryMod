@@ -1,0 +1,7 @@
+<COMMENT>UNATCO HQ</COMMENT>
+<FILE=01_Bulletin01,Terrorism -- Crime or Conscience?>
+<FILE=01_Bulletin02,Terrorism -- Threat Profiling>
+<FILE=01_Bulletin05,Know Your Enemy -- NSF>
+<FILE=01_Bulletin06,Know Your Enemy -- Silhouette>
+<FILE=01_Bulletin07,Know Your Enemy -- The Triads>
+<FILE=01_Bulletin08,Know Your Enemy -- Other Threats>

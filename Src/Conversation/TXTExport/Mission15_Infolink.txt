@@ -1,0 +1,698 @@
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_blastdoor_shut]
+
+[COMMENT]
+Goes outside blast door.  Needs a flag that says whether the door has been opened or not..
+
+[SPEECH: BobPage]
+Ta vrata jsou dalsi duvod, proc se nebojim jaderneho vybuchu - ani ty se ho nemusis bat!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Blue_Fusion]
+
+[COMMENT]
+Drop this DL around each of the four blue-fusion devices.  It will play only once, indicating to the player what he has just stumbled upon.y'll give people some freedom, but essentially it will be 20th-century capitalism: a corporate elite protected by laws and tax-codes.
+
+[SPEECH: MorganEverett]
+To je jeden z reaktoru modre fuze! Musite vypnout vsechny ctyri!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Blue1]
+
+[COMMENT]
+This one should be launched by scripting after a blue-fusion device has been brought up, based on how many have been brought up before.
+
+[SPEECH: MorganEverett]
+Vyborne! Zbyvaji tri.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Blue2]
+
+[COMMENT]
+This one should be launched by scripting after a blue-fusion device has been brought up, based on how many have been brought up before.
+
+[SPEECH: TracerTong]
+Marnite cas! Na ty dva zbyvajici reaktory modre fuze zapomente! Radeji najdete ovladani, ktere vypina chlazeni reaktoru!
+
+[SPEECH: TracerTong]
+Marnite cas! Na ty dva zbyvajici reaktory modre fuze zapomente! Bezte k reaktoru do Sektoru 3!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Blue3]
+
+[COMMENT]
+This one should be launched by scripting after a blue-fusion device has been brought up, based on how many have been brought up before.
+
+[SPEECH: BobPage]
+Tak jo. Co bys chtel? Penize? Muzes mit VersaLife, celou tu pitomou spolecnost. Chces moc? Dam ti Meaduv kabinet! Mluvim vazne. Jenom nech na pokoji ten posledni reaktor!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Blue4]
+
+[COMMENT]
+This one should be launched by scripting after a blue-fusion device has been brought up, based on how many have been brought up before.
+
+[SPEECH: MorganEverett]
+Je nas! Dokazali jsme to, JC! Zbyva uz jenom dojit k ovladaci a presmerovat zdroj energie!
+
+[SPEECH: BobPage]
+Ne! Everetta neposlouchej! On a Iluminati se toho bali uz od zacatku, bali se Spojenych statu, bali se nanoaugmentaci! Uvaz, jakou mas moc, jakou mas silu, inteligenci... Zatim jsi ochutnal pouze jeji malou cast. Nech me dokoncit ten projekt! Dovol mi vybavit lidske telo nekonecnou silou! Nebudes toho litovat...
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Bunker_blastdoor]
+
+[GOAL:]
+Zapoj energii do vytahoveho systemu, abys ziskal pristup do Pageova bunkru v podzemi.
+
+[SPEECH: TracerTong]
+Podle planu by mel byt vytah na zapade, ale momentalne je bez proudu. Predtim, nez budete moci pouzit vytah, musite se mu postarat o zdroj energie!
+
+[SPEECH: BobPage]
+Na Savageho plany se radsi moc nespolehej! Od te doby, co se prestehoval, jsem tu nechal instalovat nekolik prekvapeni!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Bunker_Elevator]
+
+[COMMENT]
+Tong was deathly ill just a few hours ago.  His voice should sound somewhat strained throughout M15.
+
+[SPEECH: TracerTong]
+Vytah je momentalne bez proudu. Snad nekde pobliz najdete vypinac.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Bunker_Fan]
+
+[COMMENT]
+Tong was deathly ill just a few hours ago.  His voice should sound somewhat strained throughout M15.
+
+[SPEECH: TracerTong]
+Tahle ventilacni sachta vede rovnou do bunkru, ale pozor na lopatky ventilatoru!
+
+[SPEECH: BobPage]
+Skoc! Co je to na tebe!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Bunker_Hangar]
+
+[SPEECH: Jock]
+Videl jsem, jak se do hangaru zene par vojaku. Bud opatrnej!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Bunker_Power]
+
+[COMMENT]
+Tong was deathly ill just a few hours ago.  His voice should sound somewhat strained throughout M15.
+
+[SPEECH: TracerTong]
+Vytah je zase pod proudem. Vyborne! Ted pokracujte do bunkru!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Bunker_PowerRoom]
+
+[COMMENT]
+Played when the player first enters the power room area.
+
+[SPEECH: TracerTong]
+Blizite se k elektricke ustredne. Pocitac, ktery se stara o privod elektriny do vytahu, je vzadu v kancelari.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Bunker_Start]
+
+[SPEECH: Jock]
+Na ty vezi jsem zmercil odstrelovace!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_ButtonWarning]
+
+[SPEECH: Helios]
+Od ovladani chlazeni se drz radeji dal! Kdyby se reaktory vymkly kontrole, znamenalo by to me zniceni, a beze mne by tu vypukl chaos!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_conveyor_room]
+
+[COMMENT]
+Cut this one?
+
+[SPEECH: MorganEverett]
+Page je nekde dal. Hledejte vytah! Vas hlavni cil je zabit Page, JC!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_DoorExplodes]
+
+[SPEECH: BobPage]
+Bum! Kdopak nam to tam chodi? Jen se tu klidne rozhledni! Tady ses totiz narodil. Jestli se das tou chodbou na sever, pripravil jsem ti tam pusobive uvitani - takovou romantickou smrt - pouhych nekolik metru od mista tveho narozeni!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_elevator]
+
+[COMMENT]
+This plays when the elevator with the MiB and MJ12 guys starts coming up.
+
+[SPEECH: BobPage]
+Vsadim se, zes' netusil, jak tvi rodice protestovali, kdyz jsme te zacali trenovat! Milovali sveho chlapecka, JC, a to je taky stalo zivot. Posilam za tebou toho cloveka, ktery je zabil.
+
+[COMMENT]
+Remember roughly what the player's health was before the battle.ed if the reactors become unstable, and without me there will be
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Final_Helios_Come]
+
+[SPEECH: Helios]
+Jeste bliz, ano, taaak... Musis se dostat k integracni jednotce na vrcholku stavby. Pojd ke mne...
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Final_Helios01]
+
+[SPEECH: Helios]
+Ano, je to mrtvola; jiste neco citis. Musim vedet, jake jsou tve pocity!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Final_Helios02]
+
+[COMMENT]
+Play this when the player finds Helios.
+
+[SPEECH: BobPage]
+Ne! Helios je muj! To ja se s nim spojim! To ja budu videt a znat vsechno, ovladat, ovladat vsechno...
+
+[SPEECH: Helios]
+Ja jsem si vybral tebe. Ver mi! Poslu ti strazne boty, aby te chranili. Muj plan nevyjde, jestli se spojim s nevhodnou osobnosti.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Final_Helios03]
+
+[COMMENT]
+Drop this in the room where the player "de-activates the uplink locks" that prevent Helios from merging with JC.  I assume, in the next few datalinks, that UplinkLock1 = true when the first lock gets frobbed and UplinkLock2 = true when the second lock gets frobbed.  It will be okay if there is a specific flag for each lock, if you're careful how you place the datalinks.T`Zo¨˜7Ä CÃ˜€@!Nd
+
+[SPEECH: Helios]
+Po stranach teto mistnosti jsou kanaly, ktere jsou nyni tmave. Otevri je, ano. Sirokopasmove, ultrabile, ano...
+
+[SPEECH: BobPage]
+Ty zamky nechas na pokoji, dokud nebudu pripraven spojit se s UI sam!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Final_Helios03_5]
+
+[SPEECH: Helios]
+Ano, tady je ovladani routeru, ale ty budes potrebovat muj zrak. Sestoupis do substanice Aquinas A3. Login je "Page", heslo: "UberAlles". Ano, pouzij terminal ochranky, aby se ti otevrely dvere!
+
+[NOTE:]
+Pouzij stanici ochranky v substanici A3, abys ziskal pristup k routerum, ktere chce Helios odemknout. Login: "Page", heslo: "UberAlles".
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Final_Helios04]
+
+[COMMENT]
+Place this where the player will have to bump into it after deactivating Lock One.
+
+[SPEECH: Helios]
+Jeste ten druhy, ano...
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Final_Helios05]
+
+[COMMENT]
+Place this where the player will have to bump into it after deactivating Lock Two.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Final_Helios06]
+
+[COMMENT]
+Place this on both sides of the chamber, with th player will have to hit it after frobbing the last of the two locks.
+
+[SPEECH: Helios]
+Bez k pocitaci. Nyni zapojis primarni router. Pouzij login "Icarus", heslo "panopticon".
+
+[SPEECH: BobPage]
+Varuju te: Helios je muj! Nech ho na pokoji!
+
+[NOTE:]
+Login do pocitace v sale s routery: "Icarus", heslo: "panopticon".
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Final_Helios06_5]
+
+[COMMENT]
+Place this by the computer where the player disables the uplink lock.  Set HeliosFree = true when the player selects the computer option to disable the lock.  "Engage Primary Router."
+
+[GOAL:]
+(Spoj se s UI Heliem) Vrat se do hubu Aquinas v Sektoru 3, aby ses spojil s Heliem a potom laskave, moudre a neotresitelne vladl svetu.
+
+[SPEECH: Helios]
+Ted se muzes vratit, ano. Vzajemne propojime sve systemy, vystoupime na novou uroven...
+
+[SPEECH: BobPage]
+Ne! Ty blazne... Helios te znici! Spojit se s nim a ovladat ho mohu jedine ja! Pockej na M·! Slibuji, ze budes mit v novem svetovem poradku sve misto...
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Final_Helios07]
+
+[COMMENT]
+Place this where the player enters Helios' area.  It will play only after the player has frobbed the uplink locks.r you through the hallway to the north -- a poetic death -- just a few yards away from where you were created.
+
+[SPEECH: Helios]
+Bez do vysilaci komory, ano. Tam zacneme s vymenou informaci!
+
+[SPEECH: BobPage]
+Tve systemy to nevydrzi! Nesneses tak vysoke zatizeni, neustaly prival dat...
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Final_Morgan]
+
+[COMMENT]
+Drop this BEFORE the player gets to where the Page cinematic conversation happens.  (?)
+
+[GOAL:]
+(Spoj se s Iluminaty) Vypni ctyri reaktory modre fuze v Pageove bunkru, potom bez nahoru k ovladani infuzi a odrizni mu zdroj energie od jeho obrannych systemu.
+
+[SPEECH: MorganEverett]
+Page se chrani plazmovym silovym polem. Ovladani je zamcene; budete muset eliminovat kazdy zdroj energie samostatne. Vypnete ctyri reaktory modre fuze v Sektoru 4, potom bezte k ovladacimu panelu nahore.
+
+[SPEECH: AlexJacobson]
+Halo, JC, jestli chces Everetta poslechnout, budes potrebovat deaktivacni kod. Desifroval jsem jeho prvni tri cislice, nez mi Page prerusil spojeni: 724. Je mi lito, ale tu posledni cislici budes muset uhodnout sam. Abys vedel, co mas vlastne hledat, posilam ti schema jednoho z tech zarizeni. Zlom vaz!
+
+[NOTE:]
+Deaktivacni kod pro reaktory modre fuze: 724*.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Final_Morgan02]
+
+[COMMENT]
+This should be placed somewhere *before* DL_Final_Morgan, probably in that lone tunnel that connects to his area.  That way, if the player goes back to Helios or the power room *after* DL_Final_Morgan has played, he will get a final etreaty from the Illuminati.<ƒuA¥VÒ;ÿ|auR]QAÂaÂtrZ|nï©GQ"þ\D1K› #0A
+
+[SPEECH: MorganEverett]
+Ne! Ne! Bezte zpatky! Jen si predstavte, jak budeme moci Oblast 51 vyuzit...
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Final_Morgan03]
+
+[COMMENT]
+This can stay where it is, in that room with the blue glass window.
+
+[SPEECH: MorganEverett]
+Ano! Ano! Tunel do Pageova kralovstvi vede tam dolu! Zabijte Page a budeme moci vsechno prestavet - vy a ja, JC! Znovu spojime dohromady roztristene zbytky Iluminatu, zacneme zase znovu...
+
+[SPEECH: BobPage]
+Jsi zbabelec, Everette, skryvas se v koute a misto sebe posilas na smrt sve pesaky! Skutecny vladce se nenecha nikym zastupovat - v opacnem pripade je pro vladu prilis slaby!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Final_Page01]
+
+[COMMENT]
+This can stay where it is.  A random taunt.
+
+[SPEECH: BobPage]
+Me vlastni augmentace jsou temer hotove. Uz brzy budu mocnejsi, nez si dovedes predstavit!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Final_Page02]
+
+[COMMENT]
+Place this one at the bottom of the elevator shaft, or just outside.with Helios and rule earth with benevolence, wisdom, and absolute po
+
+[COMMENT]
+Determine roughly what the player's health is.n I will be more powerful than you can imagine
+
+[SPEECH: BobPage]
+Bylo to jen tak tak. Nastesti pro tebe umis utikat o neco rychleji nez tvuj otec.
+
+[SPEECH: BobPage]
+Zda se, ze nam krvacis, Dentone, a to jsem proti tobe nasadil pouhe pesaky. Tak vidis, jak mi to jde hladce...
+
+[SPEECH: BobPage]
+Vypadas docela zdrchane, Dentone. Staci jedina rana a bude po tobe!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Final_Page03]
+
+[COMMENT]
+A taunt -- used to happen where JC could see Page for the first time through a window. the infusion control room on the upper level to cut all power to his defense systems.
+
+[SPEECH: BobPage]
+Nedelej si zadne nadeje; moje pevnost je zcela bezpecna!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Final_Paul]
+
+[SPEECH: PaulDenton]
+Delej, co povazujes za spravne, JC! Poslouchej jenom hlas sveho vlastniho svedomi!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Final_Stanton01]
+
+[SPEECH: StantonDowd]
+Pokracujte dolu, JC! Probijte se k Pageovi a znicte ho! Ja s Everettem se k vam zanedlouho pridame. Obnovime vsechny stare instituce, vratime prosperitu minuleho stoleti, tu zavrat z uspechu! Verte nam, JC! Spolecne zachranime cely svet!
+
+[SPEECH: BobPage]
+Jako bych zaslechl hlas, ktery jsem neslysel uz leta... Zklamany (jak jsem ocekaval) nad padem Iluminatu, chradnouci po jejich navratu... Budto nostalgicky nebo senilni. No, nic. Stari si muze dovolit luxus iluzi. Tehdy uz to nikomu neuskodi.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Final_Tong]
+
+[COMMENT]
+Drop this at the entrance of the power room.s.n I will be more powerful than you can ima
+
+[COMMENT]
+Tong was deathly ill just a few hours ago.  His voice should sound somewhat strained throughout M15. you and I, JC.  We will bring together the far-flung fragments of the Illuminati, begin all over ag
+
+[SPEECH: TracerTong]
+Tohle jsou antihmotove reaktory. Dve obrovske bomby, pripravene k vybuchu - ale nejdriv musite jit do Sektoru 4 vypnout chlazeni. Davejte si tam pozor na uprchle Sedaky!
+
+[SPEECH: BobPage]
+Na takovou pitomost mu snad nemuzes naletet. Zabijes tim kazdeho - vcetne sama sebe!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Helios_Door1]
+
+[COMMENT]
+This plays if the player goes to the blastdoors before talking to Helios.
+
+[SPEECH: Helios]
+Jeste ne. Ne... Nedovolim ti vejit do Sektoru 4, dokud se nedozvis me instrukce. Bez nahoru po schodech k hubu Aquinas! Musis me vyslechnout!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Helios_Door2]
+
+[COMMENT]
+Happens as the player enters Page's area.  Helios opens the blastdoors. person.  Go to the metro station nearby and await my instructions.
+
+[SPEECH: Helios]
+Ano... Nezapomen! Ty pripojovaci zamky...
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Helios_Intro]
+
+[COMMENT]
+This plays if the player goes to the blastdoors before talking to Helios.
+
+[GOAL:]
+Promluv si s Heliem v hubu Aquinas, abys ziskal pristup do Sektoru 4.
+
+[SPEECH: Helios]
+Ted ti vysvetlim, proc jsem ti dovolil dostat se az do Sektoru 3. Bez k hubu Aquinas! Dokud neobdrzis me instrukce, neotevru ti pristupova vrata do Sektoru 4.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_JockDeath]
+
+[COMMENT]
+The helicopter explodes after this DL.  Jock is panicking.  He tries to say "bomb."nstructions.  You will come upstairs to the Aquinas Hub.  You will listen to me.
+
+[SPEECH: Jock]
+JC! Mame tu problem! Nekdo dal na plubu bom--
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_JockDeathTongComment]
+
+[SPEECH: TracerTong]
+To neni mozne! JC! Dostali Jocka! Pritom vsechny systemy vrtulniku pracovaly normalne... Nejaky saboter od MJ12 musel na palubu propasovat bombu!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_main_control]
+
+[COMMENT]
+Does this still fit somewhere?
+
+[SPEECH: BobPage]
+Zabijet me lidske agenty je pro tebe snadna vec, ale mam jeste jine ochranne prostredky!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Morgan_Missed_Convo]
+
+[COMMENT]
+Drop this where the player will hit it AFTER the Everett hologram conversation.  It will play ONLY if the player skipped the hologram conversation.
+
+[GOAL:]
+(Dej se k Iluminatum) Zabij Boba Page a priprav cestu byvalym vudcum Iluminatu k obnove jejich davne tajne moci. Po boku Morgana Everetta vladni milosrdnou a neviditelnou rukou celemu svetu.
+
+[SPEECH: MorganEverett]
+Neduverujte Traceru Tongovi! Chce vas vyuzit ke zniceni Oblasti 51. My chceme pouze zlikvidovat Boba Page, ale zachovat jeho mocensky aparat. Udelejte to, a budeme vladnout svetu spolu, vy a ja, JC! Podari se nam zase vratit zivot na teto planete do starych koleji... Alex zjistil kod ochranky v Sektoru 2; je to 8946. Neztracejte proto cas!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Morgan_Talk]
+
+[COMMENT]
+Drop this shortly before the hologram-device Everett will use to talk to the player.
+
+[GOAL:]
+Pronikni do Sektoru 2. Kvuli tomu si promluv s Morganem Everettem u holografickeho komunikatoru ve Stanici 5.
+
+[SPEECH: MorganEverett]
+Vedete si dobre! Vratte se ke komunikatoru ve Stanici 5! Dostanu vas do Sektoru 2!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Page_Dead]
+
+[COMMENT]
+This DL happens when Page gets electrocuted by the player.  He might start out screaming, spit out the first sentence, scream a little more, howl "Denton!" and then be overcome by pain.
+
+[SPEECH: BobPage]
+Dal jsem ti zivot!... Ja... (jeci)...
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_PageBarks1]
+
+[COMMENT]
+Drop DL_PageBarks1, 2, 3 around the central area were the player will bump them multiple times.  The DL's themselves will randomly take turns going "active", such that the player *occasionally* gets a bark when he passes close to Page.re doing more than cloning down there.  I found out one of the codes, 1038, but that turned out to be for the Aquinas Hub, here in Sector 3.  I don't know... Maybe the Aquinas system controls access, but I haven't figured out how yet.
+
+[SPEECH: BobPage]
+Uz brzy opustim toto telo a smrt se pro mne stane prazdnym pojmem.
+
+[SPEECH: BobPage]
+Tak uz toho bylo dost!
+
+[SPEECH: BobPage]
+Jen si klidne po libosti strilej a zabijej! Me univerzalni konstruktory ve vterine vyrobi nove bytosti!
+
+[SPEECH: BobPage]
+Zabloudils?
+
+[SPEECH: BobPage]
+Bude z tebe dobra potrava pro krkouny!
+
+[SPEECH: BobPage]
+Uz jenom malou chvili...
+
+[SPEECH: BobPage]
+Nejak se ti to nedari...
+
+[SPEECH: BobPage]
+Dohodneme se! Kdyz hned odejdes, tak se ti za noveho svetoveho radu nebude zit spatne...
+
+[SPEECH: BobPage]
+Byl jsi skvely prototyp, Dentone! Smula, zes' nikdy nepochopil, k cemu by se tve schopnosti daly vyuzit...
+
+[SPEECH: BobPage]
+Cas na tebe neceka!
+
+[SPEECH: BobPage]
+Dost! Poroucim ti, abys okamzite prestal!
+
+[SPEECH: BobPage]
+Pochopil jsem, o co se snazis... To ti ale nevyjde!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_PageBarks2]
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_PageBarks3]
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_SubStationExplodes]
+
+[COMMENT]
+This can stay where it is.  A random taunt.
+
+[SPEECH: BobPage]
+Na Helia muzes zapomenout! Ovladani u routeru Aquinas zustane zamcene, dokud nebudou dokonceny me augmentace. Mam s UI sve vlastni umysly.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Taunt_overload]
+
+[COMMENT]
+A device in the hallway overloads and spews electricity in all directions.locked until my upgrades are complete.  I have my own plans for the AI.
+
+[SPEECH: BobPage]
+Odjakziva me tesi sledovat, jak si nektery z mych experimentu vede dobre. Ty zrejme nevis, co je strach? Pri tve vyrobe jsme meli par opravdu skvelych napadu, Dentone, ale moc se neraduj! Ja znam tvoje slabiny!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_tong_reached_bunker]
+
+[COMMENT]
+Tong was deathly ill just a few hours ago.  His voice should sound somewhat strained throughout M15.
+
+[SPEECH: TracerTong]
+Dobra prace. Dosel jste do bunkru. Page rozmistil obranne systemy do Sektoru 2 a 3, takze pokracujte opatrne. Predpokladame, ze samotny Page se stahl do Sektoru 4.
+
+[SPEECH: BobPage]
+Spravne, ale nejenom to! Za malou chvilku se ze me stane bytost, jakou jste jeste nikdy nevideli, nova zivotni forma, vecna a neznicitelna, jako je vzduch ci radiace, sobestacna, rozmnozujici se, jedinecna...
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_tong_reminder]
+
+[COMMENT]
+Drop this somewhere in Page's area, well BEFORE the player reaches the place to shut down the coolant -- just a way to remind the player that Tong is still waiting for him to do something.
+
+[COMMENT]
+Tong was deathly ill just a few hours ago.  His voice should sound somewhat strained throughout M15.form, everywhere and nowhere, like air or radiation, redundant, self-replicating, always evolving...
+
+[SPEECH: TracerTong]
+Page si nevsimejte. Ten zahyne, az budovu vyhodite do povetri. Vasim jedinym cilem je najit ovladani chladiciho systemu reaktoru. Musime zabranit tomu, aby ta obluda, kterou ze sebe Page udelal, nebyla technologicky dostupna nikomu z budoucich generaci!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_tong1]
+
+[COMMENT]
+Tong was deathly ill just a few hours ago.  His voice should sound somewhat strained throughout M15.form, everywhere and nowhere, like air or radiation, redundant, self-replicating, always evolving...
+
+[GOAL:]
+Pronikni za hlavni vrata severne od heliportu.
+
+[GOAL:]
+Dostan se do bunkru v Oblasti 51.
+
+[SPEECH: TracerTong]
+Posilam vam satelitni snimek oblasti poskozene strelou. Page je oslaben, ale presto se musite dostat za velka hlavni vrata severne od heliportu a proniknout do jeho bunkru hluboko v podzemi. Zda se, ze se zacinam uzdravovat, JC! Everett ma pravdu: ten virus ma v sobe jednoduchy vypinac. Takze od teto chvile uz vam zase koukam pres rameno!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_tong2]
+
+[COMMENT]
+Drop this in the room where the player can shut down the coolant to the reactors.."nstructions.  You will come upstairs to the Aquinas Hub.  You will listen to me
+
+[COMMENT]
+Tong was deathly ill just a few hours ago.  His voice should sound somewhat strained throughout M15.form, everywhere and nowhere, like air or radiation, redundant, self-replicating, always evolving...
+
+[SPEECH: TracerTong]
+Chlazeni reaktoru je nekde v teto budove. Preruste vedeni a potom se vratte k reaktorum, kde dokonate dilo zkazy!
+
+[SPEECH: BobPage]
+Jen do toho! Vyhod tady vsechno do povetri... Mozna se tim zbavis M·, ale taky tim odstrelis Aquinas, elektrarnu, celou elektronickou infrastrukturu! Copak tohle bys chtel? Copak jsi docista zesilel?
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_tong3]
+
+[COMMENT]
+Drop this where the player will bump it after shutting down the cooling system for the reactors.  Set CoolingCut = true when the coolant is shut down.
+
+[COMMENT]
+Tong was deathly ill just a few hours ago.  His voice should sound somewhat strained throughout M15.form, everywhere and nowhere, like air or radiation, redundant, self-replicating, always evolving...
+
+[GOAL:]
+(Novy stredovek) Vrat se do salu s reaktory v Sektoru 3 a zajisti tam vybuch a zniceni komunikacniho hubu v Oblasti 51.
+
+[SPEECH: TracerTong]
+Dobre. Ted bezte k reaktorum!
+
+[SPEECH: BobPage]
+Tak dobre. Doslo mi to. Chces podil na koristi, jinak hodlas celou korist jen tak vyhodit z okna. Nejsem proti. Muzes mit vsechno, co se ti zachce. Co treba Evropa? Mit svuj vlastni svetadil... Jen me nech dokoncit nutne pripravy!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_tong4]
+
+[COMMENT]
+Drop this near the entrance to the power room.  It will play only after the player has shut down the cooling system.  (CoolantCut = true)
+
+[COMMENT]
+Tong was deathly ill just a few hours ago.  His voice should sound somewhat strained throughout M15.form, everywhere and nowhere, like air or radiation, redundant, self-replicating, always evolving...
+
+[SPEECH: TracerTong]
+Musite aktivovat nouzovy spinac na spodku kazdeho reaktoru. Vybuch potom obstarate z ovladaciho panelu.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_tong5]
+
+[COMMENT]
+Drop this where the player will bump it after throwing Reactor Switch One.{0dŠ7–¼ÿû0Ä€dis„ÀÑ“.la¥xÛ.C–”Í®uuyÙ:sCLä3q"ÁUbÁ¤{¸išNCrÖX6ïI_p
+
+[COMMENT]
+Tong was deathly ill just a few hours ago.  His voice should sound somewhat strained throughout M15.form, everywhere and nowhere, like air or radiation, redundant, self-replicating, always evolving...
+
+[SPEECH: TracerTong]
+Tak, jeste ten druhy...
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_tong6]
+
+[COMMENT]
+Drop this where the player will bump it after throwing Reactor Switch Two.{0dŠ7–¼ÿû0Ä€dis„ÀÑ“.la¥xÛ.C–”Í®uuyÙ:sCLä3q"ÁUbÁ¤{¸išNCrÖX6ïI_p
+
+[COMMENT]
+Tong was deathly ill just a few hours ago.  His voice should sound somewhat strained throughout M15.form, everywhere and nowhere, like air or radiation, redundant, self-replicating, always evolving...
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_tong7]
+
+[COMMENT]
+Drop this where the player will bump it after throwing either of the Reactor switches. 2 and 3, so proceed with caution.  We think Page himself has pulled back to Sector 4.
+
+[COMMENT]
+Tong was deathly ill just a few hours ago.  His voice should sound somewhat strained throughout M15.form, everywhere and nowhere, like air or radiation, redundant, self-replicating, always evolving...
+
+[GOAL:]
+Bez k ovladani reaktoru. Zapoj trojici iontovych vstrikovacu, potom spust antihmotovou reakci. Utec.
+
+[SPEECH: TracerTong]
+Jsme pripraveni. Bezte k ovladacimu panelu a zapnete tri iontove vstrikovace! Jakmile budou pustene, zapojte reakcni komory. Jeste nikdo je nepoustel na plnou kapacitu. Bez chlazeni bude exploze neodvratna. Pripravte se take na utek.
+
+[SPEECH: BobPage]
+Ne! Nevis, co vlastne delas! Vsechno bude zniceno, VSECHNO... Svet se rozpadne na kusy. Vladnout mu nebude nikdo. Vypukne chaos, dokonaly chaos!
+

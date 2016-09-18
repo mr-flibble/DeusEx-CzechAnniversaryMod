@@ -1,0 +1,12 @@
+<COMMENT>Agent Hela's orders</COMMENT>
+<DC=255,255,255>
+<DC=255,255,255>
+<P>FROM: ASTON GREER
+<P>TO: AGENT MARI HELA
+<P>
+<P>Upon arrival in Paris you are to interface with Inspector Gabily of the Metropolitan Police, your operator for the duration of this mission.  Aid Gabily in any way possible to eradicate lingering elements of either Silhouette or the Illuminati.
+<P>
+<P>Secondary priority is the acquisition of any information concerning the whereabouts of Morgan Everett, Tracer Tong, Alex Jacobson, or J.C. Denton; any such information is to be sent to Walton Simons directly and immediately.  We have reason to believe that Denton may be traveling to Paris in an attempt to ally himself with the surviving Illuminati, a situation that should be prevented with all due prejudice.
+<P>
+<P>Aston Greer
+<P>Director of Security, FEMA

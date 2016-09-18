@@ -1,0 +1,6 @@
+<COMMENT>Barracks</COMMENT>
+<DC=255,255,255>
+<P>Juan asked me for the hangar code, Decker, so it's 5914.  Tell Young not to get his ass shot off -- you know how I feel about him.  And I _will_ kill you if something happens.
+<P>
+<P>Take care,
+<P>Erin

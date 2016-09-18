@@ -1,0 +1,7 @@
+<COMMENT>Alley near warehouse tunnels</COMMENT>
+<DC=255,255,255>
+<P>Commander Frase: UNATCO has regrouped more quickly than expected and is beginning a coordinated assault on our position along with local police.  They will certainly overrun our defenses eventually, but they must be delayed until the next phase of the mission can be completed.  Your men will be responsible for guarding the tunnels leading to the generation station.  Dig in and arm all available automatic defenses.
+<P>
+<P>I don't need to tell you what's at stake.  Good luck.
+<P>
+<P>JL

@@ -1,0 +1,5 @@
+<COMMENT>Helibase gas release</COMMENT>
+<DC=255,255,255>
+<P>Upozorneni obsluze!
+<P>
+<P>Dostali jsme zasilku toho experimentalniho paliva, ale je to zlej sen - do nedele nam tu hrozila otrava celkem sestkrat, a prestoze ho havarijni cerpadlo dokaze v pripade nouze precerpat do tankovacich cisteren, uz jen samotny vypary, ktery proniknou do ventilacnich sachet, vyradily vetsinu budovy z provozu. To zase nekdo poctive vyhral konkurs! Dokud to trosku nezprovoznime, nastavil jsem docasne verejny kod na vetraci ventil: 99871. Cinknete mi na (443) 2334-2388-123, kdyby byly potize.

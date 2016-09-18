@@ -1,0 +1,4 @@
+
+<COMMENT>10_Paris_Catacombs Map</COMMENT>
+<DC=255,255,255>
+<P>Vitejte v Parizi, ve Meste svetel! Tato mapa vam pomuze seznamit se s Champs-Elysees, duchovnim a kulturnim srdcem mesta. Ve dne tvori Champs-Elysees pestre mraveniste obchodu a vladnich uradu, avsak ve skutecnosti oziva az v noci, kdy se oteviraji ruzne kavarny, kluby, divadla a kabarety. Mnozi turiste se sice spokoji pouze s leskem hlavni avenue, nicmene dobrodruznejsi povahy se mohou odvazit opustit vyslapane stezky a nechat se opajet chuti stare dobre Parize v temnych ulickach a zakoutich, kam oslniva zare neonu ani hluk turistu nedoleha...

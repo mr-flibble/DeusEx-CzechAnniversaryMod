@@ -1,0 +1,9 @@
+<COMMENT>Commander's office</COMMENT>
+<DC=255,255,255>
+<P>Tak jo, zridil jsem pro naseho pratelskeho a privetiveho kolegu z FEMA pocitacovy ucet - jenom docasny, ale dostane se pres nej ke svemu e-mailu a tak. Rekni mu, prosim te, ze tu mame firewall, takze kdyby se chtel spojit s nejakou privatni siti, musi se to provest pres nejakou vhodnou internetovou sluzbu.
+<P>
+<P>Login: Walton
+<P>Heslo: Simons
+<P>
+<P>Uvidime se zitra,
+<P>Josy

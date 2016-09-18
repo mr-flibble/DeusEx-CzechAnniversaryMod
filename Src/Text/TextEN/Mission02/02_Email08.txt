@@ -1,0 +1,12 @@
+<COMMENT>MJ12 lab</COMMENT> 
+<DC=255,255,255>
+<P><B>From:</B> Central Security//UpNet.2334.3233 
+<P><B>To:</B> JSteward//UpNet.332.88732
+<P><B>Subject:</B> System Hacking
+<P>
+<P>We've had several attempts to hack into the main Daedalus system, mostly amateur tunneling stunts that don't require a prejudicial response; however, in keeping with standard protocols, all Level 1 lock system codes have been changed.  The new code is 2167.  This will work within the complex, but isn't valid for exterior access (those systems are on a separate grid, as is the armory).  Pass this code on to those with the proper clearances.
+<P>
+<P>Archie Reynmann
+<P>Central Security
+<P>
+<P>"Never blame malice for what can adequately be blamed on stupidity" -- R. Feynman

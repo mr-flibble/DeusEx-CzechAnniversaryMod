@@ -1,0 +1,16 @@
+<DC=255,255,255>
+<P><B>Od:</B> MedDirectorate//UNATCO.15888.00342
+<P><B>Ke:</B> JReyes//UNATCO.00973.20892
+<P><B>Vec:</B> Zasilka augmentaci
+<P>
+<P>Do 24 hodin obdrzite v suspenzni prepravce augmentacni zasobnik 10B (MJID-9138YU0983), jehoz nanotechnologicke augmentace mate distribuovat agentum, o nez se starate.  Pokud byste zasilku do 24 hodin neobdrzeli, podejte zpravu lekarskemu ustredi UNATCO.
+<P>
+<P>Zasobnik 10B obsahuje ROM-moduly naplnene augmentacemi budto Regenerace nebo Energetickeho stitu.
+<P>
+<P>Augmentace Regenerace dodava jiz existujicim augmentacim programovatelne polymerazy naprogramovane na strukturovanou opravu tkani a organu poskozenych v bojovych podminkach.
+<P>
+<P>Augmentace Energeticky stit dokaze pod kuzi vytvorit tepelne-elektricke-absorbcni polyanilenicke kapacitory, ktere pohlcuji poskozeni ze strany ohne a elektrickych i plazmovych vyboju.
+<P>
+<P>Podrobnejsi informace naleznete v Prirucce nanoaugmentaci, kterou jste jiz vsichni obdrzeli.
+<P>
+<P>UNATCO, Urad lekarskeho ustredi

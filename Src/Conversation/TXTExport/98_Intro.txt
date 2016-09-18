@@ -1,0 +1,70 @@
+-----------------------------------------------------------------
+[Owner: BobPage]
+[Name:  Intro]
+
+[COMMENT]
+Conversation for Intro cut scene.
+
+[SPEECH: BobPage]
+Your appointment to FEMA should be finalized within the week.  I've already discussed the matter with the Senator.
+
+[SPEECH: WaltonSimons]
+I take it he was agreeable?
+
+[SPEECH: BobPage]
+He didn't really have a choice.
+
+[SPEECH: WaltonSimons]
+Has he been infected?
+
+[SPEECH: BobPage]
+Oh, yes, most certainly.  When I mentioned that we could put him on the priority list for the Ambrosia vaccine, he was so willing it was almost pathetic.
+
+[SPEECH: WaltonSimons]
+This plague -- the rioting is intensifying to the point where we may not be able to contain it.
+
+[SPEECH: BobPage]
+Why contain it?  Let it spill over into the schools and churches, let the bodies pile up in the streets.  In the end, they'll beg us to save them.
+
+[SPEECH: WaltonSimons]
+I've received reports of armed attacks on shipments.  There's not enough vaccine to go around, and the underclasses are starting to get desperate.
+
+[SPEECH: BobPage]
+Of course they're desperate.  They can smell their death, and the sound they'll make rattling their cage will serve as a warning to the rest.
+
+[SPEECH: WaltonSimons]
+Mmm.  I hope you're not underestimating the problem.  The others may not go as quietly as you think -- intelligence indicates they're behind the problems in Paris.
+
+[SPEECH: BobPage]
+A bunch of pretentious old men playing at running the world.
+
+[SPEECH: BobPage]
+But the world left them behind long ago.  We are the future.
+
+[SPEECH: WaltonSimons]
+We have other problems.
+
+[SPEECH: BobPage]
+UNATCO?
+
+[SPEECH: WaltonSimons]
+Formed by executive order after the terrorist strike on the Statue.  I have someone in place, though.  I'm more concerned about Savage -- he's relocated to Vandenberg.
+
+[SPEECH: BobPage]
+Our biochem corpus is far in advance of theirs, as is our electronic sentience.  And their...ethical inflexibility has allowed us to make progress in areas they refuse to consider.
+
+[SPEECH: WaltonSimons]
+The augmentation project?
+
+[SPEECH: BobPage]
+Among other things -- but I must admit that I've been somewhat disappointed in the performance of the primary unit.
+
+[SPEECH: WaltonSimons]
+The secondary unit should be online soon.  He's currently undergoing preparation and will be operational within six months.  My people will continue to report on his progress.  If necessary, the primary will be terminated.
+
+[SPEECH: BobPage]
+We've had to endure much, you and I, but soon there will be order again, a new age.  Aquinas spoke of the mythical City on the Hill.  Soon that city will be a reality, and we will be crowned its kings.
+
+[SPEECH: BobPage]
+Or better than kings.  Gods.
+

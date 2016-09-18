@@ -1,0 +1,3 @@
+<COMMENT>10_Paris_Club door code</COMMENT>
+<DC=255,255,255>
+<P>New storeroom code is 1966 -- make sure not to sample any of the absinthe this time, eh?  I will be checking the bottles. -- Louis

@@ -1,0 +1,17 @@
+<DC=255,255,255>
+<P><JC><B>THE MOST HOLY ANNALS OF THE LUMINOUS PATH</B>
+<P><JC><B>THAT LEADS THE RIGHTEOUS TO THE FOLD</B>
+<P><JC><B>OF THE INNER CELESTIAL KINGDOM</B>
+<P>
+<P><JC><I>Wong Fei Hong</I>
+<P><JC><I>Yim Wing Chun</I>
+<P><JC><I>Cho Yi-Hang</I>
+<P><JC><I>Wai Ko Lo</I>
+<P><JC><I>Yan-Fang Mei</I>
+<P><JC><I>Ching-hsia Lin</I>
+<P><JC><I>Kong-sang Chan</I>
+<P><JC><I>Yusen Wu</I>
+<P><JC><I>Chu-Kheng Yeoh</I>
+<P><JC><I>Yuen Wo-Ping</I>
+<P><JC><I>Tracer Tong</I>
+<P><JC><I><PLAYERNAME></I>

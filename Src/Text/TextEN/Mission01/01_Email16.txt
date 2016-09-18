@@ -1,0 +1,13 @@
+<COMMENT>Jaime Reyes inbox</COMMENT>
+<DC=255,255,255>
+<P><B>From:</B> MedDirectorate//UNATCO.15888.00342
+<P><B>To:</B> JReyes//UNATCO.00973.20892
+<P><B>Subject:</B> Nano-Augmentation Principal/2C Briefing
+<P>
+<P>As a medical specialist, you will be required to repair and modify the systems of our nano-augmented agents.  This briefing is intended merely as an introduction to the technology.
+<P>
+<P>The cells of every major tissue in the body of a nano-augmented agent are host to nanite-capsid "hybrids." These hybrids replicate in two stages: the viral stage, in which the host cell produces capsid proteins and packages them into hollowed viral particles, and the nanotech stage, in which the receiver-transmitter and CPU are duplicated and inserted into the protective viral coating.  New RNA sequences are transmitted by microwave and translated in to plasmid vectors, resulting in a wholly natural and organic process.
+<P>
+<P>Additional augmentations can be added through the use of microscopic ROM modules -- shaped a little like flying saucers -- that diffuse through the blood and attach to the long spine of nanite CPUs.  These additional augmentations are software "upgrades" in the most literal sense of the word.
+<P>
+<P>We hope this report gets you started; you will find a full technical design document attached.  Please read and thoroughly understand this information so that you will be better qualified to administer care to this most exciting new breed of augmented-human agent.

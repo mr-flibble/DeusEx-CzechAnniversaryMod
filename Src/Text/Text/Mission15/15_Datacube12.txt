@@ -1,0 +1,8 @@
+<COMMENT>Storage room</COMMENT>
+<DC=255,255,255>
+<P>OD: JACOB MACKENZIE
+<P>KE: AGENT KARJO
+<P>
+<P>Prestehoval jsem vsechny ty vybusniny, co jsme nasli, do skladu. Nemyslim, ze bychom se museli bat spontanniho vybuchu - vsechny ty veci vypadaji uklidnujicne stabilne - ale napadlo me, ze by bylo lepsi premistit je do bezpecne, prehledne lokality. Jestli k nim budete potrebovat vy nebo vasi muzi pristup, tak kod jsem nastavil na 4225.
+<P>
+<P>Mac

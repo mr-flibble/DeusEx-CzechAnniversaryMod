@@ -1,0 +1,18 @@
+
+<COMMENT>MJ12 Cathedral Vault Doors</COMMENT>
+<DC=255,255,255>
+<P>Adeptka 34501,
+<P>Rad nocni oblohy,
+<P>treti stupen
+<P>
+<P>Majestatni vladci, Dvanactka, te poverila dozorem nad timto mistem a budes tak zaznamenavat vsechny udalosti, z nichz by mohla mit nejaky prospech, stejne jako ty budes mit prospech z moudrosti jeji.
+<P>
+<P>Byl ti sveren Klic k Sidonske pokladnici: 1942
+<P>
+<P>Byl ti sveren Klic k Fontane moudrosti: 0022
+<P>
+<P>Bylo ti svereno Tajne cislo: 34501, 08711
+<P>
+<P>Uvedene veci musis strezit svym <I>Zivotem</I> a <I>Dusi</I> a vykonavat svou povinnost tak, aby Ctvrte tajemstvi nalezlo sidlo ve tvem <I>Srdci</I>.
+<P>
+<P>XII

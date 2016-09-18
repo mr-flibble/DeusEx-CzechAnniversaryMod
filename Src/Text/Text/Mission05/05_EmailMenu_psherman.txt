@@ -1,0 +1,4 @@
+<EMAIL=05_Email01,Zmena kodu zbrojnice,JBlane,PSherman,>
+<EMAIL=05_Email02,Provozni stav,WS,PSherman,>         
+<EMAIL=05_Email10,RE: Bezpecnostni opatreni,DJacobi,PSherman,>
+<EMAIL=05_Email13,Ustaveni komanda,WS,PSherman,>

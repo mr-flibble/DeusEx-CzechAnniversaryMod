@@ -1,0 +1,7 @@
+<COMMENT>Acoustic gunfire sensors</COMMENT>
+<DC=255,255,255>
+<P><B>VESKERêMU PERSONaLU MJ12 V HONGKONGU</B>
+<P>
+<P>Hongkong je pro personal MJ12 zvlastni oblasti, skryvajici mnoha nebezpeci, jichz by si vsichni clenove zakladen meli byt vedomi. V soucasnosti existuji mezi MJ12 a mistnimi urady jen chladne vztahy - prestoze MJ12 neustale pracuje na jejich zlepseni - a v dusledku toho nelze ocekavat, ze by policie a ozbrojene jednotky chapaly zvlastni vyznam organizace MJ12. Agenti, urednici, ochranka i dalsi personal by meli peclive prostudovat Pruvodce ve svych priruckach.
+<P>
+<P>Mistni policie spoleha predevsim na pouzivani "akustickych senzoru strelby", ktere lze najit po celem Hongkongu: jsou levne, ucinne a jejich obvody DSP dokazi spolehlive upozornit na hlucnou (tzn.netlumenou) strelbu. To policii umoznuje rychly zasah a minimalni rozhoreni konfliktu. Prestoze tyto senzory lze vypnout, operacni centrala to nedoporucuje; lepe je prehodnotit situaci a zvolit jiny takticky postup, nez riskovat lokalni konflikty s policii.

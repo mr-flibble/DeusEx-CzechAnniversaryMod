@@ -1,0 +1,17 @@
+<DC=255,255,255>
+<P><B>Od:</B> MedDirectorate//UNATCO.15888.00342
+<P><B>Ke:</B> JReyes//UNATCO.00973.20892
+<P><B>Vec:</B> RE: Otazka ohledne mechu
+<P>
+<P>Informace ohledne mechanismu, o nemz se zminujete, jsou dostupne pouze pracovnikum s poverenim Throne/6G a vyssim. Jakakoliv dalsi diskuse o teto zalezitosti s nepoverenym personalem by mela za nasledek disciplinarni rizeni. Vsechny pripadne dotazy smerujte na reditele Manderleyho.
+<P>
+<P>UNATCO, Urad lekarskeho ustredi
+<P>
+<P>>Pri oprave jednoho z nasich mechanicky augmentovanych
+<P>>agentu jsem narazil v systemu autonomni regulace na
+<P>>jeden prvek, ktery neni uveden v zadne dokumentaci,
+<P>>kterou mam k dispozici; jsem presvedcen o tom, ze
+<P>>pripadna zavada teto soucastky by vedla k vypnuti
+<P>>agentova autonomniho systemu, coz by melo na jeho
+<P>>zivotni organy fatalni dopad. Pripojuji CRI scan
+<P>>uvedene nezname struktury a prilehleho okoli, ktere

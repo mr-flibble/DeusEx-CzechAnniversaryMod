@@ -1,0 +1,7 @@
+<COMMENT>Datacube in SATCOM Van</COMMENT>
+<DC=255,255,255>
+<P>upozorneni nocni hlidce:
+<P>login do bezpecnostniho systemu zustava puvodni: SATCOM
+<P>novy heslo: UNATCO_001
+<P>
+<P>PS) v sobotu vas rozdrtime v sipkach, poseroutkove!

@@ -1,0 +1,4 @@
+<DC=255,255,255>
+<P><B>Battery Park Closed Until Further Notice</B>
+<P>
+<P>Due to unidentified terrorist action, Battery Park will be closed to all unauthorized personnel until further notice.  Local police working in conjunction with UNATCO agents are currently in the process of dealing with the threat, and according to UNATCO head Joseph Manderley, "The situation is strictly minor, but any time the potential exists for civilian casualties we must proceed with caution."

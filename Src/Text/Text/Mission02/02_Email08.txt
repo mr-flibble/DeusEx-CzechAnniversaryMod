@@ -1,0 +1,12 @@
+<COMMENT>MJ12 lab</COMMENT> 
+<DC=255,255,255>
+<P><B>Od:</B> Centrala ochranky//UpNet.2334.3233 
+<P><B>Ke:</B> JSteward//UpNet.332.88732
+<P><B>Vec:</B> Prunik do systemu
+<P>
+<P>Zaznamenali jsme nekolik pokusu o prunik do hlavniho systemu Daidalos, vetsinou od amaterskych tunelovacich sasku, za kterymi je skoda casu se honit; nicmene v souladu se standardnim protokolem byly zmeneny vsechny uzamykaci systemy na urovni 1. Novy kod je 2167. Kod je platny pouze uvnitr komplexu, ale nikoliv u vnejsich pristupovych casti (tyto systemy, jako je napriklad zbrojnice, jsou pripojeny k jine bezpecnostni siti). Predejte tento kod vsem, kdo k nemu maji povereni.
+<P>
+<P>Archie Reynmann
+<P>Centrala ochranky
+<P>
+<P>"Nikdy nevycitejte zlomyslnemu takove jednani, ktere by slo vycitat i hlupakovi" -- R. Feynman

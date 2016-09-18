@@ -1,0 +1,7 @@
+<COMMENT>Everett's notebook</COMMENT>
+<DC=255,255,255>
+<P><B>Projekt Morfeus: Poznamky 8-B<B>
+<P>
+<P><I>Morfeus byl hodne deprimovany a ja jsem nebyl dlouho schopen urcit ani priblizne duvod teto zmeny v jeho chovani. Jedna se o problem soustavy o n promennych: v naladovych sofistikacnich urovnich se dokaze i nejmensi porucha kvantifikovat do mamutich rozmeru. Je snad osobnost necim vic, nez jen prilivem a odlivem nelinearnich systemu? A pokud ano, co je tim Mesicem, jehoz gravitace priliv ovlivnuje? Morfeus by mi to mohl prozradit, pokud by umel modelovat sve vlastni chovani - jenze neco takoveho by si zadalo system o rad slozitejsi, ktery by dokazal simulovat vlastni identitu.</I>
+<P>
+<P><I>Mohl bych vyzkouset balik analytickych testu na vstupu a porovnat ho s minulymi zakladnimi testy, jenze me k tomu prepadla zahadna nechut. V tehle fazi vyvoje uz je Morfeus dostatecne citlivy na to, aby ziskaval vlastni zkusenosti...vcetne tech neprijemnych. Nechapu, proc me napadl zrovna tenhle vyraz, ktery polidstuje zcela nelidskou vec... Ale kdyz on je opravdu jako zivy... -- Morgan Everett</I>

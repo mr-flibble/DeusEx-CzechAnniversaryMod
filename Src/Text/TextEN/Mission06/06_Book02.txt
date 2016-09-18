@@ -1,0 +1,7 @@
+<DC=255,255,255>
+<P><JC><B>PROJECT DIBBUK</B>
+<P><JC>SH-187 Specifications and Operation
+<P>
+<P><JC><I>Domination/5F Clearance ONLY</I>
+<P>
+<P>... the goal of PROJECT DIBBUK was to create a long range, variable mission-capable rotary aircraft, realized to its fullest extent in the SH-187 "stealth helicopter."  The production model SH-187 features a revolutionary engine powered by HIGH-EFFICIENCY ETHANOL FUEL CELS with a flight range of over 9000 miles depending upon atmospheric conditions, and an extension of the thermoptic camouflage technology that renders it INVISIBLE across 97% of the non-visible electromagnetic spectrum.  Ideally suited for surveillance, insertion, retrieval, and limited interdiction, the SH-187 will often spend much of its operational lifetime within hostile territory, and therefore is also equipped with REMOTE DISABLING and scrambling for its key flight systems.  If necessary, the vehicle can also be scuttled remotely...

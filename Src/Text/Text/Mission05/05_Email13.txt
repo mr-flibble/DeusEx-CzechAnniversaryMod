@@ -1,0 +1,11 @@
+<COMMENT>MJ12 Lab</COMMENT>
+<DC=255,255,255>
+<P><B>Od:</B> WS//UpNet.78543.98231
+<P><B>Ke:</B> PSherman//UpNet.221.9981
+<P><B>Vec:</B> Ustaveni komanda
+<P>
+<P>Nove oddily komanda MJ12 se v soucasne dobe prave sestavuji a zanedlouho budou k dispozici. Tyto zvlastni jednotky budou zprvu oznacovany jako tzv. "zalozni" v zajmu vysokych priorit komplexu MJ12; jeden z prvnich tymu k vam dorazi behem osmactyriecti hodin a bude podlehat vasemu primemu veleni.
+<P>
+<P>Nadavkem k jejich standardni palebne sile 7.62mm budou disponovat i raketami kratkeho doletu. Jejich zdokonaleny silovy krunyr s protitepelnou upravou znacne redukuje skodlive ucinky ohnivych i plazmovych zbrani a klasicke balisticke krunyre jim poskytuji ochranu i pred mensimi palnymi zbranemi. Integrovana plynova maska je cini imunnimi vuci kterekoli aerosolove ci plynove zbrani.
+<P>
+<P>Pouzivejte tuto jednotku podle sve libosti, abyste zajistil bezpecnost komplexu a podporil jednotky MJ12, ktere jiz operuji v New Yorku.

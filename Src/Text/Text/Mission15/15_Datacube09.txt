@@ -1,0 +1,5 @@
+<COMMENT>Coolant testing room</COMMENT>
+<DC=255,255,255>
+<P>Purvisi -- podarilo se mi zjistit kod dveri ke chladicimu systemu, takze mas o problem min: je to 2242. Zarazi me, ze se zatim nikdo neobtezoval, aby ten kod nekam zapsal, taky porad narazim na dalsi a dalsi dvere s neznamymi kody. Mrkni se kdyz tak na sekundarni chladici okruh... ta cisla, ktera nam posledni dobou posila, vypadaji podezrele. Samozrejme muzu tak akorat hadat, co se asi deje.
+<P>
+<P>Mac

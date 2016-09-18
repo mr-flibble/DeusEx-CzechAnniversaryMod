@@ -1,0 +1,71 @@
+-----------------------------------------------------------------
+[Owner: JosephManderley]
+[Name:  JosephManderley_BarkAllianceFriendly]
+
+[SPEECH: JosephManderley]
+Ovladej se, agente! Nejsi tak nenahraditelny, jak si mozna myslis.
+
+[COMMENT]
+Surprise, fear, and indignance.
+
+[SPEECH: JosephManderley]
+Tenhle starej prdola je tvrdsi sousto, nez sis myslel, co?
+
+[SPEECH: JosephManderley]
+Tohle si zkousej na nepritele. A ted odchod!
+
+-----------------------------------------------------------------
+[Owner: JosephManderley]
+[Name:  JosephManderley_BarkAllianceHostile]
+
+[SPEECH: JosephManderley]
+Co si to ---
+
+[COMMENT]
+Surprise, fear, and indignance.
+
+[SPEECH: JosephManderley]
+Agente!?
+
+[SPEECH: JosephManderley]
+Ty se me pokousis zabit?
+
+-----------------------------------------------------------------
+[Owner: WaltonSimons]
+[Name:  WaltonSimons_BarkAllianceFriendly]
+
+[SPEECH: WaltonSimons]
+Radsi si zase nasroubuj hlavu, jinak v UNATCO moc dlouho nepobudes.
+
+[SPEECH: WaltonSimons]
+Mohl bych te propustit a postavit pred vojensky soud. Mas zajem?
+
+[SPEECH: WaltonSimons]
+Tento incident ve mne probudil jiste vazne znepokojeni. Jeste o mne uslysis.
+
+-----------------------------------------------------------------
+[Owner: WaltonSimons]
+[Name:  WaltonSimons_BarkAllianceHostile]
+
+[SPEECH: WaltonSimons]
+Blazne!
+
+[SPEECH: WaltonSimons]
+Vzchop se, agente!
+
+[SPEECH: WaltonSimons]
+Tohle je uz prilis!
+
+-----------------------------------------------------------------
+[Owner: WaltonSimons]
+[Name:  WaltonSimons_BarkFutz]
+
+[SPEECH: WaltonSimons]
+Uklidni se, agente!
+
+[SPEECH: WaltonSimons]
+Dej si pozor! Tady uz nejsi na akademii.
+
+[SPEECH: WaltonSimons]
+Ty zrejme nevis, kdo ja jsem?
+

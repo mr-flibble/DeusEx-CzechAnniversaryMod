@@ -1,0 +1,388 @@
+-----------------------------------------------------------------
+[Owner: FordSchick]
+[Name:  FordBarks]
+
+[COMMENT]
+These are Ford Schick's barks both during and after the escape.  They cycle and then go random.ty.  It's the tax code that makes sure big bureaucracy gets bigger and people have no power.
+
+[SPEECH: FordSchick]
+Prinutili me pracovat na kodovani imunoglobulinu.
+
+[SPEECH: FordSchick]
+Ti vojaci unaseji bezdomovce a infikujou je Sedou smrti.
+
+[SPEECH: FordSchick]
+Mel jsem za ukol ty chudaky geneticky zmutovat, aby dokazali s virem koexistovat.
+
+[SPEECH: FordSchick]
+S kazdou mou novou chybou zemrel dalsi clovek.
+
+[SPEECH: FordSchick]
+Tem vojakum ani tak nejde o zlikvidovani epidemie, jako spis o vytvoreni jedincu, kteri vuci ni budou imunni.
+
+[SPEECH: FordSchick]
+Mohl bych vyradit reakci imunologickeho systemu, kdybych z retezce odstranil vsechny vyskyty "ha epsilon", ale to by byla prace tak na tisic let.
+
+[SPEECH: FordSchick]
+Vedel jsem, ze pacienti bez retezcu epsilon zemrou, ale byla to jedina moznost reseni, ktera me napadla.
+
+[SPEECH: FordSchick]
+Nemel jsem na vybranou. Jeden z tech previtu byl v imunologii docela honenej, takze jsem ho nemoh' opit rohlikem.
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: FordSchick]
+Kudy?
+
+[SPEECH: FordSchick]
+Pozor na straze!
+
+[SPEECH: FordSchick]
+Jen pryc, pryc!
+
+-----------------------------------------------------------------
+[Owner: FordSchick]
+[Name:  MeetFordSchickQuestion]
+
+[SPEECH: FordSchick]
+Nezabijej me!
+
+[SPEECH: JCDenton]
+Vysvetli mi, co se to tu deje? K cemu tahle budova slouzi?
+
+[SPEECH: FordSchick]
+Unesli me. Chteji protilatku... Porucili mi vyjmout nektery sekvence.
+
+[SPEECH: JCDenton]
+Kdo te unesl? Ty jejich uniformy jsem v zivote nevidel.
+
+[SPEECH: FordSchick]
+Hele, nemuzes me osvobodit? Jsem Paserakuv kamos. Urcite bys dostal odmenu!
+
+[SPEECH: FordSchick]
+Myslim, ze to je nejaka soukroma ochranka biotechnicky spolecnosti. Nemam s nima nic spolecnyho. Rikal jsem jim, ze na lidech ja delat pokusy nebudu, ale o to se postarali oni.
+
+[SPEECH: JCDenton]
+Na soukromou ochranku maji vynikajici zbrane.
+
+[CHOICES:2]
+
+[CHOICE:]
+Vyparime se odtud. Budu te krejt.
+
+[CHOICE:]
+Pockej tady, nez zajistim bezpecnou cestu.
+
+[SPEECH: FordSchick]
+Jsem pripravenej!
+
+[SPEECH: FordSchick]
+Rekni mi, az bude cistej vzduch!
+
+[SPEECH: FordSchick]
+Uz tady nechci bejt ani vterinu!
+
+-----------------------------------------------------------------
+[Owner: FordSchick]
+[Name:  MeetFordSchickRescue]
+
+[SPEECH: JCDenton]
+Ty musis bejt Ford Schick.
+
+[SPEECH: FordSchick]
+A kdo jsi ty?
+
+[SPEECH: JCDenton]
+Posila me Paserak. Kdo te tu vezni? Jejich uniformy jsem nikdy nevidel.
+
+[SPEECH: FordSchick]
+Nemam paru. Mozna nejaka soukroma ochranka biotechnicky spolecnosti. Nuti me, abych pracoval na jedny protilatce.
+
+[SPEECH: JCDenton]
+Soukroma ochranka obvykle nema zbrane, s kterejma by mohla okamzite vyrazit treba na frontu.
+
+[SPEECH: FordSchick]
+Provadeji tu experimenty na lidech. A nestojej o to, aby se to nekdo dozvedel.
+
+-----------------------------------------------------------------
+[Owner: FordSchick]
+[Name:  SckickThanks]
+
+[SPEECH: FordSchick]
+Odsud uz trefim sam. Diky. Jestli uvidis Paseraka, vyrid mu, ze jsem v poradku.
+
+-----------------------------------------------------------------
+[Owner: Smuggler]
+[Name:  MeetSmuggler]
+
+[COMMENT]
+JC has just defeated the Smuggler's security system.  The Smuggler is angry and a little scared.  I'm not transliterating his accent, but maybe he has kind of a blue-caller New York twang in his voice.
+
+[SPEECH: Smuggler]
+Co tu chces?
+
+[SPEECH: JCDenton]
+K cemu ty pasti? Bojis se neceho?
+
+[SPEECH: Smuggler]
+Pouha opatrnost.
+
+[SPEECH: JCDenton]
+Mas pro ni duvod?
+
+[SPEECH: Smuggler]
+Vlada neustale porada nejaky zatahy. Nektery mi znami zahadne zmizeli.
+
+[COMMENT]
+(skeptical)
+
+[SPEECH: JCDenton]
+Fakticky?
+
+[SPEECH: Smuggler]
+Myslis, ze si delam srandu? Zvedni poklop od kanalu a vlez dovnitr. Veznej' tam myho kamose Forda Schicka v tajny laborce ve stokach.
+
+[SPEECH: JCDenton]
+Laborator... ve stokach? Mozna, ze si ho vzali NSF jako rukojmi.
+
+[SPEECH: Smuggler]
+Tohle byli profici, nepochybne placeny vladou.
+
+[SPEECH: JCDenton]
+Zajimave. Snad bych se na to i podival, ale soudim, ze bys mel mit k vlade Spojenych statu vice ucty.
+
+[SPEECH: Smuggler]
+Jestli se vazne vydas dolu a najdes Forda, dam ti slevu na nektery zbozi. Taky budes potrebovat tohle. Je to klic k otvirani kanalovejch poklopu.
+
+[SPEECH: JCDenton]
+Jaky zbozi nabizis?
+
+[GOAL:]
+Zachran Paserakova pritele Forda Schicka z tajne laboratore ve stokach. Do stok se dostanes kanalovym poklopem na ulici.
+
+[SPEECH: JCDenton]
+Ve stokach jsem opravdu nasel toho tvyho kamose. Nutili ho, aby pro ne pracoval.
+
+[SPEECH: Smuggler]
+Forda? Je v poradku?
+
+[SPEECH: JCDenton]
+Pokousel jsem se ho osvobodit, ale zarval.
+
+[SPEECH: Smuggler]
+Mrtvej? Ford je mrtvej?
+
+[SPEECH: JCDenton]
+Bohuzel. Skoda, ze se to nepovedlo.
+
+[SPEECH: JCDenton]
+Dostal jsem z podzemni laboratore toho tvyho kamose.
+
+[SPEECH: Smuggler]
+Forda? Prezil to?
+
+[SPEECH: JCDenton]
+Je zivej a zdravej. Kdo byli ti vojaci? Nevypadali jako NSF.
+
+[SPEECH: Smuggler]
+Musi to bejt CIA nebo mozna Zednari.
+
+[SPEECH: JCDenton]
+Kseftujes na cernym trhu? Proto ti rikaji Paserak?
+
+[SPEECH: Smuggler]
+Potrebujes neco?
+
+[SPEECH: JCDenton]
+Zalezi na tvy nabidce.
+
+[SPEECH: Smuggler]
+Kdyz jsi pichnul Fordovi, dam ti slevu. Mel bych tu dalekohled, kterej sedne na vetsinu zbrani, za 700 kreditu, elektrickej bioclanek za 250 nebo noktovizor za 1125.
+
+[SPEECH: Smuggler]
+Mel bych tu dalekohled, kterej sedne na vetsinu zbrani, za 2200 kreditu, elektrickej bioclanek za 800 nebo noktovizor za 3500.
+
+[SPEECH: Smuggler]
+Vybral sis neco?
+
+[CHOICES:7]
+
+[CHOICE:]
+Dam ti 2100 za ten dalekohled.
+
+[CHOICE:]
+Nabidnul bych ti 2100 za ten dalekohled, ale nemam prachy.
+
+[CHOICE:]
+Co kdybys mi prenechal ten bioclanek za 750?
+
+[CHOICE:]
+Dal bych ti 750 za ten bioclanek, ale jsem na mizine.
+
+[CHOICE:]
+Prodej mi ten noktovizor za 3375.
+
+[CHOICE:]
+Mit tak 3375 kreditu, hned bych bral ten noktovizor.
+
+[CHOICE:]
+Je to moc drahy. Spis se pokusim najit toho tvyho kamose.
+
+[CHOICES:7]
+
+[CHOICE:]
+Vezmu si ten dalekohled za 700.
+
+[CHOICE:]
+700 kreditu za dalekohled sice neni moc, ale nemam na to.
+
+[CHOICE:]
+Tady je 250 kreditu za ten bioclanek.
+
+[CHOICE:]
+Mit prachy, vzal bych si ten bioclanek za 250.
+
+[CHOICE:]
+1125 za noktovizor? Beru.
+
+[CHOICE:]
+1125 za noktovizor nezni spatne, jenze nemam dost penez.
+
+[CHOICE:]
+Nemam zajem.
+
+[SPEECH: Smuggler]
+Jasne.
+
+[SPEECH: JCDenton]
+Vis, ja nejsem milionar jako Bob Page.
+
+[SPEECH: Smuggler]
+Vrat se sem, az budes mit prachy.
+
+[SPEECH: Smuggler]
+Necham si to projit hlavou.
+
+[SPEECH: Smuggler]
+Mohl bych trochu slevit.
+
+[SPEECH: JCDenton]
+Tak zatim.
+
+[SPEECH: Smuggler]
+Hele, a jeste jednou diky za Forda!
+
+[SPEECH: JCDenton]
+Neni zac.
+
+[SPEECH: Smuggler]
+Jestli si ode me chces neco odnyst, budes si na to muset udelat misto.
+
+[SPEECH: Smuggler]
+Tak jo, vis, kde me hledat. A diky za nalezeni Forda!
+
+[SPEECH: Smuggler]
+Jestli se vratis, muzes prijit prednim vchodem. Heslo je "masakr".
+
+[NOTE:]
+Heslo k Paserakovi: masakr.
+
+[SPEECH: JCDenton]
+Vydrz. Neco musim odhodit.
+
+-----------------------------------------------------------------
+[Owner: Smuggler]
+[Name:  SmugglerDoneVending]
+
+[SPEECH: Smuggler]
+Ted uz mi na prodej nic nezbylo.
+
+-----------------------------------------------------------------
+[Owner: Smuggler]
+[Name:  SmugglerLamenting]
+
+[COMMENT]
+The player has just failed to rescue Smuggler's friend Ford Schick.  Ford is dead.
+
+[SPEECH: Smuggler]
+Bez pryc!
+
+[SPEECH: Smuggler]
+Na ksefty ted nemam naladu.
+
+[SPEECH: Smuggler]
+Nemel jsem ti o tom vubec rikat. Mozna by byl jeste nazivu.
+
+-----------------------------------------------------------------
+[Owner: Smuggler]
+[Name:  SmugglerThanks]
+
+[SPEECH: JCDenton]
+Osvobodil jsem tvyho kamose.
+
+[SPEECH: Smuggler]
+Forda? Je v poradku?
+
+[SPEECH: JCDenton]
+Jasne. S tema vojakama jsi mel pravdu. NSF to neni ani omylem.
+
+[SPEECH: Smuggler]
+Jsou od CIA. Chytaji lidi a pouzivaji je k lekarskym experimentum.
+
+[COMMENT]
+A change of subject between the sentences.  The first one is dismissive, almost muttered under his breath.
+
+[SPEECH: JCDenton]
+To je odvazna spekulace. Zminil ses, ze to nebudu delat zadarmo...?
+
+[SPEECH: Smuggler]
+Dam ti slevu na nektery zbozi. Zaplatis tretinu toho, co jsem chtel predtim.
+
+[SPEECH: JCDenton]
+Mam pro tebe spatnou zpravu.
+
+[SPEECH: Smuggler]
+Nasel jsi Forda?
+
+[SPEECH: JCDenton]
+Je po nem. Pokousel jsem se ho osvobodit, ale...
+
+[SPEECH: Smuggler]
+Po nem?
+
+[SPEECH: JCDenton]
+Nedalo se nic delat.
+
+[SPEECH: Smuggler]
+Tomu... neverim!
+
+[SPEECH: Smuggler]
+Chtel jsem ti dat na zbozi slevu, ale zklamal jsi me. Bohuzel.
+
+-----------------------------------------------------------------
+[Owner: Smuggler]
+[Name:  SmugglerVending]
+
+-----------------------------------------------------------------
+[Owner: Smuggler]
+[Name:  SmugglerWaiting]
+
+[COMMENT]
+The Smuggler is waiting for the player to rescue his friend Ford Schick.ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿû0ÄÂ€`Rà¤ÁÀ
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: Smuggler]
+Ford je ten nejlepsi biovedec na celym Severovychode.
+
+[SPEECH: Smuggler]
+Budou ho drzet nazivu jen tak dlouho, dokud jim bude uzitecnej. Ani o minutu dyl.
+
+[SPEECH: Smuggler]
+Je to ironie. Tesne predtim, nez ho dostali, mi Ford rikal, ze ma dukaz o tom, ze CIA experimentuje na bezdomovcich.
+
+[SPEECH: JCDenton]
+Rekni mi jeste jednou, co nabizis!
+

@@ -1,0 +1,6 @@
+<DC=255,255,255>
+<P>Shannon--
+<P>
+<P>Ammunition is disappearing again, so we're changing the door code for the comm van near the helipad.  New code: 040051.
+<P>
+<P>Alex

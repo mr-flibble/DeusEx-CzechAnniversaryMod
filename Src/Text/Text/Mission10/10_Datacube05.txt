@@ -1,0 +1,14 @@
+<COMMENT>10_Paris_Metro ATM Account</COMMENT>
+<P><JC><B>PARIZSKa METROPOLITNI BANKA</B>
+<P><JC><B>Rue d'Astore 1</B>
+<P><JC><I>zalozena 1834</I>
+<P>
+<P>Vazeny zakazniku:
+<P>
+<P>Nedavny pokus o prunik vyvolal nutnost zmeny hesel u nekolika nasich uctu, aby byla zajistena nezbytna bezpecnost. Uvedomte si, prosim, ze vas ucet nebyl ani v nejmensim ohrozen; jedna se o pouhou prevenci. Mate-li nejake otazky, beze vseho se obratte na zastupce Oddeleni pece o zakazniky Metropolitni banky.
+<P>
+<P>Ucet: 002639
+<P>PIN: aramis01
+<P>
+<P>Dekujeme vam,
+<P>METROPOLITNI BANKA

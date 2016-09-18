@@ -1,0 +1,7 @@
+<COMMENT>Queen's Tower computer codes</COMMENT>
+<DC=255,255,255>
+<P>Mort --
+<P>
+<P>I'm going to be off-site tomorrow, so I'm counting on you to head things up.  Just FYI, the electrician completed installation of the security system today, login QUEENSTOWER and password SECURITY, in case you get around to handling the configuration issues.  (I don't think the doorman's quite figured out how to use it yet, so you might need to do some hand holding with him.)  I also set the elevator bypass code inside the shaft to 1709 before I left, if you need to do any work down there.  Should the contractors return to work on floor seven, give them code 3444.  Any other problems come up, you know how to get a hold of me.
+<P>
+<P>:Lin

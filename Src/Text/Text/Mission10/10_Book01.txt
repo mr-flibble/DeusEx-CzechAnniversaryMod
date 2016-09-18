@@ -1,0 +1,22 @@
+<DC=255,255,255>
+<P><JC><B>Richard III</B>
+<P><JC>William Shakespeare
+<P>
+<P>Jednani I, scena IV
+<P>
+<P><B>CLARENCE:</B>
+<P>
+<P>Ach Boze, jak to bolelo se topit,
+<P>ten hruzostrasny hukot vod v mych usich
+<P>a pred ocima vidiny ohavnych smrti!
+<P>Zdalo se mi, ze vidim tisic hruznych vraku,
+<P>tisice lidi ohlodanych rybami,
+<P>obrovske kotvy, zlate pruty, hory perel,
+<P>drahokamy nezmernych cen a vzacne sperky,
+<P>lezici rozhazene po morskem dne;
+<P>nektere lezely mrtvolam v lebkach,
+<P>vlezly si do dulku, kde driv sidlily oci;
+<P>blyskave klenoty jak vysmech zrakum
+<P>se tocily po bahnitem dnu more
+<P>a zesmesnovaly tak mrtve kosti,
+<P>ktere se valely kol dokola...

@@ -1,0 +1,7 @@
+<COMMENT>Everett's notebook</COMMENT>
+<DC=255,255,255>
+<P><B>Project Morpheus: Notebook 8-B<B>
+<P>
+<P><I>Morpheus has been moody of late, and I have so far been unable to determine the proximate cause of this change in behavior.  This is a problem with n-variable systems: at arbitrary levels of sophistication, minute perturbations become unquantifiable.  Is personality nothing more than the tidal change in a non-linear system?  And if so, what is the 'moon,' what force shapes these tides?  Morpheus could tell me, if only Morpheus could model its own behavior -- but this would require a system orders of magnitude more complex to execute a simulation of its own identity.</I>
+<P>
+<P><I>I may resort to a full battery of input analysis tests to be compared against previous baseline tests, but I find myself strangely reluctant to do so.  At this level of development, Morpheus could be cognizant enough to find the experience... unpleasant.  I do not know why that word occurs to me, as it anthropomorphizes what is obviously not human... but what may not so obviously be alive... -- Morgan Everett</I>

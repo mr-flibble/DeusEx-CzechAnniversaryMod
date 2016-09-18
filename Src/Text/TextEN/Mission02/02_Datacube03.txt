@@ -1,0 +1,8 @@
+<COMMENT>MJ12 lab</COMMENT>
+<DC=255,255,255>
+<P>From: Data Administration
+<P>To: Maintenance 
+<P>
+<P>Please change the entry codes on the east hatch to 2167.
+<P>
+<P>NOTE: This datacube should be erased immediately upon completion.

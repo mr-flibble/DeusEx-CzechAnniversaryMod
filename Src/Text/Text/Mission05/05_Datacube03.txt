@@ -1,0 +1,7 @@
+<COMMENT>MJ12 lab</COMMENT>
+<DC=255,255,255>
+<P>Agente Shermane:
+<P>
+<P>Vyhoveli jsme pozadavku a premistili dotycneho na chirurgii, aby byla zachranena jeho databanka. Pokud si prejete osobne dohlednout na prubeh praci, pristupovy kod dveri na chirurgii je 0199; nebo kdybyste se chtel ucastnit jen neprimo, muzete pouzit docasny ucet, ktery jsme pro vas vytvorili: login "psherman" a heslo "raven". Dejte mi, prosim, na vedomi, jestli vam ja nebo moji lide muzeme jeste nejak pomoci.
+<P>
+<P>JM

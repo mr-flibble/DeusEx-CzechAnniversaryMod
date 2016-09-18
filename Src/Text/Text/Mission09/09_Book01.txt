@@ -1,0 +1,16 @@
+<COMMENT>Sub building front office</COMMENT>
+<DC=255,255,255>
+<P><JC><B>BROOKLYNSKa LODENICE, PONORKOVa ZaKLADNA</B><P>
+<P>
+<P><I>Vsechen personal bez vyjimky se zde musi zapsat. Navstevy nebudou vpusteny bez doprovodu povolanych osob. Identifikacni stitky museji byt po celou dobu noseny na viditelnem miste. Osoby bez viditelneho oznaceni se mohou stat obeti smrtici palebne sily.</I>
+<P>
+<P><JC>ZAPISTE SE:
+<P>
+<P>22:35  Bob Page/Page Industries
+<P>22:35  Walton Simons/FEMA
+<P>06:30  Kapitan Dick Balme
+<P>06:35  Rory Ackerman
+<P>06:41  Podporucik Chad Warren
+<P>06:45  Brenda Fresnova
+<P>06:58  Josy Rhodes
+<P>...

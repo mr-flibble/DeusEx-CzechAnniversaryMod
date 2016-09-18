@@ -1,0 +1,15 @@
+<COMMENT>Maintenance access through fan</COMMENT>
+<DC=255,255,255>
+<P>VYSPELY TYM MJ12
+<P>ZPRaVA O DOPORUCENêM RESENI PROBLêMU 87-X
+<P>OD: KAPITaN JAMES FLORES
+<P>KE: AGENT KARJO
+<P>PRR-ID: 7793G
+<P>
+<P>POPIS: Po predbezne analyze jsem zjistil, ze mame potencialni slabinu v ochrance v jednom z prilehlych skladist: jedna se o ventilator osazeny do ventilacni sachty, ktera by mohla poslouzit jako eventualni pristupova cesta do budovy. Prestoze by takovy pristup predstavoval pro vetrelce smrtelne riziko, jedna se nicmene o riziko nepripustne nizke podle klasifikace Seraphic/8X.
+<P>
+<P>DOPORUCENI: Oddil by mel byt rozdelen na a) oblastni hlidku; b) hlidku u ventilatoru; c) mely by se instalovat dalsi senzory a kulomety, ktere posili stavajici sit ochranky.
+<P>
+<P>POZNaMKY: Vsichni vojaci primo nepodlehajici MJ12 byli vyhodnoceni jako nespolehlivi a meli by byt neprodlene zlikvidovani.
+<P>
+<P>AUTHBLOK="8723reg7cvhjc87eow3fwelvcsdoc7t80723dfwve"

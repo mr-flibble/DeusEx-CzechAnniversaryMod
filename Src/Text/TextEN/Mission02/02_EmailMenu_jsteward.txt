@@ -1,0 +1,5 @@
+<EMAIL=02_Email06,Our Chemist,WS,JSteward,>
+<EMAIL=02_Email07,Company Picnic,Operations Central,Everyone,>
+<EMAIL=02_Email08,System Hacking,Security Central,JSteward,> 
+<EMAIL=02_Email09,Delivery,WS,JSteward,>
+           

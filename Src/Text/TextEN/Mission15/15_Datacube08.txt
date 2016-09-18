@@ -1,0 +1,9 @@
+<COMMENT>Door code</COMMENT>
+<DC=255,255,255>
+<P>MAINTENANCE LOG: PURVIS, J.
+<P>
+<P>* 19:45:12 -- ... Thought I heard something upstairs, like automatic weapons fire.  I reported it to my sector lead, but she told me it was a training exercise.
+<P>
+<P>* 20:34:02 -- Bunch of those folks in the black suits, like they stepped off the set of "Father Knows Best."  Kept asking questions about the reactors, and I just kept telling 'em they needed to wait till Mac gets back. 
+<P>
+<P>* 23:11:30 -- Finally managed to hack the code to the stairwell blast door (1038); this place is a totally undocumented mess of '50s tech, weird ass stuff, and new toys from the labs.  Amazing any of it works...

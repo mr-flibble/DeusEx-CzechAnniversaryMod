@@ -1,0 +1,9 @@
+<P><JC><B>UNATCO STEALTH GUIDELINES</B>
+<P>
+<P><JC>Overview
+<P>
+<P>Stealth is a vital component of all UNATCO operations; when implemented correctly, stealth missions result in the lowest possible ratio of agent and civilian casualties to hostile losses.
+<P>
+<P>Situational awareness is key, and agents should not only be familiar with the tactical opportunities offered by their immediate environment, but how those opportunities can be exploited to their advantage with the appropriate equipment.  Tech goggles allow agents to operate in low-light environments such as offices or labs where illumination might otherwise attract attention.  With binoculars, an agent can survey an opponent's disposition and determine the best way to evade or eliminate their defenses. A rifle or crossbow equipped with scope and silencing modifications can be used to interdict targets from a considerable distance, significantly compromising hostile resistance.
+<P>
+<P>Other features of the environment can also be used by an agent to enhance their ability to operate covertly or to create useful distractions: disabling security cameras, subverting autoguns, and reprogramming bots are all viable tactics employed by experienced agents in the field.

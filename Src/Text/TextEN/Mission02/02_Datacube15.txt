@@ -1,0 +1,7 @@
+<COMMENT>In kiosk of Castle Clinton</COMMENT>
+<DC=255,255,255>
+<P>Commander Grimaldi:
+<P>
+<P>I've completed installation of the security measures: code for the primary lock is 666.  I'm heading out to help Commander Frase's team prepare for the counterstrike.  In the meanwhile, my best advice is keep your head down.  It's going to get real messy, real fast.
+<P>
+<P>-Decker

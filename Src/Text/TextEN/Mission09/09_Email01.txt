@@ -1,0 +1,6 @@
+<DC=255,255,255>
+<P><B>From:</B> BNS Operations//MilNet.3498.1289
+<P><B>To:</B> Everyone
+<P><B>Subject:</B> SOP 16453/C3
+<P>
+<P>Be advised that from today onwards, all bots will be serviced on bi-weekly rotating intervals.  Any problems with a bot should be reported directly to the operations office.  Unauthorized personnel should _not_ attempt to affect repairs on a bot under any circumstances.

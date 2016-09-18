@@ -1,0 +1,2123 @@
+-----------------------------------------------------------------
+[Owner: AlexJacobson]
+[Name:  JacobsonBarks]
+
+[SPEECH: AlexJacobson]
+Nemej strach. Hlidam ti zada.
+
+[SPEECH: AlexJacobson]
+Bylo by zajimave zjistit, jak by ten prenos znel na Manhattanu.
+
+[SPEECH: AlexJacobson]
+Vsadim se, ze bych te dokazal pripojit na jukebox. Nekdy to mozna zkusime.
+
+-----------------------------------------------------------------
+[Owner: AlexJacobson]
+[Name:  MeetJacobson]
+
+[SPEECH: AlexJacobson]
+Prisel jsi jako mys po spekove vuni.
+
+[SPEECH: JCDenton]
+Z ty masiny uz me zacina bolet hlava.
+
+[SPEECH: AlexJacobson]
+Neboj se. Az budes mimo sluzbu, vypneme to.
+
+[SPEECH: JCDenton]
+Myslim, ze uz se na to tesim.
+
+[SPEECH: AlexJacobson]
+Jsem Alex Jacobson, inzenyr spojar.
+
+[SPEECH: JCDenton]
+Hadam, ze ty vis, kdo jsem ja.
+
+[SPEECH: AlexJacobson]
+Presne tak. Urcite chapes mnohem rychleji, nez tvuj bracha Paul.
+
+[SPEECH: JCDenton]
+Dik.
+
+-----------------------------------------------------------------
+[Owner: Amos]
+[Name:  TerroristsOverheard]
+
+[SPEECH: Amos]
+Tak nasli tu zasilku?
+
+[SPEECH: Jackson]
+Jo, padla nam do rukou cela. Tamhle na mori jsou jeste videt lodni svetla.
+
+[SPEECH: Amos]
+Takze vsechno klaplo. Proc jsme se teda jeste nestahli?
+
+[SPEECH: Jackson]
+Mike nema na vybranou. JoJo chce ridit celou distribucni sit.
+
+[SPEECH: Amos]
+Sakra, nemame dost chlapu, abysme to vsecko ubranili!
+
+[SPEECH: Jackson]
+Jenze JoJo se o to bude snazit.
+
+[SPEECH: Amos]
+To jsem teda zvedavej. Vysvetli mi, jak muze bejt chlap s potetovanym celem plukovnikem NSF? Nezlob se na me, ale u nas v Alabame by nikdo s nausnicema vojensky operace ridit nemoh'!
+
+[SPEECH: Jackson]
+Kdyz mluvis o JoJovi, mel by sis davat bacha na hubu. Nebo ti nakope prdel.
+
+[SPEECH: Amos]
+Je to hajzl a kvuli nemu tu vsichni pochcipame!
+
+[SPEECH: Jackson]
+Sila NSF spociva v tom, ze haji zajem prostyho lidu.
+
+[SPEECH: Amos]
+Jasne, jasne.
+
+-----------------------------------------------------------------
+[Owner: AnnaNavarre]
+[Name:  AnnaBarks]
+
+[SPEECH: AnnaNavarre]
+V doku ceka policejni clun. Sejdeme se na Manhattanu.
+
+[SPEECH: AnnaNavarre]
+Vyrid si svoje zalezitosti ve tretim patre a potom odpluj.
+
+[SPEECH: AnnaNavarre]
+Mame pred sebou spoustu strileni. Navstiv Sama Cartera ve tretim patre a vyzvedni si u nej svou pistoli Stealth.
+
+[SPEECH: AnnaNavarre]
+Stav se u Manderleyho ve druhem patre a vyrazime!
+
+[SPEECH: AnnaNavarre]
+Musim se pripravit na misi.
+
+[SPEECH: AnnaNavarre]
+Nebudu te vsude vodit za rucicku. Mas svoje rozkazy.
+
+-----------------------------------------------------------------
+[Owner: AnnaNavarre]
+[Name:  MeetAnna]
+
+[SPEECH: AnnaNavarre]
+Muj novej partak, JC Denton. Nerikej mi, ze ty zrcadlovky nosis i v noci?
+
+[SPEECH: JCDenton]
+Mam augmentovanej zrak.
+
+[SPEECH: GuntherHermann]
+Ty brejle beztak nosis jen proto, aby ses nemusel koukat do oci jinejm agentum, ktery jsi nechal bez pomoci.
+
+[SPEECH: GuntherHermann]
+Alespon ted vime, ze neni jako Paul.
+
+[SPEECH: JCDenton]
+Omlouvam se, ze rusim. Chtel jsem jenom rict, ze se tesim na spolupraci s tebou, agentko Navarrova. Ted, jestli me omluvite, budu muset pospichat do doku.
+
+[SPEECH: AnnaNavarre]
+Necekam od tebe, ze bys byl tak dobrej jako agent Hermann, ale nase mise bude obnaset neco vic, nez jenom strasit NSF kozenym kabatem, kterej te dela vetsim, nez ve skutecnosti jses!
+
+[SPEECH: JCDenton]
+Jsem pripravenej plnit svoje povinnosti.
+
+[SPEECH: JCDenton]
+Bez obav.
+
+[SPEECH: GuntherHermann]
+Ten neni stejnej jako jeho bracha. Videl jsem na vlastni oci, ze se ve svy praci dobre vyzna.
+
+[SPEECH: AnnaNavarre]
+Doufam, ze se v nem nepletes.
+
+[SPEECH: JCDenton]
+Nezklamu te, agentko.
+
+[SPEECH: JCDenton]
+Omlouvam se, ze rusim. Chtel jsem jenom rict, ze se tesim na spolupraci s tebou, agentko Navarrova. Chtel bych se zeptat, kde najdu Jaimeho kancelar?
+
+[SPEECH: JCDenton]
+Omlouvam se, ze rusim. Chtel jsem jenom rict, ze se tesim na spolupraci s tebou, agentko Navarrova. Chtel bych se zeptat, kde najdu kancelar Sama Cartera?
+
+[SPEECH: JCDenton]
+Omlouvam se, ze rusim. Chtel jsem jenom rict, ze se tesim na spolupraci s tebou, agentko Navarrova. Ted, jestli dovolite, musim jit na poradu k panu Manderleyovi.
+
+[SPEECH: GuntherHermann]
+Tak pro priste nenechavej zajaty agenty v zamceny nepratelsky cele!
+
+[SPEECH: GuntherHermann]
+Tak pro priste nebud takovej krkoun, abys nechaval druhyho agenta na nepratelskym uzemi beze zbrane!
+
+-----------------------------------------------------------------
+[Owner: Betty]
+[Name:  BettyDialogFirst]
+
+[SPEECH: JCDenton]
+Co dela takova slecna tady na tak nebezpecnem miste?
+
+[SPEECH: Betty]
+Co bys rekl? Jsem s manzelem ve sluzbe. Nemohu byt doma sama. V dnesni dobe nikdy nevis, co se muze stat. Muj manzel je dustojnik Zasahove jednotky. Sedi tamhle naproti mne. Klidne za nim zajdi. Je to dobrej chlap. Ma svou praci i me rad. Rada s nim chodim vsude. Takoveto zamestnani je narocna vec a obcas potrebuje podporu.
+
+[SPEECH: JCDenton]
+Tomu rozumim. Ale precejen bys na sebe mela davat pozor. Nemusis se tu bat. S nami jsi v bezpeci.
+
+[SPEECH: Betty]
+Neboj se. Koupila jsem si pro pripady peprovou pistoli. Vim, ze tady by mi asi nepomohla, ale muj manzel mi rekl par taktik jak se branit.
+
+[SPEECH: JCDenton]
+Dobra dobra, nebudu te zdrzovat ani poucovat. Od toho mas tveho manzela. Mimochodem, to jsou tvoje zvirata?
+
+[SPEECH: Betty]
+Ano! Musela jsem si je vzit radeji taky s sebou. Tady je mourek a venku je nas hlidaci cviceny pes Rex. Nemusis se jich bat. Jsou pratelsti.
+
+[SPEECH: JCDenton]
+Tak se opatruj! Ja uz pujdu, dokoncit svou misi.
+
+[SPEECH: Betty]
+Davej na sebe pozor. A nakopej jim zadky (jemny smich)
+
+-----------------------------------------------------------------
+[Owner: CorporalCollins]
+[Name:  CollinsDockBarks]
+
+[SPEECH: CorporalCollins]
+Vitejte mezi nami, agente!
+
+[SPEECH: CorporalCollins]
+Jestli pujdou tudy, pane, dostanu je.
+
+[SPEECH: CorporalCollins]
+Koukam, ze brachovi jste podobnej jako vejce vejci.
+
+[SPEECH: CorporalCollins]
+Proti nasim botum nemaji vzbourenci zadnou sanci.
+
+[SPEECH: CorporalCollins]
+Zda se, ze jsme je zahnali.
+
+[SPEECH: CorporalCollins]
+Je tu vsude klid.
+
+[SPEECH: CorporalCollins]
+Asi byste se mel hlasit v Centru.
+
+[SPEECH: CorporalCollins]
+Clun je pripraven!
+
+[SPEECH: CorporalCollins]
+Jak jsem slysel, teroristi uvazli v Battery Parku.
+
+[SPEECH: CorporalCollins]
+Hodne stesti!
+
+-----------------------------------------------------------------
+[Owner: CorporalCollins]
+[Name:  CollinsDockBarks2]
+
+-----------------------------------------------------------------
+[Owner: CorporalCollins]
+[Name:  CollinsDockBarks3]
+
+-----------------------------------------------------------------
+[Owner: CorporalCollins]
+[Name:  CollinsExpos]
+
+[SPEECH: JCDenton]
+Jak hodnotite situaci, desatniku?
+
+[SPEECH: CorporalCollins]
+Boti je drzi v sachu, pane. Nejradsi bysme na ne vlitli, jenze mame opacnej rozkaz.
+
+[SPEECH: JCDenton]
+Jak to, ze dostali naseho agenta?
+
+[SPEECH: CorporalCollins]
+Gunther nas vysplouch. Kdyz padnul rozkaz k ustupu, neposlech' ho. Tak ho ted musite vysekat vy.
+
+-----------------------------------------------------------------
+[Owner: CustodyTroop]
+[Name:  CustodyTroopBarks]
+
+[COMMENT]
+A UNATCO trooper, male.  He takes custody of the Terrorist Commander after JC clears out the Statue of Liberty.th one of the pistols until it is destroyed.  Notice the targeting reticle appears when you aim at a target.
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: CustodyTroop]
+Ja uz si ho vezmu na starost.
+
+[SPEECH: CustodyTroop]
+Dobra prace, agente!
+
+[SPEECH: CustodyTroop]
+Toho chlapa by meli zavrit az zbela.
+
+[COMMENT]
+These cycle and go random.”
+
+[SPEECH: CustodyTroop]
+Ten svincik tu pak uklidim.
+
+[SPEECH: CustodyTroop]
+Jen tak na ne! Dame jim ochutnat jejich vlastni medicinu!
+
+[SPEECH: CustodyTroop]
+Par jsem jich taky sejmul.
+
+[SPEECH: CustodyTroop]
+Sef nam dal konecne volnou ruku - dejchali jsme vam na krk a zlikvidovali je jako po masle!
+
+-----------------------------------------------------------------
+[Owner: GuntherHermann]
+[Name:  GuntherAttackingBarks]
+
+[COMMENT]
+These cycle and go random.˜2ÿû0Ä;
+
+[SPEECH: GuntherHermann]
+Ted uz ten rozkaz k ustupu chapu. Chteli se ukazat s tou svou novou nanoaugmentacni technologii.
+
+[SPEECH: GuntherHermann]
+Nebudu se ti do tvy ukazkovy akce plyst!
+
+[SPEECH: GuntherHermann]
+Jen do toho! Delej tajtrlika tem odpornejm byrokratum!
+
+[SPEECH: GuntherHermann]
+Jen si posluz! Vsak ona je ta nova hracka brzy omrzi.
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: GuntherHermann]
+Vycistim spodni patro.
+
+[SPEECH: GuntherHermann]
+Ty bez nahoru za jejich vudcem.
+
+[SPEECH: GuntherHermann]
+Spravnej vojak musi bejt schopnej tymovy spoluprace.
+
+-----------------------------------------------------------------
+[Owner: GuntherHermann]
+[Name:  GuntherHQBarks]
+
+[SPEECH: GuntherHermann]
+Manderley rika: "Z tohohle se ulej!" Prave sepisuju dalsi protest.
+
+[SPEECH: GuntherHermann]
+Budes pracovat s Annou Navarrovou.
+
+[SPEECH: GuntherHermann]
+Nepotrebuju se ulejvat. Staci mi plazmova puska s laserovym zamerovacem a muzu vyrazit!
+
+[SPEECH: GuntherHermann]
+V poulicnich bitkach rozhoduje jedine zkusenost.
+
+[SPEECH: GuntherHermann]
+Nemysli si, ze tvy augmentace budou makat za tebe!
+
+[SPEECH: GuntherHermann]
+Netrap se tim, ze je agentka Navarrova tak pichlava. Na omluvu partakovi ji prece zbejva celej zivot, ne?
+
+[SPEECH: GuntherHermann]
+Meli bysme se pohnout.
+
+[SPEECH: GuntherHermann]
+Ja na cizi pomoc nezapominam. Muzes mi vzdycky verit.
+
+-----------------------------------------------------------------
+[Owner: GuntherHermann]
+[Name:  GuntherOverheard]
+
+[SPEECH: AnnaNavarre]
+Urcite jsi zmacknul ten spravnej cudlik?
+
+[SPEECH: GuntherHermann]
+Tak blby chyby ja nedelam.
+
+[SPEECH: AnnaNavarre]
+Mozna ti uklouzla ruka.
+
+[SPEECH: GuntherHermann]
+Ne. Chtel jsem oranzadu. A dalo mi to limonadu.
+
+[SPEECH: AnnaNavarre]
+Automat by se prece nikdy nezmylil...
+
+[SPEECH: GuntherHermann]
+To ten udrzbar! Vi, jak zboznuju oranzadu!
+
+[SPEECH: AnnaNavarre]
+Takze ty myslis, ze se personal proti tobe spiknul...
+
+[SPEECH: GuntherHermann]
+Jasne. Udelali to schvalne.
+
+-----------------------------------------------------------------
+[Owner: GuntherHermann]
+[Name:  GuntherRescued]
+
+[SPEECH: JCDenton]
+Jsem rad, ze te nezranili, agente.
+
+[SPEECH: GuntherHermann]
+Kdyby nevydali tak pitomej rozkaz, nebyli by me obklicili.
+
+[SPEECH: JCDenton]
+Nase prace je riskantni. Myslim, ze tentokrat jsi mel kliku.
+
+[SPEECH: GuntherHermann]
+Agentka Navarrova a ja jsme byli pripraveny sem vlitnout, kdyz nam dali ten nesmyslnej rozkaz ustoupit. Ja nikdy neustupuju. Dej mi, prosim te, nejakou zbran a bez mi z cesty.
+
+[CHOICES:2]
+
+[CHOICE:]
+Jak chces. Vem si mou utocnou pusku.
+
+[CHOICE:]
+Mam za ukol te odsud dostat. O nepratele se postaram.
+
+[CHOICES:2]
+
+[CHOICE:]
+Jak chces. Vem si mou pistoli Stealth.
+
+[CHOICE:]
+Mam za ukol te odsud dostat. O nepratele se postaram.
+
+[CHOICES:2]
+
+[CHOICE:]
+Jak chces. Vem si mou pistoli.
+
+[CHOICE:]
+Mam za ukol te odsud dostat. O nepratele se postaram.
+
+[CHOICES:2]
+
+[CHOICE:]
+Jak chces. Vem si muj nuz.
+
+[CHOICE:]
+Mam za ukol te odsud dostat. O nepratele se postaram.
+
+[CHOICES:2]
+
+[CHOICE:]
+Rad bych ti pomohl, ale moje vyzbroj nestoji za nic.
+
+[CHOICE:]
+Mam za ukol te odsud dostat. O nepratele se postaram.
+
+[SPEECH: GuntherHermann]
+To bude stacit. Vycistim tohle patro. Ty vybehni nahoru po schodech do jejich velitelstvi.
+
+[SPEECH: GuntherHermann]
+Promin, ze jsem zapomnel na tvyho brachu Paula Dentona a na to neskutecny mnozstvi nanoaugmentaci.
+
+[SPEECH: JCDenton]
+Zadnou zbran ted nemuzu postradat. Schovej se, prosim, nekam do bezpeci.
+
+[SPEECH: GuntherHermann]
+Tak do toho! Vybehni nahoru po schodech do jejich velitelstvi. Ja zatim rozhejbu svy rezavy kosti a zavrtam se nekde do hromady hnoje.
+
+[SPEECH: GuntherHermann]
+Tak si nejaky zbrane najdeme! Vycistim tohle patro. Ty vybehni nahoru po schodech do jejich velitelstvi.
+
+-----------------------------------------------------------------
+[Owner: GuntherHermann]
+[Name:  GuntherTrappedBarks]
+
+[COMMENT]
+Gunther is talking to the player from a certain distance (30 feet?) and through a large window.  He is being held prisoner by the NSF.
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: GuntherHermann]
+Agente! Otevri ty dvere!
+
+[SPEECH: GuntherHermann]
+Dej mi zbran!
+
+[SPEECH: GuntherHermann]
+Muzu zahajit protiutok!
+
+[SPEECH: GuntherHermann]
+Obklicili nas. Musel jsem se vzdat.
+
+[SPEECH: GuntherHermann]
+Ted bude litovat kazdej, kdo uz neni mrtvej!
+
+[SPEECH: GuntherHermann]
+Vzbourenci se budou tlouct pesti do cela, ze me nezabili!
+
+-----------------------------------------------------------------
+[Owner: HarleyFilben]
+[Name:  FilbenFinalBark]
+
+[SPEECH: HarleyFilben]
+Radsi si vyzvednu svoje prachy.
+
+[SPEECH: HarleyFilben]
+Aspon dneska se to obeslo bez krveproliti.
+
+[SPEECH: HarleyFilben]
+Vsadim se, ze NSF uz to podruhy nezkusi.
+
+[SPEECH: HarleyFilben]
+Vidim, ze umis drzet slovo. To se mi libi.
+
+[SPEECH: HarleyFilben]
+Jak se mam ted dostat zpatky do mesta? Doplavat?
+
+[SPEECH: HarleyFilben]
+Nepodrazim NSF jen proto, aby UNATCO melo do koho strilet. Vyjadril jsem se snad jasne.
+
+[SPEECH: HarleyFilben]
+Prave jste mi vodkrouhli muj hlavni kontakt do NSF. Doufam, ze vas to aspon pobavilo.
+
+[COMMENT]
+Filben bitter, sarcastic.ahFU¨þ
+
+[SPEECH: HarleyFilben]
+Povidals, ze rad strilis. Aspon zes' mi nelhal.
+
+[COMMENT]
+The player promised not to kill the terrorist commander.n
+
+[SPEECH: HarleyFilben]
+Slysel jsem o tom zasahu. Hadam, ze jsi zmenil nazor.
+
+-----------------------------------------------------------------
+[Owner: HarleyFilben]
+[Name:  FilbenSecondBark]
+
+[SPEECH: HarleyFilben]
+Nikdo z tech chlapku mi sice k srdci neprirost, ale na hromady mrtvol neni moc hezkej pohled, ne?
+
+[SPEECH: HarleyFilben]
+Nezaclanej tu. Vsak ty si uz nejak poradis.
+
+[SPEECH: HarleyFilben]
+Kdyz ses takhle rozhodnul, urcite si najdes jinou cesticku.
+
+[SPEECH: HarleyFilben]
+Doufam, ze za tohle budu mit opravdu velkej balik.
+
+[SPEECH: HarleyFilben]
+Nezapomen, cos mi slibil ohledne toho strileni!
+
+[SPEECH: HarleyFilben]
+Muj tata rikaval: "Jako med zestarne, zezelena a potrebuje opravit, to samy plati o nasi svobode." A to bylo, prosim, jeste v dobe, kdy Spojeny narody nemely svou armadu.
+
+[SPEECH: HarleyFilben]
+Jednou v lete jsem tu sbiral po lidech odpadky. Vsiva prace.
+
+[SPEECH: HarleyFilben]
+Hemzili se tady lidi ze vsech koutu sveta. Na kazdym rohu nejaka ta hatmatilka, ktery jsi nerozumel.
+
+-----------------------------------------------------------------
+[Owner: HarleyFilben]
+[Name:  MeetFilben]
+
+[COMMENT]
+Filben is supposed to have a thick Long Island accent.  Nawth = north.  Lawng Island = Long Island. Stah Wahz = Star Wars.  Etc.  I didn't transliterate because I think it would make Filben look dumber than he is.
+
+[SPEECH: HarleyFilben]
+To je dost, ze ses ukazal.
+
+[SPEECH: JCDenton]
+Zelezo a med. Socha je medena a ma zeleznou kostru, ze?
+
+[SPEECH: HarleyFilben]
+To heslo si strc nekam, priteli. Jestli si myslis, ze toho vis o Dame vic nez ja, tak to se krute mejlis. Muj tata tu delal pruvodce.
+
+[SPEECH: JCDenton]
+Povidali, ze me dostanes dovnitr.
+
+[SPEECH: HarleyFilben]
+Prijde na to. Osvobod si svyho cloveka, vyzen si je ze Sochy, ale jejich velitel je muj znamej a ja nechci, aby se mu neco stalo.
+
+[SPEECH: HarleyFilben]
+Tady mas fotku, tak to hlavne nesplet!
+
+[CHOICES:2]
+
+[CHOICE:]
+Muzes mi verit.
+
+[CHOICE:]
+To ti nemuzu slibit. Pri svy profesi musim obcas pouzit nasili.
+
+[SPEECH: HarleyFilben]
+Pochop me, bracho: ten jejich velitel neni zadnej hrdina! Na fleku se ti vzda.
+
+[SPEECH: JCDenton]
+Zatim jsem nikoho s bilym kapesnikem nevidel.
+
+[SPEECH: HarleyFilben]
+Je to muj hlavni kontakt u NSF. Potrebuju ho zivyho a ve sluzbe, jinak mi z neho nic nekapne. Zadnej klic ti nedam.
+
+[SPEECH: HarleyFilben]
+Beru te za slovo. Tady mas klic k hlavnimu vchodu. Ten jejich velitel neni zadnej hrdina! Na fleku se ti vzda. Je to muj hlavni kontakt u NSF. Potrebuju ho zivyho a ve sluzbe, jinak mi z neho nic nekapne.
+
+[SPEECH: JCDenton]
+Dik.
+
+[SPEECH: JCDenton]
+Mame tu stav nouze - teroristickej utok na uzemi chraneny UNATCO. Pracujes pro UNATCO nebo ne?
+
+[SPEECH: HarleyFilben]
+Do nitra Sochy nevede jenom jedna cesta. Jestli chces vzbourence pobit - je to na tobe. Ale mel by ses proplizit zezadu. Tak jim nedas sanci, aby te sejmuli na dalku.
+
+-----------------------------------------------------------------
+[Owner: HarleyFilben]
+[Name:  MeetFilben2]
+
+[SPEECH: JCDenton]
+Chces z nas vytahnout dalsi prachy? O co ti jde?
+
+[SPEECH: HarleyFilben]
+Bohuzel, tuhle hru s vama nehraju. I kdyz to neznamena ze mam NSF v oblibe. Rikal jsem jim: "Natahali jste do Damy zbrane, proto jste stejny grazlove jako UNATCO..."
+
+[SPEECH: JCDenton]
+Jak to, ze toho o jejich veliteli tolik vis?
+
+[SPEECH: HarleyFilben]
+Je to muj hlavni kontakt u NSF. Potrebuju ho zivyho a ve sluzbe.
+
+[SPEECH: JCDenton]
+UNATCO ho nejspis vezme do vazby.
+
+[SPEECH: HarleyFilben]
+Dokud bude dejchat, bude mit aspon sanci. Varoval jsem ho. Rikal jsem mu primo do oci: "Natahali jste do Damy zbrane, proto jste stejny grazlove jako UNATCO..."
+
+[SPEECH: JCDenton]
+Nezapominej, ze to bylo NSF, kdo Sose utrhnul kebuli ce ctyrkou. UNATCO ji chce poskladat zpatky dohromady.
+
+[SPEECH: HarleyFilben]
+Spis rekni, ze vlada chce, aby si to lidi mysleli. A taky to, ze NSF jsou teroristi.
+
+-----------------------------------------------------------------
+[Owner: HarleyFilben]
+[Name:  MeetFilbenAfterStatue]
+
+[SPEECH: HarleyFilben]
+Co tady, k certu, tvrdnu, kdyz o mou pomoc stejne nikdo nestoji?
+
+[SPEECH: JCDenton]
+Nasel jsem si do Sochy tajnou cesticku, ale UNATCO na tvoje sluzby urcite nezapomene.
+
+[SPEECH: HarleyFilben]
+Cekal jsem tu na tebe dyl jak hodinu. Doufam, ze za to dostanu dysko.
+
+[SPEECH: JCDenton]
+Muzes to navrhnout Manderleyovi.
+
+-----------------------------------------------------------------
+[Owner: JaimeReyes]
+[Name:  DatalinkBriefing]
+
+[SPEECH: JCDenton]
+Jeste nez pujdu, chtel bych se zeptat na jednu vec ohledne svych augmentaci. Muzes mi prozradit neco o infolinku?
+
+[SPEECH: JaimeReyes]
+No, je to... mikroprijimaci exostruktura, kterou tvori mechanokarbonova vlakna na nervovych vybezcich... Ale vis, kvuli smerovani datovych paketu... Ehm, zajima te snad neco konkretne?
+
+[SPEECH: JCDenton]
+Existuje zpusob, jak ho vypnout?
+
+[SPEECH: JaimeReyes]
+Infolink?
+
+[SPEECH: JCDenton]
+Jo. Nebo je na me nekdo z UNATCO napichnutej ctyriadvacet hodin denne?
+
+[SPEECH: JaimeReyes]
+Mozna mi to nebudes verit, JC, ale na tuhle otazku ti odpovedet nesmim.
+
+[SPEECH: JCDenton]
+Mas vyssi povereni nez ja?
+
+[SPEECH: JaimeReyes]
+Co se tyce tvych systemu. Jsem prece tvuj lekar.
+
+[SPEECH: JCDenton]
+Nevadi. Jen me to zajimalo.
+
+-----------------------------------------------------------------
+[Owner: JaimeReyes]
+[Name:  JaimeBarks]
+
+[SPEECH: JaimeReyes]
+Mel bys uz radsi jit.
+
+[SPEECH: JaimeReyes]
+Myslim, ze v ulozni skrince mi zbyl jeden medkit.
+
+[SPEECH: JaimeReyes]
+Rekl bych, ze v doku se na tebe ceka, JC.
+
+[SPEECH: JaimeReyes]
+Cartera najdes v te chodbe naproti zachodum. Ma pro tebe pistoli Stealth.
+
+[SPEECH: JaimeReyes]
+Na tvem miste bych nenechaval Manderleyho cekat. Jeho kancelar je ve druhem patre.
+
+-----------------------------------------------------------------
+[Owner: JaimeReyes]
+[Name:  MeetJaime]
+
+[SPEECH: JaimeReyes]
+Nazdarek, JC.
+
+[SPEECH: JCDenton]
+Vypadas malo plechove. Tebe skutecne nechavaji operovat lidi?
+
+[SPEECH: JaimeReyes]
+Ve skutecnosti tady opravuju Guntherovi koleno. Pouze dohlizim. Citim se porad vic a vic jako mechanik nez jako lekar.
+
+[SPEECH: JCDenton]
+To te teda lituju.
+
+[SPEECH: JaimeReyes]
+A co ty? Tebe skutecne nechavaji lidi zabijet?
+
+[SPEECH: JCDenton]
+Musime pokecat nekdy pozdejc. Prave ted pospicham do New Yorku. Ty umis Manderleyovi vyrobit kohokoliv, po kom zatouzi?
+
+[SPEECH: JaimeReyes]
+Jiste. Poslys, JC - ty tvoje augmentace... Vis prece, jaka to je technologicka bomba, ne?
+
+[SPEECH: JCDenton]
+Pokud se nezmenim na zelenyho muzicka s antenkama, tak mas pravdu.
+
+[SPEECH: JaimeReyes]
+Jo, celej system je navrzenej modularne, takze budes mit brzy pristup k vylepsenim ze standardnich "augmentacnich zasobniku".
+
+[SPEECH: JCDenton]
+Hadam, ze jsem jeden z nich zrovna sebral nahore v Sose.
+
+[SPEECH: JaimeReyes]
+Mozna mas pravdu. Na te lodi, co NSF prepadla, byla i zasilka pro mne od firmy Versalife. Instalaci ovsem musi provest nektery z medbotu.
+
+[SPEECH: JCDenton]
+Skvely. Nemas pro me neco takovyho?
+
+[SPEECH: JaimeReyes]
+Zatim ne. Ale nezapomen, ze kdybys takovy zasobnik nekde splasil, potrebujes k jeho instalaci medbota.
+
+[SPEECH: JCDenton]
+Budu si to pamatovat.
+
+[SPEECH: JaimeReyes]
+Ten zasobnik obsahuje koloidni roztok modulu ROM. Nektere jsou pouhymi vylepsenimi; jine pred tebe stavi otazku nevratneho rozhodnuti, jak ma byt nektery ze tvych subsystemu nakonfigurovan.
+
+[SPEECH: JCDenton]
+Je na case, aby mi takove zarizeni implementovali.
+
+[GOAL:]
+Bez do Manderleyho kancelare ve druhem patre na poradu o dalsi misi.
+
+[SPEECH: JaimeReyes]
+Hlas se u Manderleyho. Rikal mi, abych te potom poslal zpatky k nemu.
+
+[SPEECH: JaimeReyes]
+Uz ses seznamil se svou novou partnerkou - Annou Navarrovou? Myslim, ze sli s Guntherem nahoru do odpocinkove mistnosti.
+
+[SPEECH: JCDenton]
+Jeste jsem ji nevidel.
+
+[SPEECH: JaimeReyes]
+Hotove umelecke dilo. Mozna bys ji mel pred akci slozit kompliment. Nikdy nevis, jestli se pak k tobe nebude chovat laskaveji.
+
+[GOAL:]
+Bez do odpocinkove mistnosti ve druhem patre a seznam se tam se svou novou partnerkou, agentkou Annou Navarrovou.
+
+[GOAL:]
+Bez do Manderleyho kancelare ve druhem patre na poradu o dalsi misi.
+
+[SPEECH: JCDenton]
+Jasne, pujdu se ji predstavit.
+
+[SPEECH: JaimeReyes]
+A hlas se u Manderleyho. Rikal mi, abych te potom poslal zpatky k nemu.
+
+-----------------------------------------------------------------
+[Owner: JaniceReed]
+[Name:  JaniceBarks]
+
+[COMMENT]
+Bark happens after player meets Janice but before he is ready for the biriefing.
+
+[SPEECH: JaniceReed]
+Pred poradou u pana Manderleyho musite navstivit pana Cartera a pana Reyese.
+
+[SPEECH: JaniceReed]
+Myslim, ze nanoaugmentacni program se co nevidet rozjede na plne obratky.
+
+[SPEECH: JaniceReed]
+Vitam vas doma!
+
+[SPEECH: JaniceReed]
+Vetsina personalu pracuje ve tretim patre.
+
+-----------------------------------------------------------------
+[Owner: JaniceReed]
+[Name:  JaniceFinalBarks]
+
+[SPEECH: JaniceReed]
+Chlapce... To byla chvile pravdy!
+
+[SPEECH: JaniceReed]
+Jsme na vas vsichni velice pysni, JC.
+
+[SPEECH: JaniceReed]
+Mnoho stesti!
+
+-----------------------------------------------------------------
+[Owner: JaniceReed]
+[Name:  MeetJanice]
+
+[SPEECH: JaniceReed]
+Odvedl jste dobrou praci, pane Dentone. Pan Manderley vyslovil sve maximalni uspokojeni. Vitejte v Centru UNATCO. Nase nevelka rodina ma tedy dalsiho clena...
+
+[SPEECH: JCDenton]
+Je pan Manderley u sebe?
+
+[SPEECH: JaniceReed]
+Ano, muzete jit dal. Mimochodem, mate pripraveny pocitacovy ucet. Login: JCD, heslo: "bionicman".
+
+[NOTE:]
+UNATCO login: "JCD"; heslo: "bionicman".
+
+[SPEECH: JCDenton]
+Alex mi uz rikal - diky.
+
+[SPEECH: JaniceReed]
+Zdravim vas, pane Dentone. Zrejme jdete navstivit pana Manderleyho? Vitejte v Centru UNATCO. Nase nevelka rodina ma tedy dalsiho clena...
+
+-----------------------------------------------------------------
+[Owner: JaniceReed]
+[Name:  Prebriefing]
+
+[SPEECH: JaniceReed]
+Uz na vas cekaji, agente. Bezte dal.
+
+[SPEECH: JaniceReed]
+Uz na vas cekaji, agente. Bezte dal. Mimochodem, mate pripraveny pocitacovy ucet. Login: JCD, heslo: "bionicman".
+
+[NOTE:]
+UNATCO login: "JCD"; heslo: "bionicman".
+
+[SPEECH: JaniceReed]
+Radsi je nenechavejte dlouho cekat.
+
+-----------------------------------------------------------------
+[Owner: JaniceReed]
+[Name:  PreMeeting]
+
+[SPEECH: JaniceReed]
+Uz na vas ceka, JC.
+
+-----------------------------------------------------------------
+[Owner: JosephManderley]
+[Name:  M02Briefing]
+
+[COMMENT]
+(interrupted by JC's entrance)
+
+[SPEECH: JosephManderley]
+To bude prace pro JC.
+
+[GOAL:]
+Bez do Jizniho doku a odpluj policejnim clunem do Manhattanu.
+
+[COMMENT]
+(the following not a bewildered "What?" or "Huh?", but a casual "What job?")#.ò'ÿûL;R¾My‘3èsö%aþas¨YÖ
+ŠcJnccÞz!sÖ,•c’‰B™ÄoŽ|—ÿ$Ë”>°‰È,@TUu0ÁE
+
+[SPEECH: JCDenton]
+O co jde?
+
+[SPEECH: PaulDenton]
+Elektrarna. NSF hlida Ambrozii ve skladisti chranenem kamerami a ruznymi nastrahami. Musime jim cely ten poplasny system odstrihnout.
+
+[SPEECH: JosephManderley]
+Jedna se o jednu z tech ilegalnich elektraren, chranenou skupinkami NSF. Vyrad tu elektrarnu z provozu a Pauluv tym vleti do toho skladiste.
+
+[SPEECH: JCDenton]
+Staci, kdyz mi na ni ukazete prstem.
+
+[SPEECH: PaulDenton]
+NSF se postavila na otevreny odpor nasim nasazenym jednotkam, ale postupne umdleva. Budes si s nima muset poradit.
+
+[SPEECH: JosephManderley]
+Ani ty nesmis zaspat, Paule. Jakmile je JC odrizne, jdete do nich, a pekne tvrde!
+
+[SPEECH: PaulDenton]
+Nemelo by se to prehanet.
+
+[SPEECH: JosephManderley]
+Vrazis tam na ne jako rozzurenej serif! Prisli jsme o vakcinu a ja jsem ochoten poslat starostovi tvuj nakopanej zadek, aby mu vysvetlil, proc jeho tri dcery nedostanou tenhle mesic svoji medicinu!
+
+[SPEECH: PaulDenton]
+Rozkaz, pane!
+
+[SPEECH: PaulDenton]
+A ty neztracej cas, JC. Spechej do doku. Policejni clun te odveze na pobrezi, kde se setkas se svou partnerkou Annou Navarrovou.
+
+[SPEECH: JosephManderley]
+Ano, nesmime zahalet! Tady mas odmenu za tu skvelou praci, kterou jsi odvedl v Sose, 1000 kreditu. UNATCO dokaze sve lidi ocenit. Ovsem odmenu za zachranu agenta Hermanna dostava jeden z vojaku. Urcite chapes, proc.
+
+[SPEECH: JosephManderley]
+Ano, nesmime zahalet! Tady mas odmenu za praci, kterou jsi odvedl v Sose. Strhnul jsem ti 200 kreditu za zabiti velitele navzdory mym rozkazum, takze ti zbyva 800. Priste poslechni rozkaz. Odmenu za zachranu agenta Hermanna dostava jeden z vojaku.
+
+[SPEECH: JosephManderley]
+Ano, nesmime zahalet! Tady mas odmenu za tu skvelou praci, kterou jsi odvedl v Sose, plus 250 za zachranu agenta Hermanna. To je celkem 1250. UNATCO dokaze sve lidi ocenit.
+
+[SPEECH: JosephManderley]
+Ano, nesmime zahalet! Tady mas odmenu za praci, kterou jsi odvedl v Sose. Strhnul jsem ti 200 kreditu za zabiti velitele navzdory mym rozkazum, ale dostal jsi jeste odmenu za zachranu agenta Hermanna. Celkem je to 1050. Priste poslouchej rozkazy.
+
+[SPEECH: JCDenton]
+Dekuju vam, pane!
+
+[SPEECH: JosephManderley]
+Mimochodem, Dentone, zakazuju ti vstup na damskou toaletu! Podobne veci vzrusuji mistni osazenstvo jeste daleko vic, nez tebe.
+
+-----------------------------------------------------------------
+[Owner: JosephManderley]
+[Name:  ManderleyBarks]
+
+[SPEECH: JosephManderley]
+A JC - priste se pokousej chovat podle rozkazu!
+
+[SPEECH: JosephManderley]
+Tvoje nova partnerka se ti bude zamlouvat. Patri k tem nejlepsim!
+
+[SPEECH: JosephManderley]
+Vrat se, odkud jsi prisel, Dentone. Bez do doku. Klusem!
+
+[SPEECH: JosephManderley]
+Tak pohyb, vojaku!
+
+-----------------------------------------------------------------
+[Owner: JosephManderley]
+[Name:  ManderleyWaiting]
+
+[SPEECH: JosephManderley]
+Nemocnice a zbrojnice jsou ve tretim patre.
+
+[SPEECH: JosephManderley]
+Mam tady jeste nejakou praci.
+
+[SPEECH: JosephManderley]
+Vrat se sem po navsteve u Cartera a Reyese.
+
+-----------------------------------------------------------------
+[Owner: JosephManderley]
+[Name:  MeetManderley]
+
+[SPEECH: JCDenton]
+Hlasim se do sluzby, pane!
+
+[SPEECH: JosephManderley]
+Nas hrdina osobne! Vyborne. Omlouvam se ti za ty potize tam nahore.
+
+[SPEECH: JCDenton]
+Prijemna zmena oproti nude v akademii, pane!
+
+[SPEECH: JosephManderley]
+V akademii, ano. Myslel jsem, ze vas tam uci trose te discipliny. Uz nikdy nezabijej zajatce v rozporu s mymi rozkazy. Jasne?
+
+[SPEECH: JCDenton]
+Jasne, pane!
+
+[SPEECH: JosephManderley]
+Jen nepodcenuj vycvik, chlapce. Dokonce ani ty bys nam nebyl nic platny bez radneho vycviku a studia!
+
+[SPEECH: JCDenton]
+Takze NSF slo po zasilce Ambrozie? Dejte mi vrtulnik s pilotem a o zbytek se postaram ja!
+
+[COMMENT]
+(laughs)n
+
+[SPEECH: JosephManderley]
+Verim, ze bys to dokazal. Ty ano! Ale na takove veci tu mame tveho bratra jakozto velitele zachranneho tymu. Ty budes spolupracovat s agentkou Annou Navarrovou. Muzeme se sejit, az absolvujes lekarskou prohlidku u Jaimeho a vyzbrojis se u Sama Cartera. Potom se dozvis vic.
+
+[COMMENT]
+Note that we know that JC has not yet seen Jaime, Carter, or both if this convo is triggered.
+
+[SPEECH: JCDenton]
+Ano, pane!
+
+[SPEECH: JCDenton]
+Na prohlidce jsem uz byl, ale mrknu se na Cartera a hned budu zpatky.
+
+[SPEECH: JCDenton]
+Zbrane uz mam, ale skocim se podivat do nemocnice a hned se vratim.
+
+[GOAL:]
+Navstiv Jaimeho Reyese kvuli lekarske prohlidce.
+
+[GOAL:]
+Navstiv Sama Cartera kvuli vyzbroji.
+
+[COMMENT]
+In this next exchange, Manderley probably suspects that the player killed the UNATCOTroop that was sent to help with the terrorist commander.  (The player DID kill him.)  But he can't know for certain.  Otherwise, the player would have to be arrested and the game would end.
+
+[SPEECH: JosephManderley]
+Mimochodem, videl jsi, co se stalo tomu vojakovi, ktereho jsme poslali do Sochy? Je mrtev!
+
+[SPEECH: JosephManderley]
+Mimochodem, videl jsi, co se stalo tomu vojakovi, ktereho jsme poslali do Sochy? Je v bezvedomi!
+
+[SPEECH: JCDenton]
+To nevim, pane. Strelil po nem nekdo omylem?
+
+[SPEECH: JosephManderley]
+Bohuzel, o zadny omyl se nejednalo. Naridil jsem vysetrovani. Odchod!
+
+-----------------------------------------------------------------
+[Owner: MichaelBerry]
+[Name:  BerryBarks]
+
+[SPEECH: MichaelBerry]
+Dali jsme tem vzbourencum na pametnou, co, Dentone?
+
+[SPEECH: MichaelBerry]
+Vsadim se, ze to NSF hned tak znovu nezkusi.
+
+[SPEECH: MichaelBerry]
+Nahore jste odvedl dobrou praci.
+
+-----------------------------------------------------------------
+[Owner: Mole]
+[Name:  MoleBarks]
+
+[SPEECH: Mole]
+To bylo vsechno, co mam.
+
+[SPEECH: Mole]
+Diky za spropitny.
+
+[SPEECH: Mole]
+Aspon neco za to, ze se sem tahnu takovou dalku.
+
+-----------------------------------------------------------------
+[Owner: Mole]
+[Name:  MoleConvos]
+
+[SPEECH: JCDenton]
+Jsi tu s Filbenem?
+
+[SPEECH: Mole]
+Mam podil za to, ze jsem ho sem privezla.
+
+[SPEECH: JCDenton]
+Rekni mi, co vis o te operaci NSF.
+
+[SPEECH: Mole]
+Ja jsem jen obycejnej pesak. Elitni jednotky se zmocnily lodi a vylozily ji do tryskovejch clunu. Myslim, ze to byla jenom zasterka.
+
+[SPEECH: JCDenton]
+Lodi?
+
+[SPEECH: JCDenton]
+O ty zasilce nevim skoro nic.
+
+[SPEECH: Mole]
+Vis co? Zmenime tema: Velitel mi dal zasobnik desitek, krabici munice do odstrelovacky a par sipek do minikuse se slovy, abych se drzela stranou. Jako kdybych chtela bojovat s jednotkama UNATCO! Nemas zajem o tu munici? Zasobnik ti dam za 175, razi 30.06 za 300 a ty sipky za 50! Na tvym miste bych se tam predem vubec nedrala a na klice od Filbena se vykaslala. Do Sochy se necha vlyzt i zezadu. A je to mnohem snadnejsi.
+
+[CHOICES:7]
+
+[CHOICE:]
+Vezmu si ten zasobnik desitek za 175.
+
+[CHOICE:]
+Vzal bych si ten zasobnik desitek, kdybych mel 175.
+
+[CHOICE:]
+Tady mas 300. Dej mi tu razi 30.06.
+
+[CHOICE:]
+Vzal bych si tu razi 30.06, kdybych mel 300.
+
+[CHOICE:]
+Koupil bych si ty sipky za 50.
+
+[CHOICE:]
+50 za sipky neni moc, ale nemam ani to.
+
+[CHOICE:]
+Ne, diky.
+
+[SPEECH: Mole]
+Dikes.
+
+[SPEECH: Mole]
+Ze veliteli posilam kulku. Jeho vinou mi zabili brachu.
+
+[SPEECH: Mole]
+To kvuli veliteli se rozestvali vsichni moji pribuzni. Nekdo by mel to hnusny prase uz konecne ugrilovat na rozni!
+
+[SPEECH: Mole]
+Kdyz budes chtit, klidne se tu za mnou stav! Prachy by se mi hodily.
+
+[SPEECH: Mole]
+Netlacila bych te ke zdi, ale sama mam hluboko do kapsy.
+
+[SPEECH: Mole]
+Vis, kde me najdes.
+
+[SPEECH: JCDenton]
+Pockej. Nejaky prachy prece jen mam.
+
+[SPEECH: Mole]
+Urcite si nechces koupit trochu munice?
+
+-----------------------------------------------------------------
+[Owner: Mole]
+[Name:  MoleJump]
+
+-----------------------------------------------------------------
+[Owner: Mole]
+[Name:  MoleNotMet]
+
+[SPEECH: Mole]
+Co je? Cekam tu na svezeni.
+
+[SPEECH: Mole]
+Filben rikal, ze za to dostanu 200 kreditu. Doufam, ze me netahal za nohu.
+
+[SPEECH: Mole]
+Mas problem?
+
+[SPEECH: Mole]
+Nech me bejt!
+
+-----------------------------------------------------------------
+[Owner: NYPoliceBoat]
+[Name:  BoatWaitingForBriefing]
+
+[SPEECH: NYPoliceBoat]
+Skocte si do Centra pro rozkazy a muzeme frcet.
+
+[SPEECH: NYPoliceBoat]
+NSF vtrhla do mesta a radi tam.
+
+[SPEECH: NYPoliceBoat]
+Nevim sice, o co jde, ale v Battery Parku se hrozne strili!
+
+-----------------------------------------------------------------
+[Owner: NYPoliceBoat]
+[Name:  GotoM02]
+
+[SPEECH: NYPoliceBoat]
+Takze vyrazime!
+
+-----------------------------------------------------------------
+[Owner: NYPoliceBoat]
+[Name:  JustArrived]
+
+[SPEECH: NYPoliceBoat]
+Mam rozkaz zustat tady.
+
+[SPEECH: NYPoliceBoat]
+Na vasem miste bych nechal boty, at bojuji za vas.
+
+[SPEECH: NYPoliceBoat]
+Jeste, ze mam neprustrelna okna!
+
+-----------------------------------------------------------------
+[Owner: PaulDenton]
+[Name:  MeetPaul]
+
+[GOAL:]
+Zda se, ze NSF ridi utok z nitra Sochy. Pronikni dovnitr a zjisti, oc jde.
+
+[GOAL:]
+Uvnitr sochy je drzen v zajeti jeden spickovy agent UNATCO. Osvobod ho a on ti bude kryt zada proti NSF.
+
+[GOAL:]
+Vyhledej informatora UNATCO Harleyho Filbena v Severnich docich. Preda ti klic ke dverim do Sochy.
+
+[SPEECH: JCDenton]
+Paule! Myslel jsem, ze jsi v Hongkongu!
+
+[SPEECH: PaulDenton]
+Vitej mezi nas, JC... Mel bych zacit pouzivat tvy kryci jmeno. Vazne si myslis, ze bych promeskal nastupni den svyho brachy?
+
+[SPEECH: JCDenton]
+Nevedel jsem, zes' mel na vybranou. Co se deje?
+
+[SPEECH: PaulDenton]
+NSF - napadli jednu z nasich zasilek. Par jich stacilo zdrhnout, ale zbytek jsme uveznili v Sose.
+
+[SPEECH: JCDenton]
+Tak na co cekame? Vymlatime je jako na strelnici!
+
+[SPEECH: PaulDenton]
+NSF ma jednoho naseho agenta jako rukojmi. Boti je sice ohlidaji, ale jinak jsem dal rozkaz k ustupu a poslal jsem pro tebe. Zda se, ze te chce nejakej hlavoun vyzkouset, jak si s tim poradis.
+
+[SPEECH: JCDenton]
+Mam s sebou jenom pistoli a elektrickej bodec. Proti zkousce nic nenamitam, ale UNATCO ma na sklade kvalitnejsi vyzbroj.
+
+[SPEECH: PaulDenton]
+Nezapominej, ze jsme jenom poldove. Pouzivej bodec. Protivnika tim ochromis nebo dokonce omracis. A omraceni je tim nejpokojnejsim zpusobem, jak zlikvidovat odpor. Ale musim priznat, ze Manderley ti vzkazuje, aby sis vybral druhou zbran: odstrelovacku, GEPku nebo minikusi.
+
+[CHOICES:3]
+
+[CHOICE:]
+Nejradsi strilim na dalku. Vezmu si tu pusku.
+
+[CHOICE:]
+Clovek nikdy nevi, kdy narazi na nejakyho obrnence. Dej mi radsi GEPku.
+
+[CHOICE:]
+Vezmu si kusi. Nekdy je zapotrebi jednat rychle a tise.
+
+[SPEECH: PaulDenton]
+Tady nejsi na zadny strelnici, JC. Budou proti tobe stat zivy lidi. Nezapominej na to!
+
+[SPEECH: PaulDenton]
+GEPka se muze hodit. U vchodu do Sochy hlidkuje jejich straznej bot.
+
+[SPEECH: JCDenton]
+Bezva. Cim zacneme?
+
+[SPEECH: PaulDenton]
+Dobre delas. S uspavacima sipkama mas k dispozici dalsi zpusob, jak nepritele jenom omracit, kdyz nepocitame bodec.
+
+[SPEECH: JCDenton]
+Chapu. Cim zacneme?
+
+[SPEECH: PaulDenton]
+Tady si vezmi mapu ostrova. Snaz se dostat do severniho doku, kde ti informator UNATCO preda klic ke vchodu do Sochy. Heslo je "zelezo a med". Ale vyhnul by ses spouste neprijemnosti, kdyby sis k Sose nasel jinou cesticku.
+
+[SPEECH: JCDenton]
+Mrknu se, jak to vypada na pobrezi.
+
+[SPEECH: PaulDenton]
+Tvuj hlavni ukol je, dostat se do provizorniho velitelstvi teroristu na vrcholku Sochy, ale pamatuj na agenta Hermanna. Predpokladame, ze ho drzi nekde v prizemi.
+
+[SPEECH: JCDenton]
+Co mam delat, az se dostanu do jejich velitelstvi?
+
+[SPEECH: PaulDenton]
+Vyslechni jejich vudce. Zatim netusime, proc teroristi riskovali nezakryty utok.
+
+-----------------------------------------------------------------
+[Owner: PaulDenton]
+[Name:  PaulCongratulations]
+
+[GOAL:]
+Hlas se v Manderleyho kancelari ve druhem patre.
+
+[COMMENT]
+The same dialogue seems to work for both, though in the following case the terrorist commander has lived.
+
+[SPEECH: PaulDenton]
+Ostrov jsme zajistili. Jak to vypada v Sose?
+
+[SPEECH: JCDenton]
+Jejich velitel se vzdal. Takze oni sli po Ambrozii...
+
+[SPEECH: PaulDenton]
+Mesicni davka pro Vychodni pobrezi. Domnivame se, ze ji odvezli zpatky do mesta.
+
+[SPEECH: JCDenton]
+Netusil jsem, ze UNATCO se stara o distribuci Ambrozie.
+
+[SPEECH: PaulDenton]
+Manderley si nas za chvili zavola. UNATCO zajistuje omezene davky vakciny pro vladni agentury a klicovy prumysl.
+
+[SPEECH: JCDenton]
+Neskodilo mi, trochu si protahnout kosti.
+
+[COMMENT]
+Currently, only the" PlayerIsAnAsshole" thread comes through here and needs the "Pissed" ending.o hold back and send you in alone.  I think someone high up wants to see how you handle the situ
+
+[SPEECH: PaulDenton]
+At ti to nestoupne do hlavy! Ale vedl sis dobre. Ted bez dovnitr. Uvidime se v Manderleyho kancelari ve druhem patre.
+
+[SPEECH: PaulDenton]
+Jo, ale uz se uklidni. Zabil jsi spoustu lidi. Zbytek zaridim ja. Radsi se bez hlasit do Manderleyho kancelare ve druhem patre.
+
+[SPEECH: PaulDenton]
+Jo, jasne, ale ted padej dovnitr! Porada bude v Manderleyho kancelari ve druhem patre.
+
+[SPEECH: PaulDenton]
+Poradne jsi to posral.
+
+[SPEECH: JCDenton]
+Jak to myslis?
+
+[SPEECH: PaulDenton]
+Mel jsi rozkaz vyslechnout velitele. Vzdal se ti prece.
+
+[SPEECH: JCDenton]
+Polozil jsem mu par otazek. Ale jeho odpovedi se mi nelibily.
+
+[SPEECH: PaulDenton]
+Na vojne existuje neco jako sluzebni rad. Tady jsi u armady, ne na hristi!
+
+[SPEECH: PaulDenton]
+Nejak se ti to vymklo z ruky.
+
+[SPEECH: JCDenton]
+Jak to myslis?
+
+[SPEECH: PaulDenton]
+Od jejich velitele jsme se mohli leccos dozvedet.
+
+[SPEECH: PaulDenton]
+Od jejich velitele jsme se mohli leccos dozvedet. Budto se mu podarilo zdrhnout nebo ho oddelali vojaci.
+
+[SPEECH: JCDenton]
+Nechtel spolupracovat. Alex rikal neco o zasilce Ambrozie...
+
+[SPEECH: PaulDenton]
+Zmocnili se cele lodni zasilky Ambrozie, vakciny proti epidemii. Mozna by nam jejich velitel prozradil, kam ji zasili.
+
+[SPEECH: JCDenton]
+Takze oni s ni zmizeli? A my nevime, kam?
+
+[SPEECH: PaulDenton]
+Za chvili si nas zavola Manderley. Radsi se bez hlasit do jeho kancelare ve druhem patre.
+
+-----------------------------------------------------------------
+[Owner: PaulDenton]
+[Name:  PaulDockBarks]
+
+[COMMENT]
+These cycle and go random
+
+[SPEECH: PaulDenton]
+Ja zatim ohlidam tuhle stranu ostrova.
+
+[SPEECH: PaulDenton]
+Par veci bys mohl najit v komunikacni bunce u heliportu.
+
+[SPEECH: PaulDenton]
+Tezko uverit, ze tahle skala byla kdysi turisticka atrakce, co?
+
+[SPEECH: PaulDenton]
+Nejlip udelas, kdyz pri utoku prenechas nejhorsi praci botum.
+
+-----------------------------------------------------------------
+[Owner: PaulDenton]
+[Name:  PaulDockChat1]
+
+[SPEECH: JCDenton]
+To tady budes jen tak postavat?
+
+[SPEECH: PaulDenton]
+Na mori rozhodne neni klid a bezpecno. Radsi tu pohlidam pobrezi.
+
+[SPEECH: JCDenton]
+Proc te preveleli zpatky do New Yorku?
+
+[SPEECH: PaulDenton]
+Nemam poneti, co ted planujou. Zapletl jsem se do atentatu na jednoho z clenu Triady v Hongkongu.
+
+[SPEECH: JCDenton]
+UNATCO te stahlo?
+
+[SPEECH: PaulDenton]
+To je dlouhy povidani. Radsi se vydej k ty Sose.
+
+-----------------------------------------------------------------
+[Owner: PaulDenton]
+[Name:  PaulDockChat2]
+
+[SPEECH: JCDenton]
+Co je ta Triada, po ktery UNATCO jde?
+
+[SPEECH: PaulDenton]
+Pokecame si o tom pozdejc. Jaky mas povereni?
+
+[SPEECH: JCDenton]
+Chci vedet, co se stalo.
+
+[SPEECH: PaulDenton]
+Rad bych ti to rekl. Tehdy jsem se sice stydel za to, ze ke mne patri moji rodice, ale byly to krasny casy. Spojeny narody usporadaly obed na mou pocest, na pocest prvniho augmentovanyho agenta.
+
+[SPEECH: JCDenton]
+To jsem nevedel. Hadam, ze toho nevim jeste moc.
+
+[SPEECH: PaulDenton]
+Tata pronasel pripitek. Nevim, jestli si pamatujes to jeho stary hnedy kvadro...
+
+[SPEECH: JCDenton]
+Pripitek? To se k nasemu otci moc nehodi.
+
+[SPEECH: PaulDenton]
+Nebylo to pro nej pred tema diplomatama snadny, ale vychutnaval si kazdou vterinu.
+
+[SPEECH: JCDenton]
+Stejne je divny, na co moh' bejt tak pysnej, kdyz za to vsechno mohla...nase augmentace.
+
+[COMMENT]
+Paul's aside is partly to himself.  He has been told by Tracer Tong that his and JC's parents were hired by the military -- that he and JC are genetically engineered.G
+
+[SPEECH: PaulDenton]
+Jo, byl pysnej. Veril jsem tomu. Bylo prima, udelat neco pro nej i pro mamu. Pral bych ti, abys mel taky nekoho takovyho.
+
+[SPEECH: JCDenton]
+Ja jsem zvyklej starat se sam o sebe.
+
+[SPEECH: PaulDenton]
+Ja zase dosel k nazoru, ze ani samota se nema prehanet.
+
+-----------------------------------------------------------------
+[Owner: PaulDenton]
+[Name:  PaulFinalBark]
+
+[SPEECH: PaulDenton]
+Sejdeme se ve meste.
+
+-----------------------------------------------------------------
+[Owner: PaulDenton]
+[Name:  PaulWaitingOutside]
+
+[COMMENT]
+When player has cleaned out statue, talked to Paul, but has not talked to Jaime and Carter.
+
+[SPEECH: PaulDenton]
+Bez dovnitr. Uvidime se v Manderleyho kancelari.
+
+-----------------------------------------------------------------
+[Owner: postmissiontroops]
+[Name:  postmissiontroopsluck]
+
+[SPEECH: postmissiontroops]
+Hodne stesti, agente!
+
+[SPEECH: postmissiontroops]
+Dejte jim to sezrat, pane!
+
+[SPEECH: postmissiontroops]
+Opatrne, pane!
+
+[SPEECH: postmissiontroops]
+Dejte si pozor, agente - ve meste jsou NSF doma.
+
+[SPEECH: postmissiontroops]
+At vam to klape s agentkou Navarrovou! Ta dovede vzit za praci.
+
+-----------------------------------------------------------------
+[Owner: postmissiontroops]
+[Name:  postmissiontroopsssecure]
+
+[SPEECH: postmissiontroops]
+Poslali nas, at tu posbirame mrtvoly. Tela jsme uz prohledali a vsechny zbrane i munici jsme poslali proviantakovi.
+
+[SPEECH: postmissiontroops]
+Nekdo uz musel tomu jejich veliteli vyvetrat mozek.
+
+[SPEECH: postmissiontroops]
+Jsem rad, ze jste mel odvahu toho jejich velitele sejmout.
+
+[SPEECH: postmissiontroops]
+Myslim, ze tam nahore jste jenom poslouchal rozkazy.
+
+[SPEECH: postmissiontroops]
+Udelal jste dobre. Vyridit ty parchanty a na pravniky se neohlizet!
+
+[SPEECH: postmissiontroops]
+Benson nasel jednu plynovou past - peknej hnus!
+
+[SPEECH: postmissiontroops]
+Diky za to, ze jste nam jich par nechal.
+
+[SPEECH: postmissiontroops]
+Priste nam jich nechte trochu vic.
+
+[SPEECH: postmissiontroops]
+Rychlej a tichej - hadam, ze proto je z vas ted zvlastni agent.
+
+[SPEECH: postmissiontroops]
+Konecne - jeden augmentovanej, kterej se neboji taky trochu strilet.
+
+[SPEECH: postmissiontroops]
+Nase jednotky jsou uz na Manhattanu. Tahle partie jeste neskoncila.
+
+[SPEECH: postmissiontroops]
+Rad bych vedel, co to melo vlastne znamenat.
+
+[SPEECH: postmissiontroops]
+Mame ted vsechno pod kontrolou.
+
+[SPEECH: postmissiontroops]
+Dost prace na prvni den, pane.
+
+[SPEECH: postmissiontroops]
+Vsechny kvadranty jsou cisty.
+
+[SPEECH: postmissiontroops]
+O mrtvoly se nestarejte - uklid obstarame my.
+
+[SPEECH: postmissiontroops]
+Dobra prace, agente.
+
+-----------------------------------------------------------------
+[Owner: PrivateLloyd]
+[Name:  LloydBarks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: PrivateLloyd]
+Musim tu hlidat vchod.
+
+[COMMENT]
+It's the player's first day at the academy, too.
+
+[SPEECH: PrivateLloyd]
+Ja jsem taky prvni den ve sluzbe. Jsem strasne rozrusenej.
+
+[SPEECH: PrivateLloyd]
+Na akademii jsme chodili do stejnyho rocniku. Asi si me nepamatujes.
+
+[SPEECH: PrivateLloyd]
+Manderleyho kancelar je ve druhym patre. Sef uz na tebe ceka.
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: PrivateLloyd]
+Zmaknul jsi to dobre! Pani, dva Dentoni najednou! NSF ani nevedela, odkud to lita.
+
+-----------------------------------------------------------------
+[Owner: PrivateLloyd]
+[Name:  TrooperCongratulation]
+
+[SPEECH: PrivateLloyd]
+Slysel jsem, ze jsi tem teroristum proklouznul tesne za zadkem. To bylo mazany!
+
+[SPEECH: PrivateLloyd]
+Mas dobrou musku. Slysel jsem, zes' jich furu postrilel. Vitej do UNATCO!
+
+[SPEECH: PrivateLloyd]
+Muzes jit. Myslim, ze Gunther ma po slave.
+
+-----------------------------------------------------------------
+[Owner: RiotCopDustojnik]
+[Name:  StartCivil]
+
+[GOAL:]
+NSF zajala nekolik civilistu v sose. Pokus se je osvobodit.
+
+[SPEECH: RiotCopDustojnik]
+Aaa, ty ses ten vsude znamy JC Denton co? Mam moc prace, takze nemam cas na vykecavani. Mel bych pro tebe praci, ze ktery ti muze kapnout par kreditu, co ty na to?
+
+[SPEECH: JCDenton]
+O co jde? Uz tak toho mam dost.
+
+[SPEECH: RiotCopDustojnik]
+V sose je nekolik zajatych civilistu. Chci abys je zachranil a nic se jim nestalo. Prosim, udelej to pro me. Dam ti za to 100 kreditu. Sami tam vlitnout nemuzem. Dostali jsme rozkazy, at zustaneme tady, ze pry to mas cele na povel ted ty.
+
+[SPEECH: JCDenton]
+To je pravda. Zda se, ze nemam na vyber. Udelam to.
+
+[SPEECH: RiotCopDustojnik]
+Diky za pomoc. Pro jistotu si vezmi ode me nejaky ten medkit. Bude se ti hodit. Hodne stesti.
+
+-----------------------------------------------------------------
+[Owner: SamCarter]
+[Name:  CarterBarks]
+
+[SPEECH: SamCarter]
+NSF se dala na ustup. Mel bys radsi jit.
+
+[SPEECH: SamCarter]
+Pistole ti uplne staci. Pani, jednou jsem vyridil celou cetu kapesni kudlickou!
+
+[SPEECH: SamCarter]
+Na klaboseni neni cas.
+
+-----------------------------------------------------------------
+[Owner: SamCarter]
+[Name:  MeetCarter]
+
+[SPEECH: SamCarter]
+Rozvahu, agente Dentone!
+
+[SPEECH: JCDenton]
+Generale Cartere, ve skole jsme se ucili o Operaci zoldak. Musela to bejt hruza.
+
+[SPEECH: SamCarter]
+Ja nejsem zadnej general. Rikej mi Carter.
+
+[SPEECH: JCDenton]
+Je mi lito, co NSF udelala vasi rodine.
+
+[SPEECH: SamCarter]
+Nechme toho, vojaku. Kazdy mame svych starosti dost. Ja prisel o deti, ale tys musel vyrustat bez rodicu. Co vyzaduje vetsi odvahu? Myslim, ze na tom nezalezi.
+
+[SPEECH: JCDenton]
+Mi rodice zahynuli pri dopravni nehode. To je neco jinyho.
+
+[SPEECH: SamCarter]
+Povidam, ze to staci. Mas svuj vlastni ukol a casu je malo. Co kdybych ti dal pistoli Stealth?
+
+[SPEECH: JCDenton]
+To si dam libit. Diky, pane.
+
+[SPEECH: SamCarter]
+Potrebujes jeste neco jineho?
+
+[CHOICES:3]
+
+[CHOICE:]
+Hodil by se mi nejakej paklic.
+
+[CHOICE:]
+Nebyl by nejakej nanotechnickej multitool?
+
+[CHOICE:]
+Jen nejakou munici.
+
+[SPEECH: SamCarter]
+Spravne: proniknout do objektu tajne - spolehat jedine sam na sebe. A ted uz vypadni. Manderley ceka.
+
+[SPEECH: SamCarter]
+Vidim, ze pouzivas vlastni hlavu - to mam rad. A ted uz vypadni. Manderley ceka.
+
+[SPEECH: SamCarter]
+Nic proti tomu. Jenom premyslej, nez stisknes spoust. A ted uz vypadni. Manderley ceka.
+
+[SPEECH: SamCarter]
+Nic proti tomu. A ted uz vypadni. Manderley ceka.
+
+[GOAL:]
+Bez do Manderleyho kancelare ve druhem patre na poradu o dalsi misi.
+
+[SPEECH: JCDenton]
+Bohuzel, pane. Vic uz momentalne nepoberu.
+
+[SPEECH: SamCarter]
+Takze, to mame... Pistole Stealth... Potrebujes jeste neco jineho?
+
+[SPEECH: JCDenton]
+Chtel jsem se zeptat - co ten chlapek venku, kterej nabizi munici na prodej? Je to povoleny?
+
+[SPEECH: SamCarter]
+To je Kaplan, jasne. Par cvoku tady sice mame, ale on k nim nepatri. Do zbrojnice se nam vloupal nekdo jiny.
+
+[SPEECH: JCDenton]
+Nekdo v UNATCO je zlodej?
+
+[SPEECH: SamCarter]
+To bych rekl, a zatracene dobrej.
+
+-----------------------------------------------------------------
+[Owner: Scott]
+[Name:  ScottBarks]
+
+[SPEECH: Scott]
+Slysel jsem, ze se tam nahore strhla pekna bitva.
+
+[SPEECH: Scott]
+Tady dole nebyl slyset jedinej zvuk.
+
+[SPEECH: Scott]
+Slysel jsem, ze ma nekdo dohlizet na Centrum.
+
+[SPEECH: Scott]
+Kez bych smel jit s vama!
+
+-----------------------------------------------------------------
+[Owner: Scott]
+[Name:  ScottWelcome]
+
+[SPEECH: Scott]
+Pojdte dal! Sitnicovej skenner dokaze rozlisit strukturu krevnich telisek i za tema vasima zrcadlovkama.
+
+-----------------------------------------------------------------
+[Owner: Shannon]
+[Name:  BathroomBarks]
+
+[SPEECH: Shannon]
+Jak nechutne!
+
+[SPEECH: Shannon]
+Cekate, ze se vam tu budu predvadet?
+
+[SPEECH: Shannon]
+Nemyslete si, ze to neohlasim!
+
+-----------------------------------------------------------------
+[Owner: TechSergeantKaplan]
+[Name:  KaplanDefaultBarks]
+
+[COMMENT]
+A greeting.onComplete
+
+[SPEECH: TechSergeantKaplan]
+Zdravim.
+
+[SPEECH: TechSergeantKaplan]
+Rekli mi, abych tady drzel hlidku.
+
+[SPEECH: TechSergeantKaplan]
+Je fajn, ze vas tu mame, pane.
+
+-----------------------------------------------------------------
+[Owner: TechSergeantKaplan]
+[Name:  KaplanFinalBarks]
+
+[SPEECH: TechSergeantKaplan]
+Jsem rad, ze tu mame konecne nekoho, kdo se hned tak nepodela.
+
+[SPEECH: TechSergeantKaplan]
+Dobre jste jim to nandal, agente!
+
+-----------------------------------------------------------------
+[Owner: TechSergeantKaplan]
+[Name:  KaplanOutsideBarks]
+
+[SPEECH: TechSergeantKaplan]
+Tady mate lepsi vyhlidky na postup, nez delat skrabaka, ze jo?
+
+[COMMENT]
+Sarcastic.  He thinks the player is a pussy.Z6‰ƒ 
+
+[SPEECH: TechSergeantKaplan]
+Zda se, ze k nam prijel spravedlivej serif!
+
+[SPEECH: TechSergeantKaplan]
+Nezapomente jim taky precist jejich prava!
+
+[SPEECH: TechSergeantKaplan]
+Nejradsi bych sel s vama, ale mam svoje rozkazy.
+
+[SPEECH: TechSergeantKaplan]
+Nevidel jste tu nekde vrahy, Dentone?
+
+[SPEECH: TechSergeantKaplan]
+Kdyz chcete makat pro UNATCO, nesmite brat kdejaky hovno. Proste nesmite.
+
+-----------------------------------------------------------------
+[Owner: TechSergeantKaplan]
+[Name:  MeetKaplan]
+
+[SPEECH: TechSergeantKaplan]
+Bohuzel, zakladna je uzavrena, dokud nebezpeci nepomine, agente Dentone.
+
+[SPEECH: JCDenton]
+Jasne. Jaka je situace?
+
+[SPEECH: TechSergeantKaplan]
+UNATCO nam naridilo stahnout se, nejspis kvuli Guntherovi. Kde to vazne? Nemuzem se dockat, az na ne vlitnem!
+
+[CHOICES:2]
+
+[CHOICE:]
+O rozkazech mluvit nemuzu, ale nejdriv to tam mam vycistit ja.
+
+[CHOICE:]
+Nasili bychom se meli pokud mozno vyvarovat. Jsme prece hlavne poldove.
+
+[SPEECH: TechSergeantKaplan]
+Chapu. Manderley ma recht: vy augmentaci jste rozeny vrahouni.
+
+[SPEECH: JCDenton]
+Budu se snazit.
+
+[SPEECH: TechSergeantKaplan]
+Radsi se napakujte. U satelitni anteny za heliportem je nastosovanejch par beden. Taky se muzete zkusit mrknout do komunikacni bunky vedle. Vstupni kod je 0451.
+
+[NOTE:]
+Kod komunikacni bunky: 0451
+
+[SPEECH: JCDenton]
+Diky. Doufam, ze vas nezklamu.
+
+[SPEECH: TechSergeantKaplan]
+Kdyz se clovek nemuze moc krejt, jako tady, tak je podle myho nejlepsi sundat je na sedumdesat metru puskohledem. Co vy na to? O jeden specialni jsem obral parek vrahu, ktery jsme dostali v doku; prenechal bych vam ho za 700 kreditu. Taky jsem nasbiral trochu munice raze 10 mm a par uspavacich sipek do minikuse - chci 200 za to prvni a 60 za to druhy!
+
+[SPEECH: TechSergeantKaplan]
+Ja si naopak myslim, ze se s nima moc mazeme. Vniknuls na uzemi UNATCO? Tak ti prospikujem kozich olovem!
+
+[SPEECH: JCDenton]
+Kdybychom nedbali na pravo, za chvili by se nas svet utopil v krvi.
+
+[SPEECH: TechSergeantKaplan]
+Myslel jsem, ze vy augmentaci jste bezohledny vrahouni. Asi jsem se mejlil.
+
+[SPEECH: JCDenton]
+To nepochybne.
+
+[SPEECH: TechSergeantKaplan]
+Mam pro vas jednu nabidku. Zadnej z nas nepochybuje, ze budete mit co delat s krvelacnejma parchantama. Takovy je podle myho nejlepsi sundat na sedumdesat metru puskohledem. Co vy na to? O jeden specialni jsem obral parek vrahu, ktery jsme dostali v doku; prenechal bych vam ho za 700 kreditu. Taky jsem nasbiral trochu munice raze 10 mm a par uspavacich sipek do minikuse - chci 200 za to prvni a 60 za to druhy!
+
+[SPEECH: JCDenton]
+A nemel byste zbrane s munici odevzdavat proviantakovi?
+
+[SPEECH: TechSergeantKaplan]
+Jasne, mate recht, ale dokud mame rozkazy krcit se za bukem a vyckavat, nekdo by to olovo misto nas pouzivat mel!
+
+[CHOICES:7]
+
+[CHOICE:]
+Vezmu si ten puskohled za 700.
+
+[CHOICE:]
+Chtel bych ten puskohled, ale nemam 700 kreditu.
+
+[CHOICE:]
+200 kreditu za razi 10 mm - to nezni spatne!
+
+[CHOICE:]
+Raze 10 mm by se sikla, ale nemam 200 kreditu.
+
+[CHOICE:]
+Tady je 60 kreditu za uspavaci sipky.
+
+[CHOICE:]
+Nemuzu si dovolit dokonce ani 60 kreditu za uspavaci sipky.
+
+[CHOICE:]
+Stavim se jeste pozdeji.
+
+[SPEECH: TechSergeantKaplan]
+Kdyz jsem videl ten vas kver, hned mi bylo jasny, ze jste ostrostrelec. Ten puskohled tam staci pricvaknout a jste na svejch. Funguje s ruznejma zbranema, ale podle myho je nejlepsi na pusce.
+
+[SPEECH: TechSergeantKaplan]
+Jenom ho pricvaknete na pistoli a jste na svejch.
+
+[SPEECH: TechSergeantKaplan]
+Hlavne dejte pozor, abyste teroristum neublizil!
+
+[SPEECH: TechSergeantKaplan]
+Nastal cas na velkej uklid!
+
+[SPEECH: TechSergeantKaplan]
+Tak dobre me neplatej. Musim pockat na nekoho, kdo bude mit vic prachu nez vy.
+
+[SPEECH: TechSergeantKaplan]
+Jestli se chystate na uklid, mel byste se na to nejprv vybavit.
+
+[SPEECH: TechSergeantKaplan]
+Vy jste vlastne zastance ty taktiky o neublizovani, ze jo?
+
+[SPEECH: TechSergeantKaplan]
+Stavte se, az vyfasujete nejaky prachy.
+
+[SPEECH: JCDenton]
+Pockat - momentalne uz vic veci nepoberu!
+
+[SPEECH: TechSergeantKaplan]
+Slysel jsem, ze jste na NSF mimoradne mekkej. Ti vam za to urcite zobou z ruky, co?
+
+[SPEECH: JCDenton]
+Nemam v oblibe nasili.
+
+[SPEECH: TechSergeantKaplan]
+Az vas poslou do mesta honit ty zkurvysyny, tak si to nasili radsi koukejte rychle oblibit! Mel byste se napakovat, dokud je cas. Mam tady jeden specialni puskohled, o kterej jsem obral parek vrahu, co jsme je dostali v doku; prenechal bych vam ho za 700 kreditu. Taky jsem nasbiral trochu munice raze 10 mm a par uspavacich sipek do minikuse - chci 200 za to prvni a 60 za to druhy!
+
+[SPEECH: TechSergeantKaplan]
+Slysel jsem, ze jste to tam vycistil.
+
+[SPEECH: JCDenton]
+Tim, ze obsadili Sochu, si uz dovolili prilis.
+
+[SPEECH: TechSergeantKaplan]
+Moje rec. Uz jsem se zucastnil jednoho honu na ty zkurvysyny, kdyz jsme jim slapali na paty na Manhattanu. Nechtel byste se napakovat? Mam tady jeden specialni puskohled, o kterej jsem obral parek vrahu, co jsme je dostali v doku; prenechal bych vam ho za 700 kreditu. Taky jsem nasbiral trochu munice raze 10 mm a par uspavacich sipek do minikuse - chci 200 za to prvni a 60 za to druhy!
+
+[SPEECH: JCDenton]
+A nemel byste zbrane s munici odevzdavat proviantakovi?
+
+[SPEECH: TechSergeantKaplan]
+Carterovi? Tomu je to fuk. Vyzbroj po NSF je valecna korist. Jestli vam to nedoslo, my tu nasazujem svoje krky!
+
+[SPEECH: TechSergeantKaplan]
+Mel byste si poridit poradnou vyzbroj, abyste pak nelitoval.
+
+[SPEECH: TechSergeantKaplan]
+Jestli chcete nakopat prdel par vrahounum, mel byste se napakovat.
+
+[SPEECH: TechSergeantKaplan]
+Laska k nenasili vas ve meste brzo opusti. Mel byste se radsi napakovat.
+
+[SPEECH: TechSergeantKaplan]
+Jsem rad, ze se zaciname nazorove sblizovat. Nechcete neco koupit?
+
+[SPEECH: TechSergeantKaplan]
+Byl jsem jednou pri tom, kdyz jsme ty hajzly nahaneli ve meste. Reknete mi, co potrebujete.
+
+-----------------------------------------------------------------
+[Owner: Terrorist1]
+[Name:  TopTerroristsOverheard]
+
+[SPEECH: Terrorist1]
+Meli bysme zdrhnout.
+
+[SPEECH: Terrorist2]
+Ani me nenapadne!
+
+[SPEECH: Terrorist1]
+Vojaci se stahli; urcite chteji nasadit agenty!
+
+[SPEECH: Terrorist1]
+Osvobodili Hermanna. Proti mechum nemame sanci!
+
+[SPEECH: Terrorist1]
+Nekdo spustil alarm dole na schodech. Obklicujou nas!
+
+[COMMENT]
+(grave)
+
+[SPEECH: Terrorist2]
+Nezapominej, vojine, ze jsme vedeli, do ceho jdeme.
+
+[SPEECH: Terrorist1]
+K cemu bude NSF dobry, kdyz tu zhebneme?
+
+[SPEECH: Terrorist2]
+UNATCO nas stejne obklicilo, takze na utek je uz pozde. Musis bojovat!
+
+-----------------------------------------------------------------
+[Owner: Terrorist3]
+[Name:  Terrorist3Overheard]
+
+[SPEECH: Terrorist3]
+Videls ten rozdil? Jenom se na nej podivej!
+
+[SPEECH: Terrorist4]
+Je to zly?
+
+[SPEECH: Terrorist3]
+Odrizli mu hnatu, predelali mu pulku ksichtu...
+
+[SPEECH: Terrorist4]
+Hermannovi? Je to schopnej vojak. Zabil tri nase lidi.
+
+[SPEECH: Terrorist3]
+Prestaveli by mu cely telo, kdyby z nej dokazali vymacknout lepsi vykon. Jestli v tom spociva cena chlapa - v jeho vykonnosti - tak za chvili budou jenom samy ruzny vylepsovani, verze, preparaty...
+
+[SPEECH: Terrorist4]
+Jenomze par takovejch mechu by se hodilo i nam.
+
+[SPEECH: Terrorist3]
+Jakmile bysme podlehli kultu stroju, byli bysme stejny jako oni.
+
+[SPEECH: Terrorist4]
+Kecy, jenom plany kecy!
+
+-----------------------------------------------------------------
+[Owner: TerroristCommander]
+[Name:  MeetTerrorist]
+
+[SPEECH: TerroristCommander]
+Nestrilet! Vzdavam se!
+
+[SPEECH: JCDenton]
+Tak ty si myslis, ze vite lip nez FEMA, jak nalozit s mesicni davkou Ambrozie?
+
+[SPEECH: TerroristCommander]
+Prisel jsi pozde. Serum se vraci do rukou lidu a ty proti tomu nemuzes udelat ani hovno!
+
+[CHOICES:2]
+
+[CHOICE:]
+Muzu vratit do rukou lidu TEBE - v cernym igelitaku!
+
+[CHOICE:]
+Povez mi o ty zasilce a ja porucim vojakum, aby te nezabijeli, protoze zivej mas pro nas vetsi cenu!
+
+[SPEECH: TerroristCommander]
+Jµ JSEM LID!
+
+[COMMENT]
+Attacks the player.
+
+[SPEECH: TerroristCommander]
+Jenom se ptej. Tohle kolo jste prohrali.
+
+[SPEECH: JCDenton]
+Kam jste to odvezli?
+
+[SPEECH: TerroristCommander]
+Chceme jenom dat obycejnejm lidem stejnou sanci na preziti jako maji byrokrati ve Washingtonu.
+
+[SPEECH: JCDenton]
+Museli jste ji vylozit v New Yorku, protoze na mori by vas objevily vrtulniky.
+
+[SPEECH: TerroristCommander]
+Vime, ze epidemii vyvolala vlada zamerne, aby umele snizila populacni explozi!
+
+-----------------------------------------------------------------
+[Owner: TerroristCommander]
+[Name:  TerroristFollowup]
+
+[SPEECH: JCDenton]
+Odpovez mi na mou otazku.
+
+[SPEECH: TerroristCommander]
+Neveris mi? Tak si to spocitej sam! Spiknuti plutokracie proti obycejnymu lidu se tahne uz stovky let!
+
+[SPEECH: JCDenton]
+Mohl bys mi rict jeden jedinej dukaz?
+
+[SPEECH: TerroristCommander]
+Za prve: V roce 1945 platily korporace padesat procent statnich dani. Dneska je to jen pet procent. Za druhy: V roce 1900 bylo devadesat procent Americanu soukromejch; dneska podnikaji jenom dve procenta.
+
+[SPEECH: JCDenton]
+No a?
+
+[SPEECH: TerroristCommander]
+Rika se tomu konsolidace. Posilujou se vlady a korporace, oslabujou se soukromi podnikatele. Dane se pro ne casem stanou neunosne.
+
+-----------------------------------------------------------------
+[Owner: TerroristCommander]
+[Name:  TerroristFollowup2]
+
+[SPEECH: JCDenton]
+Rucim ti za to, ze vyslech v UNATCO nebude tak ohleduplnej jako ten muj!
+
+[SPEECH: TerroristCommander]
+Jasne, tajna policie! Jste proste poldove najaty naprosto ilegalni vladou ve Washingtonu!
+
+[SPEECH: JCDenton]
+Nakonec tu ukradenou zasilku stejne najdeme.
+
+[SPEECH: TerroristCommander]
+Cela exekutiva je zmanipulovana! Devatenact z poslednich triadvaceti prezidentu byli clenove Trilateralni komise. A Trilateralni komisi financujou Rockefellerove a Rothschildove. Nechces snad tvrdit ---
+
+[SPEECH: JCDenton]
+To jsou kecy. Clenem se muze stat kdokoliv.
+
+[SPEECH: TerroristCommander]
+Ale kdokoliv se jim nestane. Proto se tomu rika "tajna vlada".
+
+-----------------------------------------------------------------
+[Owner: TerroristCommander]
+[Name:  TerroristStatueBarks]
+
+[COMMENT]
+These cycle and go random.o
+
+[SPEECH: TerroristCommander]
+UNATCO uci nedospely kluky bojovat, kdyz jim to vsecko pripada jako nevinna hra. A podivej se na sebe! Je z tebe vrazdici stroj bez vlastni vule!
+
+[SPEECH: TerroristCommander]
+Kdo z nas ma vetsi strach? Ty nebo ja?
+
+[SPEECH: TerroristCommander]
+Uvazoval jsi vubec nekdy, za co bojujes? Ochranka, policie, stanny pravo? To je svoboda?
+
+[SPEECH: TerroristCommander]
+Idealy kulkama nepostrilis.
+
+[SPEECH: TerroristCommander]
+Cim vic nas zabijete, tim vic nasich nasledovniku z lidu povstane!
+
+[SPEECH: TerroristCommander]
+Zeptal ses nekdy, proc mamuti trasty platej dve procenta dani, kdezto chlapek na lince plati ctyricet?
+
+[SPEECH: TerroristCommander]
+Korporace jsou uz tak velky, ze ani samy nevedi, kdo vsechno pro ne pracuje. To je teror! Teror posvecenej statem!
+
+-----------------------------------------------------------------
+[Owner: Trooper1]
+[Name:  Trooper1Barks]
+
+[SPEECH: Trooper1]
+Na prvni den v praci docela sichta.
+
+[SPEECH: Trooper1]
+Netusil jsem, ze NSF ma v New Yorku tolik clenu.
+
+[SPEECH: Trooper1]
+Az se dostaneme na Manhattan, skoncujem to s nima.
+
+[SPEECH: Trooper1]
+Az do svitani byl klid. Potom vypuklo to peklo.
+
+-----------------------------------------------------------------
+[Owner: Trooper2]
+[Name:  Trooper2Barks]
+
+[SPEECH: Trooper2]
+Priste nam jich zkus nechat trochu vic, JC.
+
+[SPEECH: Trooper2]
+Jsem rad, zes' to zmaknul.
+
+[SPEECH: Trooper2]
+Jsem jenom na obchuzce.
+
+[SPEECH: Trooper2]
+JC! Nevadi ti, kdyz ti rikam JC?
+
+-----------------------------------------------------------------
+[Owner: Trooper3]
+[Name:  Trooper3Barks]
+
+[SPEECH: Trooper3]
+Tam nahore to muselo bejt vo hubu.
+
+[SPEECH: Trooper3]
+Ja vlastne dost nerad strilim. Nelibi se mi to.
+
+[SPEECH: Trooper3]
+Dikybohu, ze uz mam skoro po sluzbe!
+
+[SPEECH: Trooper3]
+Nevedel jsem, ze jsme ve valce.
+
+-----------------------------------------------------------------
+[Owner: UNATCOTroop]
+[Name:  UNATCOTroopInitialBarks]
+
+[SPEECH: UNATCOTroop]
+Vitejte mezi nami, agente.
+
+[SPEECH: UNATCOTroop]
+Jeste pred hodinou byl uplnej klid. A najednou BUM!
+
+[SPEECH: UNATCOTroop]
+Opatrne, agente! Vzbourenci se potulujou vsude kolem.
+
+[SPEECH: UNATCOTroop]
+Kdyby se mi ten jejich velitel na spicce Sochy ukazal, strelil bych po nem. Cert vezmi Manderleyho!
+
+[SPEECH: UNATCOTroop]
+Ti vrahouni museji bejt fakt zoufali, kdyz na nas takhle zautocili.
+
+[SPEECH: UNATCOTroop]
+Takovyhle postavani nesnasim, ale rozkazy jsou rozkazy.
+
+[SPEECH: UNATCOTroop]
+At bylo v ty zasilce cokoliv, NSF to muselo strasne chtit.
+
+[SPEECH: UNATCOTroop]
+Mam rozkazy vyckavat.
+
+[SPEECH: UNATCOTroop]
+Tahle oblast je bezpecna.
+
+-----------------------------------------------------------------
+[Owner: UNATCOTroop]
+[Name:  UNATCOTroopSecondBarks]
+
+[SPEECH: UNATCOTroop]
+Mate volnou cestu, pane!
+
+[SPEECH: UNATCOTroop]
+Gunther mel poslechnout rozkazy.
+
+[SPEECH: UNATCOTroop]
+Nemuzu se dockat, az se dostanu do New Yorku a skoncujem to s nima!
+
+[SPEECH: UNATCOTroop]
+Vsechno v poradku, pane!
+

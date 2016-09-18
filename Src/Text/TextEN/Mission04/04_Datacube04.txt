@@ -1,0 +1,7 @@
+<COMMENT>Near NSF HQ computer room</COMMENT>
+<DC=255,255,255>
+<P>All:
+<P>
+<P>I've released halon gas into the computer room to prevent any fires breaking out in case of assault -- obviously, anyone entering the room unprotected will suffocate.  Use a hazmat suit, or pump out the gas before entering if you need to perform any maintenance.
+<P>
+<P>-Decker

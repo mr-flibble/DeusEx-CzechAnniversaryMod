@@ -1,0 +1,21 @@
+<COMMENT>Paul Denton apartment inbox</COMMENT>
+<DC=255,255,255>
+<P>Your message:
+<P> 
+<P><B>To:</B> juan//NYCNET.7786.786658
+<P><B>Subject:</B> Your Results
+<P><B>Sent:</B> Wed 14:18:59 -0600
+<P>
+<P>Did not reach the following recipient(s):
+<P>
+<P>juan//HK2net.7786.786658 on Wed, 14:26:35 -0600
+<P>Unable to deliver message due to a communications failure
+<P>MPSEXCH:IMS: New York Net: BORONTYPE:ADA 0 (000C05A6) Unknown Recipient
+<P>
+<P>Message as follows:
+<P>
+<P>>I'm definitely worried about the test results; there are
+<P>>some implications there that I'm afraid to pursue too
+<P>>much further.  I'll talk to Tracer.  Proceed with caution.
+<P>>
+<P>>-P

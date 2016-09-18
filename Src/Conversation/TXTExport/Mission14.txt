@@ -1,0 +1,618 @@
+-----------------------------------------------------------------
+[Owner: BobPage]
+[Name:  PageTaunt]
+
+[SPEECH: BobPage]
+Pro pripad, kdyby ses divil, ti prozradim, ze Helios dokaze prijimat tve zpravy; sami jsme se napojili na pocitace podmorske laboratore, coz znamena, ze zanedlouho zacnou fungovat nase univerzalni konstruktory!
+
+[SPEECH: JCDenton]
+Mezitim se nam podari vyrobit vakcinu proti viru.
+
+[SPEECH: BobPage]
+Vakcinu? Vakcinu!?! Copak vam nedoslo, jak neuveritelne snadne je pro mne vyrobit novy vir? Staci mi vybrat si hodne velke prvocislo a nasobit je!
+
+[SPEECH: JCDenton]
+Jenze takove nove kody rychle rozlouskneme.
+
+[SPEECH: BobPage]
+Matematicky nepravdepodobne. Stejne jako tve sance na odchod z podmorske laboratore.
+
+[SPEECH: JCDenton]
+Jsi dalsi na rade, Page! Tva nejvetsi vyhoda bylo utajeni, ale ted vime vsechno, vcetne tveho soucasneho mista pobytu!
+
+[COMMENT]
+Maybe Page devolves into laughing at the end.ase is locked down until the bots are destroy
+
+[SPEECH: BobPage]
+Jsi skalni optimista. Abys na mne zautocil v Oblasti 51, musel bys mit celou armadu. Nehlede na to, ze uz brzy - pokud je ta strela presne zamerena - zbude z tech tvych kamaradicku ve Vandenbergu, co si rikaji "X-51", jenom pripaleny mastny flek.
+
+-----------------------------------------------------------------
+[Owner: CardPlayer1]
+[Name:  ChattingGuards]
+
+[COMMENT]
+These guys are the exact-same MJ12 Troop model, but it might be nice to vary the voices a little, if possible.  They are sitting around a table in a guard post.ÿû0Ä
+
+[SPEECH: CardPlayer1]
+Proc se vlastne menily ty kody?
+
+[SPEECH: CardPlayer2]
+Kvuli Howardu Strongovi. Chteji, aby mel do sila pristup vylucne on a jeho tym.
+
+[SPEECH: CardPlayer1]
+Ze se jim porad chce verit civilum... Copak nevidej', kam nas dostali?
+
+[SPEECH: CardPlayer3]
+Page urcite vi, co dela.
+
+[SPEECH: CardPlayer2]
+Muj oddil by se tech nebezpecnejch zamestnancu nejradsi zbavil.
+
+[SPEECH: CardPlayer1]
+Na to ti reknu jen jedno: New York.
+
+[SPEECH: CardPlayer2]
+Jenze ja o Simonse nestojim. Podle me moc riskuje.
+
+[SPEECH: CardPlayer1]
+Page to samy. Sverit celou operaci do rukou takovyho potizaka jako je Howard Strong!
+
+[SPEECH: CardPlayer3]
+Na tvym miste bych si daval bacha na to, co o Pageovi rikas.
+
+-----------------------------------------------------------------
+[Owner: DrBernard]
+[Name:  BernardBarks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: DrBernard]
+Ja odsud nevylezu!
+
+[SPEECH: DrBernard]
+Ani me nenapadne, abych neco riskoval!
+
+[SPEECH: DrBernard]
+Zda se, ze v americky armade neexistuje nic, nez takovyhle prusery!
+
+[SPEECH: DrBernard]
+Udelali by nejlip, kdyby vyfasovali dreveny savle!
+
+[SPEECH: DrBernard]
+Tohle melo bejt zarizeni s nejvyssim utajenim!
+
+-----------------------------------------------------------------
+[Owner: DrBernard]
+[Name:  BernardBarks2]
+
+-----------------------------------------------------------------
+[Owner: DrBernard]
+[Name:  BernardBarks3]
+
+-----------------------------------------------------------------
+[Owner: DrBernard]
+[Name:  BernardSecondMeeting]
+
+[SPEECH: JCDenton]
+O tu strelu jsem se postaral. Ted uz je na ceste do Oblasti 51.
+
+-----------------------------------------------------------------
+[Owner: DrBernard]
+[Name:  MeetDrBernard]
+
+[COMMENT]
+A male scientist.‡M‹¯ÙÕD™sù«˜ù—oZd
+
+[SPEECH: JCDenton]
+Proc jste zamceny na tom zachode?
+
+[SPEECH: DrBernard]
+Ten tu mame jako nahrazku misto vezeni.
+
+[SPEECH: JCDenton]
+No a?
+
+[SPEECH: DrBernard]
+Zjistil jsem pravdu o Howardu Strongovi. To kvuli nemu jsme malem znicili Vandenberg.
+
+[SPEECH: JCDenton]
+Zmenil jsem odpalovaci kody. Ted bude misto Vandenbergu znicena Oblast 51.
+
+[SPEECH: DrBernard]
+Myslite, ze Boba Page prevezete? To se mi nezda, aspon dokud bude mit Stronga. Ten vam tu strelu znici jeste ve vzduchu, kdyz to bude treba.
+
+[SPEECH: JCDenton]
+Prave ted mam namireno do jaderneho sila.
+
+[SPEECH: DrBernard]
+Slysel jsem straze, jak o tom mluvi. Chteji vas tam prepadnout.
+
+[SPEECH: JCDenton]
+Jo? A kde?
+
+[SPEECH: DrBernard]
+V hlavni chodbe. Obejit se to neda, ale je tam dvojita podlaha. Mozna byste se mohl proplizit tudy.
+
+[SPEECH: JCDenton]
+Diky. Mrknu se na to.
+
+[SPEECH: JCDenton]
+Kdo je ten Strong?
+
+[SPEECH: DrBernard]
+Tomu byste stejne neveril.
+
+[SPEECH: JCDenton]
+Jen do toho!
+
+[SPEECH: DrBernard]
+Je to agent vysoce utajene konspiracni skupiny Majestic 12.
+
+[SPEECH: JCDenton]
+Zajimave.
+
+[SPEECH: DrBernard]
+Ja nejsem blazen. Ti chlapci v cernych uniformach nejsou americti vojaci. Uz od chvile, kdy sem dorazili, je vedl Strong.
+
+[SPEECH: JCDenton]
+Nikdy jsem nerekl, ze jste blazen.
+
+[SPEECH: JCDenton]
+Uz jsem ho sejmul. Verte mi. Ta strela prave leti na Oblast 51.
+
+-----------------------------------------------------------------
+[Owner: DrBrittanyPrinzler]
+[Name:  BrittanyBarks]
+
+[COMMENT]
+These cycle and repeat the last.
+
+[SPEECH: DrBrittanyPrinzler]
+Na klaboseni ted neni cas.
+
+[SPEECH: DrBrittanyPrinzler]
+Ted jsem kvuli vam prisla o sve kryti.
+
+[SPEECH: DrBrittanyPrinzler]
+Hnete sebou!
+
+-----------------------------------------------------------------
+[Owner: DrBrittanyPrinzler]
+[Name:  BrittanyBarks2]
+
+[COMMENT]
+These cycle and repeat the last.e
+
+[SPEECH: DrBrittanyPrinzler]
+Dr.Savage na vas ceka na strese komunikacniho modulu na pobrezi.
+
+[SPEECH: DrBrittanyPrinzler]
+Tam v pousti asi probiha vyzkum o mnoho lip.
+
+[SPEECH: DrBrittanyPrinzler]
+Radsi pokracujte.
+
+-----------------------------------------------------------------
+[Owner: DrBrittanyPrinzler]
+[Name:  MeetDrBrittanyPrinzler]
+
+[COMMENT]
+A female scientist.
+
+[SPEECH: DrBrittanyPrinzler]
+Vy musite byt Denton.
+
+[SPEECH: JCDenton]
+Jak --
+
+[SPEECH: DrBrittanyPrinzler]
+Jsem ve styku s Dr.Savagem. Jestli si budete chtit vzit miniponorku, musite predtim otevrit vrata ponorneho doku. Udelate to z terminalu ochranky, login je "tech", heslo "sharkman".
+
+[SPEECH: JCDenton]
+Diky.
+
+[SPEECH: DrBrittanyPrinzler]
+Nikomu o mne nerikejte. Pro X-51 je dulezite, abych jim tady vydrzela co nejdele.
+
+[NOTE:]
+Pocitac ochranky, ktery ovlada podmorska vrata - Login: "tech", heslo: "sharkman".
+
+-----------------------------------------------------------------
+[Owner: DrCorwell]
+[Name:  CorwellBarks]
+
+[COMMENT]
+These cycle and repeat the last.tDrBrittanyPrinzler\JCDenton02.m
+
+[SPEECH: DrCorwell]
+Nekdo by mel to jejich radeni zarazit.
+
+[SPEECH: DrCorwell]
+Jak se v tehle laboratori zachazi se zviraty, to je odporne!
+
+[SPEECH: DrCorwell]
+Provadi se tu vycerpavajici vyzkum morfologie, coz vede ke hruzne zmutovanym stvuram, zviratum bez udu, bez ploutvi, bez oci, bez hlav... Nikoho nezajima, jestli to ti chudaci preziji, ani jak dlouho budou trpet. 
+
+[SPEECH: DrCorwell]
+Kdybych mohla, okamzite bych odsud odesla, ale zrovna ted potrebuji praci.
+
+[SPEECH: DrCorwell]
+Nemel jste toho chudacka zabijet!
+
+-----------------------------------------------------------------
+[Owner: DrCorwell]
+[Name:  MeetDrCorwell]
+
+[SPEECH: DrCorwell]
+Mam takove tuseni, ze vy jste tady dole asi nacerno?
+
+[SPEECH: JCDenton]
+At vas ani nenapadne spoustet poplach!
+
+[SPEECH: DrCorwell]
+Naopak jsem vam chtela poradit, jak se muzete vyhnout strazim. Mohl byste proplavat touto nadrzi az ke krmne sachte ve skladisti. Kod ke krytu nadrze je 1223. Ale davejte si pozor na toho krkouna.
+
+[SPEECH: JCDenton]
+Vyborne, mozna to vyzkousim.
+
+[NOTE:]
+Kod k otevreni nadrze s krkouny: 1223.
+
+[SPEECH: DrCorwell]
+Zblaznil jste se? Ten krkoun uz dva dny nedostal nazrat!
+
+[SPEECH: JCDenton]
+Proc ne?
+
+[SPEECH: DrCorwell]
+Potrebovali jsme vysetrit jeho zazivaci trakt.
+
+[SPEECH: JCDenton]
+Pokousel jsem se vyhnout strazim.
+
+[SPEECH: DrCorwell]
+No, delejte, jak myslite. Abych pravdu rekla, ja se o tyhle hokus-pokusy moc nestaram. Kod ke krytu nadrze je 1223.
+
+[NOTE:]
+Kod k otevreni nadrze s krkouny: 1223.
+
+[SPEECH: DrCorwell]
+Potrebovali jsme vysetrit jeho zazivaci trakt - kdybyste nam ho nezabil.
+
+[SPEECH: JCDenton]
+Omlouvam se. Pokousel jsem se vyhnout strazim.
+
+[SPEECH: DrCorwell]
+No, delejte, jak myslite. Vetsi skodu uz tu stejne natropit nemuzete. Kod ke krytu nadrze je 1223.
+
+[NOTE:]
+Kod k otevreni nadrze s krkouny: 1223.
+
+-----------------------------------------------------------------
+[Owner: DrPinkerton]
+[Name:  MeetDrPinkerton]
+
+[SPEECH: DrPinkerton]
+Vy jste Denton? Savage mi rikal, ze mam ocekavat nejakou navstevu do podmorske laboratore.
+
+[SPEECH: JCDenton]
+Denton je moje stare kryci jmeno jeste z UNATCO, ale zrejme se ho hned tak nezbavim.
+
+[SPEECH: DrPinkerton]
+Mam tu mapu cele budovy. Muzete rovnez pouzit muj login: "APinkerton" a heslo "Antennapedia". Bude se vam hodit na pocitace v URV.
+
+[SPEECH: JCDenton]
+Diky. Vy patrite k tem vedcum, ktere Savage obetoval skupine Majestic 12?
+
+[SPEECH: DrPinkerton]
+Jsem tady jenom docasne. Ale s Garym Savagem jsem porad ve styku.
+
+[NOTE:]
+Vedecky login v podmorske laboratori: "APinkerton", heslo: "Antennapedia".
+
+-----------------------------------------------------------------
+[Owner: DrPinkerton]
+[Name:  MeetDrPinkerton2]
+
+[SPEECH: JCDenton]
+Proc jste tu zustal? Mate snad u hlavy pistoli?
+
+[SPEECH: DrPinkerton]
+Da se to tak rict. Nuti nas delat standardni pokusy na morskych tvorech, homeoticke veci.
+
+[SPEECH: JCDenton]
+To nevypada tak hrozne.
+
+[SPEECH: DrPinkerton]
+Budto jeste nevedi, co si s nami maji pocit, nebo je pred nami skutecny vyznam tech pokusu velmi dobre skryt.
+
+[SPEECH: JCDenton]
+Tak dobre, ja zase pobezim.
+
+-----------------------------------------------------------------
+[Owner: DrPinkerton]
+[Name:  PinkertonBarks]
+
+[COMMENT]
+These cycle and go random.«‘¾¸úfvu°c’:dc]9AqfDúYe
+
+[SPEECH: DrPinkerton]
+Vyridte Garymu, ze jsem mu znovu k sluzbam, na nic se nebudu ptat.
+
+[SPEECH: DrPinkerton]
+Ten rozpracovany vyzkum pokracuje hlavne v podmorske laboratori.
+
+[SPEECH: DrPinkerton]
+Dovedete si predstavit nasi radost, kdyz jsme se doslechli o te nehode.
+
+[SPEECH: DrPinkerton]
+Vypada to, ze Majestic 12 prisla o vsechno, co tam dole mela.
+
+-----------------------------------------------------------------
+[Owner: DrPinkerton]
+[Name:  PinkertonBarks2]
+
+[SPEECH: DrPinkerton]
+Vy musite byt Denton. Savage ceka na strese velitelskeho modulu na pobrezi.
+
+[SPEECH: DrPinkerton]
+Savage ceka na strese velitelskeho modulu na pobrezi.
+
+[SPEECH: DrPinkerton]
+Chapu to tak, ze vase mise byla uspesna.
+
+[SPEECH: DrPinkerton]
+Zustanu tady. V laboratori budu Savageovi vice uzitecny.
+
+-----------------------------------------------------------------
+[Owner: GarySavage]
+[Name:  GaryBarks]
+
+[COMMENT]
+These cycle and repeat the last.hing they were doing down there.
+
+[SPEECH: GarySavage]
+O Tonga se postarame. Nemusite mit obavy.
+
+[SPEECH: GarySavage]
+Vakcinu zacneme vyrabet uz za necelou hodinu.
+
+[SPEECH: GarySavage]
+Rychle! Nemame mnoho casu!
+
+[SPEECH: GarySavage]
+Bezte uz!
+
+[COMMENT]
+In the following two lines, Savage is thinking about his dead daughter.
+
+[SPEECH: GarySavage]
+Chtel jsem vam prinest jedno vylepseni augmentace, ale zapomnel jsem na to. Jeste porad jsem se docela nevzpamatoval.
+
+[SPEECH: GarySavage]
+Dosel jsem k rozhodnuti, ze kvuli Oblasti 51 stoji za to umirat - jenom mne v tu chvili nenapadlo, ze by mohla zemrit ona.
+
+-----------------------------------------------------------------
+[Owner: GarySavage]
+[Name:  GaryWaitingForSchematics]
+
+[SPEECH: GarySavage]
+Dokazal jste to!
+
+[SPEECH: JCDenton]
+Jak dlouho bude trvat spusteni UK?
+
+[SPEECH: GarySavage]
+Jeste dnes vecer, jestli je to schema presne. Ale mame tu jiny problem.
+
+[SPEECH: JCDenton]
+Jaky?
+
+[SPEECH: GarySavage]
+Pageho oddily okupuji jaderne silo. Jednu z jadernych strel namirily na Vandenberg.
+
+[SPEECH: JCDenton]
+Kladou si nejake podminky?
+
+[SPEECH: GarySavage]
+Odpocitavaci sekvence prave zacala. Podminky zadne. Chteji se nas zkratka zbavit.
+
+[SPEECH: JCDenton]
+Reknu Jockovi, aby me tam co nejrychleji dopravil.
+
+[SPEECH: GarySavage]
+Dobra. A jeste jednou diky za zachranu me dcery! Neco jsem vam z laborky prinesl... Na dukaz me vdecnosti.
+
+[SPEECH: JCDenton]
+To nebylo nutne. Jsem rad, ze se ji nic nestalo.
+
+[SPEECH: GarySavage]
+Jen berte! Muzete si vylepsit sve systemy. Drive nebo pozdeji budete muset bojovat s Bobem Pagem.
+
+[SPEECH: GarySavage]
+Dobra. Jeste jednou diky za pokus o zachranu Tiffany. Ja vim, ze jste se snazil.
+
+[SPEECH: JCDenton]
+Jo, pral bych si, aby to dopadlo jinak.
+
+[SPEECH: JCDenton]
+Page rikal, ze pry chce na Vandenberg poslat nejakou strelu.
+
+[SPEECH: GarySavage]
+To nelhal. Jeho oddily okupuji jaderne silo smerem na sever odtud.
+
+[SPEECH: JCDenton]
+Moment... nepoberu to.
+
+[SPEECH: GarySavage]
+Jen si to vemte! Je to zasobnik s vylepsenim augmentace.
+
+[COMMENT]
+(catching himself up, at the end)áQ²×WAuÑn,ß;y`ë½%%‡R-rèQ„ÞãS
+
+[SPEECH: GarySavage]
+Pokousim se na to zapomenout. Chudak holka! Nemel jsem dopustit, aby se do toho zapletla...
+
+-----------------------------------------------------------------
+[Owner: Jock]
+[Name:  JockArea51]
+
+[SPEECH: Jock]
+Vypadneme vocad. Ve Vandenbergu te ceka slavnostni privitani.
+
+[SPEECH: JCDenton]
+Letim do Oblasti 51.
+
+[COMMENT]
+Jock isn't timorous when he says this line.  He's not a coward, just pragmatic.
+
+[SPEECH: Jock]
+Sam? Nemeli bychom se napred preskupit?
+
+[SPEECH: JCDenton]
+Musim dostat Boba Page.
+
+[SPEECH: JCDenton]
+Jak to vypada s vrtulnikem? Prestalo to rachtani?
+
+[SPEECH: Jock]
+Jeste ne, ale nejspis to bude vypadlej sroubek nebo neco takovyho. Ten Everettuv mechanik byl peknej zabar. Proc se ptas?
+
+-----------------------------------------------------------------
+[Owner: Jock]
+[Name:  JockBarks]
+
+[SPEECH: Jock]
+Mel by sis promluvit se Savagem. Potrebuje nasi pomoc.
+
+[SPEECH: Jock]
+Letime!
+
+-----------------------------------------------------------------
+[Owner: Nasir]
+[Name:  MeetNasir]
+
+[SPEECH: JCDenton]
+Vadilo by, kdybych si pujcil jednu ponorku?
+
+[SPEECH: Nasir]
+Tu napravo ne. U ni zrovna vymenuju rotory.
+
+[SPEECH: JCDenton]
+Tak to si radsi vyberu tu druhou.
+
+[SPEECH: Nasir]
+Ale musite mit povoleni.
+
+[SPEECH: JCDenton]
+Potrebuju z podmorske laboratore privezt jiste zarizeni. Zaviseji na tom lidske zivoty.
+
+[SPEECH: Nasir]
+Zeptejte se prislusnych vedoucich na login a heslo do ochranky, abyste mohl otevrit vrata ponorneho doku. Jestli nevite ani tohle, nechapu, co tady vubec delate, a mel byste okamzite odejit.
+
+[NOTE:]
+Pred pouzitim miniponorky je nutno otevrit vrata ponorneho doku pocitacem ochranky.
+
+-----------------------------------------------------------------
+[Owner: Nasir]
+[Name:  NasirBarks]
+
+[SPEECH: Nasir]
+Neruste me! Mam tady prece praci.
+
+[SPEECH: Nasir]
+Jestli si myslite, ze ten login znam ja, tak to se krute mejlite.
+
+[SPEECH: Nasir]
+Kdyz se tou ponorkou rozjedete proti zavrenejm vratum - prask! A budeme oba mrtvi.
+
+-----------------------------------------------------------------
+[Owner: Nasir]
+[Name:  NasirBarks2]
+
+[SPEECH: Nasir]
+Dejte si odchod!
+
+[SPEECH: Nasir]
+No pockej! Oni te dostanou! Nemas sanci!
+
+[SPEECH: Nasir]
+Nedelejte mi tu problemy!
+
+-----------------------------------------------------------------
+[Owner: ScientistFemale]
+[Name:  M15ScientistFemaleBarks]
+
+[COMMENT]
+A female scientist.
+
+[SPEECH: ScientistFemale]
+Ja vam nemohu pomahat.
+
+[SPEECH: ScientistFemale]
+Podle narizeni nesmime s nikym zvenci mluvit.
+
+[SPEECH: ScientistFemale]
+Tady nic zajimaveho nenajdete.
+
+[SPEECH: ScientistFemale]
+Opustte, prosim, nase pracoviste!
+
+[SPEECH: ScientistFemale]
+Nepovolany personal musi zustavat ve vyhrazenem prostoru.
+
+-----------------------------------------------------------------
+[Owner: ScientistMale]
+[Name:  M15ScientistMaleBarks]
+
+[COMMENT]
+A male scientist.
+
+[SPEECH: ScientistMale]
+Nejsem ozbrojen!
+
+[SPEECH: ScientistMale]
+Dejte mi pokoj!
+
+[SPEECH: ScientistMale]
+Tady nemate co delat!
+
+[SPEECH: ScientistMale]
+Jdete si po svych!
+
+[SPEECH: ScientistMale]
+Mam praci!
+
+-----------------------------------------------------------------
+[Owner: TiffanyMiB]
+[Name:  TiffanyGuardsOverheard]
+
+[SPEECH: TiffanyMiB]
+Tak to varovani bylo pravdive. Nekoho pro tu holku poslali.
+
+[SPEECH: TiffanyGuard]
+Co budeme delat?
+
+[SPEECH: TiffanyMiB]
+Zabijeme tu devku a vyparime se!
+
+-----------------------------------------------------------------
+[Owner: WaltonSimons]
+[Name:  WaltonShowdown]
+
+[SPEECH: WaltonSimons]
+Jestli si vzpominas na nas rozhovor v odpocinkove mistnosti UNATCO, snad vis, ze mam stejne augmentacni technologie jako mas ty!
+
+[SPEECH: WaltonSimons]
+Jak uz jsem ti rekl v Parizi, je nacase, aby se ti postavil nekdo na tve urovni!
+
+[SPEECH: WaltonSimons]
+Pokud sis toho nevsiml, tak ja mam stejnou augmentacni technologii jako ty!
+
+[SPEECH: JCDenton]
+Tak to bude aspon vyrovnany souboj!
+
+[SPEECH: WaltonSimons]
+Az na to, ze mam novejsi verzi firmwaru!
+

@@ -1,0 +1,8 @@
+<COMMENT>Alex's office</COMMENT>
+<DC=255,255,255>
+<P>JANINE'S BOTS
+<P>SPECS AND OVERVIEW
+<P> 
+<P>MATSU-GRAVAS R-118 REPAIR BOT
+<P>
+<P>The Matsu-Gravas R-118 is characteristic of all bots in the M-G repair line, an autonomous unit capable of a wide range of repair, maintenance, and construction tasks.  By default, the R-118 is equipped with a Kroya 'Searchlight 3' argon laser attached to the standard M-G IRL arm; Chiang optics and visual processing; a self-recharging bioelectric battery; wireless command control; and 16GB of internal memory for a superior amount of task customization at an affordable price.  The bioelectric interface adheres to the same LITE standard pioneered by M-G and adopted by most other companies around the world, allowing all units in the R-line to act as mobile bioelectric rechargers if necessary...

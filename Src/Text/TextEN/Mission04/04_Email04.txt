@@ -1,0 +1,16 @@
+<DC=255,255,255>
+<P><B>From:</B> MedDirectorate//UNATCO.15888.00342
+<P><B>To:</B> JReyes//UNATCO.00973.20892
+<P><B>Subject:</B> Augmentation Shipment
+<P>
+<P>Augmentation canister 10B (MJID-9138YU0983) has been shipped via suspension crate to UNATCO HQ for your distribution to nanotechnologically augmented agents under your care and should arrive within 24 hours.  If you do not receive this shipment within 24 hours, contact UNATCO MedDirectorate.
+<P>
+<P>Canister 10B contains ROM modules that encode either the Regeneration of Energy Shield torso augmentation.
+<P>
+<P>The Regeneration augmentation will add programmable polymerase to existing augmentations, directing the structural repair of tissues and organs damaged in combat conditions.
+<P>
+<P>The Energy Shield augmentation will construct heat- and electricity-absorbing polyanilene capacitors below the skin, reducing damage received from flame, electrical, or plasma injuries.
+<P>
+<P>For detailed information, refer to the Nano-Augmentation Guidelines you have already received.
+<P>
+<P>UNATCO, Office of Medical Directorate

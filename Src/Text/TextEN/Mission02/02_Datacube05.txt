@@ -1,0 +1,5 @@
+<COMMENT>Paul's apartment</COMMENT>
+<DC=255,255,255>
+<P>Hey <PLAYERFIRSTNAME>, didn't have a chance to get you your own Net account so feel free to use mine in the meantime.  Login is "pdenton" and password is "chameleon".  Make yourself at home and I'll see you soon.
+<P>
+<P>-P

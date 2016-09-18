@@ -1,0 +1,70 @@
+-----------------------------------------------------------------
+[Owner: BobPage]
+[Name:  Intro]
+
+[COMMENT]
+Conversation for Intro cut scene.
+
+[SPEECH: BobPage]
+Do tydne budes zasedat ve FEMA. Uz jsem o tom mluvil se senatorem.
+
+[SPEECH: WaltonSimons]
+Predpokladam, ze souhlasil?
+
+[SPEECH: BobPage]
+Nemel na vybranou.
+
+[SPEECH: WaltonSimons]
+Je nakazeny?
+
+[SPEECH: BobPage]
+Hm, ano, nejspis je. Kdyz jsem se zminil, ze bychom ho protlacili do cela seznamu cekatelu na Ambrozii, jeho ochota byla takrka dojemna.
+
+[SPEECH: WaltonSimons]
+Ta epidemie... Panika by mohla narust az do takove miry, kdy ji nezvladneme.
+
+[SPEECH: BobPage]
+A proc bychom meli? At luza vtrhne do skol i kostelu, at se mrtvoly kupi na ulicich! Nakonec nas jeste budou prosit na kolenou, abychom je zachranili.
+
+[SPEECH: WaltonSimons]
+Dostali jsme zpravy o ozbrojenych prepadech zasilek. Vakciny je nedostatek, takze si chatra zacina zoufat.
+
+[SPEECH: BobPage]
+Prirozene, ze si zoufa. Ve vzduchu citi svou vlastni smrt, a to, jak lomcuje kleci, vybudi zbytek ostatnich k silenstvi.
+
+[SPEECH: WaltonSimons]
+Hmmm. Doufam, zes' ten problem nepodcenil. Ti ostatni by mohli byt obtiznejsi, nez si myslis - povida se, ze vezi za temi neprijemnostmi v Parizi.
+
+[SPEECH: BobPage]
+Par domyslivych starcu, kteri si hraji na pany sveta.
+
+[SPEECH: BobPage]
+Jenze svet na ne uz davno zapomnel. Budoucnost patri nam.
+
+[SPEECH: WaltonSimons]
+Mame jeste jine potize.
+
+[SPEECH: BobPage]
+UNATCO?
+
+[SPEECH: WaltonSimons]
+Kterou ustavila vlada po teroristickem utoku na Sochu. Ale mam tam jednoho cloveka. Vic me znepokojuje Savage - presunul se do Vandenbergu.
+
+[SPEECH: BobPage]
+Nase biochemicke telo je mnohem dokonalejsi, stejne jako jeho elektronicke vnimani. A jejich... moralni zkostnatelost se stava nasi dalsi vyhodou. Muzeme zkoumat oblasti, kam se oni nikdy nevydaji.
+
+[SPEECH: WaltonSimons]
+Projekt augmentaci?
+
+[SPEECH: BobPage]
+Mimo jine - nicmene musim pripustit, ze jsem vykonem primarni jednotky ponekud zklaman.
+
+[SPEECH: WaltonSimons]
+Brzy bude pripravena sekundarni. Nyni je ve stadiu priprav a za pul roku bude hotova. Mi lide me neustale informuji o vyvoji situace. Bude-li to nezbytne, primarni jednotka bude znicena.
+
+[SPEECH: BobPage]
+Ceka nas tezka cesta, oba dva, ale uz zanedlouho zavladne opet poradek, nova doba. Akvinsky hovoril o mytickem Meste na hore. To mesto se zahy stane skutecnosti a nas budou korunovat jako jeho krale.
+
+[SPEECH: BobPage]
+Nebo jako neco lepsiho. Jako bohy.
+

@@ -1,0 +1,5 @@
+<COMMENT>Entrance tunnel to UC lab</COMMENT>
+<DC=255,255,255>
+<P>I hope you're the rescue team and I hope you came armed.  Ridley's screwed us, and whoever wasn't drowned, eaten by one of those monstrosities they've had us creating, or cut in half by a turret, has taken refuge in the UC lab.  There's not many left.  I've jury-rigged some laser tripwires to warn us if any of our specimens make it this far looking for Mommy and Daddy, but now it's the spiders that are causing a problem.  I don't know how much longer we can hold out.  Please.
+<P>
+<P>Hurry.

@@ -1,0 +1,9 @@
+<COMMENT>MJ12 Lab</COMMENT>
+<DC=255,255,255>
+<P><B>Od:</B> WS//UpNet.78543.98231
+<P><B>Ke:</B> PSherman//UpNet.221.9981
+<P><B>Vec:</B> Provozni stav
+<P>
+<P>Pokracujte ve sledovani augmentovanych jednotek; zadam veskere dostupne informace ziskane z primarni jednotky, ale hlavni prioritou zustava vyslech sekundarni jednotky ("<PLAYERNAME>"). Zivotaschopnost sekundarni jednotky nyni ztraci na vyznamu, kdyz byla aktivovana jeji pojistka zkazy - uvital bych, kdyby se kazdy zucastneny choval maximalne efektivne.
+<P>
+<P>Dokud nebudou ukonceny vsechny pripravy k prelozeni, mate plne veleni nad Centrem UNATCO i nad prilehlymi objekty.

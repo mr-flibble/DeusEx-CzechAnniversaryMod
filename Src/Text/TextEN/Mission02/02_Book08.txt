@@ -1,0 +1,8 @@
+<DC=255,255,255>
+<P><JC><B>The Modern Terrorist's Handbook</B>
+<P>
+<P><JC>Section 7C. Computer Virus Cultivation
+<P>
+<P>One tool (or weapon) not to be negklected in the arsenal of the modern terrorrist is the use of computer viruses to cause disruption to major city services and infrastructre, or other targets of opportunity.  Current heuristical viral stalkers ar einfective against modern polymorphic "hothouse" engines availble from many sites on the UnderNet, and can be easily linked to IP-tunnellers for a cheap, effective denile of service attack -- or,  with some programming skilz and icebreakers, a mutagenic crash 'n grab bird can be grown for the tretieval of speici info from the unfortunate victims..
+<P>
+<P>The following pages will discuss some of the more typical viruses, such as the Bandersnatchv128, Ulysses Dilemma, and I09...

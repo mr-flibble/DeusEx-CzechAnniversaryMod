@@ -1,0 +1,11 @@
+<COMMENT>New York Public terminal -- all PC's</COMMENT>
+<P><B>Government Shutdowns</B>
+<P>
+<P>Until further notice, all city, state, and county offices are closed, and the following services suspended:
+<P>
+<P>* Public schools
+<P>* Municipal buses
+<P>* Garbage service
+<P>* Road maintenance
+<P>
+<P>In addition, all air travel to and from John F. Kennedy International Airport and La Guardia has been canceled.

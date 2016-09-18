@@ -1,0 +1,15 @@
+<COMMENT>Maintenance access through fan</COMMENT>
+<DC=255,255,255>
+<P>MJ12 ADVANCE TEAM
+<P>PROBLEM RECOMMENDATION REPORT 87-X
+<P>FROM: CAPTAIN JAMES FLORES
+<P>TO: AGENT KARYO
+<P>PRR-ID: 7793G
+<P>
+<P>DESCRIPTION: After preliminary reconnaissance, I have determined that we have a potential security vulnerability in one of the outlying warehouses: an intake fan vent with a maintenance access hatch that could act as a possible method of ingress to the facility.  While such ingress would present definite hazards to any intruder, it is still an unacceptable risk for a Seraphic/8X classified facility.
+<P>
+<P>RECOMMENDATION: A squad should be dispatched to a) secure the area; b) weld the hatch shut; and c) install sensors and autoguns to extend our security grid coverage.
+<P>
+<P>NOTES: All troops not directly attached to MJ12 have been classified as a security liability and should be eliminated on sight.
+<P>
+<P>AUTHBLOK=<"8723reg7cvhjc87eow3fwelvcsdoc7t80723dfwve">

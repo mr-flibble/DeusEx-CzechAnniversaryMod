@@ -1,0 +1,12 @@
+<DC=255,255,255>
+<P><B>From:</B> AGrossman//UnderNet.7823.37.908
+<P><B>To:</B> WGibson//VersaLife.980.73.01
+<P><B>Subject:</B> Finally Beat It
+<P>
+<P>I managed to nail Nethack v54.3.1 just a few minutes ago.  Made it past the Astral Plane, and _then_ back in time to work through all of history up to Nethack v3.2.3 (this, of course, has been in every version since 48.2), but after that the game jumped a thousand years into the future and I had to build an entire interstellar trading alliance (with only the Amulet of Yendor) before the aliens from the other side of the black holes showed up...took me six months to solve that part of the game, and then I finally won.
+<P>
+<P>Check it out: www.nethack.org
+<P>
+<P>I hear v54.3.3 should be out next week.
+<P>
+<P>Austin

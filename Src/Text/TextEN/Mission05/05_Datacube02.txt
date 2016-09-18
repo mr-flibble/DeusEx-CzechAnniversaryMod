@@ -1,0 +1,10 @@
+<COMMENT>MJ12 guard room, near surgery</COMMENT>
+<DC=255,255,255>
+<P>Captain Hernandez:
+<P>
+<P>We are in the process of ghosting all network security resources to provide additional protection against possible intrusion or denial of service attacks.  Until this process is complete, all security computers will be utilizing a temporary system.
+<P>
+<P>Login: MJ12
+<P>Password: INVADER
+<P>
+<P>Agent Sherman

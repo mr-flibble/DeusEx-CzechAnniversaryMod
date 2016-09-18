@@ -1,0 +1,9 @@
+<COMMENT>Dockyard</COMMENT>
+<DC=255,255,255>
+<P>FROM: ASTON GREER
+<P>TO: AGENT PAUL JENKINS
+<P>
+<P>Once on site you are to assume control of the Brooklyn Naval Shipyards security system and link with the FEMA presence already there.  Login is "USFEMA" and password is "Security".  When the task is completed, report to Simons.
+<P>
+<P>Aston Greer
+<P>Director of Security, FEMA

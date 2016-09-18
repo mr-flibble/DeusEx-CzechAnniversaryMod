@@ -1,0 +1,5 @@
+<COMMENT>Helios elevator room</COMMENT>
+<DC=255,255,255>
+<P>Alaine, mam takovy pocit, ze pravda o tom, do ceho jsme se tady zapletli, se tyka protokolu Aquinas a Helia. Page do tech oblasti omezil pristup, ale substanice Aquinas a router jsou behem ctvrte smeny obvykle opustene. Bohuzel si nemohu dovolit odejit ze sveho mista; vsimli by si toho. Jestli se dokazes vytratit ty, tak kod je 6765. Schvalne, jestli dokazes odhalit, o co tu bezi! Kdyby se te nekdo ptal, muzes mu nabulikovat, ze tam jsi kvuli porucham na svetlovodnych rele.
+<P>
+<P>Julie

@@ -1,0 +1,24 @@
+<COMMENT>Alex Jacobson inbox</COMMENT>
+<DC=255,255,255>
+<P><B>Od:</B> JManderley//UNATCO.00013.76490
+<P><B>Ke:</B> AJacobson//UNATCO.00013.76490
+<P><B>Vec:</B> <I>re:</I> Bezpecnostni prunik
+<P>
+<P>Diky za tvou informaci ohledne hackerskeho utoku, stejne jako za tvou rychlou protiakci. Jsem rad, ze nase usili na poli bezpecnosti nevyznelo naprazdno.
+<P>
+<P>(AJacobson//UNATCO.00013.76490) napsal:
+<P>
+<P>>Povedlo se mi zastavit ty chlapky (vlastne to bylo jedno francouzsky
+<P>>stene, po kterym uz sla CIA, mozna patri k Silhouette(?)), co se 
+<P>>zkouseli nabourat do site, ale pro jistotu navrhuju zmenu nekterych
+<P>>hesel. Tady je aktualni seznam:
+<P>>
+<P>>anavarre - scryspc
+<P>>ghermann - zeitgeist
+<P>>jmanderley - knight_killer
+<P>>jreed - redshoes
+<P>>jreyes - amigo
+<P>>scarter - antique
+<P>>ja - calvo
+<P>>
+<P>>Nejlepsi bude, kdyz to smazete hned, jak si to prectete, jo?

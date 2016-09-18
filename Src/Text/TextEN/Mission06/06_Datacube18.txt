@@ -1,0 +1,5 @@
+<COMMENT>Helibase computer codes</COMMENT>
+<DC=255,255,255>
+<P><B>UPDATE, MJ12 H.K. HELIBASE OPERATIONS MANUAL</B>
+<P>
+<P>All authorized personnel with clearances of level 3 and above should be made aware that the authorization for the "TALON" security network has been changed from "VALKYRIE" to "SKYEYE".  The functionality of the "TALON" security network has not changed substantially, and is still covered in Section 3B of the Operations Manual.  All further inquiries should be directed to your superior.

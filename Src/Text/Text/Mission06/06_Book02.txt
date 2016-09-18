@@ -1,0 +1,7 @@
+<DC=255,255,255>
+<P><JC><B>PROJEKT DIBBUK</B>
+<P><JC>SH-187: Princip a zvlastnosti
+<P>
+<P><JC><I>POUZE pro povereni Domination/5F</I>
+<P>
+<P>...cilem PROJEKTU DIBBUK bylo vytvorit rotacni letoun s dlouhym doletem, jenz by byl schopen plnit ruzne mise, coz nakonec vyustilo v "neviditelny vrtulnik" SH-187. Prototyp modelu SH-187 je vybaven revolucnim motorem pohanenym VYSOCE OBOHACENYM ETANOLOVYM PALIVEM s ucinnym doletem pres 9000 mil v zavislosti na povetrnostnich podminkach. Pri konstrukci byla vyuzita adaptivni maskovaci technologie, ktera cini stroj NEVIDITELNYM v 97 procentech neviditelneho elektromagentickeho spektra. Jelikoz je nejvhodnejsi pro tajny pruzkum, vysadek, zachranne mise, a podobne, vrtulnik SH-187 bude travit prevaznou vetsinu casu na nepratelskem uzemi. Proto je rovnez vybaven DaLKOVYM VYPINaNIM a rusenim vlastnich klicovych systemu. V pripade nutnosti je mozne vrtulnik dalkove znicit...

@@ -1,0 +1,3 @@
+<COMMENT>Ship's electronics lab</COMMENT>
+<DC=255,255,255>
+<P>Note to self: remember to tell Song that the new code she set for ops doesn't work -- the "4" button on the keypad is stuck and I don't have a replacement in stock -- so I changed it to 83353.

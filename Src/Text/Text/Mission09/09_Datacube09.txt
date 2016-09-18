@@ -1,0 +1,11 @@
+
+<COMMENT>Supply warehouse bathroom</COMMENT>
+<DC=255,255,255>
+<P>Od: Kapitan James Keene
+<P>Ke: Veskery personal ochranky
+<P>Vec: Bezpecnostni opatreni
+<P>
+<P>Az do odvolani bude veskery pristup do Moderni ponorkove zakladny (ASF) omezen pouze na cleny FEMA a povolany personal ochranky. Zaroven se timto vyhlasuje vysoky stupen poplachu. Vsechny pristupove cesty budou zajisteny a jejich kody kazdodenne meneny: dnesni kod je 0909. Dalsi kody vam bude pridelovat vas primy nadrizeny. Tento kod podleha prisnemu utajeni a nesmi byt prozrazen nikomu jinemu, nez clenovi ochranky nebo FEMA.
+<P>
+<P>Kapitan James Keene
+<P>Brooklynska lodenice

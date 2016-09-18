@@ -1,0 +1,5 @@
+<COMMENT>Helicopter ops</COMMENT>
+<DC=255,255,255>
+<P>Tran, Captain's changed all the damn codes again -- says we're going to do it every day we're in port.  He's been awful nervous lately, and that makes me nervous, particularly when we're carrying a freighter full of pesticide or whatever it is.  At least we're getting a bonus for this trip.  Anyways, today's code for the hangar is 4453.
+<P>
+<P>Xin

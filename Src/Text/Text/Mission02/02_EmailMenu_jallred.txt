@@ -1,0 +1,2 @@
+<EMAIL=02_Email10,Tydenni hlaseni (ulozeno),JAllred,TMore,>
+<EMAIL=02_Email11,RE: Omluva,APriest,JAllred,>

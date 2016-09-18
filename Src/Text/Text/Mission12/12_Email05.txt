@@ -1,0 +1,14 @@
+
+<DC=255,255,255>
+<P><B>Od:</B> GSavage//UnderNet.289.83.54
+<P><B>Ke:</B> JTaylor//UnderNet.498.784.90
+<P><B>Vec:</B> RE: Reakcni moduly
+<P>
+<P>>Provedl jsem nekolik zatezovych testu reakcnich modulu
+<P>>a malicko me znepokojily energeticke silokrivky - par
+<P>>vzorku z posledni serie pokusu ti pripojuji k tomuto
+<P>>dopisu. Ohledne kolisani sigma dostavame neprijemne strme
+<P>
+<P>Verim, ze to kolisani se da vysvetlit interferencnim vzorkem elektrickych vazeb reakcnich modulu; na podobny problem jsme narazili v Oblasti 51 a mohla za nej obycejna zpetna vazba - ale kontroluj to, samozrejme, dal. Nemuzeme si dovolit stejne prodlevy jako tenkrat.
+<P>
+<P>Gary

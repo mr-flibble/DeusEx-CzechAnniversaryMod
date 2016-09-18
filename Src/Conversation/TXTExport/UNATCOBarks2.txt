@@ -1,0 +1,84 @@
+-----------------------------------------------------------------
+[Owner: AnnaNavarre]
+[Name:  AnnaNavarre_BarkAllianceFriendly]
+
+[SPEECH: AnnaNavarre]
+Neposlusnost ja tolerovat nebudu!
+
+[SPEECH: AnnaNavarre]
+At te ani nenapadne, ze by ses mi mohl rovnat!
+
+[COMMENT]
+(but not next time)
+
+[SPEECH: AnnaNavarre]
+Tentokrat te jeste necham zit.
+
+-----------------------------------------------------------------
+[Owner: AnnaNavarre]
+[Name:  AnnaNavarre_BarkAllianceHostile]
+
+[SPEECH: AnnaNavarre]
+Uklidni se, agente.
+
+[SPEECH: AnnaNavarre]
+Chces ranu?
+
+[SPEECH: AnnaNavarre]
+Davej pozor!
+
+-----------------------------------------------------------------
+[Owner: AnnaNavarre]
+[Name:  AnnaNavarre_BarkFutz]
+
+[SPEECH: AnnaNavarre]
+Prestan se tu ztrapnovat, agente!
+
+[SPEECH: AnnaNavarre]
+Zachovej dustojnost, prosim!
+
+[SPEECH: AnnaNavarre]
+Dospeleho chlapa ja vychovavat nebudu.
+
+-----------------------------------------------------------------
+[Owner: GuntherHermann]
+[Name:  GuntherHermann_BarkAllianceFriendly]
+
+[SPEECH: GuntherHermann]
+Ne. Oba dva jsme ted ve sluzbe. Jasny?
+
+[SPEECH: GuntherHermann]
+Ja te taky nemam rad, ale budeme to muset spolu vydrzet.
+
+[SPEECH: GuntherHermann]
+Doufam, ze se naucis zachovavat disciplinu.
+
+-----------------------------------------------------------------
+[Owner: GuntherHermann]
+[Name:  GuntherHermann_BarkAllianceHostile]
+
+[SPEECH: GuntherHermann]
+Tohle jsi udelal schvalne!
+
+[SPEECH: GuntherHermann]
+Nech toho!
+
+[SPEECH: GuntherHermann]
+To boli.
+
+-----------------------------------------------------------------
+[Owner: GuntherHermann]
+[Name:  GuntherHermann_BarkFutz]
+
+[SPEECH: GuntherHermann]
+Tohle uz radsi nikdy nezkousej.
+
+[SPEECH: GuntherHermann]
+Co blbnes?
+
+[SPEECH: GuntherHermann]
+Tvoje chovani me rozcarovalo.
+
+[SPEECH: GuntherHermann]
+V akademii te meli vycepovat trochu lip.
+

@@ -1,0 +1,7 @@
+<COMMENT>Maggie's password clue</COMMENT>
+<DC=255,255,255>
+<P>Mr. Hundley,
+<P>
+<P>It has become necessary to change my system password since it may have become compromised; I will encrypt the new password and forward it to you shortly.  Please note that any access attempts made using "Tai-Fun" should be tagged and traced for interrogation.
+<P>
+<P>-Maggie Chow

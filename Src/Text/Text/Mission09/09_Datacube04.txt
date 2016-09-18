@@ -1,0 +1,3 @@
+<COMMENT>Ship's electronics lab</COMMENT>
+<DC=255,255,255>
+<P>Poznamka pro me: nezapomenout oznamit Songovi, ze ten novej kod pro tu sadu bazmeku nefuguje - ctyrka na klavesnici je zasekla a ja nemam ve skladu nahradni kus - tak jsem ho zmenil na 83353.

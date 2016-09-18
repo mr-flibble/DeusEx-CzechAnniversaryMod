@@ -1,0 +1,9 @@
+<DC=255,255,255>
+<P><B>Page Unveils "Aquinas"</B>
+<P>APR - Washington, D.C.
+<P>
+<P>At a lavish press conference today attended by mainstream and technical media alike, Bob Page unveiled Page Industries (NASDAQ:PAGI) newest technological achievement, "Aquinas."  Rumored to have been in development for almost five years at a cost of over a billion credits, Aquinas is a seamless, transparent replacement for the current patchwork of Net protocols that promises to radically expand bandwidth without the need for new hardware.
+<P>
+<P>"Aquinas is the result of over five hundred man-years of effort on the part of some of the most talented and driven people in the industry," Page said at the conference.  "We're grateful to the NSA and the Hague Commission on Secure Communications for trusting Page Industries with the responsibility for this technological milestone.  As of noon today you can expect nearly all of the world's net traffic to be carried by Aquinas.  Bandwidth is now, for all intents and purposes, free."
+<P>
+<P>The remainder of the press conference involved presentations by the leaders of the carriers allied with Page Industries, and a technical discussion of the Aquinas protocol -- named after the titular Thomas Aquinas, whose philosophy is a well-known passion for Bob Page.

@@ -1,0 +1,10 @@
+<DC=255,255,255>
+<P>>MJ12 CWD
+<P>TECHNICAL REPORT 12-Y
+<P>FROM: SANDY PRINSLOO
+<P>TO: KIM KRIZAN
+<P>SUBJECT: INTERFACE PROGRESS
+<P>
+<P>We've finally managed to work out the last few bugs in the link-up -- Page wants to be interfaced with Helios immediately after final testing is completed.  I'm not sure if that's such a good idea, but I'll defer to the doctors on this one... I'm just the technical help.  I figure another five or six hours for the last couple diagnostic routines to complete their pass and then we go live.  Page also requested that we hook up all four of the blue fusion devices in a redundant array; each of those damn things could probably power the whole complex for a month, much less four of them in parallel.  Going to be hell to route them all, but I think I can jury-rig something.  I'll take a look at the B13 reactors after I get the passcode from Mac, see if there's anything there that might be helpful.  I should know more by 2300.  And let me know when you get the status report from Murdoch on the transmission chamber.
+<P>
+<P>MJ12CWD * "Ipsa scientia potestas est."

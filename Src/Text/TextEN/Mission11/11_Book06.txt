@@ -1,0 +1,10 @@
+<COMMENT>notebook</COMMENT>
+<DC=255,255,255>
+<P><JC><B>The Red Cross: A History of the Knights Templar</B>
+<P><JC>by Richard Baigent
+<P>
+<P><JC>Volume Three: Fall of the Knights
+<P>
+<P>... while many charges can be disputed, it is clear that the more the Knights prospered, the less they became the austere monastic order that had originally been envisioned by de Payens a century before.  Eventually even excommunicated men and criminals were accepted -- as long as they pledged blind obedience to the order.  Rumors of secret initiation rituals and the "<I>osculum infame</I>" ("obscene kiss") flourished, as did stories that they worshipped Baphoment and other false pagan gods.
+<P>
+<P>But it was their rivalry with the Order of the Hospitalers and their continued arrogance that were most responsible for their downfall.  When Jerusalem was finally lost to the mighty forces of Saladin, Philip the Fair saw an opportunity to bring the Templars to heel... and greatly expand his own holdings.  With the cooperation of the French pope Clement V, Philip accused the Templars of heresy and in 1304 placed all members of the order in France under arrest, subsequently subjecting them to brutal interrogations in an effort to determine whether the rather fanciful charges of sodomy, apostasy, and devil worship were true...

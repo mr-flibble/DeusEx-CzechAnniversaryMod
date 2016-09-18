@@ -1,0 +1,9 @@
+<COMMENT>MJ12 lab conference room</COMMENT>
+<DC=255,255,255>
+<P>Dr. Lundquist:
+<P>
+<P>The new server node for the Weapons Research Team is now active and user permissions have been set as you asked.  The master password for this node is DAMOCLES.
+<P>
+<P>Please let me know if you need anything else,
+<P>
+<P>- Harrison

@@ -1,0 +1,8 @@
+<DC=255,255,255>
+<P><JC><B>VYCVIKOVY MANUaL UNATCO</B>
+<P>
+<P><JC>Odstavec 3C: Multitooly
+<P>
+<P>"Multitool" neni ve skutecnosti zadnym nastrojem, prinejmensim ne v obvyklem slova smyslu, nybrz jednorazovym elektronickym pristrojem na bazi detekce elektromagneticke rezonance, ktery umi dynamicky menit modulaci tak, aby dokazal proniknout takrka do vsech elektrickych okruhu. Zkuseni agenti pouzivaji multitool k ovladani zamku, kamer, automatickych kulometu, poplachovych systemu a jinych prvku ostrahy.
+<P>
+<P>Upozornujeme, ze multitool NELZE pouzit k pruniku do pocitacoveho systemu (viz Odstavec 5A: Hacking).

@@ -1,0 +1,6 @@
+<COMMENT>MJ12 surgical ward</COMMENT>
+<DC=255,255,255>
+<P><B>Surgical Pre-Evaluation</B>
+<P><B>Subject:</B> Paul Denton
+<P>
+<P>... subject shows a number of departures from nominal baseline physiology, including a noted absence of all H type epsilon immunoglobin proteins which would seem to be related to his ability to tolerate nano-augmentations that are typically rejected by the vast majority of the population.  Of particular interest is that the subject tests positive for the "Gray Death" yet shows no apparent symptoms or adverse effects...

@@ -1,0 +1,8 @@
+<DC=255,255,255>
+<P>Hey J.C., want to cross the water?  Lower the bridge.  The code is:
+<P>
+<P><JC><B>0089</B>
+<P>
+<P>It's either that or get all wet.
+<P>
+<P>Jaime

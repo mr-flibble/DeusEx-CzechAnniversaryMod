@@ -1,0 +1,10 @@
+<COMMENT>Sewers under warehouse</COMMENT>
+<DC=255,255,255>
+<P>Commander Frase:
+<P>
+<P>I've completed the initialization of the warehouse perimeter security grids with the login and password you requested; these codes will work for both grids.  I'll set up internal warehouse security measures next -- I don't really trust JoJo to do the job right.
+<P>
+<P>Login: NSF
+<P>Password: righteous
+<P>
+<P>-Decker

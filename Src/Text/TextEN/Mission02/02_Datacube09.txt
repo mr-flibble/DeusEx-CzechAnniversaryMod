@@ -1,0 +1,5 @@
+<COMMENT>Alley near warehouse</COMMENT>
+<DC=255,255,255>
+<P>Commander Weld: Code for the warehouse basement ramp is 2577.  Setting up the security grid is absolute first priority -- the assault on Liberty Island will be commencing shortly and we can expect an armed response within short order.  Until the mission objective can be offloaded, the generator must be protected.  It's our last line of defense.
+<P>
+<P>JL

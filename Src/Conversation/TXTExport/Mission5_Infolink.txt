@@ -1,0 +1,133 @@
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_BotBay]
+
+[SPEECH: Daedalus]
+Tohle je zarizeni na udrzbu ochrannych botu. Zbrojnice je na jihu, na opacne strane hlavniho salu.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Comm]
+
+[SPEECH: Daedalus]
+Prave jsi pod Velitelskym centrem.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Equipment]
+
+[SPEECH: Daedalus]
+Nasel jsi svoji vyzbroj.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_GuntherPissed]
+
+[SPEECH: GuntherHermann]
+Ne, ja neodpoustim! Ne... vrazdu agentky Navarrove nikdy! Pujdu po tobe! Dentone, ja te dostanu!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Choice]
+
+[GOAL:]
+Najdi svou vyzbroj, kterou ti UNATCO vzalo, kdyz te zajali.
+
+[SPEECH: Daedalus]
+Posilam ti plan laboratore. Veskere tve vybaveni je ulozeno ve zbrojnici na jihu. Paul Denton je nazivu v laboratori na severu, ale ma poskozeny infolink. Musis ho informovat o svem uteku. Tracer Tong musi dostat jeho databanku, aby mohl zablokovat pojistku zkazy.
+
+[GOAL:]
+Najdi sveho bratra a z jeho databanky ziskej informaci, ktera Traceru Tongovi umozni zablokovat pojistku zkazy.
+
+[SPEECH: Daedalus]
+Posilam ti plan laboratore... Veskere tve vybaveni je ulozeno ve zbrojnici na jihu. Mrtvola Paula Dentona je v laboratori na severu. Musis se k nemu dostat a ziskat databanku z jeho tela. Tracer Tong ji potrebuje, aby mohl zablokovat pojistku zkazy.
+
+[GOAL:]
+Ziskej databanku z tela sveho bratra. Tracer Tong ji bude potrebovat, aby umel zablokovat pojistku zkazy.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_key]
+
+[GOAL:]
+Zlikviduj Annu Navarrovou.
+
+[GOAL:]
+Az bude Anna Navarrova mrtva, stav se u Alexe pro klic k vychodu.
+
+[SPEECH: AlexJacobson]
+Sleduju te kamerama, JC. Vrat se zpatky a ja ti dam klic k hlavnim dverim. Ale nejdriv se postarej o Annu Navarrovou, jinak nemuzu utyct s tebou. Dokud tady bude pobihat, nemuzu nic riskovat!
+
+[GOAL:]
+Stav se u Alexe pro klic k vychodu.
+
+[SPEECH: AlexJacobson]
+Sleduju te kamerama, JC. Vrat se zpatky a ja ti dam klic k hlavnim dverim.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Nano]
+
+[SPEECH: Daedalus]
+Jsi pod nanotechnologickou laboratori.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_NoPaul]
+
+[SPEECH: Daedalus]
+Unikovy kod z teto oblasti ti zatim nedam. Bez do lekarske oblasti. Tracer Tong potrebuje databanku Paula Dentona.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_paul]
+
+[COMMENT]
+A sound effect for the transmission of the datavault?
+
+[SPEECH: Daedalus]
+Snimek databanky byl odeslan Tracerovi Tongovi. Ted musis opustit laborator. Musi prezit alespon jeden z vas. Kod k vychodu je 1125.
+
+[NOTE:]
+Vychod z laboratore: 1125.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_PaulDead]
+
+[COMMENT]
+A sound effect for the transmission of the datavault?
+
+[SPEECH: Daedalus]
+Snimek databanky byl odeslan Tracerovi Tongovi. Ukol je splnen. Ted musis opustit laborator. Kod k vychodu je 1125.
+
+[NOTE:]
+Vychod z laboratore: 1125.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_PrisonCell]
+
+[GOAL:]
+Uprchni z tajne laboratore Majestic 12.
+
+[SPEECH: Daedalus]
+Potrebuji, abys unikl. Dvere smim odpojit od okruhu jen na nekolik sekund, aby se na to neprislo. Priprav se!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_PrisonCell2]
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_UNATCO_Escape]
+
+[GOAL:]
+Uprchni z UNATCO a bez k heliportu.
+
+[SPEECH: Daedalus]
+Pokracuj, prosim, k heliportu. Cestou muzes potkat nasledujici osoby: Jaimeho Reyese, Sama Cartera, Alexe Jacobsona, Josepha Manderleyho a Annu Navarrovou.
+
+[SPEECH: Daedalus]
+Pokracuj, prosim, k heliportu. Cestou muzes potkat nasledujici osoby: Jaimeho Reyese, Sama Cartera, Alexe Jacobsona a Josepha Manderleyho.
+

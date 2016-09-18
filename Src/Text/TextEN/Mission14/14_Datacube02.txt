@@ -1,0 +1,7 @@
+<COMMENT>Karkian Lab, OceanLab Base</COMMENT>
+<DC=255,255,255>
+<P>I got that tunnel code for you, Dr. Awase -- project management has cleared you to take some core samples from the area while it's being bored out, but I'd be careful anyways.  Big machinery and diamond-tipped drill bits don't create the most friendly work evironment.
+<P>
+<P>Access Code: 5690
+<P>
+<P>Paul

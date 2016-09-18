@@ -1,0 +1,7 @@
+<COMMENT>MJ12 detenion block</COMMENT>
+<DC=255,255,255>
+<P>Lieutenant Jackson:
+<P>
+<P>A failed intrusion attempt into LabNet has unfortunately scrambled other key systems, requiring most of the security grid to be reset.  Until the grid is fully restored, the detention block door code has been reset to 4089 while _all_ detention cells have been reset to 4679.  You will be notified when the situation has been fully resolved.
+<P>
+<P>Agent Sherman

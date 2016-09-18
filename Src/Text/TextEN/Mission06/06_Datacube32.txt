@@ -1,0 +1,6 @@
+<DC=255,255,255>
+<P>To All Flight Controllers:
+<P>
+<P>After the recent theft of the SH-187, we are re-evaluating our security prodcedures.  Until further notice, Deck One Flight Control has been sealed and troops ordered to barracks.  If you need access to Flight Control, please see Tech Sergeant McKinney.
+<P>
+<P>-Mackie

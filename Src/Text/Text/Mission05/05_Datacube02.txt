@@ -1,0 +1,10 @@
+<COMMENT>MJ12 guard room, near surgery</COMMENT>
+<DC=255,255,255>
+<P>Kapitane Hernandezi:
+<P>
+<P>Pokracujeme v ozivovani veskerych sitovych bezpecnostnich protokolu, abychom dosahli co nejlepsi ochrany proti pripadnemu pruniku nebo sabotazi. Dokud nebudeme hotovi, vsechny terminaly ochranky budou napojeny na docasny system.
+<P>
+<P>Login: MJ12
+<P>Heslo: INVADER
+<P>
+<P>Agent Sherman

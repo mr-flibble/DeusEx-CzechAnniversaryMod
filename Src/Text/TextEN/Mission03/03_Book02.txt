@@ -1,0 +1,5 @@
+<DC=255,255,255>
+<P><JC><B>Medical Management of Biological Casualties Handbook</B>
+<P>U.S. Army Medical Research Institute of Infectious Diseases
+<P><JL>
+<P>... In addition to their detrimental health effects on the targeted population, biological warfare agents would likely cause significant impacts on the medical care system.  Massive numbers of patients and demands for intensive care would overwhelm medical resources. Special medications or vaccines not generally available in standard pharmaceutical stocks would be required.  Medical care providers and laboratory personnel might need added protection, and autopsy and interment of remains could present hazards not commonly dealt with...

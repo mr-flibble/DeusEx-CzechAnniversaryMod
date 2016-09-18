@@ -1,0 +1,180 @@
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Alleys]
+
+[SPEECH: AlexJacobson]
+Davej pozor na LAM! Zachytil jsem aktivni sonicky snimac. Posilam ti satelitni snimek. Je na nem rozmisteni strazi NSF na strechach.
+
+[SPEECH: AlexJacobson]
+Davej pozor na LAM! Zachytil jsem aktivni sonicky snimac.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_AmbrosiaFound]
+
+[GOAL:]
+Hlas se agentce Navarrove o dalsi rozkazy.
+
+[SPEECH: AlexJacobson]
+Ukol splnen. Agentka Navarrova ti preda dalsi rozkazy a prevezme ochranu zasobniku s Ambrozii. Bez nahoru a najdi ji.
+
+[SPEECH: AlexJacobson]
+Agentka Navarrova uz objevila Ambrozii a vycistila oblast. Tvuj rozkaz zni: pokracovat v operaci a vydat se do Pekelne kuchyne.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_CastleClinton]
+
+[SPEECH: AlexJacobson]
+NSF tu prestaveli starou piskovcovou pevnost - Clintonuv hrad, postaveny pred valkou v roce 1812. Nemusis byt tak krvelacny jako je Anna; staci, kdyz najdes tu Ambrozii.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_CokeMachine]
+
+[SPEECH: AlexJacobson]
+Vypada to na podzemni chodbu ke Clintonove hradu. Na mape ji tu ale nemam.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_HotelBriefing]
+
+[GOAL:]
+Over, v jake situaci se nalezaji rukojmi v hotelu 'Ton v jihovychodnim rohu bloku. Zachran Rentonovy, pokud jsou jeste uvnitr.
+
+[SPEECH: AlexJacobson]
+Dostali jsme zpravu o rukojmich v hotelu 'Ton, ktery najdes v jihovychodnim rohu bloku. Kdyz jsi mluvil s Paulem, setkal ses i s panem Rentonem a jeho dcerou Sandrou? Predpokladame, ze alespon jeden z nich je porad jeste uvnitr.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Kiosk]
+
+[SPEECH: AlexJacobson]
+Jsi uvnitr kiosku v Clintonove hrade. Hlavni oddil NSF se zrejme stahl nekam do podzemi.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Panel]
+
+[SPEECH: AlexJacobson]
+V tehle oblasti je automaticka obrana. Nekde tam bude ovladaci panel, tak ve vysi pasu. Mozna ho zamaskovali.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_ParkSubway]
+
+[GOAL:]
+Osvobod rukojmi v podzemni draze Battery Parku, vychodne od Clintonova hradu.
+
+[SPEECH: AlexJacobson]
+Teroriste NSF v podzemni draze vyhrozuji, ze vyhodi do vzduchu cele nastupiste. Davej pozor na pasti!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Pickup]
+
+[SPEECH: AlexJacobson]
+Dobra prace, JC. Na velitelstvi NSF zhasla vsechna svetla. Ted zalezi na Paulovi. Vylez na strechu. Prileta k tobe vrtulnik s agentem Hermannem na palube. Ten potom zapeceti skladiste, kdezto ty se vratis vrtulnikem zpatky do Centra.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_ReminderJaney]
+
+[SPEECH: AlexJacobson]
+Halo, JC! Klobouk dolu pred tvym instinktem! Jenom nezapomen na generator, az budes hotov. Paul jeste porad shani svuj tym, takze trochu casu mame.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Rooftops]
+
+[SPEECH: AlexJacobson]
+Opatrne, JC. Posilam ti satelitni snimek. Je na nem rozmisteni strazi NSF na strechach.
+
+[SPEECH: AlexJacobson]
+Opatrne, JC. Na strechach se to hemzi lidmi od NSF.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Smuggler1]
+
+[SPEECH: AlexJacobson]
+Davej pozor, JC! Nasi agenti hlasi, ze tahle oblast je plna pasti. A jeste jedna zprava: tym tveho bratra narazil na odpor, takze se to trochu protahne, protoze potrebujeme podporu vrtulniku.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Smuggler2]
+
+[SPEECH: AlexJacobson]
+Podle nasich zaznamu je Paserak vysinuty paranoik. Davej pozor na pasti! A jeste jedna zprava: tym tveho bratra narazil na odpor, takze se to trochu protahne, protoze potrebujeme podporu vrtulniku.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_StreetOpened]
+
+[SPEECH: PaulDenton]
+Dobra prace - o zbytek se postaraji vojaci. Moji muzi jsou pripraveni, JC. Spolehame na tebe, ze vypnes to EMP pole. Promluv si s mistnimi. Ta elektrarna musi bejt nekde pobliz.
+
+[SPEECH: PaulDenton]
+Mel jsi je zneskdonit, JC. Nerikal jsem zabit. Zapomen na poulicni prestrelky! Moji muzi jsou pripraveni, JC. Spolehame na tebe, ze vypnes to EMP pole. Promluv si s mistnimi. Ta elektrarna musi bejt nekde pobliz.
+
+[SPEECH: AlexJacobson]
+Manderley chce vedet, jak je mozny, zes' to takhle pojebal, JC. Mas se okamzite vratit do skladiste. Na strese te bude cekat vrtulnik.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_SubwayComplete]
+
+[SPEECH: AlexJacobson]
+Dobra prace. Rukojmi jsou v poradku. Ted se vrat ke Clintonovu hradu a pomoz agentce Navarrove najit ten zasobnik s Ambrozii.
+
+[SPEECH: AlexJacobson]
+Nemuzu uverit vlastnim ocim! Vzdyt to byli nevinni lide! Nemuzes tam proste vlitnout a vsechny postrilet! Ted se vrat ke Clintonovu hradu a pomoz agentce Navarrove najit ten zasobnik s Ambrozii.
+
+[GOAL:]
+Hlas se Paulovi v Pekelne kuchyni.
+
+[SPEECH: AlexJacobson]
+Dobra prace. Rukojmi jsou v poradku. Ted naskoc na vlak do Pekelne kuchyne a hlas se svemu bratrovi.
+
+[SPEECH: AlexJacobson]
+Nemuzu uverit vlastnim ocim! Vzdyt to byli nevinni lide! Nemuzes tam proste vlitnout a vsechny postrilet! Vezmi si metro do Pekelne kuchyne a promluv si tam se svym bratrem.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_SubwayComplete2]
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_SubwayComplete3]
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_TenderloinSubway]
+
+[GOAL:]
+Hlas se Paulovi v Pekelne kuchyni.
+
+[SPEECH: AlexJacobson]
+Dal budes spolupracovat se svym brachou Paulem. Najdi ho v hotelu a porad se s nim.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Underground]
+
+[SPEECH: AlexJacobson]
+Tyhle tunely na mape newyorskych stok schazeji - to je divny. Nemuzu ti poradit, kudy se mas dat. Ale za pruzkum by to stalo.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Warehouse]
+
+[SPEECH: AlexJacobson]
+Hledej budovu s antenami.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_WaterTreatment]
+
+[SPEECH: AlexJacobson]
+Tahle oblast je byvala cisticka vody. Zajimalo by me, co tady delaji ti paragani, ale podle toho, co rikal Paserak, si dovedu predstavit, ze tu drzi toho jeho pritele Forda Schicka.
+

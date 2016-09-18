@@ -1,0 +1,16 @@
+<COMMENT>MJ12 Hit List</COMMENT>
+<DC=255,255,255>
+<P><JC><B>MJ12 Compromised Individuals List</B>
+<P><JC>Paris, France
+<P>
+<P>The following individuals have been rated as having an 85% or higher likelihood of being engaged in suspicious or ideologically counterproductive activity on the Chasen-Bikal scale, and/or have scored at least 4.31 on the JKL-LB survey over the preceeding six months.  Agents are encouraged to pursue soft campaigns of calculated defamation, resulting in reduced meme propagation effectiveness, prior to prejudicial termination.  Termination, when necessary, should be staged to implicate organizations currently on the MJ12-COL.  Please refer any questions to MJ12 Simulations and Strategy, MJ12SAS//UpNet.2748.2738.22.
+<P>
+<P>Jean Renois (MJID-7037XD8374)
+<P>Erin Todd (MJID-3793YH3803)
+<P>Decker Parkes (MJID-0984IS3270)
+<P>Rene Delon (MJID-9834TR1008)
+<P>Wayne Young (MJID-9904MG9401)
+<P>Henri Rota (MJID-7778AD2096)
+<P>Ave Javet (MJID-7982MV1924)
+<P>Raymond Kearns (MJID-4684II3900)
+<P>...

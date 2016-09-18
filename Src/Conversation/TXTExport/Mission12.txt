@@ -1,0 +1,1353 @@
+-----------------------------------------------------------------
+[Owner: Bum_F]
+[Name:  Bum_FBarks]
+
+[COMMENT]
+This female bum is drunk and afraid of the player.M
+
+[COMMENT]
+(almost shouting at the player)
+
+[SPEECH: Bum_F]
+Ja te neznam.
+
+[SPEECH: Bum_F]
+Nech nas bejt.
+
+[SPEECH: Bum_F]
+My tu byli prvni.
+
+[SPEECH: Bum_F]
+Chteji nas zabit!
+
+-----------------------------------------------------------------
+[Owner: Bum_F]
+[Name:  MeetBum_F]
+
+[SPEECH: JCDenton]
+Jak to jde?
+
+[COMMENT]
+She's drunk and numb from misfortune.  She responds in a dead, neutral tone.ever depend upon weapons and high-tech when there is a simpler solution at h
+
+[SPEECH: Bum_F]
+Co?
+
+-----------------------------------------------------------------
+[Owner: Bum_M]
+[Name:  Bum_MBarks]
+
+[COMMENT]
+(talking about sneaking into the MJ12 camp and setting a fire)a
+
+[SPEECH: Bum_M]
+Ja se vocad nehnu! Ani napad!
+
+[SPEECH: Bum_M]
+Nejdriv proved pruzkum a potom se mi hlas!
+
+[SPEECH: Bum_M]
+Jestli nebudu mit domov tady, tak teda uz nikde.
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: Bum_M]
+Slysel jsem strelbu!
+
+[SPEECH: Bum_M]
+Nejspis si tedka hodim slofika.
+
+-----------------------------------------------------------------
+[Owner: Bum_M]
+[Name:  BumsOverheard]
+
+[COMMENT]
+These two bums are drunk.  They were thrown out of an abandoned gas station by MJ12., turn left, go down two flights, then go straight ahead up more stairs and turn rig
+
+[SPEECH: Bum_M]
+Sakra, mrzne mi tady prdel.
+
+[SPEECH: Bum_F]
+To uz jsem slysela.
+
+[SPEECH: Bum_M]
+Tak to uslysis znova: mrzne mi tady prdel!
+
+[SPEECH: Bum_F]
+A co s tim mam asi delat?
+
+[SPEECH: Bum_M]
+Ne, ty nedelej NIC! Uz jsem prece rikal: Jµ se o ne postaram!
+
+[SPEECH: Bum_F]
+Paneboze...
+
+[COMMENT]
+Sandra isn't drunk.
+
+[SPEECH: SandraRenton]
+Drzte huby, oba dva!
+
+-----------------------------------------------------------------
+[Owner: Bum_M]
+[Name:  BumsOverheard2]
+
+[COMMENT]
+These two bums are drunk.  They were thrown out of an abandoned gas station by MJ12., turn left, go down two flights, then go straight ahead up more stairs and turn rig
+
+[SPEECH: Bum_M]
+Tohle si nemusim nechat libit! Ja znam svy prava.
+
+[SPEECH: Bum_F]
+Ty zadny prava nemas.
+
+[SPEECH: Bum_M]
+Staci, abych mrknul na dalnicni patrolu.
+
+[SPEECH: Bum_F]
+Kdo nema prachy, nema ani prava.
+
+[SPEECH: Bum_M]
+Nebudu se tu valet a chcipat jako prasivej cokl!
+
+[COMMENT]
+Sandra isn't drunk.
+
+[SPEECH: SandraRenton]
+Tos' vystih'.
+
+-----------------------------------------------------------------
+[Owner: Bum_M]
+[Name:  MeetBum_M]
+
+[COMMENT]
+The bums are still drunk in this conversation.
+
+[SPEECH: JCDenton]
+Jak se vede?
+
+[SPEECH: Bum_M]
+Blbe, clovece. Vede se blbe a bude se vyst blbe dal.
+
+[SPEECH: JCDenton]
+Jste docela daleko za mestem. Jak jste se sem vlastne dostali?
+
+[SPEECH: Bum_F]
+Mame bejvak v ty plynovy stanici.
+
+[SPEECH: Bum_M]
+Vyrazili nas!
+
+[SPEECH: JCDenton]
+Ti vojaci?
+
+[SPEECH: Bum_M]
+Jo, jenze ja se k nim priplizim, az budou spat, a vsechno tam podpalim!
+
+[SPEECH: Bum_F]
+Kdybys tak aspon jednou v zivote misto vecnyho kecani neco udelal...
+
+[SPEECH: Bum_M]
+Tomu ty nerozmis, huso!
+
+[SPEECH: JCDenton]
+Mam do ty stanice namireno. Jak se tam nejlip dostat?
+
+[SPEECH: Bum_M]
+Ja tam chodim kanalem. Hele, mam klic!
+
+[SPEECH: JCDenton]
+Muzu si ho pujcit?
+
+[SPEECH: Bum_M]
+Jasne, vole. Bez prvni a prozkoumej to tam. Ja prijdu za tebou, az tvrde usnou a prestanou hlidat. Nechces koupit nejaky zbozi? Armada tu mivala velitelstvi. Nasel jsem tam zbranovy vylepseni na presnost a zpetnej raz, muzu ti je strelit za 750 a 400 kreditu. Taky mam dejchaci masku - co takhle 1500?
+
+[CHOICES:7]
+
+[CHOICE:]
+Dej mi to vylepseni presnosti za 750.
+
+[CHOICE:]
+Nemam 750 kreditu, jinak bych bral to vylepseni presnosti.
+
+[CHOICE:]
+Tady mas 400 kreditu za ten zpetnej raz.
+
+[CHOICE:]
+Nemam dokonce ani tech 400 kreditu na zpetnej raz.
+
+[CHOICE:]
+Vezmu si dychaci masku za 1500.
+
+[CHOICE:]
+1500 za dychaci masku - to si ovsem nemuzu dovolit.
+
+[CHOICE:]
+Nemam zajem.
+
+[SPEECH: Bum_M]
+Pekne jim zatop!
+
+[SPEECH: Bum_M]
+Sice jsem si to chtel nechat pro sebe, ale prachy se mi zamlouvaj vic.
+
+[SPEECH: Bum_M]
+Dobre delas!
+
+[COMMENT]
+Left this line so as not to screw up the numbering.
+
+[SPEECH: JCDenton]
+Sandro... Co delas tady v Kalifornii?
+
+[SPEECH: Bum_M]
+Prokrista! Ted mam z ostudy kabat!
+
+[SPEECH: JCDenton]
+Moment! Mam toho ted moc, musim neco zahodit.
+
+[SPEECH: Bum_M]
+Tak co bude s tim kseftem?
+
+-----------------------------------------------------------------
+[Owner: CarlaBrown]
+[Name:  CarlaBarks]
+
+[COMMENT]
+These cycle and repeat the last.
+
+[SPEECH: CarlaBrown]
+Jedna z ovladacich jednotek je venku na jihozapade. Ta druha je v mistnosti s transformatorem.
+
+[SPEECH: CarlaBrown]
+Budte opatrny!
+
+[SPEECH: CarlaBrown]
+Bez podmorske laboratore by Bob Page musel zkonstruovat novy UK v Oblasti 51.
+
+[SPEECH: CarlaBrown]
+Kdyz jsme odtamtud museli vloni odejit, podminovali jsme vetsinu zarizeni.
+
+[SPEECH: CarlaBrown]
+Page zrejme potrebuje soucastky do reaktoru. Kdyz jsme odchazeli, odnesli jsme vsechno, co se dalo.
+
+[SPEECH: CarlaBrown]
+Porad jeste nevime jiste, co se v podmorske laboratori stalo.
+
+[SPEECH: CarlaBrown]
+Ja na vas pockam tady.
+
+[SPEECH: CarlaBrown]
+O Sede smrti jsme se doslechli uz asi pred rokem, ale zadny z nas tomu neveril.
+
+[SPEECH: CarlaBrown]
+Moje skupina v Oblasti 51 provedla prvni ostre testy sireni toho viru.
+
+[SPEECH: CarlaBrown]
+Zkouselo se to na opicich, ale Pageovym lidem vubec nezalezelo na tom, kolik opic tim zabijeme.
+
+[SPEECH: CarlaBrown]
+Vetsina skutecneho vyzkumu se odbyvala v tajnych podzemnich laboratorich na civilnim obyvatelstvu, ktere bylo "nahodne" nakazeno.
+
+[SPEECH: CarlaBrown]
+Nebyla to zadna nahoda. Testovaci misto jsme vybrali zamerne tak, aby se spory roznasely pres frekventovanou dalnici.
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: CarlaBrown]
+Myslim, ze to bylo ze vseho nejhorsi.
+
+[SPEECH: CarlaBrown]
+Dr.Savage nejspis zamkl cele velitelstvi. Jestli se s nim chete setkat, mel byste si promluvit s Tonym Maresem v komunikacni budove.
+
+[SPEECH: CarlaBrown]
+Ohlasil se mi Dr.Savage. Chce vedet, proc jste prebehl.
+
+[SPEECH: CarlaBrown]
+Videla jsem vaseho pilota, jak si seda u predni brany.
+
+[SPEECH: CarlaBrown]
+Nechapu, jak jste mohl sam vyridit vsechny ty boty!
+
+[SPEECH: CarlaBrown]
+Diky, ze jste znovu zprovoznil nas obranny system!
+
+[SPEECH: CarlaBrown]
+Zajimalo by me, proc se Majestic 12 tak horecne snazi ziskat univerzalni konstruktor?
+
+[COMMENT]
+These cycle and repeat the last.
+
+[SPEECH: CarlaBrown]
+Skvele. Nasi boti jsou zase zapojeni. Jeste zbyva jim otevrit vrata.
+
+[SPEECH: CarlaBrown]
+Boti Majestic 12 ani nebudou vedet, co je trefilo!
+
+[COMMENT]
+These cycle and repeat the last.
+
+[SPEECH: CarlaBrown]
+Dobra prace. Ted uz je to jenom zalezitost casu.
+
+[SPEECH: CarlaBrown]
+Tony Mares s ostatnimi uvazli v komunikacnim centru a museji cekat, dokud nekdo neznici boty MJ12. Doufam, ze se jim nic nestalo...
+
+-----------------------------------------------------------------
+[Owner: CarlaBrown]
+[Name:  MeetCarlaBrown]
+
+[GOAL:]
+Znic dva vojenske boty MJ12 a dva strazne boty MJ12. Zakladna zustane uzavrena, dokud tito boti nebudou zniceni.
+
+[GOAL:]
+Zapni zalozni zdroj energie, ktery obnovi chod straznych botu vedecke skupiny X-51.
+
+[SPEECH: CarlaBrown]
+Odstrelovaci zaslechli vas vrtulnik a utekli. Zachranili jste mi zivot!
+
+[SPEECH: JCDenton]
+Jsem rad, ze se vam nic nestalo. Proc na vas vojaci z Majestic 12 zautocili?
+
+[SPEECH: CarlaBrown]
+Vy jste od NSF?
+
+[SPEECH: JCDenton]
+Jestli vam jde o to, tak mame spolecneho nepritele.
+
+[SPEECH: CarlaBrown]
+MJ12 potrebuje UK. O jeden prisli v Hongkongu a ted se neco stalo v podmorske laboratori v Pasadene.
+
+[SPEECH: JCDenton]
+Laboratore ve Vandenbergu jsou bezpecne?
+
+[SPEECH: CarlaBrown]
+Zakladna je uzavrena, dokud se nam nepodari znicit nepratelske boty. Bohuzel, MJ12 odpojila nas vlastni ochranny system botu a nikdo si netroufa jit zapojit zalozni zdroj energie.
+
+[SPEECH: JCDenton]
+Na to bych se mohl mrknout. Kde se to ovlada?
+
+[SPEECH: CarlaBrown]
+Na zapadnim konci zakladny jsou dve oddelene jednotky. Nebude to snadne. MJ12 se nabourala do bezpecnostni site a ovladla skoro vsechny nase stroje: kulomety, kamery, poplachy... A vsude maji odstrelovace!
+
+[SPEECH: JCDenton]
+To je porad lepsi nez celni utok proti vojenskym botum.
+
+[SPEECH: CarlaBrown]
+Nejspis mate pravdu. Muzu vam dat mapu. Jedna z tech jednotek je v hlavnim komplexu; druhou najdete na predsunutem miste. Aktivacni kod je 5868.
+
+[NOTE:]
+Zalozni zdroj energie pro ochranku botu se musi aktivovat dvema ovladacimi panely na zapadnim konci zakladny. Kod je 5868.
+
+[SPEECH: JCDenton]
+Pujdu se podivat, co by se s tim dalo udelat.
+
+-----------------------------------------------------------------
+[Owner: GarySavage]
+[Name:  GaryComputerBriefing]
+
+[GOAL:]
+Nahod pocitacovou sit Vandenbergu, ktera je zapotrebi k cinnosti UK a take k Everettove ochrane Daidala.
+
+[SPEECH: GarySavage]
+Jsem Dr.Savage. Dekuji vam. Uz nas malem premohli, kdyz jste sem priletel.
+
+[SPEECH: JCDenton]
+JC Denton. Pracuju s Morganem Everettem od Iluminatu. Ten vyvinul vakcinu proti Sede smrti a nyni se snazime participovat na vasem UK, abychom ji mohli zacit vyrabet.
+
+[SPEECH: GarySavage]
+Everett se se mnou spojil tesne pred utokem. Vakcinu prirozene radi vyrobime - jakmile znovu pripojime pocitace a ziskame uloznou jednotku pro UK.
+
+[SPEECH: JCDenton]
+Za jak dlouho se bude moci vyroba rozjet?
+
+[SPEECH: GarySavage]
+Moje dcera je prave na exkurzi v podmorske laboratori, kde doufa najit schema ulozne jednotky. Ale Buh vi, kdy se nam podari zprovoznit pocitace. Pri utoku byly poskozeny.
+
+[SPEECH: JCDenton]
+Podivam se na to. Krome toho UK bychom se s Everettem chteli jeste pripojit do Milnetu.
+
+[SPEECH: GarySavage]
+Ano, rikal neco o umele inteligenci, o systemu Echelon. Nejmenovalo se to Ikaros a Daidalos...?
+
+[SPEECH: JCDenton]
+Mezitim, co jsme spolu mluvili, se odehral dalsi utok... Vysvetlim vam to pozdeji.
+
+[SPEECH: GarySavage]
+No, hlavni terminal je v te mistnosti az na konci schodiste, login je "GSavage", heslo "Tiffany". Otevru vam vchod. Nemusim zduraznovat, ze je to nebezpecne - je tam spousta poskozenych pristroju a zkratovanych kabelu - ale dokud neobnovime pocitacovou sit, bude UK jen bezcennou krabici sroubku.
+
+[NOTE:]
+Milnet login: "GSavage", heslo: "Tiffany".
+
+-----------------------------------------------------------------
+[Owner: GarySavage]
+[Name:  GaryHeliosBriefing]
+
+[SPEECH: JCDenton]
+Kdyz jsem nahodil pocitace, stalo se neco necekaneho.
+
+[COMMENT]
+A little distracted; his daughter has just been kidnapped.
+
+[SPEECH: GarySavage]
+Ano...?
+
+[SPEECH: JCDenton]
+Umele inteligence se spojily do jedine...entity zvane Helios. Zrejme Pageova past.
+
+[SPEECH: GarySavage]
+Ten odjakziva sledoval komunikacni systemy. Na tomto poli se mu nemuzeme rovnat.
+
+[SPEECH: JCDenton]
+Doufal jsem, ze dokazete provozovat UK na lokalni siti.
+
+[SPEECH: GarySavage]
+Protokol Aquinas nam nedava jinou moznost, nez zustat offline. Internet 3 se zkratka neda pouzivat tak, aby o tom Oblast 51 nevedela. Nechapu, ze to Everettovi nedoslo.
+
+[SPEECH: JCDenton]
+Obavam se, ze at byly jeho plany jakekoliv, tak v tuto chvili ztroskotaly.
+
+[COMMENT]
+Talking about his daughter now, his real preoccupation.
+
+[SPEECH: GarySavage]
+JC... Jestli najdete mou dceru, vyridte ji, ze je mi to strasne lito. Lituji, ze musim riskovat jeji zivot!
+
+-----------------------------------------------------------------
+[Owner: GarySavage]
+[Name:  GaryHostageBriefing]
+
+[GOAL:]
+Zachran Tiffany, dceru Garyho Savage, kterou vojaci z Majestic 12 zadrzuji na opustene plynove stanici.
+
+[SPEECH: GarySavage]
+Podle meho nazoru nemame na vybranou. Nemel jsem ji tam poustet!
+
+[SPEECH: JCDenton]
+Jestli se Page zmocni chybejicich soucastek k UK, urcite znovu zahaji masovou vyrobu toho viru.
+
+[SPEECH: GarySavage]
+Ja vim, ja vim... Ale prece nenecham Tiffany zabit!
+
+[SPEECH: JCDenton]
+Povezte jim, ze posilate nekoho s temi soucastkami. Muj pilot me vysadi na miste, kde drzi vasi dceru. Snad se mi ji podari zachranit.
+
+[SPEECH: GarySavage]
+To je moc riskantni.
+
+[SPEECH: JCDenton]
+Jina moznost neni. Verte mi! Podari se to.
+
+[SPEECH: GarySavage]
+Ano! Ano! Musime se o to pokusit! Jen aby se ji pri tom nic nestalo! Pane Dentone... dekuji vam! Tady mate jeji fotografii kvuli identifikaci.
+
+-----------------------------------------------------------------
+[Owner: GarySavage]
+[Name:  PageHostageBriefing]
+
+[SPEECH: BobPage]
+Vyborne. Takze jsme tu vsichni.
+
+[SPEECH: GarySavage]
+Vy si ted nemuzete dovolit klast zadne pozadavky, Page!
+
+[SPEECH: BobPage]
+Prave naopak. Muj plan se mozna nevyvedl, ale ten vas nedopadl o nic lepe. Pred hodinou jsem totiz zajal vasi dceru.
+
+[SPEECH: GarySavage]
+Tiffany...
+
+[SPEECH: BobPage]
+Hezky se nam ohlasila dopredu. Tak vy jste si myslel, ze v podmorske laboratori najdete plany ulozne jednotky...
+
+[SPEECH: GarySavage]
+Chci svou dceru okamzite videt!
+
+[SPEECH: BobPage]
+Hmm, stejne jako vam, take nam se nedostava jistych soucasti univerzalniho konstruktoru: potrebujeme reakcni moduly, ktere jste ukradl pri vasem odchodu z Oblasti 51.
+
+[SPEECH: JCDenton]
+Nevyjednavejte s nim!
+
+[SPEECH: BobPage]
+Ach ano, pan Denton - mam jeden duvod, proc jsem vas tu chtel mit. Podivejte se na me!
+
+[SPEECH: BobPage]
+Jestli se do toho jakkoliv zapletete, tak tu holku zabiju. Myslim to vazne.
+
+[SPEECH: BobPage]
+Chci ty soucastky, Savage. Dorucite mi je na opustenou plynovou stanici zapadne od Vandenbergu. Presne za jednu hodinu.
+
+[SPEECH: GarySavage]
+Jestli me dceri zkrivite jen vlasek, prisaham, ze --
+
+[SPEECH: BobPage]
+Prineste mi ty reakcni moduly!
+
+-----------------------------------------------------------------
+[Owner: GarySavage]
+[Name:  SavageBarks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: GarySavage]
+Nebude snadne obnovit tu provoz.
+
+[SPEECH: GarySavage]
+O vetsinu zarizeni jsme prisli, ale hlavni server to prezil.
+
+[SPEECH: GarySavage]
+Verim, ze znate pana Cartera z UNATCO. Podarilo se mu uniknout tem cistkam.
+
+[SPEECH: GarySavage]
+Musime znovu pripojit centralni pocitac.
+
+[SPEECH: GarySavage]
+Na strese vybuchla raketa. Nastesti nebyl nikdo zranen.
+
+[SPEECH: GarySavage]
+Uz brzy by se mi mela ohlasit Tiffany. Pak budeme vedet, kdy bude UK pripraven k cinnosti.
+
+[SPEECH: GarySavage]
+Budte tam opatrny!
+
+-----------------------------------------------------------------
+[Owner: GarySavage]
+[Name:  SavageFinalBarks]
+
+[COMMENT]
+These cycle and repeat the last.  Savage's daughter has been kidnapped and is being held by MJ12.
+
+[SPEECH: GarySavage]
+Uz jsem takhle prisel o tolik svych lidi!
+
+[SPEECH: GarySavage]
+V te podmorske laboratori je zrejme uveznena spousta nasich vedcu a mozna se prave topi!
+
+[SPEECH: GarySavage]
+Doufam, ze ji najdete.
+
+[SPEECH: GarySavage]
+Jestli vam muzeme nejak pomoci, dejte nam vedet.
+
+-----------------------------------------------------------------
+[Owner: Jock]
+[Name:  M12JockBarks2]
+
+[COMMENT]
+These cycle and go random.â—9.W0N©ScˆÅAãdπ/ ∑Ëjr
+
+[SPEECH: Jock]
+Pockam tady na Tiffany.
+
+[SPEECH: Jock]
+Vrat se pro Tiffany! Ja pockam tady.
+
+[SPEECH: Jock]
+O mne se ted nestarej! Zadny problemy.
+
+[SPEECH: Jock]
+Musime Savageovi dorucit jeho dceru zpatky!
+
+-----------------------------------------------------------------
+[Owner: Jock]
+[Name:  M12JockFinal]
+
+-----------------------------------------------------------------
+[Owner: Jock]
+[Name:  M12JockFinal2]
+
+[GOAL:]
+Z cerstve poskozene podmorske laboratore MJ12 zachran schema, ktere Gary Savage potrebuje k dokonceni univerzalniho konstruktoru.
+
+[SPEECH: Jock]
+Fajn. Tak jste to zvladli oba. Dr.Savage si oddychne.
+
+[SPEECH: JCDenton]
+Mohl bys ji hodit do Vandenbergu, zatimco ja se mrknu na tu podmorskou zakladnu? Pokusil bych se proniknout do podmorsky laboratore kvuli tomu UK.
+
+[SPEECH: Jock]
+Jasne. Vysadim te tam cestou.
+
+[SPEECH: Jock]
+To je smula, ze se to s Tiffany nepovedlo.
+
+[SPEECH: JCDenton]
+Dal jsem do toho vsecko.
+
+[SPEECH: Jock]
+Ja prece vim. Dr.Savage ti vzkazuje, ze ti dekuje za snahu.
+
+[SPEECH: JCDenton]
+Vyrid mu, ze je mi jeho dcery lito. Moh' bys me mezitim vysadit na ty podmorsky zakladne? Pokusil bych se proniknout do podmorsky laboratore kvuli tomu UK.
+
+[SPEECH: Jock]
+Jasne.
+
+-----------------------------------------------------------------
+[Owner: Jock]
+[Name:  TongSick]
+
+[COMMENT]
+Tong is on the brink of death.  He has the Gray Death, and should struggle as he talks.
+
+[SPEECH: TracerTong]
+JC... Halo!
+
+[SPEECH: JCDenton]
+Co se stalo?
+
+[COMMENT]
+Maybe he begins this line with a cough.ıet_ˇ“Í"d^C 
+
+[SPEECH: TracerTong]
+Omyl... Chyba pri jednom experimentu... Dostal jsem Sedou smrt.
+
+[SPEECH: Jock]
+Letel do San Jose a nemohl se tam dostat.
+
+[SPEECH: TracerTong]
+Ja v tehle rovnici nehraji zadnou vyznamnou ulohu. Neberte na mne zadne ohledy.
+
+[SPEECH: JCDenton]
+Jeste neni po vas, Tongu! Savage se o vas postara.
+
+[SPEECH: TracerTong]
+Jsem zde ze sobeckych duvodu, abych se dostal k vakcine.
+
+[SPEECH: JCDenton]
+Jen musime doufat, ze ji budeme moci vyrobit. Savageova dcera selhala pri pokusu ziskat dulezitou soucast UK. Majestic 12 ji ted ma jako rukojmi.
+
+[SPEECH: Jock]
+Meli bysme letet! Jde sem Tony Mares a o Tonga se postara.
+
+[SPEECH: TracerTong]
+Samozrejme, lette! Kvuli mne nesmite ztracet cas.
+
+[SPEECH: Jock]
+Naskoc, JC!
+
+[SPEECH: Jock]
+Naskoc, JC! Pod ovladacim panelem mi sice neco rachta, ale tahle stara plechovka jeste dokaze zamavat kridlama!
+
+[SPEECH: JCDenton]
+Rachta? Nemel by se na to mrknout nektery Savageuv mechanik?
+
+[SPEECH: Jock]
+Nejdriv Tiffany. Rek' bych, ze ten Everettuv mechanik ani nevi, jak se drzi sroubovak. Tak letime!
+
+-----------------------------------------------------------------
+[Owner: Mechanic_comm_1]
+[Name:  Mechanic_comm_1Barks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: Mechanic_comm_1]
+Zachranil jste nam nase krky!
+
+[SPEECH: Mechanic_comm_1]
+Myslim, ze uz to zvladneme.
+
+[SPEECH: Mechanic_comm_1]
+Porad nemuzeme pochopit, jak se jim mohlo podarit odpojit nase boty.
+
+-----------------------------------------------------------------
+[Owner: Mechanic_comm_2]
+[Name:  Mechanic_comm_2Barks]
+
+[COMMENT]
+These cycle and repeat the last.ic_comm_1Barks\Mechanic_comm_103
+
+[SPEECH: Mechanic_comm_2]
+To ale byla bitva!
+
+[SPEECH: Mechanic_comm_2]
+Pokousime se navazat spojeni s velinem.
+
+[SPEECH: Mechanic_comm_2]
+Jestli dostali doktora Savage a UK, vsichni z X-51 to muzeme zabalit.
+
+[SPEECH: Mechanic_comm_2]
+Doufam, ze Dr.Savage je v poradku.
+
+-----------------------------------------------------------------
+[Owner: MiBChatting]
+[Name:  M12MiBOverheard]
+
+[SPEECH: MJ12Chatting]
+Meli bychom ustoupit.
+
+[SPEECH: MiBChatting]
+Zamita se.
+
+[SPEECH: MJ12Chatting]
+Ale bez posil --
+
+[SPEECH: MiBChatting]
+Ty soucastky se nalezaji v tehle budove. Neodletime, dokud nebudu mit ty reakcni moduly pekne v kapse.
+
+[SPEECH: MJ12Chatting]
+Nemame dost lidi, abychom zakladnu udrzeli.
+
+[SPEECH: MiBChatting]
+Meli jste pozadat o vic muzu. To je vase selhani, ne moje.
+
+[SPEECH: MJ12Chatting]
+Prece se ted nebudeme dohadovat --
+
+[SPEECH: MiBChatting]
+Dostal jsem rozkaz od Boba Page a mam v umyslu ho splnit.
+
+[SPEECH: MJ12Chatting]
+Ano, pane.
+
+-----------------------------------------------------------------
+[Owner: SamCarter]
+[Name:  CarterAdvice]
+
+-----------------------------------------------------------------
+[Owner: SamCarter]
+[Name:  CarterHelios]
+
+[SPEECH: JCDenton]
+Kolik toho vite o systemu Echelon?
+
+[SPEECH: SamCarter]
+Neco o nem vim. Proc?
+
+[SPEECH: JCDenton]
+Morgan Everett prese me prave propojil dve UI z Echelonu. Spojily se do nadrazene entity s nazvem Helios.
+
+[SPEECH: SamCarter]
+Zda se, ze Everett se chtel zucastnit boje o moc - a nevyslo mu to.
+
+[SPEECH: JCDenton]
+Co to bude znamenat pro Majestic 12?
+
+[SPEECH: SamCarter]
+Tim si nejsem jist. UNATCO vedelo, ze system Daidalos se stava nevypocitatelnym, ale nikdo netusil, proc. Ikaros byl vlastne totez, jen s malymi upravami.
+
+[SPEECH: JCDenton]
+Page se zrejme domniva, ze vyhral.
+
+[SPEECH: SamCarter]
+Mozna. NSA mela v Oblasti 51 zabudovany Internet uz od tricatych let, ale jestli jsou Daidalovy soucasti stale aktivni, tak jeho ovladnuti nebude vubec nic lehkeho.
+
+[SPEECH: JCDenton]
+Doufam, ze mate pravdu. Diky.
+
+-----------------------------------------------------------------
+[Owner: SamCarter]
+[Name:  M12CarterBarks]
+
+[COMMENT]
+These cycle and repeat the last.
+
+[SPEECH: SamCarter]
+Nechtel jsem priznat, ze by UNATCO bylo zkorumpovane, ale nakonec...jsem musel odejit.
+
+[SPEECH: SamCarter]
+Povidat si muzeme pozdeji.
+
+[SPEECH: SamCarter]
+Podle meho neni nic prekvapujiciho, kdyz se na miste strezenem ochrannymi systemy vyskytuje par grazliku. Pod rouskou utajeni... Takova rouska skryje ledacos.
+
+[SPEECH: SamCarter]
+"Cerne" programy, to uz je trochu moc, jestli te zajima muj nazor. Predstavuji ty nejhlubsi stiny, kde mohou lide jako je Page nerusene operovat, podobne jako v Oblasti 51 - na ten program se nesmel ptat dokonce ani Kongres!
+
+[COMMENT]
+Carter will have already described what a "black" program is at this point.  No particular emphasis on the word "black".
+
+[SPEECH: SamCarter]
+Ochranne systemy maji jiste svou cenu a misto, ale legislativa nesmi polevit ve sve bdelosti, jinak budou zneuzity.
+
+[SPEECH: SamCarter]
+Proto jsme meli proti Bobovi Pageovi vyhodu: dozvedeli jsme se jeho tajemstvi, prvni obrannou linii.
+
+[SPEECH: SamCarter]
+Je cas vyrazit do akce, vojaku!
+
+[SPEECH: SamCarter]
+Dost tlachani.
+
+[SPEECH: SamCarter]
+Promluv si se Savagem. Cekame depesi od Boba Page.
+
+-----------------------------------------------------------------
+[Owner: SamCarter]
+[Name:  M12CarterBarks2]
+
+[COMMENT]
+These cycle and repeat the last.kør¿SPG
+
+[SPEECH: SamCarter]
+Verim, ze se ti podari rukojmi osvobodit.
+
+[SPEECH: SamCarter]
+Mel bys radsi uz jit.
+
+[SPEECH: SamCarter]
+Nepodcenuj bezohlednost Boba Page!
+
+[SPEECH: SamCarter]
+Zustanu tady se Savageovymi lidmi.
+
+-----------------------------------------------------------------
+[Owner: SamCarter]
+[Name:  M12MeetCarter]
+
+[COMMENT]
+Carter has showed up at Vandenberg after a purge at UNATCO.
+
+[SPEECH: JCDenton]
+Pane Cartere...
+
+[SPEECH: SamCarter]
+Spravne, stary pes zachovava vernost.
+
+[SPEECH: JCDenton]
+Propustili vas?
+
+[SPEECH: SamCarter]
+Vsechny dustojniky. Maji zajem jen o kadety, kteri neznaji nic krome UNATCO a jeji akademie.
+
+[SPEECH: JCDenton]
+Aspon to pro vas bylo lehci rozhodovani.
+
+[SPEECH: SamCarter]
+Napadlo me jit sem a nabidnout pomocnou ruku. Vim, komu ted Savage slape na kuri oko; a nechtelo se mi jenom prihlizet.
+
+[SPEECH: JCDenton]
+Je to pro nas cest, ze jste se pridal k nam, pane.
+
+[SPEECH: SamCarter]
+Tak dobra, uz jsme se vyplakali na rameni dost. Musime se pustit do prace!
+
+[SPEECH: JCDenton]
+Myslite, ze delam dobre - kdyz chci zachranit Savageovu dceru?
+
+[SPEECH: SamCarter]
+Stoprocentne. S teroristy nikdy nevyjednavej!
+
+[SPEECH: JCDenton]
+Tiffany by mohla prijit o zivot.
+
+[SPEECH: SamCarter]
+Nikdy nevyjednavej! Tim jim jenom dodas odvahu k dalsim zlocinum. Krome toho verim, ze se ti podari privezt Tiffany zivou.
+
+[SPEECH: JCDenton]
+Ano, pane. O to se budu snazit ze vsech sil.
+
+-----------------------------------------------------------------
+[Owner: SandraRenton]
+[Name:  M12MeetSandraRenton]
+
+[SPEECH: JCDenton]
+Takze s tim odjezdem z New Yorku jsi neblafovala.
+
+[SPEECH: SandraRenton]
+A ted jsem na druhy strane Statu.
+
+[SPEECH: JCDenton]
+Jak to, ze jsi skoncila na opusteny plynovy stanici u trosek Los Angeles?
+
+[SPEECH: SandraRenton]
+Stopovala jsem cestou k Eugenovi, jenomze jeden hajzl na me vytahnul bouchacku, o vsechno me obral a vykopnul me do skarpy.
+
+[SPEECH: JCDenton]
+To je fakt hrozny.
+
+[SPEECH: SandraRenton]
+Mela jsem z toho dost depku.
+
+[SPEECH: JCDenton]
+Muzes se prece vratit.
+
+[SPEECH: SandraRenton]
+Ne, to bych asi neprekousla. Protlucu se za Eugenem, jestli to pujde.
+
+[SPEECH: JCDenton]
+Tak... hodne stesti.
+
+[SPEECH: SandraRenton]
+Dik.
+
+-----------------------------------------------------------------
+[Owner: SandraRenton]
+[Name:  M12SandraRentonAside]
+
+[SPEECH: SandraRenton]
+JC... Pamatujes si na me?
+
+[SPEECH: JCDenton]
+Sandro... Co delas tady v Kalifornii?
+
+[SPEECH: SandraRenton]
+To je dlouha historie.
+
+-----------------------------------------------------------------
+[Owner: SandraRenton]
+[Name:  SandraBarks]
+
+[COMMENT]
+These cycle and repeat the last.M
+
+[SPEECH: SandraRenton]
+Ver tomu nebo ne, ale obcas se mi zasteskne po 'Tonu, po Janey, po Jordan Sheovy a po ostatnich.
+
+[SPEECH: SandraRenton]
+Ja to dokazu; jako vzdycky.
+
+[SPEECH: SandraRenton]
+Fakticky, uz jsem dobra.
+
+-----------------------------------------------------------------
+[Owner: Savage_assistant_F]
+[Name:  Savage_assistant_FBarks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: Savage_assistant_F]
+Na vasem miste bych Iluminatum moc neverila.
+
+[SPEECH: Savage_assistant_F]
+Pri tom utoku jsme neprisli o nic kritickeho.
+
+[SPEECH: Savage_assistant_F]
+Majestic 12 se vrati. Zanedlouho dokoncime UK a oni to vedi.
+
+[SPEECH: Savage_assistant_F]
+Dr.Savage na vas ceka pred komunikatorem.
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: Savage_assistant_F]
+Tiffany je Garyho jedine dite.
+
+[SPEECH: Savage_assistant_F]
+Doufam, ze ji najdete.
+
+[SPEECH: Savage_assistant_F]
+Nemuzeme se jim vzdat, i kdyby za to mel nekdo z nas zaplatit zivotem.
+
+[SPEECH: Savage_assistant_F]
+Zachranil jste nam zivoty. Dr.Savage by vam rad podekoval.
+
+-----------------------------------------------------------------
+[Owner: Savage_assistant_M]
+[Name:  Savage_assistant_MBarks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: Savage_assistant_M]
+Je zazrak, ze ten vybuch tady vubec neco prezilo.
+
+[SPEECH: Savage_assistant_M]
+Hlavni terminal je vzadu, nahore v patre.
+
+[SPEECH: Savage_assistant_M]
+Bohuzel jsme nechali vytah nahore. Musite si ho privolat spinacem, ktery najdete uprostred pocitacoveho salu.
+
+[SPEECH: Savage_assistant_M]
+Pocitacovou sit musime opravdu nahodit, ale nenechte se pri tom zabit elektrickymi vyboji.
+
+[SPEECH: Savage_assistant_M]
+Chce s nami mluvit Bob Page.
+
+[COMMENT]
+These cycle and go random._
+
+[SPEECH: Savage_assistant_M]
+Tiffany je posledni clen rodiny, ktery Garymu jeste zbyl.
+
+[SPEECH: Savage_assistant_M]
+Kratce po nasem prichodu sem zavrazdil jeden Pageuv speh Garyho zenu.
+
+[SPEECH: Savage_assistant_M]
+Pane Dentone, musite ji zachranit za kazdou cenu!
+
+[COMMENT]
+These cycle and repeat the last.'s wife shortly after we came he
+
+[SPEECH: Savage_assistant_M]
+Videli jsme tu bitvu kamerami. Byl jste neuveritelne statecny.
+
+[SPEECH: Savage_assistant_M]
+Gary s vami chce mluvit.
+
+-----------------------------------------------------------------
+[Owner: StacyWebber]
+[Name:  MeetStacyWebber]
+
+[SPEECH: JCDenton]
+Je tady hodne vojaku?
+
+[SPEECH: StacyWebber]
+Ja nevim... Drzeli me pod zamkem az skoro doted. Nekde pobliz by mel byt muj asistent.
+
+[SPEECH: JCDenton]
+Nemyslim, ze jsem na nej narazil.
+
+[SPEECH: StacyWebber]
+Jestli vas zajimaji vojaci, muzete se zalogovat do site ochranky. Login je "command" a heslo "zebra42".
+
+[SPEECH: JCDenton]
+To neni spatny napad.
+
+[NOTE:]
+Bezpecnostni system velitelstvi - login: "command"; heslo: "zebra42".
+
+[SPEECH: StacyWebber]
+Diky, ze jste nasel meho asistenta. Uz jsem myslela, ze ho odvedli a popravili.
+
+[SPEECH: JCDenton]
+Neni zac.
+
+-----------------------------------------------------------------
+[Owner: StacyWebber]
+[Name:  StacyBarks]
+
+[SPEECH: StacyWebber]
+Jsem naprosto v poradku.
+
+[SPEECH: StacyWebber]
+Pockam tady, dokud se nedozvim neco o Savageovi.
+
+[SPEECH: StacyWebber]
+Doufam, ze Tima nezabili.
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: StacyWebber]
+Vy jste ho nasel!
+
+[SPEECH: StacyWebber]
+To se mi ulevilo!
+
+-----------------------------------------------------------------
+[Owner: StacyWebber]
+[Name:  StacyScared]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: StacyWebber]
+Prisli sem zavrazdit doktora Savage.
+
+[SPEECH: StacyWebber]
+Porucili mi zustat tady.
+
+[SPEECH: StacyWebber]
+Pomozte mi!
+
+-----------------------------------------------------------------
+[Owner: StephanieMaxwell]
+[Name:  StephanieBarks]
+
+[COMMENT]
+These cycle and go random.§mŒd¥ÚéX(Œ“{à\%áU–√d
+
+[SPEECH: StephanieMaxwell]
+To maji za to, ze nesouhlasili se zrizenim milici!
+
+[SPEECH: StephanieMaxwell]
+Mozna me ted uz poslechnou.
+
+[SPEECH: StephanieMaxwell]
+Diky, ze jste vyridil toho chlapa!
+
+[SPEECH: StephanieMaxwell]
+Ja se tech parchantu nebojim!
+
+-----------------------------------------------------------------
+[Owner: StephanieMaxwell]
+[Name:  StephanieMaxwellOverheard]
+
+[SPEECH: MJ12ToughGuy]
+Tak se podivame, jak dobre umis plnit rozkazy!
+
+[SPEECH: StephanieMaxwell]
+Radeji zemru, nez bych zradila doktora Savage!
+
+[SPEECH: MJ12ToughGuy]
+Mas povoleno pracovat v jedne z nasich laboratori, ale musis nas na slovo poslouchat!
+
+[SPEECH: StephanieMaxwell]
+Tak to me muzete rovnou zabit!
+
+[SPEECH: MJ12ToughGuy]
+No tak! Postav ten dynamit tak, jak jsem rikal!
+
+[SPEECH: StephanieMaxwell]
+V Oblasti 51 jsem uz udelala dost spinavosti!
+
+[COMMENT]
+(sighs)
+
+[SPEECH: MJ12ToughGuy]
+Jak chces!
+
+[COMMENT]
+MJ12ToughGuy attacks Stephanie Maxwell.0
+
+-----------------------------------------------------------------
+[Owner: StephanieMaxwell]
+[Name:  StephanieRescued]
+
+[SPEECH: JCDenton]
+Jste v poradku?
+
+[SPEECH: StephanieMaxwell]
+Kde jsou, sakra nasi boti? Meli prece uz davno zlikvidovat ty -- ty -- ty --
+
+[SPEECH: JCDenton]
+MJ12 vas bezpecnostni system odrizla od proudu, ale nemejte obavy, mam situaci pod kontrolou!
+
+[SPEECH: JCDenton]
+Bezpecnostni system se musi nahodit zaloznim zdrojem, ale nemejte obavy, mam situaci pod kontrolou!
+
+[SPEECH: StephanieMaxwell]
+Podarilo se jim totalne ovladnout vsechny budovy krome velina!
+
+[SPEECH: JCDenton]
+Uvidim, snad se s tim da neco udelat.
+
+[SPEECH: StephanieMaxwell]
+Dejte si pozor na nase obranne systemy; MJ12 je preprogramovala a uzamkla nase ucty. Mame sice zadni vratka, ale nemohla jsem je vyzkouset. Login je "command", heslo "zebra42".
+
+[SPEECH: JCDenton]
+Diky za varovani.
+
+[NOTE:]
+Bezpecnostni system velitelstvi - login: "command"; heslo: "zebra42".
+
+[SPEECH: StephanieMaxwell]
+Urcite?
+
+[SPEECH: JCDenton]
+Zakladna je v bezpeci, ale par vojaku se po ni jeste muze potulovat.
+
+-----------------------------------------------------------------
+[Owner: TiffanySavage]
+[Name:  MeetTiffanySavage]
+
+[GOAL:]
+Vrat se k vrtulniku, ktery ceka na skladce.
+
+[SPEECH: JCDenton]
+Posila me tvuj otec. Jsi v poradku?
+
+[SPEECH: TiffanySavage]
+Capli me na podmorsky zakladne, kdyz jsem se pokousela slohnout jejich miniponorku.
+
+[SPEECH: JCDenton]
+Opravdu myslis, ze ta ulozni jednotka je na te podmorske zakladne?
+
+[SPEECH: TiffanySavage]
+Potrebujeme jenom schema. Jestli neni hlavni pocitac zaplavenej vodou...
+
+[SPEECH: JCDenton]
+O tom si promluvime potom. Pojd, vypadnem pryc!
+
+[SPEECH: TiffanySavage]
+Ja uz se na tu zakladnu nevratim. Jestli se tam chces podivat ty, tvoje vec. Tady mas mapu, ktera ukazuje zadni cestu do ponorkovyho doku.
+
+[SPEECH: JCDenton]
+Mrknu se na to, ale nejdriv te odsud musim dostat.
+
+[CHOICES:2]
+
+[CHOICE:]
+Pockej tady, dokud nevyridim straze.
+
+[CHOICE:]
+Zkus prorazit k vrtulniku; ceka na nas na skladce.
+
+[SPEECH: TiffanySavage]
+Chapu.
+
+[SPEECH: TiffanySavage]
+Jasne.
+
+[SPEECH: TiffanySavage]
+Muzem.
+
+-----------------------------------------------------------------
+[Owner: TiffanySavage]
+[Name:  TiffanyBarks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: TiffanySavage]
+Je to urcite bezpecny?
+
+[SPEECH: TiffanySavage]
+Padame!
+
+[SPEECH: TiffanySavage]
+Davej bacha na straze!
+
+[SPEECH: TiffanySavage]
+Jsem rada, ze to otec prezil.
+
+[SPEECH: TiffanySavage]
+Doufam, ze vis, co delas.
+
+[SPEECH: TiffanySavage]
+Ta podmorska zakladna je dobre hlidana; dalo mi fusku tam proniknout.
+
+[SPEECH: TiffanySavage]
+Musime na podmorskou zakladnu poslat jinou expedici, nez se MJ12 zmocni toho UK sama!
+
+-----------------------------------------------------------------
+[Owner: TimBaker]
+[Name:  MeetTimBaker]
+
+[SPEECH: TimBaker]
+Vzdavam se! Vzdavam se!
+
+[SPEECH: JCDenton]
+Uklidnete se! Prisel jsem vam na pomoc. Co vite o tomhle prepadeni?
+
+[SPEECH: TimBaker]
+Zmocnili se cele budovy! Jsme ztraceni!
+
+[SPEECH: JCDenton]
+Vite neco konkretniho? Mam namireno do velina. A nemam rad prekvapeni.
+
+[SPEECH: TimBaker]
+Na vasem miste bych tam prolezl tunely. Ochrankou muzete zkontrolovat, jestli je na pobrezi bezpecno. Login je "tunnel01" a heslo "omega2a".
+
+[NOTE:]
+Bezpecnostni system tunelu - login: "Tunnel01"; heslo: "Omega2a".
+
+[SPEECH: JCDenton]
+Jsou tady nejaci vojaci?
+
+[SPEECH: TimBaker]
+Jo, slysel jsem je mluvit. Nechteli se nechat zaskocit zezadu, takze tu vypustili par pavoukobotu. Ale vite co? Ve skrini jsem nasel jeden EMP granat. Jestli se opravdu chcete vydat tam dolu, muzete si ho vzit!
+
+[SPEECH: JCDenton]
+Jasne.
+
+[SPEECH: TimBaker]
+Zachazejte s nim ale opatrne!
+
+[SPEECH: JCDenton]
+Bohuzel, momentalne ho nepoberu.
+
+[SPEECH: TimBaker]
+Tak chcete ten EMP granat?
+
+[SPEECH: JCDenton]
+Uz jsem tam dole byl, ale presto diky za ten login.
+
+[SPEECH: TimBaker]
+Mam taky tenhle EMP granat. Nechcete ho? Slysel jsem vojaky mluvit o nejakych pavoukobotech.
+
+[SPEECH: JCDenton]
+Tak si muzete oddechnout. Velitelem celeho komplexu je uz zase Savage.
+
+[SPEECH: TimBaker]
+Fakticky? Uz je to za nami? Diky Bohu! Porad tu sedim a zmoulam v pesti tenhle EMP granat, kdyby se tu objevil pavoukobot. Nechcete ho?
+
+[SPEECH: JCDenton]
+Jestli vas to trochu uklidni, tak jo.
+
+-----------------------------------------------------------------
+[Owner: TimBaker]
+[Name:  TimBarks]
+
+[SPEECH: TimBaker]
+Ani se odsud nehnu!
+
+[SPEECH: TimBaker]
+Chtel jsem ten granat pouzit pri uteku, ale nehodlam se nechat zastrelit.
+
+[SPEECH: TimBaker]
+Vedel jsem, ze Page po nas pujde, ale nikdo mi neveril!
+
+[SPEECH: TimBaker]
+Vsichni vime o tom, ze Page krade statni penize. Mel by to vysetrit Kongres!
+
+[SPEECH: TimBaker]
+Neverte tomu, ze vlada je zkorumpovana! To je jen takova chyra.
+
+[SPEECH: TimBaker]
+Politici jsou vahavi, nekdy trochu hloupi, ale to neznamena, ze jsou nepoctivi!
+
+[SPEECH: TimBaker]
+Doufam, ze se dostanete k Savageovi. To kvuli nemu sem prisli.
+
+[SPEECH: TimBaker]
+Davejte si pozor! Ti vojaci se vyznaji!
+
+-----------------------------------------------------------------
+[Owner: TonyMares]
+[Name:  MeetTonyMares]
+
+[GOAL:]
+Najdi Garyho Savage, mel by se nalezat ve veline.
+
+[SPEECH: JCDenton]
+Potrebuju mluvit s Garym Savagem.
+
+[SPEECH: TonyMares]
+Jak to vypada tam venku? Meli jsme zbrusu nove vojenske boty od jednoho chlapka z Hongkongu, ale nejspis nam je odrizli od zdroje energie, co?
+
+[SPEECH: JCDenton]
+Nepratelske boty jsem vyridil, ale mohlo tu zustat par odstrelovacu. Davejte pozor.
+
+[SPEECH: TonyMares]
+Predpokladame, ze Dr.Savage je s ostatnimi ve veline v prvnim patre budovy velitelstvi, ale veskera komunikace je v haji. Poslali jsme tam jednoho muze na pruzkum, ale nehlasi se nam. Dali jsme mu nas klic od velina.
+
+[SPEECH: JCDenton]
+Poohlednu se po nem, jestli chcete. Jak se za nim dostanu?
+
+[SPEECH: TonyMares]
+V zadni mistnosti jsou padaci dvirka do udrzbarskych tunelu, ktere vedou az do budovy velitelstvi. Museli jsme ho poslat tamtudy, protoze vsude jinde se strilelo. Mozna to nezvladl pres zamorene pasmo - ja nevim. Nemel se cim chranit; jedine ochranne obleky jsou v budove velitelstvi.
+
+[NOTE:]
+Gary Savage se zrejme naleza ve veline v prvnim patre velitelstvi. Vedec, ktery mel klic k velinu, zmizel v udrzbarskych tunelech mezi komunikacnim centrem a velitelstvim.
+
+-----------------------------------------------------------------
+[Owner: TonyMares]
+[Name:  TonyBarks]
+
+[COMMENT]
+These cycle and go random.ı_Î0TUS`¡õ(2=2?HNO”@ŒÒ¡t	
+
+[SPEECH: TonyMares]
+Na primy utok jsme nebyli pripraveni.
+
+[SPEECH: TonyMares]
+Vojaci z Majestic 12 uderili na hlavni budovu; Savage muze byt mrtev.
+
+[SPEECH: TonyMares]
+Zabijeli nas jako mravence.
+
+[SPEECH: TonyMares]
+Tolik mrtvych vsude, a kvuli cemu? Pro nekolik elektronickych soucastek!
+
+[COMMENT]
+These cycle and go random.EAx¥à¡D5rYceG%C≤:	–
+
+[SPEECH: TonyMares]
+Savage vas vsude shanel; chce vedet, proc jste prebehl.
+
+[SPEECH: TonyMares]
+Slyseli jsme o Garyho dceri; drzime vam palce!
+
+-----------------------------------------------------------------
+[Owner: TracerTong]
+[Name:  TongTrigger]
+

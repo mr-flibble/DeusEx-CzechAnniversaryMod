@@ -1,0 +1,10 @@
+<COMMENT>Supply warehouse bathroom</COMMENT>
+<DC=255,255,255>
+<P>From: Captain James Keene
+<P>To: All Security Personnel
+<P>Subject: Security Restrictions
+<P>
+<P>Until further notice, all access to the Advanced Submarine Facility (ASF) is restricted to FEMA and authorized security personnel only.  Security should consider themselves on high alert.  All entrances have been sealed and the codes will change daily: today's code is 0909.  You will receive future codes from your direct supervisor.  This code is not to be divulged to any individual who is not authorized security or FEMA.
+<P>
+<P>Captain James Keene
+<P>Brooklyn Naval Shipyards

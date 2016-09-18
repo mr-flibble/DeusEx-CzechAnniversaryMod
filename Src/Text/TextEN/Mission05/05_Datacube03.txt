@@ -1,0 +1,7 @@
+<COMMENT>MJ12 lab</COMMENT>
+<DC=255,255,255>
+<P>Agent Sherman:
+<P>
+<P>As requested, the patient has been moved to the Surgery Ward for immediate salvage of his datavault.  If you wish to observe the progress of the operation in person, the door code for surgery is 0199; or, if you wish to view the operation remotely, you may use the temporary account we've created for you: login "psherman" and password "Raven".  Please let me know if myself or my staff can provide you with any further assistance.
+<P>
+<P>JM

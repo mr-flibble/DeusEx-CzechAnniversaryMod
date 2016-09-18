@@ -1,0 +1,8 @@
+<COMMENT>Jaime's office</COMMENT>
+<DC=255,255,255>
+<P>JANINE'S BOTS
+<P>PREHLED A UDAJE
+<P> 
+<P>LêKARSKY BOT MATSU-GRAVAS GV-4 "SLAVIK"
+<P>
+<P>Typ Matsu-Gravas GV-4 je nejnovejsim prirustkem serie M-G a prvnim utokem teto firmy do oblasti lekarskych botu, doposud monopolizovane firmami Page Industries a Chiang subsidiary HealTech. Na rozdil od stroju firmy Page nebo HealTech nabizi typ M-G GV-4 kompletne proprietarni operacni system - vyvinuty vyzkumnou laboratori M-G v Praze - ktery slibuje revoluci v automatickem leceni za prispeni kombinace srozumitelne lekarske a farmakologicke databaze s proverenymi autonomnimi heuristickymi rutinami hardware M-G. V soucasnosti se musime spokojit jen s mlhavymi udaji, ale udaje z neoverenych zdroju naznacuji, ze GV-4 dokaze lecit zraneni, ktera jsou za hranicemi moznosti konkurencnich modelu, trebaze je to vykoupeno prodlouzenou dobijeci dobou...

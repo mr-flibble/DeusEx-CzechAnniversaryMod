@@ -1,0 +1,9 @@
+<COMMENT>MJ12 Lab</COMMENT>
+<DC=255,255,255>
+<P><B>From:</B> WS//UpNet.78543.98231
+<P><B>To:</B> PSherman//UpNet.221.9981
+<P><B>Subject:</B> Operational Status
+<P>
+<P>Continue monitoring the situation with the augmented units; I want all possible wetware recovered from the primary unit, but your top priority should be the interrogation of the secondary unit ("<PLAYERNAME>").  Viability of the secondary unit is of non-importance now that the killswitch has been activated -- I'd like any procedures employed selected with an eye towards maximum informational yield.
+<P>
+<P>Until the freighter preparations have been completed, you will have full authority over UNATCO headquarters and attached facilities.

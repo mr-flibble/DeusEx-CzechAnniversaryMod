@@ -1,0 +1,3 @@
+<COMMENT>MJ12 helibase barracks</COMMENT>
+<DC=255,255,255>
+<P>We had another one of the locals attempt to hack the security keypad on the elevator -- looked like a kid this time, but he did a pretty good job of staying out of the surveillance field.  Anyways, Nichole managed an override before he got in and she reset the code to 989; hopefully that'll keep them out until we can get more security on the entrance.

@@ -1,0 +1,7 @@
+<COMMENT>Datacube in SATCOM Van</COMMENT>
+<DC=255,255,255>
+<P>attention nightshift:
+<P>van camera system login (same as old login): SATCOM
+<P>new password: UNATCO_001
+<P>
+<P>PS) we *will* beat you at darts on saturday, suckas.

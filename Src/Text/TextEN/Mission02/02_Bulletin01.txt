@@ -1,0 +1,6 @@
+<DC=255,255,255>
+<P><B>Water Advisory</B>
+<P>
+<P>Residents of Manhattan and Brooklyn should be aware that last week's chlorine spill in the Hudson River now appears to have washed ashore and is interfering with the operation of at least one water processing plant.  While the impact upon the city's utilities is currently unclear, water rationing rules may need to be instituted within the next week.
+<P>
+<P>Under NO circumstances should any resident drink, bathe, or swim in contaminated water.  If you or someone you know comes in contact with contaminated water then go to the nearest available hospital or clinic.

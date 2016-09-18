@@ -1,0 +1,8 @@
+<DC=255,255,255>
+<P>We'll make this one easy for you.  To open the door, use the code:
+<P>
+<P><JC><B>0012</B>
+<P>
+<P>Got it?
+<P>
+<P>Jaime

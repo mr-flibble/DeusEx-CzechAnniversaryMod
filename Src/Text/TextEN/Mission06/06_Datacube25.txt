@@ -1,0 +1,6 @@
+<DC=255,255,255>
+<P>Dr. Harrison,
+<P> 
+<P>I was running a regression analysis on the UC, and it appears we have a serious error that could result in uncontrolled replication.  Until a new version of the control system can be tested, I've installed a temporary patch that will initiate a cascading shutdown sequence -- this will also destroy the UC in the process, so use only in emergency.  The code is 525.  Ops says the new system should be online within 72 hours, so stick to low yield runs until then.
+<P>
+<P>Dr. Lundquist

@@ -1,0 +1,241 @@
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_AnnaIntro]
+
+[GOAL:]
+Bez do odpocinkove mistnosti ve druhem patre a seznam se tam se svou novou partnerkou, agentkou Annou Navarrovou.
+
+[SPEECH: AlexJacobson]
+V sousedni odpocinkove mistnosti na vychode je tvoje partnerka pro pristi misi, Anna Navarrova. Co kdyby ses ji sel predstavit?
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_BackEntrance]
+
+[SPEECH: AlexJacobson]
+Dobry napad! Kdyz pujdes tudy, vyhnes se tak nekolika bezpecnostnim opatrenim.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_barge]
+
+[SPEECH: AlexJacobson]
+Stalo se to asi pred hodinou - prirazil sem clun, do nej naskakali NSF a vylozili naklad do tryskovych clunu. Nas spolupracovnik Harley Filben na tebe ceka nekde v docich.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_FrontEntrance]
+
+[SPEECH: AlexJacobson]
+Bud opatrny! NSF sem instalovali slozity bezpecnostni system.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_FrontEntranceBot]
+
+[SPEECH: AlexJacobson]
+NSF nechavaji tuto oblast hlidat straznim botem komercniho typu. Muzes se mu budto vyhnout, nebo jestli si troufas, pokus se ho znicit EMP granaty nebo vybusninami. Rozhodne bych nedoporucoval napadnout ho snehovymi koulemi.
+
+[SPEECH: AlexJacobson]
+NSF nechavaji tuto oblast hlidat straznim botem komercniho typu, ale jeden z nasich odprasknul jeho elektroniku EMP granatem.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_gameplayintro]
+
+[SPEECH: AlexJacobson]
+Jestli se chces proplizit kolem, vzpomen si na vycvik plizeni v akademii: drz se mimo jejich dohled, chod zvolna, chovej se co nejtiseji a kryj se za prekazkami. A jestli si chces zakrvacet ruce, mej na pameti, ze prostrelenou hlavu uz nikdo nerozchodi.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_GateEntrance]
+
+[SPEECH: AlexJacobson]
+Navstiv Manderleyho ve druhem patre.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Hermann]
+
+[SPEECH: AlexJacobson]
+V te mistnosti je Gunther. Jeden z nasich spickovych agentu.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_HermannGone]
+
+[SPEECH: AlexJacobson]
+Gunther jim vyklouzl sam. Prijd se hlasit na zakladnu.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_lasertrigger]
+
+[SPEECH: AlexJacobson]
+Myslim, ze Gunthera drzi za tim laserovym poplasnym zarizenim. Jestli se ti nechce parat se s jeho odpojovanim, muzes se budto nabourat do ovladaciho panelu u dveri nebo si najit cestu jinudy... Moje plany Sochy mluvi o ventilacnich sachtach.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_LeaderKilled]
+
+[GOAL:]
+Hlas se v Centru na zapadni strane ostrova u sveho velitele.
+
+[SPEECH: AlexJacobson]
+Tak tohle's asi prehnal, JC. Ja ti nevim... Radsi se vrat na zakladnu v zapadni casti ostrova. Ukol splnen.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_LeaderKilledInSpite]
+
+[GOAL:]
+Hlas se v Centru u sveho velitele.
+
+[SPEECH: AlexJacobson]
+Tohle nebylo nutny. Co jsem ti rikal? Uz jsme prece zvitezili. Prijd se hlasit na zakladnu.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_LeaderNotKilled]
+
+[GOAL:]
+Hlas se v Centru na zapadni strane ostrova u sveho velitele.
+
+[SPEECH: AlexJacobson]
+Vyborne. Predam tvoje rozkazy vojakum. Vrat se na zakladnu v zapadni casti ostrova. Mise skoncena.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_LeaveDockNoGun]
+
+[SPEECH: AlexJacobson]
+NSF jsou vsude, JC. Mas povoleni strilet bez varovani. Informator UNATCO v Severnim doku ti pomuze proniknout do Sochy. Hledej tulaka. Prokaz se heslem: 'Zelezo a med.'
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_libertyruinsairshaft]
+
+[SPEECH: AlexJacobson]
+Bezpecnost tady poradne odflakli - porozhledni se kolem, kudy to obejit. Tyhle budovy z minuleho tisicileti byvaly prospikovany ventilacnimi sachtami a udrzbarskymi tunely.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_LibHead]
+
+[SPEECH: AlexJacobson]
+Ostuda, co? Francouzska teroristicka skupina Silhouette prohlasuje, ze Francie nemela Sochu Spojenym statum vubec davat. Predpokladame, ze chystaji pumovy utok.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_lightningemp]
+
+[SPEECH: AlexJacobson]
+Tenhle napajeci zdroj musel byt pri utoku poskozen. Neprochazej temi zablesky! Zaznamenal jsem i pole EMP... Jestli nebudes opatrny, vysaje tvou bioelektrickou energii.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_MissedHermann]
+
+[SPEECH: AlexJacobson]
+Fajn. Jsi blizko jejich velitelstvi. Agent Hermann zustal v zajeti v prizemi, ale osvobodime ho sami. Pokracuj radsi dal!
+
+[COMMENT]
+TYPO: just added a space after a period.
+
+[SPEECH: AlexJacobson]
+Gunther s nami obnovil spojeni. Povidal, ze jsi mu pomohl zdrhnout. Dobra prace!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_MissedManderley]
+
+[SPEECH: AlexJacobson]
+Jeste pred poradou si mas zajit do tretiho patra pro sve vybaveni a taky na lekarskou prohlidku. Mrkni se na Jaimeho Reyese v nemocnici a na Sama Cartera ve zbrojnici.
+
+[GOAL:]
+Navstiv Sama Cartera kvuli vyzbroji.
+
+[GOAL:]
+Navstiv Jaimeho Reyese kvuli lekarske prohlidce.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_MissedPaul]
+
+[SPEECH: AlexJacobson]
+Ne tak rychle, JC. Pred odchodem z doku si promluv se svym bratrem. Ma pro tebe mapu ostrova.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_NearTop]
+
+[SPEECH: AlexJacobson]
+Mam pro tebe novinky, JC. NSF zautocili na zasilku Ambrozie, vakciny proti epidemii. Nemuzeme ji najit. Az se dostanes na velitelstvi, zjisti, jestli se jejich vudce nechce vzdat. Radi bychom ho vyslechli.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Office]
+
+[SPEECH: AlexJacobson]
+Nasel jsi svou kancelar. Uz ti Janice rekla tvuj login? Ano, vidim, ze to udelala.
+
+[SPEECH: AlexJacobson]
+Nasel jsi svou kancelar. Uz ti Janice rekla tvuj login? Myslim, ze ne. Takze: JCD, heslo "bionicman."
+
+[NOTE:]
+UNATCO login: "JCD"; heslo: "bionicman".
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_RedHot]
+
+[SPEECH: AlexJacobson]
+Prihoriva, hori! Vypada to, ze jsi me nasel.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_SeeManderley]
+
+[SPEECH: AlexJacobson]
+Nezapomen, ze te chce videt pan Manderley. Druhe patro. Jeho sekretarka Janice Reedova zna tvuj login a heslo.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_SeePeople]
+
+[SPEECH: AlexJacobson]
+Ridic clunu na tebe ceka v doku. Pospes si!
+
+[SPEECH: AlexJacobson]
+Prijdes pozde na lekarskou prohlidku. Navstiv Reyese ve tretim patre!
+
+[SPEECH: AlexJacobson]
+Radsi se poradne vyzbroj, JC. Navstiv Cartera ve tretim patre. Da ti pistoli Stealth.
+
+[SPEECH: AlexJacobson]
+Bez na poradu do Manderleyho kancelare ve druhem patre. Tvuj bratr Paul uz tam je.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_StartGame]
+
+[SPEECH: AlexJacobson]
+Pospes si, JC! V docich ceka na schuzku s tebou tvuj bratr Paul. Na ostrove radi NSF a ozyvaji se vystrely. Opakuji: najdi Paula. Budu te sledovat z Centra.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Top]
+
+[SPEECH: AlexJacobson]
+Hlavne klid! Potrebujeme, abys ho zajal a neublizil mu. Pokus se od nej dozvedet neco o te zasilce, potom ho muzes predat nekomu z nasich.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_WarmCold]
+
+[SPEECH: AlexJacobson]
+Sama voda.
+
+[SPEECH: AlexJacobson]
+Prihoriva!
+

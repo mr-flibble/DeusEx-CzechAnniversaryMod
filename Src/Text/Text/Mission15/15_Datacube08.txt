@@ -1,0 +1,10 @@
+
+<COMMENT>Door code</COMMENT>
+<DC=255,255,255>
+<P>DENIK UDRZBY: J.PURVIS
+<P>
+<P>* 19:45:12 -- ...Myslim, ze seshora jsem zaslechl neco jako strelbu z automatickych zbrani. Hlasil jsem to vedouci sektoru, ale ta mi rekla, ze to bylo jenom cviceni.
+<P>
+<P>* 20:34:02 -- Prislo sem par tech chlapu v kvadrech, kteri jako by vystoupili z filmu o mafii z minuleho stoleti. Vyptavali se na vselicos o reaktorech, tak jsem jim musel vysvetlit, ze si budou muset pockat na Maca, az se vrati.
+<P>
+<P>* 23:11:30 -- Konecne se podarilo zjistit kod k tem velkym vratum od schodistove sachty (1038); tohle misto je uplne nedokumentovana smesice zarizeni z padesatych let, beznych pitomosti a novinek z laboratori. Je s podivem, ze to vubec funguje...

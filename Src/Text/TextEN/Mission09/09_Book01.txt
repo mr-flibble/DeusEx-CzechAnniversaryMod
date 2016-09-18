@@ -1,0 +1,16 @@
+<COMMENT>Sub building front office</COMMENT>
+<DC=255,255,255>
+<P><JC><B>BROOKLYN ADVANCED NAVAL YARDS</B><P>
+<P>
+<P><I>All personnel must sign in without exception.  Visitors must be accompanied by authorized personnel.  Identification must be worn at all times in a visible location.  Lack of identification is considered grounds for lethal action.</I>
+<P>
+<P><JC>SIGN IN
+<P>
+<P>22:35  Bob Page/Page Industries
+<P>22:35  Walton Simons/FEMA
+<P>06:30  Captain Dick Balme
+<P>06:35  Rory Ackerman
+<P>06:41  Ensign Chad Warren
+<P>06:45  Brenda Fresno
+<P>06:58  Josy Rhodes
+<P>...

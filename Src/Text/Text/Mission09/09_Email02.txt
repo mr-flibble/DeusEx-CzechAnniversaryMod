@@ -1,0 +1,6 @@
+<DC=255,255,255>
+<P><B>Od:</B> BNS Operations//MilNet.3498.1289
+<P><B>Ke:</B> Kazdemu
+<P><B>Vec:</B> Pripominka Sede smrti
+<P>
+<P>Pripominame, ze kazdy clen personalu, ktery vykazuje priznaky Sede smrti (jak byly popsany v SOP 17663/F9), nebo ten, kdo se s takovou osobou dostal do styku, se musi neprodlene hlasit v nemocnici k patricnemu osetreni.

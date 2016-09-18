@@ -1,0 +1,11 @@
+<COMMENT>MJ12 lab</COMMENT>
+<DC=255,255,255>
+<P>Od: Spravce dat
+<P>Ke: J.Steward, MJ12, chemicka sekce
+<P>
+<P>Pristupovy kod byl zmenen, jak bylo pozadovano. Vas novy pristup nyni je:
+<P>
+<P>Login: jsteward
+<P>Heslo: JS1357
+<P>
+<P>Po prvnim zalogovani si nezpomente zmenit heslo!

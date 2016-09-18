@@ -1,0 +1,8 @@
+<COMMENT>MJ12 lab</COMMENT>
+<DC=255,255,255>
+<P>Commander Triolet:
+<P>
+<P>In order to correct the corrupted security upgrade, it was necessary for me to do a low-level wipe of the entire system and re-install from a virgin back-up.  As a result, the security login and password has been reset to the default MJ12 and SECURITY.  Please change the password at your earliest possible convenience and inform your personnel.
+<P>
+<P>Troy Whittaker
+<P>MJ12IS, Admin

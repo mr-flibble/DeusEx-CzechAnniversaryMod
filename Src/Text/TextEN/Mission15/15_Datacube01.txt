@@ -1,0 +1,5 @@
+<COMMENT>Love letter</COMMENT>
+<DC=255,255,255>
+<P>Julia, I must see you -- we have to talk, about us, about this project.  I'm not sure what we're doing here anymore and Page has made... strange requests of the interface team.  I would leave, but not without you.  You mean too much to me.  After the duty shift changes, come to my chamber -- it's the only place we can talk in private.  The code is 0169.  I love you.
+<P>
+<P>Alain

@@ -1,0 +1,118 @@
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Airfield]
+
+[SPEECH: AlexJacobson]
+Vstupujes do vrtulnikoveho prekladiste v soukrome casti LaGuardia. Drz se smerem na vychod. Tam najdes vytah, ktery vede na povrch. Jestli budes mit potize, zkus to na opacne strane heliportu. Na severozapade je totiz kanal, ktery vede do jezera v sousedstvi letiste. Myslim, ze uz vime, kdo tu zasilku stehuje. Za chvili ti reknu vic. 
+
+[NOTE:]
+Vychody z heliportu: vytahem na vychode nebo stokami na severozapade.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_AlexShocked]
+
+[SPEECH: AlexJacobson]
+Jezisi, JC, to byla agentka Navarrova! Jeji zpusob prace se mi sice nezamlouval, ale - muj Boze! Manderley by te nechal postavit ke zdi. Musime vymazat vsechny zaznamy! Neboj se, ja te neprasknu. Ale musis si pripravit nejaky dobry vysvetleni.
+
+[SPEECH: AlexJacobson]
+Jezisi, JC, to byla agentka Navarrova! S tou popravou to sice prepiskla, ale - muj Boze! Manderley by te nechal postavit ke zdi. Musime vymazat vsechny zaznamy! Sice to nedelam rad, ale neboj se, ja te neprasknu. Hadam, ze by sis mel stat za tim, cemu veris.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  dl_batterypark]
+
+[SPEECH: AlexJacobson]
+Vysadime te v Battery Parku - vime, ze tudy NSF stehovala svuj material. Mohlo by to byt vhodne misto k zahajeni patrani.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  dl_bbs]
+
+[SPEECH: AlexJacobson]
+Po tech otresech se sem stahli bezdomovci ze vsech koutu: fetaci, utecenci, slusaci. Taborej tady na mili daleko. Nekteri z nich - takzvani "krtci" - si zridili trvale bydliste v prilehle soustave tunelu, kterou nemam zmapovanou.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_BoobyTrap]
+
+[SPEECH: AlexJacobson]
+Tyhle podzemni kanaly vypadaji na odpad z letiste. Ale bud opatrnej! Teroristi se urcite pripravili pro pripad nevitane navstevy.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  dl_gochopper]
+
+[GOAL:]
+Bez k vrtulniku na letisti.
+
+[SPEECH: GuntherHermann]
+Pokracuj k heliportu. Vime o tom, ze tu byl tvuj bratr. Unikl nam, ale my ho stejne najdeme.  
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_LebedevKill]
+
+[SPEECH: AlexJacobson]
+Tohle je prekladiste LaGuardia, ktere patri Juanovi Ivanovicovi Lebedevovi. Na zaklade toho, co se ti podarilo vypatrat, jsme si jisti, ze se spojil s teroristy. Mas rozkaz ho vyhledat a zabit. Jeste ti posilame mapu letiste.
+
+[GOAL:]
+Zavrazdi Juana Ivanovice Lebedeva.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_MissionDone]
+
+[SPEECH: AlexJacobson]
+Manderley je trochu nastvanej, JC. Radsi by ses mel co nejrychleji vratit. Posilame ti vrtulnik.
+
+[SPEECH: AlexJacobson]
+Ty jsi agent na baterky, JC. To ti vzkazuje Manderley. Neda se rict, ze s nim tak docela souhlasim, ale vyridit ti to musim. Okamzite se vrat. Posilame pro tebe vrtulnik.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_PaulWarning]
+
+[SPEECH: PaulDenton]
+Muzes si oddychnout, JC. Naridil jsem vojakum, at si daji pohov. Pochopil jsi spravne: Pracuju pro NSF. Pockam na tebe u letadla.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_TaggedOne]
+
+[GOAL:]
+Najdi tri chybejici zasobniky s Ambrozii. UNATCO posila tym, ktery se o ne postara.
+
+[SPEECH: AlexJacobson]
+Zda se, ze jsi na spravne stope. Tohle je jeden ze tri chybejicich zasobniku Ambrozie. Posilame tam tym, ktery se o ni postara. Poohledni se, jestli tam najdes jeste dva dalsi.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_TaggedThree]
+
+[SPEECH: AlexJacobson]
+Tak tenhle byl posledni. Dobra prace.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_TaggedTwo]
+
+[SPEECH: AlexJacobson]
+Skvele. Vypada to, ze my dva jsme dobre sehrana dvojka. Mam informace o zachrannem tymu. Chybi jeste jeden zasobnik.
+
+[SPEECH: AlexJacobson]
+Skvele. Vypada to, ze my dva jsme dobre sehrana dvojka. Mam informace o zachrannem tymu. Chybi jeste jeden zasobnik - domnivame se, ze uz ho nakladaji do Lebedevova tryskace.
+
+[GOAL:]
+Dostan se do hangaru 747 a najdi tam chybejici posledni zasobnik.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_WelcomeBack]
+
+[GOAL:]
+Hlas se u Manderleyho.
+
+[SPEECH: AlexJacobson]
+Vitam te zpatky. Tva mise byla uspesna - coz je, bohuzel, jedina kladna vec na cele operaci. Hlas se u Manderleyho na porade!
+

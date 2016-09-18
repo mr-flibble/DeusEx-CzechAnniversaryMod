@@ -1,0 +1,86 @@
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_GotUplinkCode]
+
+[COMMENT]
+GotUplinkCode = TRUE for this to play.ÏH
+
+[GOAL:]
+Posli nouzovy signal NSF ze satelitniho vysilace na strese velitelstvi NSF.
+
+[SPEECH: PaulDenton]
+Ted uz znas instrukce k pouziti vysilace na strese. Porozhlidni se kolem; najdes tam zaznamy o uplatcich, ktere Manderley bral. Pak utikej na strechu, JC! Potrebuju, abys vyslal ten nouzovej signal!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_JockParkStart]
+
+[GOAL:]
+Tvuj bratr ma potize. Bez do jeho apartma v Pekelne kuchyni a presvedc se, zda nepotrebuje tvou pomoc.
+
+[SPEECH: Jock]
+Tvuj bracha to zle schytal. Najdes ho v jeho apartma. Jestli bude schopen chuze, odved ho s sebou. Vyzvednu vas oba v Battery Parku.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_JockTakesOff]
+
+[SPEECH: Jock]
+JC, budu se muset zvednout. Do parku se presunujou oddily UNATCO. Az se to uklidni, zase pristanu.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_PaulCalling]
+
+[SPEECH: PaulDenton]
+JC... Kde ses zasek'? Musim s tebou mluvit, ale netroufnu si opustit hotel!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_PaulGoodJob]
+
+[SPEECH: PaulDenton]
+Vidim, ze signal byl sice odeslan, ale satelit ho nedostal. Musis spravne nastavit vsechny paraboly a pokusit se ho vyslat znovu!
+
+[GOAL:]
+Setkej se s Paulem a pomoz mu uteci z New Yorku.
+
+[SPEECH: PaulDenton]
+Dostal jsem potvrzeni, ze signal byl odeslan. Prave dosel k Silhouette do Francie. Vrat se do hotelu a vyrazime pryc z New Yorku.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_PaulNSFHQ]
+
+[SPEECH: PaulDenton]
+Mel bys vyslat nouzovej signal ze satelitni anteny na strese skladu. Jestli nebudes moct proniknout do pocitace, budes asi muset vypatrat instrukce a login, kterej mi poslal Lebedev. Jeden z nasich, kterej se pokusil signal vyslat, ale musel zdrhnout, nechal datakostku v tajny oblasti pod garazi; hledej padaci dvere pod krabicema! Otevira je pocitac ve druhym poschodi.
+
+[NOTE:]
+Abys ziskal pristup k vysilaci NSF, musis se budto nabourat do ovladaciho pocitace na strese a vyslat nouzovy signal primo, NEBO (1) Otevrit padaci dvirka v garazi pocitacem ve druhem patre; (2) Ziskat login na ovladaci pocitac (informace se nalezaji v tajnem podzemi pod garazi); (3) Pouzit vysilac na strese a vyslat nouzovy signal.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_SeeManderley]
+
+[COMMENT]
+At this point, Alex is beginning to lose faith in UNATCO.  His commendation of JC should be pretty flat.LÖ7 ¿÷cùsAY˜cþCncùsŽ“B²P{Wÿö‡MâaUŽª+ÿÿ_I8)ÿû0Ä
+
+[GOAL:]
+Navstiv Manderleyho na porade.
+
+[SPEECH: AlexJacobson]
+Manderley chce, aby ses stavil u nej v kancelari. Jestli te zpucuje, nic si z toho nedelej. Podle me jsi udelal dobre, ze jsi nezabil Lebedeva.
+
+[SPEECH: AlexJacobson]
+Manderley je rad, ze jsi splnil rozkaz. Chce s tebou mluvit.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_SimonsPissed]
+
+[SPEECH: WaltonSimons]
+Dentone? Tady je Walton Simons. Muzu vam rict, ze jako zmetek jste se hodne prodrazil. Naridil jsem vojakum, aby vas zabili, protoze nemam dost trpelivosti cekat, az zacnou fungovat ty vase zatraceny pojistky zkazy.
+
+[SPEECH: WaltonSimons]
+Dentone? Tady je Walton Simons. Muzu vam rict, ze jako zmetek jste se hodne prodrazil. Desatnik Lewis neodpovida, takze o vojaky jste se uz asi postaral. Tohle kolo jste sice vyhral, ale uz jsem dal aktivovat vasi pojistku zkazy. Do ctyriadvaceti hodin je po vas.
+

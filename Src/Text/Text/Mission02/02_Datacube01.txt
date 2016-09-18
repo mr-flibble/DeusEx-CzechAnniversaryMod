@@ -1,0 +1,7 @@
+<COMMENT>Alley near warehouse tunnels</COMMENT>
+<DC=255,255,255>
+<P>Veliteli Frase: UNATCO se preskupilo rychleji, nez jsme ocekavali, a zahajuje koordinovany utok na nase pozice spolecne s mistni policii. Nase obrana jim urcite neodola, ale musime je alespon zdrzet, dokud nebude dokoncena dalsi etapa nasi mise. Vasi muzi maji na starost hlidani tunelu vedoucich ke generatorove stanici. Zakopejte se tam a aktivujte veskerou automatickou obranu.
+<P>
+<P>Snad vam nemusim rikat, co je ted v sazce. Mnoho stesti.
+<P>
+<P>JL

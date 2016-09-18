@@ -1,0 +1,6 @@
+<DC=255,255,255>
+<P><JC><B>CIA Factbook 2050: Hong Kong</B>
+<P>
+<P>Economic Overview: In the decades since Hong Kong has been returned to Chinese control it has seen its economy thrive under the newly resurgent authority of the Chinese central government.  Led by a thriving technological market in human augmentation technology, the real GDP has peaked every year since 2041 with all forecasting models predicting that this trend will continue well into the next decade if not beyond.
+<P>
+<P>However, the statistics do not present an entirely accurate depiction of the state of the Hong Kong economy as they fail to depict the flourishing gray and black market that operates with at least the tacit approval of the Beijing regime.  While political oppression continues to present a major and ongoing problem to those living under Chinese rule, entrepreneurism is alive and well in the form of organized crime -- as has always been the case, anything and everything can be had for a price in Hong Kong.  Many of these criminal organizations can trace their lineage directly to the Triads that have existed for thousands of years throughout China and Southeast Asia...

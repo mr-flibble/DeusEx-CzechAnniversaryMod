@@ -1,0 +1,6 @@
+<DC=255,255,255>
+<P><B>Od:</B> BNS Operations//MilNet.3498.1289
+<P><B>Ke:</B> Kazdemu
+<P><B>Vec:</B> SOP 16453/C3
+<P>
+<P>Dava se na vedomi, ze dneskem pocinaje bude udrzba vsech botu probihat ve dvoutydennim intervalu. Jakykoliv problem s boty musi byt neprodlene ohlasen primo velicimu dustojnikovi. Nepovolana osoba ma prisne _zakazano_ pokouset se o opravu bota, a to za _zadnych okolnosti_!

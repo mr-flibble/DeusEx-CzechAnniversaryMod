@@ -1,0 +1,8 @@
+<DC=255,255,255>
+<P><JC><B>Prirucka moderniho teroristy</B>
+<P>
+<P><JC>Odstavec 7C. Kultivace pocitacoveho viru
+<P>
+<P>V arzenalu moderniho teroristy nesmi schazet jeden nastroj (nebo zbran): jedna se o vyuziti pocitacovych viru k vyvolani chaosu ve sluzbach a infrastrukture velkomest nebo jinych organizaci. Soucasne antiviry na heuristickem principu jsou neucinne proti modernim polymorfnim "hothouse" enginum, spustitelnym z mnoha mist Cerne site, nebot je lze snadno propojit IP tunely s konkretnim zarizenim, na ktere ma byt podniknut utok. S jistou znalosti programovani a s pomoci ledoborce lze rovnez vytvorit mutagenniho ptaka typu "crash'n'grab", jenz se dokaze zmocnit konkretnich informaci nic netusici obeti...
+<P>
+<P>Nasledujici stranky pojednavaji o nekterych nejbeznejsich virech, jako je Bandersnatchv128, Ulysses Dilemma a I09...

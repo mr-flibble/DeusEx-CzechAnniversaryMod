@@ -1,0 +1,10 @@
+<COMMENT>Body in sewer near warehouse</COMMENT>
+<DC=255,255,255>
+<P>Od: XXXXXXXXXXXXXXXX
+<P>Ke: por. Maxwell Hammer
+<P>
+<P>UKOL: Tajne sledovani skladiste.
+<P>
+<P>PODROBNOSTI: Tato mise je podminena poverenim Throne/6G. Nebudete komunikovat s mistnimi urady, UNATCO ani jinymi vladnimi agenturami. Budete hledet zlikvidovat jakoukoli okolnost, ktera by ohrozila splneni ukolu.
+<P>
+<P>POZNaMKY: Vstupni kod je 2167.

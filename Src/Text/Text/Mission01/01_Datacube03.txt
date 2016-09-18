@@ -1,0 +1,6 @@
+<DC=255,255,255>
+<P>Shannon--
+<P>
+<P>Munice uz se zase ztraci, takze jsme zmenili pristupovy kod na dverich komunikacni bunky u heliportu. Je to: 0451.
+<P>
+<P>Alex

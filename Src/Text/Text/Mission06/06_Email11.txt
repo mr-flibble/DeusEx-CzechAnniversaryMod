@@ -1,0 +1,12 @@
+<DC=255,255,255>
+<P><B>Od:</B> AGrossman//UnderNet.7823.37.908
+<P><B>Ke:</B> WGibson//VersaLife.980.73.01
+<P><B>Vec:</B> Konecne jsem to dokazal
+<P>
+<P>Pred chvilkou se mi podarilo shodit se stolu Nethack v54.3.1. Zacina se na astralni plani a potom se clovek zase musi propracovat celymi dejinami az k Nethacku v3.2.3 (to je ale bezne u kazde verze pocinaje verzi 48.2), jenze kdyz pak hra preskocila o tisic let do budoucnosti a ja dostal za ukol vybudovat celou mezihvezdnou alianci (s jedinym Amuletem Jendoru), to vsechno driv, nez se ukazou nepratele z opacne strany cerne diry... Zkratka, trvalo mi sest mesicu, nez jsem se za to dostal, a ted jsem to konecne dohral.
+<P>
+<P>Stahni si ji taky: www.nethack.org
+<P>
+<P>Slysel jsem, ze pristi tyden bude k dispozici verze v54.3.3.
+<P>
+<P>Austin

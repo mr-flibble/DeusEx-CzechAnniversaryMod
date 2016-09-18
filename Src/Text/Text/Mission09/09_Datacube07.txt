@@ -1,0 +1,7 @@
+<COMMENT>Ship's sickbay</COMMENT>
+<DC=255,255,255>
+<P>Doktore Liu,
+<P>
+<P>S politovanim vam musim oznamit, ze jsme vypotrebovali veskere leky proti morske nemoci - kdybyste se tak stavil dole ve skrince, bylo by to skvele. Mam takovy pocit, ze to nebude snadna plavba. BTW, ted tady pobihal Song a menil vsechny bezpecnostni kody, takze kdybyste potreboval ve strojovne zvednout mustek, pouzijte kod 9753.
+<P>
+<P>Ewan

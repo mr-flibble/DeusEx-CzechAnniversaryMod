@@ -1,0 +1,7 @@
+<COMMENT>18th Street station</COMMENT>
+<DC=255,255,255>
+<P>Young:
+<P>
+<P>The code is MOLE (6653).  Meet me at the boat house and help me load this stuff onto the transport as soon as you can.  Play it safe.  We don't need dead heroes, we need live ones.
+<P>
+<P>-Decker

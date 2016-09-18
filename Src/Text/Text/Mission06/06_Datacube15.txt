@@ -1,0 +1,7 @@
+<COMMENT>Maggie's password clue</COMMENT>
+<DC=255,255,255>
+<P>Pane Hundley,
+<P>
+<P>Musela jsem si zmenit svoje heslo do systemu, protoze doslo k jeho prozrazeni; nove heslo zasifruji a poslu vam ho co nevidet. Berte, prosim, na vedomi, ze jakykoliv pristup s pouzitim stareho hesla "Tai-Fun" by mel byt registrovan a patricne prosetren.
+<P>
+<P>-Maggie Couova

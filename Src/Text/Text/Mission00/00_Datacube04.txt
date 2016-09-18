@@ -1,0 +1,9 @@
+<P><JC><B>PRUVODCE NENaPADNOSTI</B>
+<P>
+<P><JC>Shrnuti
+<P>
+<P>Nenapadnost je dulezitou soucasti veskerych operaci UNATCO; kdyz se agent pohybuje nenapadne, vysledkem jsou nejnizsi mozne skody na zdravi agenta i civilistu v porovnani s nepratelskymi ztratami.
+<P>
+<P>Klicem je obezretnost v kazde situaci a agent by se mel nejen vzdy duverne seznamit s taktickymi moznostmi, ktere mu prostredi jeho mise nabizi, ale rovnez by mel zvazit, jak jich muze vyuzit ke svemu prospechu s prihlednutim k momentalnimu technickemu vybaveni. Noktovizor agentovi umoznuje pracovat i v temnych zakoutich, jako jsou kancelare ci laboratore se zhasnutym osvetlenim, ktere by jinak pritahovalo pozornost. Noktovizorem dokaze agent prozkoumat moznosti sveho protivnika a urcit nejlepsi zpusob, jak ho obejit nebo zlikvidovat. Puska nebo minikuse vybavena dalekohledem a tlumici modifikaci muze byt vyuzivana k likvidaci cilu na velkou vzdalenost, coz do znacne miry ochromi nepratelsky odpor.
+<P>
+<P>Zanedbatelne nejsou ani jine vlastnosti okolniho prostredi, ktere agent muze vyuzit k tomu, aby pracoval ve skrytu a odpoutal od sebe nezadouci pozornost: vypnuti bezpecnostnich kamer, prepnuti automatickych kulometu a preprogramovani botu predstavuje ucinnou taktiku, kterou vyuziva kazdy zkuseny agent v akci.

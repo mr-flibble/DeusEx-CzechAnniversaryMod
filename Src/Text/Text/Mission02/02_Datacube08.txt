@@ -1,0 +1,10 @@
+<COMMENT>Hotel lobby</COMMENT>
+<DC=255,255,255>
+<P>Od: NY Prvni federalni narodni banka
+<P>Ke: John Palmer
+<P>
+<P>Dekujeme, ze jste si vybral NYFF! Tesime se na vase transakce a duveru, kterou jste nam projevil sverenim svych cennych statku, nehodlame zklamat. NYFF se pysni jednou z nejbezpecnejsich bankovnich informacnich struktur ve Spojenych statech, je neproniknutelnym trezorem, ktery je vam k dispozici 24 hodin denne, 365 dni v roce. K nahlednuti se vam kdykoliv nabizi kompletni seznam nasich bezpecnostnich opatreni a procedur, a to na adrese: NYFF//NYNET.345.23.88, kde rovnez uvitame veskere vase dotazy a pripominky. U NYFF vas ochranime nejen proti dnesku, nybrz take i proti zitrku.
+<P>
+<P>Cislo vaseho noveho uctu je: 543654 a PIN mate 5544. Z bezpecnostnich duvodu vam nedoporucujeme, abyste tuto informaci sdilel s cizi osobou, a proto tuto datakostku vymazte, jakmile si prehrajete jeji obsah do pameti.
+<P>
+<P>A vitame vas v NYFF.

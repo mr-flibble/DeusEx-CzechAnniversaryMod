@@ -1,0 +1,14 @@
+<COMMENT>New York Public terminal -- all PC's</COMMENT>
+<P><B>Transit Disruptions</B>
+<P>
+<P>As the result of terrorist action, several subway stations are now closed to traffic:
+<P>
+<P>* 18th Street
+<P>* Battery Park
+<P>* York Street
+<P>* Clark Street
+<P>* High Street
+<P>* Queensbridge and Queensboro
+<P>* Pelham Green line from Elder to Middleton
+<P>
+<P>Alternate routes will be posted at or near the affected stations, or can be found on Transit//NYNET.002.32323.  Note that district passes will be strictly monitored to prevent unauthorized travel and curfew will be observed at all stations throughout the greater metropolitan area.

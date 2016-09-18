@@ -1,0 +1,195 @@
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_cathedral]
+
+[SPEECH: MorganEverett]
+MJ12 katedralu zavrela. Jestli se vam nepodari dostat se dovnitr nekterymi dvermi, budete si muset najit jiny zpusob. Nemam predstavu, kde je umisten pocitacovy system.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_cathedralfirst]
+
+[SPEECH: Daedalus]
+Pokracuj dal za stanici metra. Katedrala je vic na jihu. Posilam ti fotografii.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_EverettDeBeersComment]
+
+[SPEECH: MorganEverett]
+Co to tam, k certu, delate? Prave jste zabil Lucia DeBeerse, meho stareho pritele! Ja vim... Nebyl na tom prilis dobre a mel velke bolesti... Presto jsem vsak mel duvody, abych ho udrzel nazivu. Pro smilovani Bozi, vzdyt to byl nekdejsi vudce Iluminatu! Prestante sahat na moje zarizeni a bezte do vrtulniku!
+
+[SPEECH: MorganEverett]
+Co to tam, k certu, delate? Prave jste zabil Lucia DeBeerse, meho stareho pritele! Ja vim... Nebyl na tom prilis dobre a mel velke bolesti... Presto jsem vsak mel duvody, abych ho udrzel nazivu. Pro smilovani Bozi, vzdyt to byl nekdejsi vudce Iluminatu! Prestante sahat na moje zarizeni a bezte do laboratore!
+
+[SPEECH: MorganEverett]
+Co jsem vam rikal? To byl muj drivejsi kolega, muj pritel... Ja vim... Nebyl na tom prilis dobre a mel velke bolesti... Presto jsem vsak mel duvody, abych ho udrzel nazivu. Pro smilovani Bozi, vzdyt to byl nekdejsi vudce Iluminatu! Prestante sahat na moje zarizeni a bezte do vrtulniku!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_gold_found]
+
+[SPEECH: MorganEverett]
+Zlato - bajecne! Moji lide se uz o ne postaraji, az odejdete. Verim vam, ze znate Chada. Dal jsem mu k dispozici cetu NSF, kterou mam pujcenou z Ameriky.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_goldstorage]
+
+[SPEECH: MorganEverett]
+Tenhle poklad pochazi jeste z dob, kdy Templari spravovali francouzsky poklad pro Filipa Slicneho. Prestehovali ho sem z parizskeho chramu po zruseni radu v roce 1307. Naciste si ho zabalili do beden, aby ho odvezli do Berlina, ale pri evakuaci katedraly zde cast pokladu zustala.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_guntherbalcony]
+
+[SPEECH: GuntherHermann]
+Mozna si probijes cestu dolu, ale dole na tebe cekam ja - tesne vedle terminalu! Budes se se mnou muset utkat!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_gunthernearcomp]
+
+[SPEECH: GuntherHermann]
+Ano. Poslechni sve nove pany! Pojd ke mne!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_guntherprowling]
+
+[SPEECH: GuntherHermann]
+Jsi jen mala zlodejska mys. Jsi hloupy jako mys. Odvazil ses sem prijit, jako bys nevedel, ze lezes do pasti.
+
+[SPEECH: GuntherHermann]
+Jsi jen mala zlodejska mys. Jsi hloupy jako mys. Odvazil ses sem prijit, jako bys zapomnel na agentku Navarrovou. Ja na ni ale nezapomnel! Ja nezapominam na nikoho!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_guntherroof]
+
+[SPEECH: GuntherHermann]
+Vidim te, zlodeji na strese! Muj novy satelitni prijimac ma videni v infra i v rentgenovem spektru! Proto vidim, jak ti bije srdce. Vidim tvuj bezmezny strach.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_chapel]
+
+[SPEECH: MorganEverett]
+V teto kapli jsem kdysi klecel pri prijimani, spolecne se dvema Rockefellery a Rothschildy. Jiz od doby Krizovych vyprav se kazdy financni spravce modlil za neohrozenou stabilitu templarskych bank napechovanych zlatem.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Icarus_aggressive]
+
+[SPEECH: Icarus]
+Tve systemy jsou velice poslusne. Aktualizace je dokoncena.
+
+[COMMENT]
+Maybe Page's comment trails off into a soft, wicked laugh.
+
+[SPEECH: BobPage]
+Jsi pouhy prototyp, Dentone, muj prototyp...
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Icarus_badmove]
+
+[SPEECH: Icarus]
+Privedl jsi Iluminaty zase o krok bliz k moci! Rozmysli si, co delas!
+
+[SPEECH: MorganEverett]
+To, co slysite, je hlas UI skupiny Majestic 12. Neni treba se zneklidnovat - zatim. Dokazu ochranit Daidala i vas jeste tak nejmin den.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Icarus_Everett]
+
+[SPEECH: Icarus]
+Cilem Iluminatu je ovladnout svet. Nenech se oklamat!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_Icarus_optional_cathedral]
+
+[SPEECH: Icarus]
+Nedavej Everettovi pristup do naseho systemu! Jde mu jedine o moc! Vyuziva te pro sve cile!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_intro_cathedral]
+
+[GOAL:]
+Zachran zlato z katedraly Templaru, jiz se nyni zmocnila MJ12.
+
+[SPEECH: MorganEverett]
+Mirite spravnym smerem. Predevsim od vas zadam, abyste mi navazal spojeni se siti MJ12, ale budu vas potrebovat take kvuli tomu zlatu. Az ho objevite, poslu nekoho, aby ho odvezl. Pripravte se k prijmuti mapy katedraly.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_knightslibrary]
+
+[SPEECH: MorganEverett]
+µ, hezka knihovna! Ma doslova cenu zlata!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_metroentrance_after]
+
+[GOAL:]
+Sejdi se ve stanici metra s Tobym Atanwem, Everettovym pomocnikem.
+
+[SPEECH: MorganEverett]
+Muj pomocnik, Toby Atanwe, na vas pocka dole.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_metroentrance_before]
+
+[SPEECH: MorganEverett]
+Do metra nechodte, tam neni vas cil. Vratte se na ulici. Katedrala uz neni daleko.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_morgan_uplink]
+
+[GOAL:]
+Bez do metra a tam vyckej dalsich instrukci.
+
+[SPEECH: MorganEverett]
+Dostal jsem, co jsem potreboval. Dobra prace. Nyni souhlasim s osobnim setkanim. Bezte do nejblizsi stanice metra a tam cekejte na me dalsi instrukce.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_morganhelipad]
+
+[SPEECH: Jock]
+Skocil jsem si sem natankovat... Cekam tu na tebe!
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_morganraythanks]
+
+[SPEECH: MorganEverett]
+Dobra prace. Diky, ze mi hlidate zada. Ted je rada na mne, abych vam to oplatil.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_oddlight]
+
+[SPEECH: TracerTong]
+Zvlastni... To svetlo ma svuj vlastni privod energie.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_roof]
+
+[SPEECH: TracerTong]
+Aha! Leseni. Muzete po nem vysplhat na strechu a vyhnout se tak strazim! Na zbranich a vyspele technice nikdy nezalezi tam, kde se nabizi jednodussi reseni.
+
+-----------------------------------------------------------------
+[Owner: JCDenton]
+[Name:  DL_tobywaiting]
+
+[SPEECH: MorganEverett]
+Pokracujte. Atanwe ceka dole u kolejiste.
+

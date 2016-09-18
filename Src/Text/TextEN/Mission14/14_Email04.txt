@@ -1,0 +1,6 @@
+<DC=255,255,255>
+<P><B>From:</B> JRoland//UpNet.298.37.489.11
+<P><B>To:</B> MBHaggerty//UpNet.20.894.9873
+<P><B>Subject:</B> Malfunctioning Turret
+<P>
+<P>Got a turret down here in the lab, serial number 4566798A89X3.  Not responding to any kind of input, and I can't get the thing to stand down.  I've tried running diagnostics on it but no response.  Anything you can do from your end?  Otherwise it looks like I'll have to dismantle the damn thing. -- Roland

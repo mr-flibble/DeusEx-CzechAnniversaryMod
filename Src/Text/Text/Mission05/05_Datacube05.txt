@@ -1,0 +1,3 @@
+<COMMENT>MJ12 lab</COMMENT>
+<DC=255,255,255>
+<P>Tady mas ten obrazek prurezu grazlem, co jsi chtel. -- Dr.Verne

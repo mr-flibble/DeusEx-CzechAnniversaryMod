@@ -1,0 +1,3 @@
+<EMAIL=06_Email10,Pomalejsi nez tardyon,UnderlitPub,WGibson,>
+<EMAIL=06_Email11,Konecne jsem to dokazal,AGrossman,WGibson,>
+<EMAIL=06_Email12,Co je noveho v kinech,IsntItGrand,WGibson,>

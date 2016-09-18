@@ -1,0 +1,6 @@
+<COMMENT>NYC Sump</COMMENT>
+<DC=255,255,255>
+<P>From: Security
+<P>To: J. Steward, MJ12 Chemical Insertion
+<P>
+<P>Our security grid is now online and active.  We will perform a thorough system test every 12 hours to insure integrity in expectation of the shipment from Hong Kong.  If you would like to monitor our status, you can access the grid with the logon "MJ12" and password "coupdetat".

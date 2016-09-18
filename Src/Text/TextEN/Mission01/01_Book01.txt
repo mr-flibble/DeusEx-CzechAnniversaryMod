@@ -1,0 +1,12 @@
+<DC=255,255,255>
+<P><JC><B>UNATCO HANDBOOK</B>
+<P>
+<P><JC>Welcome to UNATCO!
+<P>
+<P>CLASSIFICATION: The U.N. has nine levels of security above Top Secret.  This manual and all material that is not otherwise marked is classified as <B>Angel/0A</B>.  If you are not Angel/0A or above, report immediately to your supervisor or face disciplinary action.  Other classifications will be explained upon reaching higher clearance.
+<P>
+<P>In its efforts to combat terrorism, the U.N. has created UNATCO for the swift deployment of a COORDINATED FORCE to counteract any insurgent operations.  You are justifiably proud to be part of this organization: your physical capabilities place you within the upper one percent of national ground combat units, while your mental capabilities have been honed to sharpness by the UNATCO Academy.
+<P>
+<P>But as part of a larger organization, you also understand the necessity to HEED ORDERS from your superiors without hesitation; your superiors are typically briefed on matters for which you may not be cleared, and hesitation on the part of an agent can result in the serious IMPAIRMENT of mission objectives and attendant CASUALTIES.
+<P>
+<P>UNATCO has faith in you, and this faith will be REWARDED in due time as your operational capacities are increased.  Brave the darkness, for you carry the torch of freedom.

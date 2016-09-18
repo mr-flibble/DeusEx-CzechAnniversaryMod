@@ -1,0 +1,9 @@
+<DC=255,255,255>
+<P><B>HOTEL REGISTER</B>
+<P>
+<P><I>Gully Foyle</I>, New York
+<P><I>Gabriel Syme</I>, London, England
+<P><I>Paul Denton</I>, New York
+<P><I>Oberst Enzian</I>, Sudwest, Africa
+<P><I>Smilla Jasperson</I>, Copenhagen, Denmark
+<P><I>Hippolyta Hall</I>, Los Angeles

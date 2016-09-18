@@ -1,0 +1,9 @@
+<COMMENT>Security computer code to open bunker doors</COMMENT>
+<DC=255,255,255>
+<P>Jusefe:
+<P>
+<P>Zacali rusit vsechny frekvence, dokonce i ty nejuzsi mikrovlny, takze tohle je jedinej zpusob, jak ti poslat zpravu. Nemam paru, co jsou ti chlapi zac - nasi to nejsou, prinejmensim zadni takovi, jake bych kdy videl - ale doslova nas masakrujou. Podarilo se mi proniknout prvni vrstvou systemu Dreamland, ale povedlo se mi jenom zamknout vrata bunkru a preroutovat ovladani bezpecnostni konzole na vez. Chvilku jim potrva, nez na to prijdou, a jakmile se to stane, tak sejmu prvniho hajzla, kterej vystrci ven tu svou podelanou hlavu! Kdyby se mi neco stalo, tak login je "a51" a heslo "xx15yz".
+<P>
+<P>BTW, davej bacha - nez se mi podarilo zamknout ty vrata, proniknul ven jeden jejich oddil: zamiril ke skladisti a potom jsem je ztratil z dohledu.
+<P>
+<P>--Hawkins

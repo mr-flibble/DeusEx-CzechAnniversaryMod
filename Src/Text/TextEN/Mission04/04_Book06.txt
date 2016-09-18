@@ -1,0 +1,10 @@
+<DC=255,255,255>
+<P><B>BASIC FIREARM SAFETY RULES</B>
+<P>
+<P>1. Never point a firearm at anyone or anything you do not intend to shoot. 
+<P>2. Before handling any firearm, understand its operation. 
+<P>3. Always have your firearm pointed in a safe direction. 
+<P>4. Keep your firearm unloaded when not in use. 
+<P>5. Treat every firearm as if it were loaded. 
+<P>6. Never pass your firearm to another person until the cylinder or action is open and you visually check that it is unloaded. 
+<P>7. Place your finger inside the trigger guard only when you are ready to fire. 

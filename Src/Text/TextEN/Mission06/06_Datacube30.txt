@@ -1,0 +1,2 @@
+<DC=255,255,255>
+<P>Note to self: all tests on the emergency doors around that gizmo they've got downstairs check out, tell Dr. Lundquist not to worry -- it'll seal off access to all but maintenance personnel.  Door seal code: 768.

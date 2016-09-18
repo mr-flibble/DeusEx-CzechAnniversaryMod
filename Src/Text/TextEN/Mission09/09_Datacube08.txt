@@ -1,0 +1,9 @@
+<COMMENT>Simons' desk</COMMENT>
+<DC=255,255,255>
+<P>FROM: WALTON SIMONS
+<P>TO: AGENT PAUL JENKINS
+<P>
+<P>During my review of security measures this morning I noticed a potential hole in the security office of the East Warehouse.  Please change this code immediately to 2249.  We will pursue a more thorough solution at a later date.
+<P>
+<P>Walton Simons
+<P>Director, FEMA

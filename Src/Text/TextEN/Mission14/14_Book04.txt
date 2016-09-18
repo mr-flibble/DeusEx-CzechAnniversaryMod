@@ -1,0 +1,9 @@
+<DC=255,255,255>
+<P><JC><B>The Man Who Was Thursday</B>
+<P><JC>by G. K. Chesterton
+<P>
+<P>... "I think," said Dr. Bull with precision, "that I am lying in bed at No. 217 Peabody Buildings, and that I shall soon wake up with a jump; or, if that's not it, I think that I am sitting in a small cushioned cell in Hanwell, and that the doctor can't make much of my case.  But if you want to know what I don't think, I'll tell you.  I don't think what you think.  I don't think, and I never shall think, that the mass of ordinary men are a pack of dirty modern thinkers.  No, sir, I'm a democrat, and I still don't believe that Sunday could convert one average navy or counter-jumper.  No, I may be mad, but humanity isn't."
+<P>
+<P>Syme turned his bright blue eyes on Bull with an earnestness which he did not commonly make clear.
+<P>
+<P>"You are a very fine fellow," he said.  "You can believe in a sanity which is not merely your sanity.  And you're right enough about humanity, about peasants and people like that jolly old innkeeper.  But you're not right about Renard.  I suspected him from the first.  He's rationalistic, and, what's worse, he's rich.  When duty and religion are really destroyed, it will be by the rich."

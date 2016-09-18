@@ -1,0 +1,11 @@
+<DC=255,255,255>
+<P><JC><B>Lab Notes, Dr. Moreau</B>
+<P><JC>Week of 4/12 to 4/18
+<P>
+<P>Sunday, 4/12: LabNet accounts are disabled.  Rumor is possible infiltration attempt by Silhouette required redistribution of secure network resources.  Will transcribe lab notes by hand until IS has restored access.
+<P>
+<P>Monday, 4/13: Greasels displaying an increasing level of antipathy towards lab personnel.  Noted to Dr. Verne who increased dosage of succinylcholine from 15cc to 32cc.
+<P>
+<P>Wednesday, 4/15: IS promises that LabNet accounts will be restored by Friday; new login is "dmoreau" with password "raptor".
+<P>
+<P>Thursday, 4/16: Dr. Cairns typically absent minded; forgot his protective gear when handling greasel and received a dose of venomous spit in the face.  Fortuitous opportunity to study effects on human nervous system which included impaired coordination and vision.

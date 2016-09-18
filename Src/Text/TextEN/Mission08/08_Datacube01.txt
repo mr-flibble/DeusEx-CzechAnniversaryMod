@@ -1,0 +1,13 @@
+<COMMENT>Free clinic</COMMENT>
+<DC=255,255,255>
+<P>To All Staff:
+<P>
+<P>In the event that neither myself nor Miss Priest are able to reach the clinic, you may access necessary medical records from either of our computers using the following logins and passwords:
+<P>
+<P>jallred - Apple
+<P>Alice_Priest - Secretary
+<P>
+<P>I trust you to use your best judgement, and to perform with the professionalism and talent which you all have demonstrated so ably in the past.  But always, be safe.  Together, we'll overcome these troubles as we have so many others.
+<P>
+<P>Sincerely,
+<P>Dr. Allred

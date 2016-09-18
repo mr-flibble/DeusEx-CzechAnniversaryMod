@@ -1,0 +1,3 @@
+<COMMENT>MJ12 lab</COMMENT>
+<DC=255,255,255>
+<P>Here's that greasel dissection chart you wanted. -- Dr. Verne

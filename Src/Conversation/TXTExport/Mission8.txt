@@ -1,0 +1,1333 @@
+-----------------------------------------------------------------
+[Owner: AlleyBum1]
+[Name:  AlleyBum1Barks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: AlleyBum1]
+Na ulici radsi ani nechod. Poldove strilej NA VSECHNO.
+
+[SPEECH: AlleyBum1]
+Moc skrejsi uz nam teda nezbylo.
+
+[SPEECH: AlleyBum1]
+Boti prazej do kazdyho, kdo na sobe nema uniformu.
+
+[SPEECH: AlleyBum1]
+Videl jsem, jak bot sejmul jednu starou damu s nakupem. Pani, to je ti hruza!
+
+-----------------------------------------------------------------
+[Owner: AlleyBum2]
+[Name:  AlleyBum2Barks]
+
+[COMMENT]
+A gravelly wino voice.  Angry, growling, almost spitting his words.
+
+[SPEECH: AlleyBum2]
+...jak v nejakym zatracenym mrtvym meste.
+
+[SPEECH: AlleyBum2]
+Vojaci uz si chranej' jen vlastni prdel!
+
+[SPEECH: AlleyBum2]
+To ze je vochrana? Dyk je to vokupace!
+
+[SPEECH: AlleyBum2]
+Uz me to pekne sere!
+
+[SPEECH: AlleyBum2]
+...uz se bojim i vylyzt na chodnik.
+
+[SPEECH: AlleyBum2]
+Prej mi rozstrilej' prdel - rekli mi, ze mi prej rozstrilej' prdel!
+
+-----------------------------------------------------------------
+[Owner: AlleyBum2]
+[Name:  AlleyBum2Barks2]
+
+[COMMENT]
+These are triggered if the player bumps or frobs the bum. òO©©Ìø©,55±U˙ª˛ø*+ñyz
+s Œ˚Aùød.
+
+[SPEECH: AlleyBum2]
+Hele - nech me dejchat. Jasny?
+
+[SPEECH: AlleyBum2]
+Radsi na me nic nezkousej.
+
+-----------------------------------------------------------------
+[Owner: ClinicBum1]
+[Name:  ClinicBum1Barks]
+
+[SPEECH: ClinicBum1]
+Chytrak se dneska na ulici nezene. Je tam moc moc problemu, spousta zlyho mojo.
+
+[SPEECH: ClinicBum1]
+Vsichni ti polisi... jako kdyby dobejvali nejakou cizi zem!
+
+[SPEECH: ClinicBum1]
+Prej maj' na tu nemoc lek - povida se to. Slysel jsem to vod Paseraka. Ale nechavaj' si ji pro sebe.
+
+[SPEECH: ClinicBum1]
+Co se to s touhle zatracenou zemi stalo? Jde to s ni od desiti k peti!
+
+[SPEECH: ClinicBum1]
+Radsi zvostan tady. Tady nas aspon nikdo nevotravuje.
+
+[SPEECH: ClinicBum1]
+Kdyz se na tebe podivam, je mi jasny, ze ty asi moc kamaradu nemas.
+
+[SPEECH: ClinicBum1]
+Mozna, ze uz zejtra rano tu bude lepsi.
+
+-----------------------------------------------------------------
+[Owner: ClinicBum1]
+[Name:  ClinicBum1Overhead]
+
+[SPEECH: ClinicBum1]
+Hej! Halo, Colemane! Jak se porad mas?
+
+[SPEECH: ClinicBum2]
+Je to dobry. Ujde to.
+
+[SPEECH: ClinicBum1]
+Tak, tady jsme v bezpeci!
+
+[SPEECH: ClinicBum2]
+Jenze jak dlouho tu potrva, Iku? Venku si pro srandu strilej' do zivejch lidi!
+
+[SPEECH: ClinicBum1]
+Neboj se, to vsecko prejde.
+
+[SPEECH: ClinicBum2]
+Jasne, to jo.
+
+-----------------------------------------------------------------
+[Owner: ClinicBum2]
+[Name:  ClinicBum2Barks]
+
+[SPEECH: ClinicBum2]
+Zatracene, tohle prece nejni zadnej zivot!
+
+[SPEECH: ClinicBum2]
+Videl jsem, jak poldove sejmuli nekoho primo prede mnou. Nebylo to jako v televizi. Tam to jen praskne a na zemi se vyleje troska krve.
+
+[SPEECH: ClinicBum2]
+Slibovali, ze to stanny pravo bude jenom docasne, ale tohle se mi moc docasny nezda!
+
+[SPEECH: ClinicBum2]
+Ike si mysli, ze maji na tu nemoc lek, ale ze nestaci pro vsechny - proto sem nasadili ty vojaky. Chranej' ten lek!
+
+[SPEECH: ClinicBum2]
+V kuchyni mi rekli, at se kaju ze svejch hrichu, jenze ja nevim o nicem, co bych spachal! Aspon ze nemam tu nemoc!
+
+[SPEECH: ClinicBum2]
+Byl 'ste nekdy v Parizi? Rad bych se tam jednou podival!
+
+-----------------------------------------------------------------
+[Owner: FordSchick]
+[Name:  M08MeetFordSchick]
+
+[SPEECH: JCDenton]
+Dozvedel jsem se neco o tvych unoscich. Byli to zoldaci tajne organizace, ktera si rika Majestic 12.
+
+[SPEECH: FordSchick]
+Nejaka korporace?
+
+[SPEECH: JCDenton]
+Spiklenci. Chteji na sebe strhnout vladu.
+
+[SPEECH: FordSchick]
+Ja s Paserakem - a taky jeho kontakt - jsme vypatrali neco samostatne. Tam, kde jsem musel pracovat, meli tkanovou kulturu s krycim jmenem JCD - JC Denton.
+
+[SPEECH: JCDenton]
+To bude asi nejakej standard, univerzalni kvasek pro jednadvacaty stoleti.
+
+[SPEECH: FordSchick]
+Zajimala je hlavne jedna vec: nulova reakce na ten virus.
+
+[SPEECH: JCDenton]
+Znamena to, ze jsem imunni?
+
+[SPEECH: FordSchick]
+Vic nez jen to. Podle mne uz tu nemoc v sobe mas - a mas ji nejspis uz strasne dlouho.
+
+[SPEECH: JCDenton]
+Proc teda necitim jeji symptomy?
+
+[SPEECH: FordSchick]
+Je soucasti tve biologie - tvori jadro vsech tvych augmentaci. Coz mi pripomina, ze jsem z laborky propasoval vec, kterou bys nejspis vyuzil: vylepseni augmentace.
+
+-----------------------------------------------------------------
+[Owner: FordSchick]
+[Name:  M08SchickBarks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: FordSchick]
+Samotny virus je nanotechnologicke zarizeni; proste ma stejne slozeni jako nanity tvorici tvoje augmentace.
+
+[SPEECH: FordSchick]
+Nejsem si jist, co sleduji tou verejnou nakazou.
+
+[SPEECH: FordSchick]
+Mozna, ze nasli zpusob, jak nakazlivou vlastnost nanitu zapinat a vypinat.
+
+[SPEECH: FordSchick]
+Urcite to nebyla jedina laborka, ktera na tomhle pracovala.
+
+-----------------------------------------------------------------
+[Owner: HarleyFilben]
+[Name:  FilbenCongrats]
+
+[SPEECH: JCDenton]
+Sejmul jsem toho pisalka, co si rikal Joe Greene. Nemam rad lidi, kteri se moc vyptavaji.
+
+-----------------------------------------------------------------
+[Owner: HarleyFilben]
+[Name:  M08FlibenBarks]
+
+[COMMENT]
+A redundant check, I know...i
+
+[SPEECH: HarleyFilben]
+Dowd nechce, aby se s nim nekdo kontaktoval primo.
+
+[SPEECH: HarleyFilben]
+Mel bys mi duverovat.
+
+[SPEECH: HarleyFilben]
+Nekdo te v ty ulicce bude cekat.
+
+[SPEECH: HarleyFilben]
+Greene nema tusaka, pro koho ve skutecnosti makam, takze mu prede mnou sem tam neco uklouzne.
+
+[SPEECH: HarleyFilben]
+Diky, zes' nas toho smejda zbavil.
+
+[SPEECH: HarleyFilben]
+Greenovi zrejme slibili nejakej teplej flek ve Washingtonu.
+
+[SPEECH: HarleyFilben]
+Slitavaji se sem jako mouchy.
+
+-----------------------------------------------------------------
+[Owner: HarleyFilben]
+[Name:  M08FlibenBarks2]
+
+-----------------------------------------------------------------
+[Owner: HarleyFilben]
+[Name:  M08MeetHarleyFilben]
+
+[GOAL:]
+Sejdi se se Stantonem Dowdem u skladiste Osgood & Son's, pobliz tunelu vedoucich do skladistni ctvrti.
+
+[SPEECH: HarleyFilben]
+UNATCO na tvou hlavu vypsalo odmenu. Co tady ve meste jeste delas?
+
+[SPEECH: JCDenton]
+Necekal jsem, ze tady v Kuchyni vyhlasili stanny pravo.
+
+[SPEECH: HarleyFilben]
+Lidi uz vedi, ze vlada ma vakcinu. Na ulicich se to vsude mele.
+
+[SPEECH: JCDenton]
+Jsi porad na vejplatni listine u UNATCO?
+
+[SPEECH: HarleyFilben]
+Jeste o tom nevis... Celou tu dobu jsem delal pro NSF - a taky pro Iluminaty. Jsem na tvy strane.
+
+[COMMENT]
+JC is convinced of the existence of the Illuminati, but he may still find the knowledge a little hard to swallow.dârÓuÀ¥Ë6ê8.v_o# ,"ìdu˚∏∫áRu√4hK2¬AΩ_d˛
+
+[SPEECH: JCDenton]
+Spravne, pro Iluminaty... Potrebuju si promluvit s jednim z jejich vudcu, s nejakym Stantonem Dowdem. Do New Yorku miri nakladni lod napechovana virem.
+
+[SPEECH: HarleyFilben]
+JC Denton... UNATCO na tvou hlavu vypsalo odmenu. Co tady ve meste jeste delas?
+
+[SPEECH: JCDenton]
+Jak to, ze me znas?
+
+[SPEECH: HarleyFilben]
+Ja jsem taky agent, dokonce dvojitej.
+
+[SPEECH: JCDenton]
+Na ci strane?
+
+[SPEECH: HarleyFilben]
+Na tvy. Makam pro NSF a pro Iluminaty. Jmenuju se Harley Filben.
+
+[COMMENT]
+JC is convinced of the existence of the Illuminati, but he may still find the knowledge a little hard to swallow.dârÓuÀ¥Ë6ê8.v_o# ,"ìdu˚∏∫áRu√4hK2¬AΩ_d˛
+
+[SPEECH: JCDenton]
+Spravne, pro Iluminaty... Potrebuju si promluvit s jednim z jejich vudcu, s nejakym Stantonem Dowdem. Do New Yorku miri nakladni lod napechovana virem.
+
+[SPEECH: HarleyFilben]
+Virem? Mas na mysli Sedou smrt? Co s tim ma spolecnyho Dowd?
+
+[SPEECH: JCDenton]
+Stejna spolecnost, ktera vyrabi Ambrozii, vyrabi taky ten virus. Dobre vymysleny. Ten virus sem miri na palube lodi, kterou predtim vlastnil Dowd.
+
+[SPEECH: HarleyFilben]
+Jo, vetsina clenu Majestic 12 jsou jenom prebehlici od Iluminatu. Hm! O Ambrozii to vime, ale ten virus... to je novinka. Takze oni nakazili lidi zamerne, co?
+
+[SPEECH: JCDenton]
+Doufal jsem, ze Dowd by mi mohl poradit, kde se ta lod da stopnout.
+
+[SPEECH: HarleyFilben]
+Dam mu echo. Bez k vypalenymu pruceli skladiste Osgood and Sons, tam, odkud vedou tunely do skladistni ctvrti - vis prece, jak tam NSF mela ten generator. Zkusim s nim domluvit, aby se tam s tebou sesel.
+
+[SPEECH: JCDenton]
+Osgood and Sons...
+
+[SPEECH: HarleyFilben]
+Spravne. A jeste neco, JC... Davej si pozor, pred kym o Iluminatech mluvis... Napriklad pred Joem Greenem. Spicluje pro UNATCO.
+
+[SPEECH: JCDenton]
+Ten novinar? Fakticky?
+
+[SPEECH: HarleyFilben]
+Tady mas dukaz. Hele... Zbav nas toho Greena, jestli nam chces udelat radost. Vsim' jsem si, ze se potloukal kolem kliniky.
+
+[GOAL:]
+Zabij zradce Joe Greena na statni klinice.
+
+[SPEECH: JCDenton]
+Uz jsem se o nej postaral. Nemam rad lidi, ktery se porad vyptavaji.
+
+[SPEECH: HarleyFilben]
+No to me poser! Pani, tys' fakticky zmenil strany! Nikdy bych to do tebe nerek'!
+
+[SPEECH: HarleyFilben]
+Tady mas dukaz. Hele... Zbav nas toho Greena, jestli nam chces udelat radost.
+
+-----------------------------------------------------------------
+[Owner: HotelBum]
+[Name:  HotelBumBarks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: HotelBum]
+Slysela jsem, ze je to tady uz zavreny.
+
+[SPEECH: HotelBum]
+Mne to neva.
+
+[SPEECH: HotelBum]
+Topeni nefachci - ale to je mi fuk.
+
+[SPEECH: HotelBum]
+Majitel vypad' z mesta, pokud vim.
+
+[SPEECH: HotelBum]
+Poldum je jedno, kam clovek zaleze - hlavne, kdyz neni venku.
+
+[SPEECH: HotelBum]
+Je tu spousta krys, ale da se to vydrzet.
+
+-----------------------------------------------------------------
+[Owner: Jock]
+[Name:  M08JockExit]
+
+[SPEECH: Jock]
+Letime!
+
+[CHOICES:2]
+
+[CHOICE:]
+Jsem pripravenej.
+
+[CHOICE:]
+Pockej! Za moment se vratim!
+
+[SPEECH: Jock]
+S tou nakladni lodi nic nenadelame, dokud u Paseraka neodfasujes par vybusnin.
+
+[SPEECH: Jock]
+Jeho skrys je severovychodne od hotelu.
+
+[SPEECH: Jock]
+Neni zrovna dvakrat privetivej, ale tvoje prachy ho zajimat budou.
+
+[CHOICES:2]
+
+[CHOICE:]
+Vyzbrojim se az v lodenici. Letime!
+
+[CHOICE:]
+Pockej tady! Hned budu zpatky!
+
+-----------------------------------------------------------------
+[Owner: Jock]
+[Name:  M08JockMiddle0]
+
+[SPEECH: Jock]
+Zahlid' jsem na ulici Dowda! Ceka na tebe u skladiste Osgood and Sons.
+
+-----------------------------------------------------------------
+[Owner: Jock]
+[Name:  M08JockWaiting]
+
+[COMMENT]
+These cycle and go random.ıû>'c˙
+
+[SPEECH: Jock]
+Domnivame se, ze Filben je nekde pobliz. Tong ti prozradi vic.
+
+[SPEECH: Jock]
+Zda se, ze tady UNATCO zrovna porada manevry.
+
+[SPEECH: Jock]
+Bud tam dole opatrnej, JC!
+
+-----------------------------------------------------------------
+[Owner: JoeGreene]
+[Name:  AccuseJoeGreen]
+
+-----------------------------------------------------------------
+[Owner: JoeGreene]
+[Name:  M08GreenBarks1]
+
+[SPEECH: JoeGreene]
+Prectete si verejne terminaly. Dneska je hodne novinek!
+
+[SPEECH: JoeGreene]
+Rad bych to byl ja, kdo ziska solokapra o Ambrozii.
+
+[SPEECH: JoeGreene]
+Vsadim se, ze nekdo si tuhle levarnu pekne odskace.
+
+[COMMENT]
+Light-hearted, not giving away the fact that he is planning to arrange an ambush for the player.
+
+[SPEECH: JoeGreene]
+A ja si myslel, ze nejste k nicemu.
+
+[SPEECH: JoeGreene]
+Stanton Dowd... To jmeno jsem uz strasne dlouho neslysel.
+
+[SPEECH: JoeGreene]
+Dowda jsem osobne nikdy nevidel.
+
+-----------------------------------------------------------------
+[Owner: JoeGreene]
+[Name:  M08GreenFinalBarks]
+
+-----------------------------------------------------------------
+[Owner: JoeGreene]
+[Name:  M08MeetJoeGreen]
+
+[SPEECH: JCDenton]
+Pisete napinavej serial o nemocnici?
+
+[SPEECH: JoeGreene]
+Hovoril jsem s nekolika lekari: tvari se stejne zahadne jako politici. Kdyz se pred nimi clovek zmini o Ambrozii, ani nemrknou.
+
+[SPEECH: JCDenton]
+Mozna se domnivaji, ze mate na mysli ten pokrm reckych bohu.
+
+[SPEECH: JoeGreene]
+Ja mluvim vazne. Snad neverite tem povidackam z Hongkongu, ze vlada mela celou tu dobu k dispozici vakcinu?
+
+[CHOICES:2]
+
+[CHOICE:]
+Mozna. Hele - vy jste prece novinar. Slysel jste nekdy jmeno Stanton Dowd?
+
+[CHOICE:]
+Mozna.
+
+[SPEECH: JoeGreene]
+Dowd? Jiste... Byval velkym dovozcem, ze? Ze by zase zacal podnikat?
+
+[SPEECH: JCDenton]
+Zkratka ho potrebuju najit.
+
+[SPEECH: JCDenton]
+Zrovna jsem s nim mluvil. Divil bych se, kdybyste ho znal.
+
+[SPEECH: JoeGreene]
+Myslel jsem, ze uz je po smrti. Zajimava vec. Takze on je tady ve meste?
+
+[SPEECH: JCDenton]
+Otazky tady kladu ja. Vy jen odpovezte, co vite.
+
+[SPEECH: JoeGreene]
+Zda se, ze vite, o cem mluvite.
+
+[SPEECH: JCDenton]
+Tak dobre, nechme toho.
+
+[SPEECH: JoeGreene]
+Ma snad nejake potize?
+
+[SPEECH: JCDenton]
+Tak znate ho nebo ne?
+
+[COMMENT]
+Green has just hatched a plan in his head to ambush Dowd and player.
+
+[SPEECH: JoeGreene]
+Bohuzel nevim, jak ho zkontaktovat. Myslel jsem, ze uz je mrtvy.
+
+[SPEECH: JoeGreene]
+Ted maji DﬁKAZ. Objevili na to lek. Jmenuje se Ambrozie.
+
+[SPEECH: JCDenton]
+Nesmite verit vsemu, co v novinach napisou.
+
+[SPEECH: JoeGreene]
+Ha ha.
+
+[SPEECH: JCDenton]
+Slysel jsem o vas, ze jste spion.
+
+[SPEECH: JoeGreene]
+Spion? V cich sluzbach?
+
+[CHOICES:2]
+
+[CHOICE:]
+Chtel jsem si jenom poslechnout vasi verzi.
+
+[CHOICE:]
+Vy vubec nejste novinar. Pracujete pro UNATCO.
+
+[SPEECH: JoeGreene]
+Ano? Pracuji pro CIA nebo pro FBI?
+
+[SPEECH: JCDenton]
+To chci slyset ja od vas.
+
+[SPEECH: JoeGreene]
+V obou pripadech bych se musel lepe oblekat.
+
+[SPEECH: JCDenton]
+Chapu to jako popreni. Stalo se dnes vecer na tehle klinice neco zajimaveho?
+
+[SPEECH: JoeGreene]
+Hadam, ze tentokrat jste vyhral solokapra vy.
+
+[SPEECH: JCDenton]
+Jestli jste tajnej agent, tak ne.
+
+[SPEECH: JoeGreene]
+Ale ja jsem novinar! Ja po tech lidech jdu! Stejne jako po te Ambrozii... Bude o tom clanek na titulni strane v Midnight Sun. Copak vy neverite, ze vlada ma tajnou vakcinu?
+
+[SPEECH: JoeGreene]
+Halo, pane! Vy jste tu kvuli te epidemii?
+
+[SPEECH: JCDenton]
+Jste snad neco jako novinar?
+
+[SPEECH: JoeGreene]
+Joe Greene. Reporter z Midnight Sun. Od lekaru si zadnou pomoc neslibujte. Hovoril jsem s nekolika lekari: tvari se stejne zahadne jako politici. Kdyz se pred nimi clovek zmini o Ambrozii, ani nemrknou.
+
+[SPEECH: JCDenton]
+Ja nejsem nemocny.
+
+[SPEECH: JoeGreene]
+Ale jaky na to mate nazor? Snad neverite tem povidackam z Hongkongu, ze vlada mela celou tu dobu k dispozici vakcinu?
+
+[COMMENT]
+Musing, just having learned Joe Green's name.öOem[¡ uT3é .∂V”H
+
+[SPEECH: JCDenton]
+Joe Green... Slysel jsem, ze pry jste spion.
+
+[SPEECH: JCDenton]
+Beru to jako popreni.
+
+[SPEECH: JoeGreene]
+Uz jste slysel ty povidacky z Hongkongu? O te epidemii! Co si o tom myslite? Taky se domnivate, ze vlada mela celou tu dobu k dispozici vakcinu?
+
+-----------------------------------------------------------------
+[Owner: JordanShea]
+[Name:  M08JordanSheaConvos]
+
+[COMMENT]
+Jordan Shea is pretty rude during these convos.  He knows player left UNATCO and is himself a UNATCO supporter.
+
+[SPEECH: JordanShea]
+Co si date? Kvuli stannymu pravu se nam ceny ztrojnasobily na 30 kreditu.
+
+[CHOICES:5]
+
+[CHOICE:]
+Dal bych si neco k piti.
+
+[CHOICE:]
+Vezmu si jednu cokoladu.
+
+[CHOICE:]
+Slysela jste jmeno Stanton Dowd?
+
+[CHOICE:]
+Nic nechci.
+
+[CHOICE:]
+Jsem dutej.
+
+[SPEECH: JordanShea]
+Tady to je.
+
+[SPEECH: JordanShea]
+Co chcete Dowdovi?
+
+[SPEECH: JCDenton]
+Soukroma vec. Nevite, kde bych ho nasel?
+
+[SPEECH: JordanShea]
+Reknu vam to jenom jednou. Ten nemeckej mech z UNATCO uz tady po vas slidil. Chcete tu utratit prachy? Fajn. Tohle stanny pravo me polozi, ale dejte mi aspon vy pokoj! Ten chlap si cerstve naolejoval klouby a dychti po rvacce!
+
+[SPEECH: JCDenton]
+Gunther...
+
+[SPEECH: JordanShea]
+Tak date si neco nebo ne?
+
+[SPEECH: JCDenton]
+Bohuzel, jsem dutej.
+
+-----------------------------------------------------------------
+[Owner: M08Nurse]
+[Name:  NurseBarks]
+
+[SPEECH: M08Nurse]
+Klinika se zavira.
+
+[SPEECH: M08Nurse]
+Lekari uz odesli domu.
+
+[SPEECH: M08Nurse]
+Jestli jste prisel na pohotovost, obsluzte se, prosim, u lekarskych botu.
+
+[SPEECH: M08Nurse]
+Ta vakcina proti epidemii je jenom fama. Nic takoveho tu nemame.
+
+[SPEECH: M08Nurse]
+Dokud bude policie na ulici, muzete tu prespat na pohovce.
+
+[SPEECH: M08Nurse]
+Uz jsem vam rekla, ze tu smite zustat. Ted mi dejte pokoj.
+
+-----------------------------------------------------------------
+[Owner: Sailor]
+[Name:  M08MeetSailor]
+
+[SPEECH: JCDenton]
+Ty jses tu kvuli stannymu pravu? Netusil jsem, ze najali i marinaky!
+
+[SPEECH: Sailor]
+Ne, UNATCO o nas nestoji. Jen jsem zaskocil podivat se za svou starou znamou - sedi tamhle u stolu - za Sandrou Rentonovou. FEMA mi dala kvuli stannymu pravu propustku.
+
+[SPEECH: Sailor]
+Ne, UNATCO o nas nestoji. Jen jsem zaskocil podivat se za svou starou znamou, za Sandrou Rentonovou. FEMA mi dala kvuli stannymu pravu propustku.
+
+[COMMENT]
+Sandra is in the bar.  JC's not interested in talking about personal matters.  Skip to the question about FEMA., fine; this curfew's killing me, but leave me out of your business.  That guy's oiled up and ready for a fight
+
+[SPEECH: JCDenton]
+Odjela z mesta.
+
+[SPEECH: Sailor]
+Jo, jo, ja vim. Prijel jsem na blind.
+
+[SPEECH: JCDenton]
+Mam pro tebe spatnou zpravu. Obavam se, ze je mrtva.
+
+[SPEECH: Sailor]
+To uz jsem taky slysel, nejakej poulicni pasak. Jestli ho najdu, tak bude litovat, ze se vubec narodil.
+
+[SPEECH: JCDenton]
+Jak to, ze FEMA si muze dovolit takovou propustku vystavit?
+
+[SPEECH: Sailor]
+Prevzala Moderni ponorkovou zakladnu, kde pracuju. Nerad bych, aby me za to vylili, ale myslim, ze malej opustak neuskodi.
+
+[SPEECH: JCDenton]
+Privedli si tam svy vlastni lidi?
+
+[SPEECH: Sailor]
+Vetsinu z nas vcera v noci vysoupli z hlavniho podvodniho hangaru... FEMA nam naridila se vzdalit. Sami bysme radi vedeli, co se to tam, k certu, mele.
+
+[CHOICES:2]
+
+[CHOICE:]
+Tak dobre. Mozna, ze se na to kvuli tobe podivam.
+
+[CHOICE:]
+FEMA ma ke zvyseni ostrahy urcite dobrej duvod.
+
+[SPEECH: Sailor]
+Jses polda?
+
+[SPEECH: JCDenton]
+Bejval jsem.
+
+[SPEECH: Sailor]
+Reknu ti to na rovinu: Ja jsem vlastenec. Nerad se divam na to, jak jednu z nasich nejtajnejsich zakladen ovladli vetrelci, zvlast kdyz se tam tlacej lidi, ktery vypadaj jako rakosnicky mafiani. Jestli mas dojem, ze by s tim slo neco delat, mi kamosi u predni brany te nechaji proklouznout dovnitr. Jmenuju se Vinny. Povez jim, ze me znas.
+
+[SPEECH: JCDenton]
+Diky. Uvidime, co se da delat.
+
+[NOTE:]
+Namornikovo jmeno: Vinny. Ma pratele u ponorkaru, kteri by mohli nekdy pomoci.
+
+[SPEECH: Sailor]
+Jo, protoze vedi, ze tady se jim na odpor nikdo nepostavi a nemaji zadnej duvod tu vopruzovat.
+
+-----------------------------------------------------------------
+[Owner: Sailor]
+[Name:  SailorBarks]
+
+[SPEECH: Sailor]
+Ja poznam levarnu na sto honu.
+
+[SPEECH: Sailor]
+Z jednoho vrtulniku na strese hangaru jsem videl vylejzat Waltona Simonse.
+
+[COMMENT]
+These cycle and go random.@	*4”yRıSb0HY‰Û.ee⁄˛[
+æ
+
+[SPEECH: Sailor]
+Zeptal jsem se jednoho z nich: "Jaka se tu stala katastrofa? Proc je tady vubec FEMA?" A on povida: "Jeste slovo a katastrofa se stane tobe!" Tak takhle s nama jednaj'.
+
+[SPEECH: Sailor]
+My, Americani, posledni umirajici zbytky... Musime drzet pohromade!
+
+[SPEECH: Sailor]
+Nechapu, proc tuhle zemi musej' ridit takovy zmrdi.
+
+[SPEECH: Sailor]
+Vsechny nas vystehovali, ponevadz nechteji, aby se jim nekdo koukal na prsty.
+
+[COMMENT]
+These cycle and repeat the last.hey don't want anybody around to
+
+[SPEECH: Sailor]
+Nekdo voddelal barmanku. Pitivo je zadaco.
+
+-----------------------------------------------------------------
+[Owner: SandraRenton]
+[Name:  M08MeetSandra]
+
+[SPEECH: JCDenton]
+Ahoj, Sandro! Toho hotelu je mi lito. UNATCO z nej asi nadelalo reseto.
+
+[SPEECH: SandraRenton]
+O to se ted starat nemusime. Jsi v poradku? Slysela jsem, ze UNATCO po tobe jde.
+
+[SPEECH: JCDenton]
+A nejsou jediny.
+
+[SPEECH: SandraRenton]
+Mel bys vypadnout z Pekelny kuchyne. Hledaji te tady.
+
+[SPEECH: JCDenton]
+Myslis, ze ten hotel jeste rozdejchas?
+
+[SPEECH: SandraRenton]
+To zalezi na pojistce - ale myslim, ze ta nepokryje ani skody z poulicniho radeni. Mel bys bejt opatrnejsi. Hledaji te tady.
+
+[SPEECH: JCDenton]
+Jo?
+
+[SPEECH: SandraRenton]
+Takovej chlap - prisel do hotelu, ze je prej tvuj bratranec.
+
+[SPEECH: JCDenton]
+Jak vypadal?
+
+[SPEECH: SandraRenton]
+Normalka, ale myslim, ze to byl prestrojenej polda.
+
+[SPEECH: JCDenton]
+Ty jsi holka Gilberta Rentona, ze jo? Pracujes v hotelu 'Ton.
+
+[SPEECH: SandraRenton]
+Bejvavalo.
+
+[SPEECH: SandraRenton]
+Jsem rada, ze jsem to vubec prezila. Jen si vem, co se stalo Jordan!
+
+[SPEECH: JCDenton]
+Ja vim. A lidi se motaji kolem baru, jako kdyby se vubec nic nestalo.
+
+[SPEECH: SandraRenton]
+Mimochodem, hledaji te tady. Mel bys bejt opatrnejsi.
+
+[SPEECH: SandraRenton]
+Bejvavalo, dokud ho UNATCO nezavrelo. Jsem rada, ze jsem to vubec prezila. Jen si vem, co se stalo Jordan!
+
+-----------------------------------------------------------------
+[Owner: SandraRenton]
+[Name:  M08MeetSandra2]
+
+[SPEECH: JCDenton]
+Znas toho marinaka u baru?
+
+[SPEECH: JCDenton]
+Je tamhleten marinak opravdu tvuj pritel?
+
+[SPEECH: SandraRenton]
+To je Vinny. Chodil se mnou na stredni.
+
+[SPEECH: JCDenton]
+Da se mu verit?
+
+[SPEECH: SandraRenton]
+Vinnymu? No jasne! Ten je v pohode. Mysli mu to sice trochu pomalejc, ale fakticky je v pohode.
+
+[SPEECH: JCDenton]
+Dik.
+
+-----------------------------------------------------------------
+[Owner: SandraRenton]
+[Name:  M08SandraBarks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: SandraRenton]
+Ten chlap, co te tady hledal... Mel takovej sedivej kabat.
+
+[SPEECH: SandraRenton]
+Je mi lito Vinnyho; skoro vubec ho nepousteji ven.
+
+[SPEECH: SandraRenton]
+Nemel jsi jezdit do New Yorku, aspon dokud se to tu neuklidni. Zmenil se na jeden velkej vezenskej tabor.
+
+-----------------------------------------------------------------
+[Owner: ShadyGuy]
+[Name:  ShadyGuyBarks]
+
+[COMMENT]
+This guy is nervous because he is trailing the player, getting ready to call in an ambush.÷ù_ã"˚·dCS|”¿iΩ ´<F
+
+[COMMENT]
+This happens the first time the player talked to him.  The shady guy is startled.
+
+[SPEECH: ShadyGuy]
+Ehm-hm. Vo co kraci?
+
+[SPEECH: ShadyGuy]
+Ztratils neco?
+
+[SPEECH: ShadyGuy]
+...malem bych to tady ani nepoznal.
+
+[COMMENT]
+(annoyed, and getting scared)
+
+[SPEECH: ShadyGuy]
+Co je? Jenom tady stojim.
+
+[SPEECH: ShadyGuy]
+Mas nejakej problem?
+
+[SPEECH: ShadyGuy]
+Vypadni, clovece.
+
+-----------------------------------------------------------------
+[Owner: Smuggler]
+[Name:  M08SmugglerCleanedOut]
+
+[SPEECH: Smuggler]
+Uplne jsi me vybral.
+
+[SPEECH: Smuggler]
+Vrat se pozdejc. Mozna pro tebe jeste obstaram nejaky zbozi.
+
+[SPEECH: Smuggler]
+Az budes odchazet, koukej, at te nikdo nevidi!
+
+-----------------------------------------------------------------
+[Owner: Smuggler]
+[Name:  M08SmugglerConvos]
+
+[COMMENT]
+Normal buying stuff here.
+
+[SPEECH: JCDenton]
+Nemas neco na prodej?
+
+[SPEECH: Smuggler]
+Jiste. Tohle by se ti mohlo hodit: utocna puska a par zasobniku sabotek. Mel bych tu taky granaty LAM; dal bych ti cele baleni po peti za 3500.
+
+[CHOICES:8]
+
+[CHOICE:]
+Dal bych ti 7500 za tu utocnou pusku.
+
+[CHOICE:]
+Kdybych mel 7500, rekl bych si o tu utocnou pusku.
+
+[CHOICE:]
+Vezmu si ty sabotky za 750.
+
+[CHOICE:]
+Kdybych mel prachy, dal bych ti 750 za ty sabotky.
+
+[CHOICE:]
+Vezmu si tech pet granatu LAM za 3500.
+
+[CHOICE:]
+Vzal bych si tech pet granatu LAM za 3500 - kdybych na to mel.
+
+[CHOICE:]
+Jsem uplne dutej. Das mi na sekeru?
+
+[CHOICE:]
+Nic nechci.
+
+[SPEECH: Smuggler]
+Sezen prachy a dohodneme se.
+
+[SPEECH: Smuggler]
+Tady nejses v bazaru.
+
+[SPEECH: Smuggler]
+Ja nemam rad smlouvani.
+
+[SPEECH: Smuggler]
+Na sekeru nedavam.
+
+[SPEECH: Smuggler]
+Chlap jako ty si penize urcite dovede sehnat.
+
+[SPEECH: Smuggler]
+Co bych si pocal, kdyby ses nechal zastrelit?
+
+[SPEECH: Smuggler]
+Mysli ti to. Pro boj na kratkou vzdalenost nenajdes lepsi zbran.
+
+[SPEECH: Smuggler]
+Je to drahe, ale kvalitni zbozi.
+
+[SPEECH: Smuggler]
+Vis ty co? Pridam ti jeste jeden gratis, kdyz mi slibis, ze s nim kvuli mne oddelas jednoho z tech hajzlu.
+
+[SPEECH: JCDenton]
+Jak si prejes.
+
+[SPEECH: JCDenton]
+Potrebuju pichnout.
+
+[SPEECH: Smuggler]
+S cim?
+
+[SPEECH: JCDenton]
+Nasel jsem zasilku viru Sedy smrti. Nakladni lod v Brooklynsky lodenici.
+
+[SPEECH: Smuggler]
+Ma v tom prsty vlada, co? Soucast nejakyho pokusu?
+
+[SPEECH: JCDenton]
+Spiknuti. Zcasti vladni, zcasti ne.
+
+[SPEECH: Smuggler]
+Co si mam pocit s nakladni lodi?
+
+[SPEECH: JCDenton]
+Pomoz mi ji potopit. Nemel bys granaty LAM nebo rakety?
+
+[SPEECH: Smuggler]
+To si vazne myslis, ze potopis nakladni lod granatama?
+
+[SPEECH: JCDenton]
+Par granatu odpalenych u svaru dela divy.
+
+[SPEECH: Smuggler]
+Pomuzu ti. Co takhle raketa do GEPky? Obvykle si je setrim pro NSF, ale prodal bych ji se ztratou, rekneme za 2500. Nebo ti muzu prodat sest granatu LAM za 2400. Kupuj radsi hned; jdu s cenou tak nizko jen proto, ze jde o lidsky zivoty.
+
+[CHOICES:6]
+
+[CHOICE:]
+Vezmu si munici do GEPky za 2500.
+
+[CHOICE:]
+2500 za munici do GEPky neni moc, ale tolik penez nemam.
+
+[CHOICE:]
+Dej mi ty granaty LAM za 2400. Placnem si.
+
+[CHOICE:]
+Kez bych mel 2400 kreditu! Vzal bych si ty granaty LAM.
+
+[CHOICE:]
+Nedelej kuzicky! V sazce jsou miliony lidskejch zivotu!
+
+[CHOICE:]
+Zapomen na to.
+
+[SPEECH: Smuggler]
+V lodenici muzes jeste vybrat municni sklad. Kdyz te nechytnou, budes to mit zadarmo.
+
+[SPEECH: Smuggler]
+Nez nekterej z tech drobecku spusti, mel bys odpochodovat nejmin tricet metru dozadu.
+
+[SPEECH: Smuggler]
+To bylo vsechno moje zbozi. Jestli chces vic, musis vybrat municak v lodenici.
+
+[SPEECH: Smuggler]
+Sice ti drzim palce, ale nemuzu jit pod svy naklady.
+
+[COMMENT]
+This is how the buying conversation opens.  The Smuggler makes this elliptical suggestion to cloy the player into buying hardware.
+
+[SPEECH: Smuggler]
+Potopit nakladni lod - tomu rikam vec...
+
+[SPEECH: Smuggler]
+Rikas mi o ty lodi pravdu? Oni tim virem fakticky chteji nakazit dalsi lidi?
+
+[SPEECH: JCDenton]
+Maji zrejme v umyslu oslabit tou epidemii celou vladu, aby potom mohli snaze prevzit moc.
+
+[SPEECH: Smuggler]
+Jestli chces slyset muj nazor, tak se vsadim, ze FEMA chce vyvolat stav narodni nouze a predat veskerou moc armade.
+
+[SPEECH: JCDenton]
+Zkratka Walton Simons natahuje ruku po moci a je jedno, jak to presne zaonaci.
+
+[SPEECH: Smuggler]
+Tohle by se jim urcite hodilo: stav narodni nouze. Tak by se zbavili prezidenta, odstrelili by kongres a obesli by ustavu.
+
+[SPEECH: JCDenton]
+Jeden marinak z lodenice mi rikal, ze je do toho namotana FEMA. Zda se, ze misto aby katastrofy zehlili, tak je vyvolavaji.
+
+[SPEECH: Smuggler]
+Proc ses vratil? UNATCO najala posledniho poldu v New Yorku, aby po tobe sel.
+
+[SPEECH: JCDenton]
+Mam tu nevyrizeny ucty.
+
+[SPEECH: Smuggler]
+Tak jsi konecne zmoudrel a pridal ses k NSF?
+
+[SPEECH: JCDenton]
+Nemuzu tvrdit, ze jsem se k nekomu pridal. Kdyz tak k obycejnejm lidem.
+
+[SPEECH: Smuggler]
+To staci. Vis, kde je tvoje misto. Jenom kvuli tomu, ze si lidi nedokazou vybrat, na ci strane stat, si muze vlada dovolit delat takovy zverstva.
+
+[SPEECH: JCDenton]
+Budu se muset pohnout. Mel bys neco na prodej?
+
+[SPEECH: Smuggler]
+Kdo ty, sakra, jses?
+
+[SPEECH: JCDenton]
+Napadlo me, ze se ti pujdu predstavit.
+
+[SPEECH: Smuggler]
+Ja jsem Paserak. Tohle je soukromej sklad.
+
+[SPEECH: JCDenton]
+Ma to znamenat, ze obchodujes na cernym trhu?
+
+[SPEECH: Smuggler]
+Ma to znamenat, ze bys mel vypadnout.
+
+[SPEECH: JCDenton]
+Hele, myslel jsem, ze je to tady opusteny. Co prodavas? Zbrane?
+
+[SPEECH: Smuggler]
+Jak si mam bejt jistej, ze nejsi polda?
+
+[SPEECH: JCDenton]
+Mozna jsem polda, kterej zbehnul.
+
+[SPEECH: Smuggler]
+Fajn. Jen tak teoreticky: Co kdybych tu mel pet granatu LAM za 3500? Nebo utocnou pusku a par krabic sabotek. Tohle by te zajimalo?
+
+[SPEECH: JCDenton]
+Ty jsi Paserak? Potrebuju pichnout.
+
+[SPEECH: Smuggler]
+Pichnout? Ja nejsem zadna dobrocinna organizace! Jestli neco shanis, tak se vymackni. Reknu ti, co to stoji.
+
+[SPEECH: JCDenton]
+Odhalil jsem pravdu ohledne Sedy smrti. Je to umelej virus a jeho zasilku ted privazi nakladni lod v Brooklynskejch lodenicich.
+
+[SPEECH: Smuggler]
+To me nezajima. Radsi mi povez, co shanis.
+
+[SPEECH: JCDenton]
+Potrebuju pomoc.
+
+[SPEECH: Smuggler]
+Hm?
+
+[COMMENT]
+This is a failed transfer.  The player's inventory is full.⁄s}[áì *©ézŸ
+
+[SPEECH: Smuggler]
+Poteseni je na my strane.
+
+[SPEECH: JCDenton]
+Pockej. Nemam dost mista, abych to vsechno pobral.
+
+[SPEECH: Smuggler]
+Hele, zacinam bejt trochu nervozni. Radsi bys mel vypadnout ven a nakopat tam par zadku. Nechci mit zadny opletacky s uradama.
+
+[CHOICES:2]
+
+[CHOICE:]
+Uklidni se. Nikdo me nesleduje.
+
+[CHOICE:]
+No, UNATCO ma v planu jednu takovou operaci. Az odtud zmizim, radsi by ses mel vyexpedovat z Pekelny kuchyne.
+
+[SPEECH: Smuggler]
+Jakou operaci?
+
+[SPEECH: JCDenton]
+Lov na cloveka. Na me. Nepredpokladam, ze by ses ho chtel zucastnit.
+
+[SPEECH: Smuggler]
+Diky za varovani. Tak jedem, vyridime to spolu.
+
+[SPEECH: Smuggler]
+Opravdu?
+
+[SPEECH: JCDenton]
+Nemas se ceho bat.
+
+-----------------------------------------------------------------
+[Owner: Smuggler]
+[Name:  M08SmugglerSecondBuy]
+
+-----------------------------------------------------------------
+[Owner: Smuggler]
+[Name:  SmugglerDone]
+
+[SPEECH: Smuggler]
+Skoda, ze ti nemuzu prodat vic.
+
+[SPEECH: Smuggler]
+Schovej si je az na tu lod. Budes je potrebovat.
+
+[SPEECH: Smuggler]
+Rad bych ti prodal trochu vic raket, ale cernymu trhu ted pekne slapli na krk.
+
+-----------------------------------------------------------------
+[Owner: SmugglerDoorBell]
+[Name:  SmugglerDoorBellConvo]
+
+[SPEECH: SmugglerDoorBell]
+Slysim. Heslo?
+
+[SPEECH: JCDenton]
+Otevrte. Jsem federalni agent.
+
+[COMMENT]
+More forceful.  The player has been denied entry before.
+
+[SPEECH: JCDenton]
+Otevrte.
+
+[COMMENT]
+These cycle and go random.
+
+[COMMENT]
+(sound of Smuggler hanging up the line)
+
+[SPEECH: SmugglerDoorBell]
+(klap)
+
+[COMMENT]
+Smuggler might cough during this (optional).g
+
+[SPEECH: SmugglerDoorBell]
+...nemocnej. Prijdte jindy.
+
+[SPEECH: SmugglerDoorBell]
+Ten kram zrovna prestal fungovat.
+
+[SPEECH: JCDenton]
+Masakr.
+
+-----------------------------------------------------------------
+[Owner: StantonDowd]
+[Name:  StantonAmbushDone]
+
+[COMMENT]
+These cycle and repeat the last.
+
+[COMMENT]
+Since he's sick, he might cough after "thank goodness".
+
+[SPEECH: StantonDowd]
+Tak a je to... Myslim, ze jste je dostal vsechny. Diky Bohu! Ted lette do te lodenice!
+
+[SPEECH: StantonDowd]
+Radsi tu pockam, nez se to kolem uklidni.
+
+-----------------------------------------------------------------
+[Owner: StantonDowd]
+[Name:  StantonAmbushHappening]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: StantonDowd]
+Nasli nas!
+
+[SPEECH: StantonDowd]
+Kam bezeli?
+
+[SPEECH: StantonDowd]
+Jsme v pasti!
+
+[SPEECH: StantonDowd]
+Co budeme delat?
+
+-----------------------------------------------------------------
+[Owner: StantonDowd]
+[Name:  StantonDowd]
+
+[SPEECH: JCDenton]
+Vy jste Dowd?
+
+[SPEECH: StantonDowd]
+Souhlasil jsem s tou schuzkou, protoze mame spolecneho nepritele.
+
+[SPEECH: JCDenton]
+Proc v tehle barabizne? Myslel jsem, ze Iluminati byli bankeri, politici... Z ministerstva zahranicnich veci.
+
+[COMMENT]
+Dowd emits a broken cough (He has the plague).g
+
+[SPEECH: StantonDowd]
+Spis jsme jen tahali za nitky, i kdyz take vy mate do jiste miry pravdu.
+
+[SPEECH: JCDenton]
+Jste v poradku?
+
+[SPEECH: StantonDowd]
+...chytil jsem tu mizernou nemoc sam. Ale nikdy jsme nemeli armadu jako ma Majestic 12 - ani nakladni lode nalozene biologickymi zbranemi, pokud se nemylim.
+
+[SPEECH: JCDenton]
+Nemylite se. Jen bych rad vedel, kde ta nakladni lod zakotvi.
+
+[SPEECH: StantonDowd]
+Budou ji chtit ukryvat. Jedine zarizeni na Vychodnim pobrezi, ktere je na to dost velke, je Moderni ponorkova zakladna v Brooklynskych lodenicich.
+
+[SPEECH: JCDenton]
+To zni slibne.
+
+[SPEECH: JCDenton]
+Samozrejme. Proto ji FEMA hned schramstla.
+
+[SPEECH: StantonDowd]
+Ten virus nejspis skladuji v dieselovych nadrzich lodi. Jediny zpusob, jak ho zarucene znicit, znamena potopit tu lod.
+
+[SPEECH: JCDenton]
+Potopit nakladni lod?
+
+[COMMENT]
+Dowd's coughing sounds particularly bad during this line.”¥„jKe7ÕÄ'I
+ N"r˙=c4dlw∫n‡@*É7uhin‰Úne¡&Æ|
+
+
+[SPEECH: StantonDowd]
+Da se to provest - kdyz vite, kam mate umistit vybusniny. Paserak by vam jich mohl obstarat dostatecne mnozstvi.
+
+[COMMENT]
+Dowd's coughing sounds particularly bad during this line.”¥„jKe7ÕÄ'I
+ N"r˙=c4dlw∫n‡@*É7uhin‰Úne¡&Æ|
+
+
+[SPEECH: StantonDowd]
+Da se to provest - kdyz vite, kam mate umistit vybusniny. Paserak by vam jich mohl obstarat dostatecne mnozstvi. Jeho skrys najdete severovychodne od hotelu. Heslo je "masakr".
+
+[NOTE:]
+Paserakova skrys je severovychodne od hotelu. Heslo: masakr.
+
+[SPEECH: JCDenton]
+Urcite to zvladnete?
+
+[SPEECH: StantonDowd]
+Nevzdavam to. Ale kdybyste na te lodi potkal trochu Ambrozie --
+
+[SPEECH: JCDenton]
+Nebojte se; prinesu vam tu vakcinu.
+
+[SPEECH: StantonDowd]
+Dam vam plany te lodi. Krizky oznacuji pet mist, kde je trojity trup svaren. Rozbijte ty svary, zapnete odsavaci pumpy na zpetny chod - a ta lod se otevre jako bananova slupka!
+
+[GOAL:]
+Prines Stantonovi Dowdovi trochu Ambrozie proti Sede smrti.
+
+[GOAL:]
+Navstiv Paseraka kvuli trhavinam na potopeni nakladni lodi.
+
+[GOAL:]
+Navstiv Paseraka kvuli trhavinam na potopeni nakladni lodi.
+
+[GOAL:]
+Potop nakladni lod Wall Cloud znicenim peti mist, na nichz je svaren trojity trup a spustenim odsavacich pump na zpetny chod. Takto vcerpana voda do podpalubi zmeni vahove rozlozeni lodi a porusene svary se tak rozevrou.
+
+[SPEECH: JCDenton]
+Par trhavin mi jeste zbylo.
+
+[SPEECH: StantonDowd]
+Pokud budete mit prilezitost, mel byste si obstarat jeste dalsi, ale pokud myslite, ze jste vybaven dostatecne, najdete sveho pilota a odstartujte.
+
+-----------------------------------------------------------------
+[Owner: StantonDowd]
+[Name:  StantonDowdBarks]
+
+[COMMENT]
+Dowd still has the plague during these lines.  Maybe he should cough or wheaze once in a while.
+
+[COMMENT]
+These cycle and repeat the last.
+
+[SPEECH: StantonDowd]
+Tong mi rekl, ze ve viru odhalil zajimavou molekularni signaturu, voditko k tomu, kdo ho vyvinul.
+
+[SPEECH: StantonDowd]
+Jsem presvedcen, ze to byl byvaly clen Iluminatu. Nasi vedci meli ve zvyku sva dila podepisovat - jako maliri.
+
+[SPEECH: StantonDowd]
+Od Iluminatu se oddelila skupina spiklencu a tak vznikla organizace Majestic 12.
+
+[SPEECH: StantonDowd]
+Ti spiklenci byli mnohem bezohlednejsi nez my. Neda se to srovnat.
+
+[SPEECH: StantonDowd]
+Majestic 12 dosla k poznani, ze politicky vliv zaruci pouze ta prava technologie.
+
+[SPEECH: StantonDowd]
+Nicmene Iluminati polozili zaklady... jaksi nadnarodni, z niz globalni struktury Majestic 12 stale cerpaji.
+
+[SPEECH: StantonDowd]
+Majestic 12 zdedil system, jehoz vyvoj trval cele milenium.
+
+[SPEECH: StantonDowd]
+Je pravda, ze nase organizace saha az k Radu asasinu neboli hasisimu, ale nebylo to tak, jak si asi myslite.
+
+[SPEECH: StantonDowd]
+Nas Rad netrva bez preruseni a byva casto obnovovan. Adam Weishaupt ho zalozil znovu v Bavorsku roku 1776. Totez udelal Thomas Jefferson o nekolik let pozdeji. Je to MYSLENKA, co preziva. SYSTêM.
+
+[SPEECH: StantonDowd]
+Nebo TOUHA, touha kazdeho rozumne uvazujiciho cloveka darovat svetu nejakou dustojnou organizaci.
+
+[SPEECH: StantonDowd]
+Napriklad Cecil Rhodes. Sice nemel k Iluminatum sebemensi formalni vztah, ale patril k nejvetsim vizionarum centralizovane moci. Nyni tu mame Rozenkruciany, kteri posilaji sve lidi primo na ministerstvo zahranicnich veci... To je velice mocny nastroj.
+
+[SPEECH: StantonDowd]
+Podle meho nazoru jsou dejiny lidske rasy pouze jednou dlouhou radou spiknuti. Abychom oklamali sami sebe, nazyvame ta uspesna spiknuti "vladami".
+
+[SPEECH: StantonDowd]
+Jenom tu ztracime cas. Mel byste radeji najit Paseraka.
+

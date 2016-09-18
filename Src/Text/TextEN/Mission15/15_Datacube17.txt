@@ -1,0 +1,9 @@
+<DC=255,255,255>
+<P>Hey Sandy,
+<P>
+<P>I finally got the security login for Lab B13 from Mac -- he said to have a ball, just don't blow us all to kingdom come while you're at it.  If you do find anything that helps with hooking up those blue fusion gizmos, let us know.  Might give us a better idea of exactly how those reactors work.
+<P>
+<P>Login: area51
+<P>Password: bravo13
+<P>
+<P>Jake

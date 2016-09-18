@@ -1,0 +1,6 @@
+<DC=255,255,255>
+<P>Dr. Bates:
+<P>
+<P>I've just finished supervising the refit of the superfreighter fuel tanks to transport the virus -- this stuff should really be shipped in suspension crates, but I know you'll want to rapidly offload it once it reaches New York.  The biocontamination seals will _not_ last past 36 hours, however, and a complete Level 4 sterilization of the tanks will need to occur once the virus is offloaded to insure that there's no incidental release.  I integrated some sealed pumping units into the tanks, so you should just be able to use standard YHU55 couplers and A0 micron hoses for the transfer to the helicopters.  But tell Simons I'd still have everyone in hazmat suits the whole time.
+<P>
+<P>Dr. Lundquist

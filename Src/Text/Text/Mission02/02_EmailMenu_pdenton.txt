@@ -1,0 +1,5 @@
+<EMAIL=02_Email01,Schazis mi,SweetCharity,Paul Denton,>
+<EMAIL=02_Email02,SPAM: Unaven zivotem?,KVORK Inc.,Mnozstvi adresatu,>
+<EMAIL=02_Email03,Uz ses aklimatizoval?,JReyes,Paul Denton,>
+<EMAIL=02_Email04,Zprava nedorucitelna,Spravce site,uzivatel,>
+<EMAIL=02_Email05,Potvrzeni objednavky,ClassicMovies,Paul Denton,>

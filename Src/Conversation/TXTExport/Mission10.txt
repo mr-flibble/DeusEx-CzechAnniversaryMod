@@ -1,0 +1,3894 @@
+-----------------------------------------------------------------
+[Owner: Agathe]
+[Name:  AgatheBarks]
+
+[COMMENT]
+She is pretty distraught here, having listened to her husband basically wish death upon their oldest son, exasperated, almost hysterical.c
+
+[SPEECH: Agathe]
+Uz jste toho pokazil dost. Bezte pryc!
+
+[SPEECH: Agathe]
+Ach, ubohy Michel...
+
+[SPEECH: Agathe]
+Kdybyste ho videl... vite, je vysoky, ma tmave vlasy... tak nestrilejte! Je to nas syn.
+
+[SPEECH: Agathe]
+Ja vim, ze v tech uniformach vypadaji vsichni stejne...
+
+-----------------------------------------------------------------
+[Owner: Agathe]
+[Name:  AgatheInterrupted]
+
+[COMMENT]
+(a hack)terrupte
+
+[COMMENT]
+This line is exactly the same as the first line of JoshuaInterrupted, except that JC is speaking to Agathe instead.
+
+[SPEECH: JCDenton]
+Mimodek jsem vyslechl rozhovor o vasem synovi.
+
+-----------------------------------------------------------------
+[Owner: AI_phonecall_paris01]
+[Name:  IcarusCalls]
+
+[COMMENT]
+AI_phonecall_paris01's lines should be recorded in Icarus's voice.@ "	tn!Ä
+
+[SPEECH: AI_phonecall_paris01]
+Stojim ti rovnou za zady, Dentone.
+
+[SPEECH: JCDenton]
+Kdo je tam?
+
+[SPEECH: AI_phonecall_paris01]
+A brzy budu pred tebou, s tebou--- Stanu se soucasti vseho na celem svete.
+
+[SPEECH: JCDenton]
+Tak vseho? To teda mluvim s Bohem? Nebo s tema pitomeckama, co si porad hrajou na Novy vek?
+
+[COMMENT]
+Maybe have a phone-click sound that the end of this bit of audio -- Icarus hanging up..
+
+[SPEECH: AI_phonecall_paris01]
+Ano... na Novy vek. Skoda, ze uz nebudes nazivu, abys ho zazil.
+
+-----------------------------------------------------------------
+[Owner: Aimee]
+[Name:  AimeeBarks]
+
+[COMMENT]
+In the following, this crazy cat-owning woman mutters to herself, bemoaning the loss of certain cats, who were either eaten by greazels or zapped by radiation in the Catacombs.
+
+[COMMENT]
+Original spec: "aimee (the crazy french woman who lives in ruins with all her cats) needs to be capable of imparting the code: 0001."î
+
+[COMMENT]
+(talking to herself)
+
+[SPEECH: Aimee]
+Ja...to nevedela. Jak bych to mohla vedet?
+
+[COMMENT]
+(talking to herself, to her dead cats)
+
+[SPEECH: Aimee]
+...odpustte mi...
+
+[COMMENT]
+(talking to herself)u
+
+[SPEECH: Aimee]
+Hruza! Hruza!
+
+[COMMENT]
+(talking to herself)u
+
+[SPEECH: Aimee]
+Proc? Co jsem provedla?
+
+[COMMENT]
+Bilious, sad.  These are the creatures that are eating her cats.
+
+[SPEECH: Aimee]
+...zeleni odporni grazlove...och!
+
+[COMMENT]
+Triumphant.  The player killed the greazels.
+
+[SPEECH: Aimee]
+...zeleni odporni grazlove...ha-ha!
+
+[SPEECH: Aimee]
+Slysel jsi to? Ted uz to bude dobry, muj malej Micheli!
+
+[SPEECH: Aimee]
+...ci ci ci ci ci...ci ci ci ci ci...
+
+[SPEECH: Aimee]
+Jsme volni! Jsme volni!
+
+-----------------------------------------------------------------
+[Owner: Aimee]
+[Name:  AimeeBarksBump]
+
+[COMMENT]
+These cycle and go random.
+
+[COMMENT]
+Jump to greasel comment in other barks.
+
+[COMMENT]
+(talking about going into the catacombs to fight the greasels)H
+
+[SPEECH: Aimee]
+Prilis nebezpecne...
+
+[SPEECH: Aimee]
+Ted je na rade Michel... Vim to!
+
+[SPEECH: Aimee]
+Vsichni jsou mrtvi... MRTV÷! MRTV÷!
+
+[SPEECH: Aimee]
+To stanne pravo, nikdo nema co jist...
+
+-----------------------------------------------------------------
+[Owner: Aimee]
+[Name:  AimeeBarksBump2]
+
+[COMMENT]
+This crazy woman is mourning the supposed loss of her cat.  These cycle and go random..
+
+[SPEECH: Aimee]
+O moje kocicky by se nikdo nepostaral.
+
+[SPEECH: Aimee]
+Ty jsi krasna... krasne zviratko!
+
+[SPEECH: Aimee]
+Ach! Ja jsem tak stastna!
+
+-----------------------------------------------------------------
+[Owner: Aimee]
+[Name:  GreazelsDead]
+
+-----------------------------------------------------------------
+[Owner: Aimee]
+[Name:  MeetAimee]
+
+[COMMENT]
+This is a crazy woman with a lot of cats.  She talks about how her cats were killed in the catacombs.  However, in this first conversation, the player might be led to believe that she's talking about her children.
+
+[SPEECH: JCDenton]
+Co se deje?
+
+[SPEECH: Aimee]
+Snazila jsem se je zastavit! Opravdu!
+
+[SPEECH: JCDenton]
+Zastavit koho?
+
+[SPEECH: Aimee]
+Marbre, Monteho, Mimi... Bylo tam zareni! A tam dole ctyri grazlove. 0001! Pitome, pitome, pitome heslo! Ty dvere se mely ZAMKNOUT.
+
+[SPEECH: JCDenton]
+Zareni a mutanti... kde?
+
+[SPEECH: Aimee]
+Ve stokach. Ve sklepe. Prisla jsem o vsechny, krome Michela...
+
+[SPEECH: JCDenton]
+To je mi lito.
+
+[SPEECH: Aimee]
+Nekdo by mel ty zle, smradlave bestie konecne... Och! Ne! Ne, to by bylo silenstvi! Nesmime ty dvere otevirat!
+
+[GOAL:]
+Ve stokach zabij ctyri nebezpecne grazly, potom to rekni vylekane zene, ktera obyva ruiny mrakodrapu.
+
+[NOTE:]
+Kod ke stokam: 0001.
+
+[SPEECH: JCDenton]
+Tak o grazly je postarano.
+
+[SPEECH: Aimee]
+Jak to?
+
+[SPEECH: JCDenton]
+Tem mrtvym uz zivot nikdo nevrati, ale jedno je jiste: ty bestie uz nikomu neublizi.
+
+[SPEECH: Aimee]
+Hura! Moje kocicky! Ted uz si muzou hrat a behat, nikdo je nesni! A predstavte si - dokonce i ti chlapi s raketami se jich bali!
+
+[SPEECH: JCDenton]
+S raketami?
+
+[SPEECH: Aimee]
+Ano, ano! Ti vojaci, co pouzivaji Budovu 14 - vite, tam za katakombami, jak je stary vchod... Bali se grazlu!
+
+[SPEECH: JCDenton]
+Odvaha miva s palebnou silou malokdy neco spolecneho.
+
+[NOTE:]
+Rakety jsou ulozeny v budove 14, naproti staremu vchodu do katakomb.
+
+-----------------------------------------------------------------
+[Owner: AlleyCop]
+[Name:  AlleyCopBarks]
+
+[SPEECH: AlleyCop]
+Chovejte se slusne!
+
+[SPEECH: AlleyCop]
+Pane, dopoustite se vytrznosti!
+
+[SPEECH: AlleyCop]
+Nenutte me, abych vas musel ohlasit!
+
+-----------------------------------------------------------------
+[Owner: AlleyCop]
+[Name:  AlleyCopSeesPlayer]
+
+[SPEECH: AlleyCop]
+Policie! Pojdte sem bliz, at vas vidim!
+
+-----------------------------------------------------------------
+[Owner: Annette]
+[Name:  AnnetteDefaultBarks]
+
+[SPEECH: Annette]
+Jaka nevychovanost!
+
+[SPEECH: Annette]
+Dejte mi pokoj!
+
+[SPEECH: Annette]
+Ja se vas nebojim!
+
+-----------------------------------------------------------------
+[Owner: Annette]
+[Name:  AnnetteFinalBarks]
+
+[COMMENT]
+These cycle and repeat the last.I
+
+[SPEECH: Annette]
+Moje pritelkyne ma pravdu. Nicolette nam rekla, ze verit se neda nikomu.
+
+[SPEECH: Annette]
+Je mi lito.
+
+[SPEECH: Annette]
+Vy to s tim spiknutim myslite vazne, co?
+
+[SPEECH: Annette]
+Porad si myslim, ze je to jen vojenska akce.
+
+[SPEECH: Annette]
+Radsi byste nemel na Nicolette upozornovat urady.
+
+-----------------------------------------------------------------
+[Owner: Annette]
+[Name:  AnnetteInterrupted]
+
+[SPEECH: JCDenton]
+Mam pro vas obe dobrou zpravu. Chad je nazivu.
+
+[SPEECH: Annette]
+Videl jste ho? Kde? Je v poradku?
+
+[SPEECH: Charlotte]
+Mate americky prizvuk... Co mate se Silhouette spolecneho?
+
+[SPEECH: JCDenton]
+Snazim se bojovat s teroristy, kteri odstranili francouzskou vladu. Totez maji v umyslu provest i me vlasti.
+
+[SPEECH: Charlotte]
+Co by L'Armee De Terre pohledavala v Americe?
+
+[SPEECH: JCDenton]
+Francouzska armada s tim prevratem nema nic spolecneho. Stoji za tim mezinarodni paramilitarni skupina Majestic 12.
+
+[SPEECH: Annette]
+A co Chad? Jak na tom je?
+
+[SPEECH: JCDenton]
+Jeho skrys je bezpecna. Hledam jeho pritelkyni Nicolette DuClarovou. Mohla by me dovest k mocnemu nepriteli tech spiklencu.
+
+[SPEECH: Annette]
+Nicolette - no ano, ta je prece tady. Ona by --
+
+[SPEECH: Charlotte]
+Ona by nesouhlasila s tim, abyste s ni mluvil.
+
+[SPEECH: JCDenton]
+Znate ji?
+
+[SPEECH: Charlotte]
+Konecne uznala, jak silene je odporovat vlade, a tak se stahla do ukrytu.
+
+[SPEECH: JCDenton]
+Jeho skrys je bezpecna. Hledam jeho pritelkyni Nicolette DuClarovou. Mohla by me dovest k mocnemu nepriteli tech spiklencu.
+
+[SPEECH: Annette]
+Vy znate Nicolette?
+
+[SPEECH: JCDenton]
+Jeji pritel mi zaridil, ze se s ni sejdu.
+
+[SPEECH: Charlotte]
+Dostal byste se do vezeni. Od slecny DuClarove se radeji drzte dal.
+
+[SPEECH: JCDenton]
+Jeho skrys je bezpecna. Hledam jeho pritelkyni Nicolette DuClarovou. Mohla by me dovest k mocnemu nepriteli tech spiklencu.
+
+[SPEECH: Charlotte]
+Nicolettiny pratele znam, ale vas jsem v zivote nevidela.
+
+[SPEECH: JCDenton]
+Chci ji pomoci najit lidi, kteri zabili jeji matku.
+
+-----------------------------------------------------------------
+[Owner: Annette]
+[Name:  AnnetteOverheard]
+
+[COMMENT]
+(speculative)
+
+[SPEECH: Charlotte]
+Chad je urcite mrtvy.
+
+[COMMENT]
+(skeptical, not surprised)ó⁄¿Hj)ñóì#j'quãµò%wΩ7äx∑
+
+[SPEECH: Annette]
+Ne...
+
+[SPEECH: Charlotte]
+Policie proslidila cele katakomby. Nemohl se pred nimi ukryt.
+
+[SPEECH: Annette]
+Silhouette vi, jak z takove slamastyky ven.
+
+[SPEECH: Charlotte]
+Rikala jsem mu, ze by se to mohlo stat, ale on nikdy neprestane verit ve Voltairovy iluze.
+
+[SPEECH: Annette]
+Mozna je SµM Voltairem. To nemuzeme vedet.
+
+[SPEECH: Charlotte]
+Spis BYL Voltairem.
+
+-----------------------------------------------------------------
+[Owner: Annette]
+[Name:  AnnetteOverheard2]
+
+[SPEECH: Annette]
+Chad dobre vi, co dela. Vstoupi do francouzskych dejin jako velky hrdina.
+
+[COMMENT]
+"philosophe" is pronounced "fill-uh-soaf."
+
+[SPEECH: Charlotte]
+Mozna jako mucednik, ale ne jako filosof.
+
+[SPEECH: Annette]
+Budou si o nem vypravet na celem svete.
+
+[COMMENT]
+Contrat social = Rousseau's essay, French title.e
+
+[SPEECH: Charlotte]
+Slogany, fraze, zadny Contrat social.
+
+[SPEECH: Annette]
+Idealy mohou vypadat ruzne.
+
+[SPEECH: Charlotte]
+Je to jen recyklace minulosti. Neni prece nic zvlastniho na tom, byt reakcionar, ktery se pokousi ozivit omselou retoriku.
+
+-----------------------------------------------------------------
+[Owner: Annette]
+[Name:  AnnetteOverheard3]
+
+[SPEECH: Annette]
+Politicka svoboda je podle tebe "retorika"?
+
+[SPEECH: Charlotte]
+Nezbytny podvod prumysloveho veku.
+
+[SPEECH: Annette]
+Spis realizace prave hodnoty lidskeho zivota!
+
+[SPEECH: Charlotte]
+Lidsky zivot se ceni pouze v jedinem smyslu. Kazdy clovek se stal pouhou pracovni jednotkou v tovarnim systemu, v jadru libovolne zamenitelnou, jinymi slovy prevoditelnym zdrojem.
+
+[SPEECH: Annette]
+Byla to ta nejslavnejsi era na teto planete! êra objevu, sebejistoty a jedinecnych remeslniku.
+
+[SPEECH: Charlotte]
+A prevoditelne zdroje museji byt volne, aby je slo prevadet podle zakonu trhu. To je ta "svoboda". Jenze spousta lidi nevyrabi vubec nic uzitecneho --
+
+[SPEECH: Annette]
+Bavime se prece o zakladnim vyznamu jedince, ne o jeho uloze v ekonomice!
+
+[SPEECH: Charlotte]
+A jenom nemnoho lidi vytvari bohatstvi - vedci, inzenyri, bankeri, a tak dale - je tedy nezbytne, aby hrstka lidi usporadala tu netecnou masu, ktera tam dole preziva.
+
+[SPEECH: Annette]
+Narodni vlada se prece nebude klanet ekonomickym zakonum!
+
+[SPEECH: Charlotte]
+A v tom se prave lisime. Ja verim, ze evoluce postupuje prave timhle smerem.
+
+-----------------------------------------------------------------
+[Owner: Antoine]
+[Name:  AntoineBump]
+
+-----------------------------------------------------------------
+[Owner: Antoine]
+[Name:  AntoineConvos]
+
+[COMMENT]
+The following is an old line of code.  This conversation triggers only once, via a radius.  Subsequent conversations are "Jumps" from a dummy conversations set up as a bump-trigger.
+
+[COMMENT]
+The player returned, but has not bought anything yet.
+
+[SPEECH: Antoine]
+Jo! Vidim, ze mas zajem! Jeden bioclanek - 250 kreditu!
+
+[SPEECH: Antoine]
+Chces dalsi bioclanek? 250 kreditu.
+
+[CHOICES:2]
+
+[CHOICE:]
+Jeden si vezmu.
+
+[CHOICE:]
+Ne, diky.
+
+[SPEECH: Antoine]
+Jestli chces dalsi, Antoine vysoli dalsi.
+
+[SPEECH: Antoine]
+Baterky potrebuje kazdej, ne?
+
+[SPEECH: JCDenton]
+Nemam dost penez. Skoda.
+
+[SPEECH: Antoine]
+Vyborne.
+
+[SPEECH: JCDenton]
+Vic toho ted nepoberu. Vydrz, neco nepotrebnyho zahodim.
+
+[COMMENT]
+(calling across the room to the player)
+
+[SPEECH: Antoine]
+Cago! Vypadas na drsnaka.
+
+[SPEECH: JCDenton]
+To mluvis se mnou?
+
+[SPEECH: Antoine]
+Pouzivas prece bioelektrinu, ne? Mas svaly nadopovany umelejma steroidama?
+
+[SPEECH: JCDenton]
+Takovy svinstvo ani nahodou.
+
+[SPEECH: Antoine]
+Ale presto mas mozna zajem o bioclanky za 250 kreditu?
+
+-----------------------------------------------------------------
+[Owner: Antoine]
+[Name:  AntoineDone]
+
+[SPEECH: Antoine]
+Promin - ten clanek by mi k nicemu nebyl.
+
+[SPEECH: Antoine]
+Vrat se sem za par dnu!
+
+[SPEECH: Antoine]
+Tohle je moje oblibeny misto!
+
+-----------------------------------------------------------------
+[Owner: Arthur]
+[Name:  ArthurBarks]
+
+[COMMENT]
+This is an older guy, slightly drunk, a patron of the club.  He's dancing and ogling a nurse who is dancing on a stage.
+
+[COMMENT]
+(the French word)
+
+[SPEECH: Arthur]
+Prima kocka, co?
+
+[SPEECH: Arthur]
+Zdravotni sestra!
+
+[SPEECH: Arthur]
+Miluju to tady!
+
+[SPEECH: Arthur]
+Rozbal to!
+
+[SPEECH: Arthur]
+Zeru te...
+
+[SPEECH: Arthur]
+Jooo!
+
+[SPEECH: Arthur]
+Jed, bejby, jed!
+
+-----------------------------------------------------------------
+[Owner: Bums]
+[Name:  BumBarks]
+
+[SPEECH: Bums]
+Jsem prachac!
+
+[SPEECH: Bums]
+Skoda, ze jsem toho nemel vic!
+
+[SPEECH: Bums]
+Prijd zase zejtra. Mozna se mi neco podari splasit.
+
+-----------------------------------------------------------------
+[Owner: Bums]
+[Name:  BumsConvos]
+
+[SPEECH: Bums]
+Vypadni! Ja tu byl prvni!
+
+[SPEECH: JCDenton]
+Ale no tak... Jen se tu rozhlizim. Copak se nebojis tech vojaku?
+
+[SPEECH: Bums]
+Ti at sem radsi ani nelezou! Ja se vocad nehnu.
+
+[COMMENT]
+(skeptical)
+
+[SPEECH: JCDenton]
+Spravne. Takhle jim to rekni.
+
+[SPEECH: Bums]
+Ale neprisel jsem s prazdnejma rukama. Chces medkit? Ukrad' jsem tri! Nebo otraveny sipky? Chci 600 za medkit, 200 za ty sipky. Z myho staryho kvartyru si udelali municak.
+
+[CHOICES:3]
+
+[CHOICE:]
+Vezmu si ten medkit za 600.
+
+[CHOICE:]
+Vezmu si ty sipky za 200.
+
+[CHOICE:]
+Mozna potom.
+
+[SPEECH: Bums]
+Tohle je posledni medkit. Uz jsi je koupil vsecky.
+
+[SPEECH: Bums]
+Dobrej kseft.
+
+[SPEECH: Bums]
+Tak, a je to. Vykoupils' mi celej kram.
+
+[SPEECH: JCDenton]
+Bohuzel, nemam prachy.
+
+[SPEECH: JCDenton]
+Pockej, rozmyslel jsem si to. Momentalne to nepoberu.
+
+[SPEECH: Bums]
+Tak co? Chtel bys neco koupit?
+
+-----------------------------------------------------------------
+[Owner: BusinessWoman1]
+[Name:  KaraBarks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: BusinessWoman1]
+Ja vim, ze tahle toaleta je spolecna, ale tohle je snad prilis, ne?
+
+[SPEECH: BusinessWoman1]
+Och!
+
+[SPEECH: BusinessWoman1]
+To je hanebne! Budu si osobne stezovat panu Tarotovi!
+
+[SPEECH: BusinessWoman1]
+Bavite se tim dobre?
+
+-----------------------------------------------------------------
+[Owner: CafeChef]
+[Name:  CafeChefBarks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: CafeChef]
+Obslouzi vas vedle.
+
+[SPEECH: CafeChef]
+Mam praci.
+
+[SPEECH: CafeChef]
+Jestli neco chcete, promluvte si s mym asistentem Raymondem. Ten ma zajem o kazdou praci.
+
+-----------------------------------------------------------------
+[Owner: Camille]
+[Name:  CamilleBarks]
+
+[COMMENT]
+(with the other customers)
+
+[SPEECH: Camille]
+Mel by ses stavit...
+
+[SPEECH: Camille]
+Ted musim pobavit zase jiny.
+
+[SPEECH: Camille]
+Prijd zase! Pristi tejden touhle dobou...
+
+-----------------------------------------------------------------
+[Owner: Camille]
+[Name:  CamilleConvos]
+
+[COMMENT]
+This girl is a cage dancer.  She flirts with the player as long as the player gives her money.ctory system, roughly equivalent to all others, and was therefore a transferable resource.
+
+[SPEECH: Camille]
+Cau, lasko! Jak se jmenujes?
+
+[SPEECH: JCDenton]
+JC.
+
+[SPEECH: Camille]
+Mmmm. Tajuplny. A chces znat moje inicialy?
+
+[SPEECH: JCDenton]
+Co kdybys mi radsi rekla neco o tech lidech, kteri sem chodi?
+
+[SPEECH: Camille]
+Cokoliv budes chtit, cukrousku! Dvacet kreditu!
+
+[CHOICES:2]
+
+[CHOICE:]
+Dobre.
+
+[CHOICE:]
+Bohuzel.
+
+[SPEECH: Camille]
+Tak koho to vlastne hledas?
+
+[SPEECH: JCDenton]
+Co mi muzes rict o Nicolette DuClarove?
+
+[COMMENT]
+She giggles during or at the end of this line.l
+
+[SPEECH: Camille]
+Uz to chapu. Jsi do ni udelanej! Chudacku! Ona uz dala svy srdce jednomu z revolucionaru.
+
+[SPEECH: JCDenton]
+Nejsem zamilovanej. Mohla bys mi rict, jestli tu je?
+
+[SPEECH: Camille]
+Vypadas dobre, jo, jako tvrdej chlap, ale na revolucionare nemas ani zdaleka! Ti maji svou soukromou spolecnost nahore. Tobe bude lip se mnou dole. Co takhle dalsich dvacet kreditu?
+
+[NOTE:]
+Silhouette se zdrzuje v horni casti klubu.
+
+[CHOICES:2]
+
+[CHOICE:]
+Jasne.
+
+[CHOICE:]
+Bohuzel.
+
+[COMMENT]
+These play in sequence once.
+
+[SPEECH: Camille]
+Muzu ti rict neco o Antoineovi, to je ten zlodej.
+
+[SPEECH: JCDenton]
+Tak do toho. Mam si davat pozor na srajtofli?
+
+[SPEECH: Camille]
+Dela ze sebe vyvozniho paseraka, ale ve skutecnosti jen krade ruzny veci z augmentacni kliniky, kde dela jeho mama.
+
+[SPEECH: JCDenton]
+Hm, kazdej musi nejak zacinat.
+
+[SPEECH: Camille]
+Je zvyklej sedat v nejtmavsim koute. Vsadim se, ze se ti bude snazit neco vnutit. Tak co, spokojenej? Mas jeste dalsich dvacet kreditu?
+
+[NOTE:]
+Antoine je zlodej, jenz v klubu prodava zdroje pro augmentace.
+
+[SPEECH: Camille]
+Tak jeste... Jocques, ten ucetni?
+
+[SPEECH: JCDenton]
+Mne je to fuk. Vypravej o Jocquesovi.
+
+[SPEECH: Camille]
+Vyrostl tady v Champs-Elysees. Zna tu kazdyho. Jestli nekoho hledas...
+
+[SPEECH: JCDenton]
+Kde bych ho nasel?
+
+[SPEECH: Camille]
+V kancelari za jiznim barem. Tak co rikas? Dalsich dvacet kreditu?
+
+[NOTE:]
+Jocques, klubovy ucetni, pracuje v kancelari za jiznim barem. Ma dobre informace o obyvatelich Champs-Elysees.
+
+[SPEECH: Camille]
+Tentokrat ti povim neco o sobe.
+
+[SPEECH: JCDenton]
+Dobre....
+
+[SPEECH: Camille]
+Jmenuju se Camille. Jsem spisovatelka.
+
+[SPEECH: JCDenton]
+Jo? A co tedy delas tady?
+
+[SPEECH: Camille]
+Pisu roman. Kdyz se dvakrat tejdne obliknu za sestricku, vydelam si penize na dalsich pet dni psani.
+
+[SPEECH: JCDenton]
+To neni k zahozeni...
+
+[SPEECH: Camille]
+Je zvlastni, jak obeh kreditu krisi k zivotu nase prani a sny; kazda obchodni transakce je jako mala modlitba... Vzhledem k tomu, ze je tolik chlapu zatizenejch na sestricky, da se spolehnout na to, ze tady bude vzdycky stat aspon jeden, kterej mi bude s chuti obetovat.
+
+[SPEECH: JCDenton]
+Jo, kdezto ja si kupuju informace.
+
+[SPEECH: Camille]
+Jasne, cukrousi, kdyz to rikas... Ale jestli ten muj roman nekdy vyjde - a to budou cely ctyri stovky stranek ryzich informaci - myslis, ze do nej nekdo vrazi byt jen deset kreditu?
+
+[SPEECH: JCDenton]
+Ja na knizky moc nejsem.
+
+[SPEECH: Camille]
+Rozmyslel sis to? Mas tech dvacet kreditu?
+
+[SPEECH: JCDenton]
+Nemam dost penez. Bohuzel.
+
+-----------------------------------------------------------------
+[Owner: Cassandra]
+[Name:  CassandraBarks]
+
+[COMMENT]
+These cycle and go random.
+
+[COMMENT]
+Make sure I used this phrase correctly.
+
+[SPEECH: Cassandra]
+Prima kabat. Tres chic.
+
+[SPEECH: Cassandra]
+Oni ty kody nikdy nemeni. Pitomci.
+
+[SPEECH: Cassandra]
+Mne je to putynka, at to tu klidne treba lehne popelem!
+
+[SPEECH: Cassandra]
+O mne se rika, ze jsem zlodejka, ale to neni pravda. To, co ja, dela velka spousta lidi.
+
+[SPEECH: Cassandra]
+Plati tady lidi za to, aby nedelali NIC. Muzou z toho dokonce i Z÷T.
+
+[SPEECH: Cassandra]
+Doufam, ze se me pan Tarot pokusi vyhodit. Prala bych si, aby to zkusil!
+
+-----------------------------------------------------------------
+[Owner: Cassandra]
+[Name:  MeetCassandra]
+
+[SPEECH: Cassandra]
+Nemas ohen?
+
+[SPEECH: JCDenton]
+Nekourim.
+
+[SPEECH: Cassandra]
+Jak se jmenujes?
+
+[SPEECH: JCDenton]
+Mam ted neco na praci.
+
+[SPEECH: Cassandra]
+Hele, muzu te o neco poprosit? Dosly mi prachy. Nemas par fufniku navic?
+
+[SPEECH: JCDenton]
+Jak muze nekdo bez prachu proniknout do klubu s tristakreditovou kauci?
+
+[SPEECH: Cassandra]
+Makaji tu mi kamosi.
+
+[SPEECH: JCDenton]
+V tom pade to tu asi dost dobre znas.
+
+[SPEECH: Cassandra]
+To se vsad, hakovala jsem tu v kanclu. Neco bych pro tebe mela. Teda - za 200 kreditu! Mohla bych ti prozradit kod od uschovny.
+
+[CHOICES:6]
+
+[CHOICE:]
+Jasne.
+
+[CHOICE:]
+Bohuzel.
+
+[CHOICE:]
+Tak zatim.
+
+[CHOICE:]
+Co takhle Nicolette DuClarova? Znas ji?
+
+[CHOICE:]
+Tam uz jsem byl.
+
+[CHOICE:]
+Tak zatim.
+
+[SPEECH: Cassandra]
+Je to ta mistnustka s klavesnici tam vzadu, kde jsou kancelare. Kod je 1966.
+
+[SPEECH: JCDenton]
+Dik.
+
+[SPEECH: JCDenton]
+Momentalne jsem svorcovej. Mozna pozdejc.
+
+[SPEECH: JCDenton]
+Momentalne jsem svorcovej. Co takhle Nicolette DuClarova? Znas ji?
+
+[SPEECH: Cassandra]
+Kdepak, ja se nenecham do niceho zatahnout! Do cizich veci se zasadne nepletu!
+
+[SPEECH: JCDenton]
+Do ceho se nepletes?
+
+[SPEECH: Cassandra]
+No, do takovejch srandicek, jako je ukrast hlidkujicimu poldovi zrcadlovky nebo mu nuzkama ustrihnout kravatu? Tohle mam na mysli - nechce se mi na sebe zbytecne upozornovat.
+
+[SPEECH: JCDenton]
+To myslis Silhouette? Myslel jsem, ze ta se snazi zachranit Pariz pred tim, co ji ted nanestesti potkalo?
+
+[SPEECH: Cassandra]
+Jo, delaji to zabavne. A pekne nebezpecne. Jakmile se verejnost dozvi, co jsi zac, nedam za tvuj zivot ani petnik. Dopadnes jako Nicolettina mama. A dost! To jmeno uz podruhy nevyslovim!
+
+[SPEECH: Cassandra]
+Nebudes litovat. Ver mi!
+
+[SPEECH: Cassandra]
+No tak! Dve ste kreditu. V uschovne najdes spoustu zajimavejch veci!
+
+[COMMENT]
+Sorry -- Cassandra should say this line.  In the initial dump of the script, this line was mistakenly given to JC.
+
+[SPEECH: Cassandra]
+Co bys chtel jeste vedet?
+
+[SPEECH: JCDenton]
+Jses duta, co? Hadam, ze mas asi stejnej pech jako ja.
+
+[SPEECH: Cassandra]
+Fakticky?
+
+[SPEECH: JCDenton]
+Vloupal jsem se tam sam. Zda se, ze ten tvuj kod neni zas az tak vynosnej artikl.
+
+[COMMENT]
+(sarcastic)
+
+[SPEECH: Cassandra]
+No, skvely! Tentokrat mam smulu jako krava. To byla moje posledni sance, jak zchrastit nejaky prachy. Doufam, ze jses aspon spokojenej.
+
+[SPEECH: JCDenton]
+Mozna bys mela vyzkouset nejakou praci.
+
+-----------------------------------------------------------------
+[Owner: ClubSecurity]
+[Name:  clubsecuritybarks]
+
+[COMMENT]
+Tough-looking black dude in Paris.  These cycle and go random.
+
+[SPEECH: ClubSecurity]
+Dejte si piti, uvolnete se a dobre se bavte.
+
+[SPEECH: ClubSecurity]
+Zadny rvani.
+
+[SPEECH: ClubSecurity]
+Nechte, prosim, sve zbrane tam, kde jsou.
+
+[SPEECH: ClubSecurity]
+Nase klientela dava prednost samote.
+
+[SPEECH: ClubSecurity]
+Chovejte se podle pravidel a bavte se.
+
+[SPEECH: ClubSecurity]
+Pan Tarot trva na tom, abych se nebavil s hosty.
+
+-----------------------------------------------------------------
+[Owner: Defoe]
+[Name:  DefoeBarks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: Defoe]
+Pristi tejden dovalim dalsi.
+
+[SPEECH: Defoe]
+Muj kamos ve Svajcu toho nakupuje kvanta.
+
+[SPEECH: Defoe]
+Skoda, ze uz ti nemam co nabidnout.
+
+-----------------------------------------------------------------
+[Owner: Defoe]
+[Name:  DefoeConvos]
+
+[SPEECH: Defoe]
+Placneme si?
+
+[CHOICES:7]
+
+[CHOICE:]
+1750 za ty rakety? To zni dobre.
+
+[CHOICE:]
+Kdybych mel 1750, bral bych ty rakety.
+
+[CHOICE:]
+Co takhle zpetny raz za 400?
+
+[CHOICE:]
+Kdybych mel prachy, vzal bych ten zpetny raz za 400.
+
+[CHOICE:]
+Beru ty tri granaty LAM za 2250.
+
+[CHOICE:]
+2250 za tri granaty LAM zni celkem rozumne - kdybych je mel.
+
+[CHOICE:]
+Musim to vzdat.
+
+[CHOICES:7]
+
+[CHOICE:]
+5250 za ty rakety? To zni dobre.
+
+[CHOICE:]
+Kdybych mel 5250, bral bych ty rakety.
+
+[CHOICE:]
+Co takhle zpetny raz za 1200?
+
+[CHOICE:]
+Kdybych mel prachy, vzal bych ten zpetny raz za 1200.
+
+[CHOICE:]
+Beru ty tri granaty LAM za 6750.
+
+[CHOICE:]
+6750 za tri granaty LAM zni celkem rozumne - kdybych je mel.
+
+[CHOICE:]
+Mas to moc drahy. Radsi ti prokazu tu 'sluzbicku'.
+
+[COMMENT]
+For these, the player has just mentioned that he does not have enough money..  They cycle and go random._ˇeò\NGÀˇaiÜrGùˇˇ‡(t–A3Zˇˇ˛ÅCZÀõ8Uj=xD˘w\e-ˇË
+
+[SPEECH: Defoe]
+To je smula.
+
+[SPEECH: Defoe]
+Defoemu muzes verit. Vsechno zbozi pritejka vojenskejma kanalama.
+
+[COMMENT]
+At this point, the player has said he is broke three times.Ph|a |8øR]‚º@·?Î
+
+[SPEECH: Defoe]
+Je to tak, jak jsem rikal.
+
+[SPEECH: Defoe]
+Zadny moje zbozi neni svindl. Defoe je poctivej kseftar.
+
+[SPEECH: Defoe]
+Nejnovejsi model antifrikcni kapaliny, primo z Protireroristicky koalice Spojenejch narodu!
+
+[SPEECH: JCDenton]
+To se podivejme. Vsadil bych se, ze v UNATCO se tomu rika "harmonicky stabilizator".
+
+[SPEECH: Defoe]
+Jo, na hezky slovicka tam jsou vopravdovi machri.
+
+[SPEECH: Defoe]
+Vis, doufam, jak se s tim zachazi? Aktivacni tlacitko rozsviti tyhle cerveny diody. Hodis ho co nejdal a zalehnes!
+
+[COMMENT]
+Of course, JC already knows how to use a LAM.m the United Nations Anti-terrorist Coalition
+
+[SPEECH: JCDenton]
+Myslim, ze chapu.
+
+[SPEECH: JCDenton]
+Moment. V tuhle chvili stejne nic vic nepoberu.
+
+[SPEECH: JCDenton]
+Sejmul jsem ty vojaky ve stanici.
+
+[SPEECH: Defoe]
+Fakt?
+
+[SPEECH: JCDenton]
+Je po nich. Tak co kdybys mi dal slevu na nejaky zbozi?
+
+[SPEECH: Defoe]
+Oni jsou teda mrtvi? To pro me znamena o dost vyssi zisk - nebudes skodnej ani ty. Dam ti tretinovy ceny v porovnani s tema puvodnima. Nic lepsiho si nemuzes prat!
+
+[SPEECH: JCDenton]
+Slysel jsi o skupine hnuti odporu, ktera si rika Silhouette?
+
+[SPEECH: Defoe]
+Mi hlavni zakaznici.
+
+[SPEECH: JCDenton]
+Potrebuju se s nima sejit. Prej maji ukryt nekde v katakombach.
+
+[SPEECH: Defoe]
+To sis teda nevybral vhodnou dobu. Jde jim po krku vlada.
+
+[SPEECH: JCDenton]
+Jo?
+
+[SPEECH: Defoe]
+Videl jsem vojaky a zvlastni komando, jak lezou do katakomb tamhle pres ulici. Maji v pacu obsadit cely podzemi.
+
+[SPEECH: JCDenton]
+Ten bunkr, co se v nem Silhouette schovava, je nejak maskovanej?
+
+[SPEECH: Defoe]
+Genialne maskovanej, ale nejakej vojcl by moh' nahodou narazit na tajnej vchod. Tak co, placneme si?
+
+[NOTE:]
+Silhouette najdes v maskovanem bunkru v katakombach. Vchod do katakomb se naleza pres ulici od vchodu do stanice metra, kde sedi prekupnik zbrani.
+
+[SPEECH: JCDenton]
+S vojakama na krku se musi blbe kseftovat.
+
+[SPEECH: Defoe]
+Moji zakaznici jsou zalezly v rimsky hrobce a cekaji tam na smrt. Mas recht! Takovy ksefty stojej za hovno!
+
+[SPEECH: JCDenton]
+Pracuju proti ty skupine, ktera ovlada francouzskou vladu. Chtel bych Silhouette pomoct. Prozrad mi, jak najdu ten jejich tajnej bunkr!
+
+[SPEECH: Defoe]
+Chces si to rozdat proti cely francouzsky armade?
+
+[SPEECH: JCDenton]
+Ti vojaci, cos je videl, nejsou Frantici. Patrej' k mezinarodni skupine Majestic 12.
+
+[SPEECH: Defoe]
+Uz jsem o ni neco zaslech'. Mozna je to pravda a mozna bys moh' Silhouette fakticky pomoct, jenze oni mi verej, ze budu drzet hubu. Chces si ode me neco koupit?
+
+-----------------------------------------------------------------
+[Owner: Defoe]
+[Name:  MeetDefoe]
+
+[COMMENT]
+Confidential, almost whispering, like "psssst -- hey, buddy."
+
+[SPEECH: Defoe]
+Monsieur... Tady!
+
+[SPEECH: JCDenton]
+Co je?
+
+[SPEECH: Defoe]
+Mam tu...leccos zajimavyho. Rakety. Co? Ctyri za 5250. Tri granaty LAM za 6750. Zbranove vylepseni 'zpetny raz' za 1200. Dobry, ne?
+
+[SPEECH: JCDenton]
+Ty ceny neprijemne pripominaji drahotu.
+
+[SPEECH: Defoe]
+Lip to s tema slidivejma vojakama delat nejde. Obsadili mi mistnost, kde jsem dojednaval ksefty.
+
+[SPEECH: JCDenton]
+Rekneme, ze nejsem zrovna pritel stavajici vlady. Mozna bych ti dokazal odlehcit.
+
+[SPEECH: Defoe]
+A kdo by byl? Bity jsme prece vsichni. Neco ti reknu: jestli uklidis ty tri vojaky ze stanice metra tamhle za zdi - nemluve o straznym botovi, kterej jim slouzi - tak ti to nezustanu dluzen. Do ty doby na svejch cenach musim trvat.
+
+[GOAL:]
+Zabij tri vojaky MJ12 ve stanici metra vedle podzemniho trhu. Splneni ukolu ohlas Defoemu.
+
+[SPEECH: JCDenton]
+Mas na mysli ty vojaky ve stanici metra? O ty uz jsem se postaral.
+
+-----------------------------------------------------------------
+[Owner: Female]
+[Name:  SamiBarks]
+
+[COMMENT]
+These cycle and repeat the last.  Make sure that the translations are "good evening," "I'm sick.  I'm epileptic.", and "Leave me alone."
+
+[COMMENT]
+Just a grunt of pain.  She's sick.metro station?  I took care of the
+
+[SPEECH: Female]
+Uuuuu...
+
+[SPEECH: Female]
+Je suis malade. Je suis epileptique.
+
+[SPEECH: Female]
+Laissez-moi tranquille.
+
+-----------------------------------------------------------------
+[Owner: Guy]
+[Name:  GuyBarks]
+
+[COMMENT]
+A thug/bodyguard.  I'm picturing him with a thick accent.  He's hostile toward the player.
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: Guy]
+Zdar.
+
+[SPEECH: Guy]
+Promluv si s Renaultem.
+
+[COMMENT]
+Any inarticulate way to brush off the player.
+
+[SPEECH: Guy]
+Jo, jo...
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: Guy]
+Nezapomen dodrzovat svy sliby.
+
+[SPEECH: Guy]
+Bud profik.
+
+[SPEECH: Guy]
+Renault te necha slusne vydelat.
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: Guy]
+Ted uz radsi bez.
+
+[SPEECH: Guy]
+Renault je ti vdecnej.
+
+[SPEECH: Guy]
+Odved' jsi dobrou praci. Ocenujem' to.
+
+[SPEECH: Guy]
+Ti Siciliani... Nejspis bys mel vypadnout z mesta.
+
+[SPEECH: Guy]
+Verime ti, ze o tom nikomu nebudes vykladat.
+
+[SPEECH: Guy]
+Tak uz zmiz!
+
+-----------------------------------------------------------------
+[Owner: Hostage]
+[Name:  HostageBarks]
+
+[COMMENT]
+These barks happen AFTER the hostage escape..
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: Hostage]
+Chteli nas popravit!
+
+[SPEECH: Hostage]
+Diky, pane! Dluzim vam za zivot.
+
+[SPEECH: Hostage]
+Tohle jim nedaruju!
+
+-----------------------------------------------------------------
+[Owner: Hostage]
+[Name:  HostageRunningBarks]
+
+[COMMENT]
+These barks happen DURING the hostage escape.
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: Hostage]
+Jdeme na ne!
+
+[SPEECH: Hostage]
+Musime bejt ve strehu!
+
+[SPEECH: Hostage]
+Ja se vracim na zakladnu.
+
+-----------------------------------------------------------------
+[Owner: Hostage_Female]
+[Name:  Hostage_Female_RunningBarks]
+
+[COMMENT]
+These barks happen DURING the hostage escape.
+
+[COMMENT]
+These cycle and repeat the last.
+
+[SPEECH: Hostage_Female]
+Meli bysme se pohnout.
+
+[SPEECH: Hostage_Female]
+Davejte pozor na ty vojaky!
+
+[SPEECH: Hostage_Female]
+Cestu zpatky uz najdu.
+
+-----------------------------------------------------------------
+[Owner: Hostage_Female]
+[Name:  Hostage_FemaleBarks]
+
+[COMMENT]
+These barks happen AFTER the hostage escape..
+
+[COMMENT]
+These cycle and repeat the last.
+
+[SPEECH: Hostage_Female]
+Dokazali jsme to!
+
+[SPEECH: Hostage_Female]
+Ja - nemam slov. Chtela bych vam strasne podekovat.
+
+[SPEECH: Hostage_Female]
+Ted je cas, abychom se preskupili.
+
+-----------------------------------------------------------------
+[Owner: HostelCop]
+[Name:  HostelCopBarks]
+
+[COMMENT]
+These cycle and go random.Æy+¿!∞L4„UcN©78√aeo_‰C
+
+[SPEECH: HostelCop]
+Dnes neni vhodna noc k poulicnim prochazkam.
+
+[SPEECH: HostelCop]
+Dam vam jednu radu: najmete si pokoj a pockejte do rana.
+
+[SPEECH: HostelCop]
+Nejake potize se Silhouette... Zdrzujte se na verejnych mistech a vyhnete se lokalitam, odkud se da ocekavat teroristicky utok.
+
+[SPEECH: HostelCop]
+Bezpecnostni slozky jsou tu kvuli tomu, aby vam poskytly ochranu.
+
+[SPEECH: HostelCop]
+Tahle budova je pod dohledem. V ni budete v bezpeci.
+
+-----------------------------------------------------------------
+[Owner: HotelBartender]
+[Name:  HotelBartenderConvos]
+
+[SPEECH: HotelBartender]
+Cim poslouzim?
+
+[SPEECH: JCDenton]
+Tamhleti dva. Co jsou zac?
+
+[SPEECH: HotelBartender]
+Je to parek vrahounu. Nevsimejte si jich. Co si date? Vino je za 120. Jidlo za 5.
+
+[SPEECH: HotelBartender]
+Na ty dva si dejte pozor. Jsou to lotri.
+
+[SPEECH: JCDenton]
+To jsem si myslel.
+
+[SPEECH: HotelBartender]
+Ja mluvim vazne. Neprozrazujte jim sve jmeno ani svou adresu. Date si neco k piti? Vino je za 120. Jidlo za 5.
+
+[CHOICES:7]
+
+[CHOICE:]
+Lahev vina.
+
+[CHOICE:]
+Jidlo.
+
+[CHOICE:]
+Slysel jste o Nicolette DuClarove?
+
+[CHOICE:]
+Vy tu nemate revolucionare? To vam asi nevadi ani stanne pravo?
+
+[CHOICE:]
+To spiknuti je fakt.
+
+[CHOICE:]
+Nic nechci.
+
+[CHOICE:]
+Bohuzel, jsem dutej.
+
+[SPEECH: HotelBartender]
+Mame Cabernet, mimoradna kvalita.
+
+[SPEECH: HotelBartender]
+Kuchyne je zavrena. Bude vam stacit tycinka?
+
+[SPEECH: JCDenton]
+Jiste.
+
+[SPEECH: HotelBartender]
+Vy musite mit - jak se to rekne - sladke zuby?
+
+[SPEECH: HotelBartender]
+To je hrozne.
+
+[SPEECH: JCDenton]
+Hm - pockejte chvili. Nesu toho ted moc, takze dalsi vec uz nepoberu.
+
+[SPEECH: HotelBartender]
+Proc se zatezujete spoustou harampadi?
+
+[SPEECH: JCDenton]
+Obcas se sikne. Mozna ale neco prebytecneho najdu.
+
+[COMMENT]
+The player picked a fight with the drug dealer in the bar.ëø»
+
+[SPEECH: HotelBartender]
+Dekuju vam. Bylo nacase, aby toho Renaulta nekdo zastavil.
+
+[SPEECH: JCDenton]
+Byl to jen parek vsivych prekupniku.
+
+[SPEECH: HotelBartender]
+Tak velkou nouzi o hosty nemam, abych tu musel trpet kriminalniky. Spis mi odpuzovali slusne hosty. Cim se vam odmenim za tu pozornost?
+
+[SPEECH: JCDenton]
+To nestoji za rec.
+
+[SPEECH: HotelBartender]
+Uz vim! Jiste vas budou zajimat zbrane. Ja pro vas nic nemam, ale v budove cislo 11 bydli paserak zbrani. Zrovna ted je mimo mesto.
+
+[SPEECH: JCDenton]
+Diky za vas tip. Doufam, ze se ksefty rozhejbou.
+
+[NOTE:]
+Paserak zbrani sidli v budove 11. Prave je mimo mesto.
+
+[SPEECH: HotelBartender]
+Mmmm. Bohuzel, nikoliv. Bydli snad v hotelu?
+
+[SPEECH: JCDenton]
+Je to clenka Silhouette.
+
+[SPEECH: HotelBartender]
+Tak to zkuste klub La Porte de l'Enfer. Tady zadne revolucionare nenajdete.
+
+[SPEECH: JCDenton]
+Kde to je?
+
+[SPEECH: HotelBartender]
+Myslim, ze v cisle 13.
+
+[NOTE:]
+Adresa klubu: cislo 13.
+
+[SPEECH: JCDenton]
+Ten klub jsem nasel, ale po Nicolette tam neni ani stopy.
+
+[SPEECH: HotelBartender]
+Tak to je mozna uz po smrti. Mame tu vladni prevrat.
+
+[SPEECH: JCDenton]
+Uz jsem ji nasel. Jenom shanim dalsi informace.
+
+[SPEECH: HotelBartender]
+Ta vase pritelkyne je uz mozna mrtva. Dockali jsme se tu vladniho prevratu.
+
+[SPEECH: HotelBartender]
+Jediny zpusob, jak zachovat poradek.
+
+[SPEECH: JCDenton]
+Nevadi vam, ze nefunguje metro?
+
+[SPEECH: HotelBartender]
+To je jen muska. Mesto se musi chranit pro ty z nas, kdo pracujeme a pokousime se vytahnout celou zemi z te deprese.
+
+[SPEECH: JCDenton]
+A co kdyz vam povim, ze ta deprese byla umele vyvolana hrstkou prachacu, kteri tak chteji ovladnout svet?
+
+[SPEECH: HotelBartender]
+Tyhle pohadky - slysim je tu kazdy den, pokazde od nekoho, kdo zavidi tomu druhemu i nos mezi ocima.
+
+[SPEECH: HotelBartender]
+Predpokladam, ze vy rozdavate brozurky, kde je to vsechno podrobne vysvetleno, ze?
+
+[SPEECH: JCDenton]
+Rikaji si Majestic 12.
+
+[SPEECH: HotelBartender]
+Aha. Priznam se, ze jsem se obaval, ze zacnete mluvit spis o Iluminatech.
+
+[SPEECH: JCDenton]
+Vsak oni take k Iluminatum patrili, jenze se odtrhli.
+
+[SPEECH: HotelBartender]
+Uhm - jasne.
+
+[SPEECH: HotelBartender]
+Ano?
+
+-----------------------------------------------------------------
+[Owner: HotelMaid]
+[Name:  HoteMaidBarks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: HotelMaid]
+Excusez-moi.
+
+[SPEECH: HotelMaid]
+Kazdy den uklizim vsechny pokoje.
+
+[SPEECH: HotelMaid]
+Recepci najdete v prizemi.
+
+[SPEECH: HotelMaid]
+Cizopasny hmyz zde nehrozi.
+
+[SPEECH: HotelMaid]
+Chcete-li navstivit bar, je v prizemi vzadu.
+
+-----------------------------------------------------------------
+[Owner: Chad]
+[Name:  ChadFinalBarks]
+
+[COMMENT]
+These cycle and repeat the last.
+
+[SPEECH: Chad]
+Nicolette je trochu tajnustkarska v tom, proc nas vlastne podporuje. Nepopiram, ze ji nerozumim.
+
+[SPEECH: Chad]
+Diky matcinu postaveni obstarala pro Silhouette obrovske mnozstvi financnich prostredku.
+
+[SPEECH: Chad]
+Nechce se mi verit, ze by ten jeji patronat byl ciste charitativni.
+
+[SPEECH: Chad]
+Jedna vec me ale nuti, abych Nicolette veril. Je to smrt jeji matky pred pulrokem - jsme si skalopevne jisti, ze ji ma na svedomi Majestic 12.
+
+-----------------------------------------------------------------
+[Owner: Chad]
+[Name:  ChadThankful]
+
+[COMMENT]
+New flag: SilhouetteHostagesSomeRescued.
+
+[GOAL:]
+Najdi Nicolette DuClarovou. Pohybuje se casto v klubu La Porte de l'Enfer.
+
+[SPEECH: JCDenton]
+Osvobodil jsem rukojmi.
+
+[SPEECH: Chad]
+To je uzasny! Kde jsou?
+
+[SPEECH: JCDenton]
+Miri sem. Bez obav; zvladnou to.
+
+[SPEECH: Chad]
+Postaral ses o hlidky?
+
+[SPEECH: JCDenton]
+Ver mi; tvoji lidi budou v poradku.
+
+[SPEECH: Chad]
+Jo... Jo, jasne. Diky moc. Takze... Chtel ses setkat s Nicolette?
+
+[SPEECH: JCDenton]
+Jeden zarval; druhej je na ceste sem.
+
+[SPEECH: Chad]
+Ja to tusil! Vedel jsem, ze je to moc nebezpecny!
+
+[SPEECH: JCDenton]
+Bohuzel. Delal jsem, co jsem moh'.
+
+[SPEECH: JCDenton]
+Oba dva to zvladli do vaseho ukrytu. Osobne jsem na to dohlid'.
+
+[SPEECH: Chad]
+To nema chybu. Porad nemuzu uverit, jakou mame kliku! Takze... Chtel ses setkat s Nicolette?
+
+[SPEECH: JCDenton]
+Je mi lito, ale podarilo se to jenom jednomu. Vic jsem jich zachranit nedokazal.
+
+[SPEECH: Chad]
+Kolik... kolik lidi jsme ztratili?
+
+[SPEECH: JCDenton]
+Meli jenom dva vase lidi; jeden to nezvladnul. Snazil jsem se.
+
+[SPEECH: Chad]
+Jo, samozrejme. Muzeme bejt radi, ze aspon nekdo prezil. Takze... Chtel ses setkat s Nicolette?
+
+[SPEECH: JCDenton]
+Mam pro tebe spatnou zpravu.
+
+[SPEECH: Chad]
+Jsou my lidi v poradku?
+
+[SPEECH: JCDenton]
+Nikomu se nepodarilo prezit.
+
+[SPEECH: Chad]
+Ne! To neni mozny!
+
+[SPEECH: JCDenton]
+Je mi to hrozne lito.
+
+[SPEECH: Chad]
+Ne, neomlouvej se. Snazil ses. Urcite jsi pro ne udelal maximum.
+
+[SPEECH: JCDenton]
+Pral bych si, abych bejval moh' udelat vic.
+
+[SPEECH: Chad]
+Prosim, jen zadne omluvy. Cenim si toho pokusu, trebaze skoncil tragicky. Takze... Chtel ses setkat s Nicolette?
+
+[COMMENT]
+Note that these ending lines can happen no matter how many of the hostages survive.  Chad should not betray either melancholy or joy during these lines, having calmed down by this point.  If that's too much to ask, maybe record two versions and I will duplicate the lines in ConEdit.ˇJ9
+
+[SPEECH: JCDenton]
+Ano.
+
+[SPEECH: Chad]
+Muzes ji zastihnout v klubu La Porte de l'Enfer. Zkousel jsem ji vysvetlit, ze tam neni bezpecno, ale je strasne neopatrna dokonce i potom, co zavrazdili jeji matku. Chodi ven kazdou noc, jako kdyby se chtela najatym vrahum ukazovat tvari v tvar.
+
+[SPEECH: JCDenton]
+Ten klub je skrysi Silhouette?
+
+[SPEECH: Chad]
+Krome jinyho. Ale v noci se tam nedostanes. Ulice jsou zataraseny.
+
+[SPEECH: JCDenton]
+A co podzemni tunely?
+
+[SPEECH: Chad]
+Katakomby nesahaji az tak daleko. Ale mohl bys to prubnout stokama. Do stok se dostanes tema poslednima vratama.
+
+[SPEECH: JCDenton]
+Jsou zamceny?
+
+[SPEECH: Chad]
+Bohuzel jo. Vojaci z MJ12 je pred touhle razii zajistili; mozna se ti podari najit klic u nekteryho z vojaku.
+
+[SPEECH: JCDenton]
+Slysel jsem, ze se zdrzuje v klubu La Porte de l'Enfer.
+
+[SPEECH: Chad]
+Jo - to je na Champs-Elysees. Ale musel bys tam jit stokama, aby ses vyhnul poulicnim blokadam. Cestovat v noci je zakazany.
+
+[SPEECH: JCDenton]
+Uz jsem se tam byl podivat. Snadno tam najdu cestu znova.
+
+[SPEECH: JCDenton]
+Myslim, ze uprchli.
+
+[SPEECH: Chad]
+Ne... Fakticky?
+
+[SPEECH: JCDenton]
+Rozpoutal jsem prestrelku s par vojakama od MJ12. Rukojmim se v tom zmatku podarilo zmizet.
+
+[SPEECH: Chad]
+To je skvely! Tak, jak ti mame podekovat?
+
+[SPEECH: JCDenton]
+Hledam jednu vasi pritelkyni. Jmenuje se Nicolette.
+
+[SPEECH: Chad]
+Myslis DuClarovou?
+
+[GOAL:]
+Najdi Nicolette DuClarovou. Pohybuje se casto v klubu La Porte de l'Enfer.
+
+[SPEECH: JCDenton]
+Uz jsem ten klic nasel. Jeste jednou diky za pomoc.
+
+[SPEECH: JCDenton]
+Vojaci? Dobrej napad... Jeste jsem na nej nenarazil.
+
+-----------------------------------------------------------------
+[Owner: Chad]
+[Name:  ChadWaiting]
+
+[COMMENT]
+All of these Random events, except for the last, cycle and then repeat the last.
+
+[SPEECH: Chad]
+Skoda, ze s tebou nemuzu poslat nikoho z nasich.
+
+[SPEECH: Chad]
+Moji lidi proste nejsou nejlepsi vojaci.
+
+[SPEECH: Chad]
+Trenujem lidi, aby dokazali podminovat budovy ce ctyrkou. Delaji to v noci, aby je nikdo nenacapal. Jenze boj s vycvicenym komandem... Na to nemaji vybaveni ani zkusenosti.
+
+[SPEECH: Chad]
+Ani si nechci predstavit, jaky metody vyslechu proti mejm lidem Majestic 12 pouziva!
+
+[SPEECH: Chad]
+Pral bych si, aby si Nicolette davala vetsi pozor. Mela by si nekde najit bezpecny misto a tam se schovat.
+
+[SPEECH: Chad]
+Silhouette neni ozbrojena skupina. Nase utoky jsou symbolicky, chceme jen ovlivnovat verejny mineni.
+
+[SPEECH: Chad]
+Upozornili jsme na jisty veci, napriklad na pumovej utok na Sochu svobody. Jsme si jisti, ze to americka vlada znicila ten symbol svobody, kterej dostala od nasi vlasti skoro pred dvema sty lety - a pokousi se nas z toho obvinit!
+
+[SPEECH: Chad]
+Recneni ve Washingtonu dokaze poslapat svobodu lip, nez vsechny armady a policie na celym svete.
+
+[SPEECH: Chad]
+Jestlize se vladnimu utlaku a zastrasovani bude rikat "boj proti terorismu" nebo "potlacovani zlocinu", svoboda a volnost se stanou prazdnymi pojmy.
+
+[SPEECH: Chad]
+Ja si o vojacich z Majestic 12 nedelam iluze; jakmile se dozvedi, co potrebujou, vsechny zajatce do jednoho popravi.
+
+[SPEECH: Chad]
+Beth DuClarova byla jedina z nasich bohatejch sponzoru, ke ktery jsme se verejne hlasili, a proto ji taky zavrazdili. To nas naucilo, ze mame drzet huby.
+
+[SPEECH: Chad]
+Cela ta valka, co kolem nas zuri, se bojuje retorikou a slovy.
+
+[SPEECH: Chad]
+Stejne jako Bachtin popsal roman jako klani mezi ruzymi "jazyky", tak my definujeme samotnou kulturu, ktera vzkveta z nejruznejsich otresu a prevratu.
+
+[SPEECH: Chad]
+Kultura, kterou definujeme jako vymezene teritorium, inspiruje konflikty mnohem nicivejsi, nez jsou jakekoliv uzemni konflikty kdekoliv na Zemi.
+
+[SPEECH: Chad]
+Vyznam slova neexistuje a priori. Urcuji ho jedinci s arzenalem komunikacnich zarizeni.
+
+[SPEECH: Chad]
+Kazdy napis, kazdy vyraz, kazde gesto usiluje ovladnout vyznamovou rovinu.
+
+[SPEECH: Chad]
+Skutecne nasili je pouze pokracovanim takoveho procesu.
+
+[SPEECH: Chad]
+Abychom mohli dat lidem take svoji vlastni zpravu, museli jsme pristoupit k nasili. Dokonce jsme zabijeli lidi.
+
+[SPEECH: Chad]
+Ale ta zprava tu je - jako komunikacni UDµLOST - ze cilem jsme MY, ne jen par lidi, budov nebo historicka hranice.
+
+[SPEECH: Chad]
+Jestli chcete pomoct mejm lidem, mel byste zacit neco delat.
+
+[SPEECH: Chad]
+Mam dojem, ze nas Nicolette podporuje proti Majestic 12, ale ze ma taky svuj vlastni zajem na tom, proc se do toho boje dala.
+
+-----------------------------------------------------------------
+[Owner: Chad]
+[Name:  MeetChad]
+
+[GOAL:]
+Osvobod cleny Silhouette zajate v Bunkru 03.
+
+[GOAL:]
+Poskytni ochranu rukojmim, kteri se pokusi vratit se do bunkru Silhouette.
+
+[GOAL:]
+Po osvobozovacim pokusu oznam Chadovi, jak to s rukojmimi dopadlo.
+
+[SPEECH: JCDenton]
+Jsem JC Denton. Mozna znas myho brachu Paula. Pomahal jsem mu poslat vasi skupine varovnej signal o prepadeni.
+
+[SPEECH: Chad]
+Denton... Jo, ten satelitni prenos! Jo, ten nas zachranil prinejmensim pred pobytem v la prison de Fresnes.
+
+[SPEECH: JCDenton]
+Vasi vojaci se podobaji spis kostlivcum. Jak dlouho myslis, ze se vojakum z MJ12 ubranite?
+
+[SPEECH: Chad]
+My nejsme zadny zoldaci. Kdyz do krypt vtrhli vojaci, polovicka mejch lidi ustoupila bez jedinyho vystrelu. Dva z nich nabrali spatnej smer a dostali se do zajeti.
+
+[SPEECH: JCDenton]
+Kde jsou?
+
+[SPEECH: Chad]
+V Bunkru 03, v tunelech za druhejma vratama.
+
+[SPEECH: JCDenton]
+Mozna bych mohl pomoct, kdyz mi prokazete sluzbicku. Hledam totiz Nicolette DuClarovou.
+
+[SPEECH: Chad]
+Nicolette?.... Proc te zajima Nicolette?
+
+[SPEECH: JCDenton]
+Musim se sejit s prateli jeji matky.
+
+[SPEECH: Chad]
+Jo, jasne, Beth... byla to skvela zenska. Nicolette ale o takovejch lidech strasne nerada mluvi. Dozvedeli jsme se od ni, ze jsou bohaty a podporujou nas, ale ze sami maji velky nepratele a museji se chranit. Snad bych ti v tom pichnul, ale nejdriv se musim ujistit o tom, na ci stranu patris.
+
+[SPEECH: JCDenton]
+Spravne, opatrnost je na miste. Staci, kdyz mi ukazes, kudy k Bunkru 03.
+
+[SPEECH: Chad]
+Dam ti klic k tem vratum, najdes je naproti nasi skrysi. Taky se ti bude hodit tahle mapa. Kdyz mi privedes moje lidi, ja te za to zkontaktuju s Nicolette.
+
+-----------------------------------------------------------------
+[Owner: Charlotte]
+[Name:  CharlotteBarks]
+
+[COMMENT]
+These cycle and repeat the last.I
+
+[SPEECH: Charlotte]
+Nicolette uz ma beztak problemu dost.
+
+[SPEECH: Charlotte]
+Dejte nam pokoj!
+
+[SPEECH: Charlotte]
+Nechce se mi verit, ze by duverovala prave vam!
+
+[SPEECH: Charlotte]
+Vy mi nejspis lzete.
+
+-----------------------------------------------------------------
+[Owner: Charlotte]
+[Name:  CharlotteDefaultBarks]
+
+[SPEECH: Charlotte]
+Nepriblizujte se ke mne!
+
+[SPEECH: Charlotte]
+Nenutte me zavolat ochranku!
+
+[SPEECH: Charlotte]
+Rekla jsem, at mi date pokoj!
+
+-----------------------------------------------------------------
+[Owner: Charlotte]
+[Name:  CharlotteInterrupted]
+
+[COMMENT]
+This line is the same as the first line of "AnnetteInterrupted," except that JC is speaking to Charlotte instead.
+
+[SPEECH: JCDenton]
+Mam pro vas obe jednu novinku. Chad je nazivu.
+
+-----------------------------------------------------------------
+[Owner: JaimeReyes]
+[Name:  M10JaimeBarks]
+
+[COMMENT]
+These cycle and repeat the last.
+
+[SPEECH: JaimeReyes]
+Jakmile to reknes, do Guntherova mozku praskne 400 miliamper. Puf!
+
+[SPEECH: JaimeReyes]
+Nebyl jsem sam, kdo neprosel cistkou. Carter je taky pryc.
+
+[SPEECH: JaimeReyes]
+Byl oznacen za nespolehliveho. Veril bys tomu? CARTER?
+
+[SPEECH: JaimeReyes]
+Myslim, ze Simons se bal, ze toho vi az moc.
+
+[SPEECH: JaimeReyes]
+Vsechny stare kluky vyrazili. Jsou tam ted same nove kadry.
+
+[SPEECH: JaimeReyes]
+Carter mi rikal, ze se spojil s Garym Savagem ze skupiny X-51.
+
+[SPEECH: JaimeReyes]
+Nechapu, jak se ti dva muzou znat, ale Carter rikal: "Savage ma pravdu; je nacase zlikvidovat Oblast 51."
+
+[SPEECH: JaimeReyes]
+Znas Cartera a tu jeho zamlklost. Kdo vi, o cem to vlastne mluvil?
+
+[SPEECH: JaimeReyes]
+Radsi zustanu tady, nez se vojaci uklidni.
+
+[SPEECH: JaimeReyes]
+Videl jsem Gunthera, jak pred par hodinama vychazi z jednoho klubu; slysel jsem, jak se po tobe pta.
+
+[SPEECH: JaimeReyes]
+Bud opatrnej, JC.
+
+-----------------------------------------------------------------
+[Owner: JaimeReyes]
+[Name:  M10MeetJaime]
+
+[SPEECH: JaimeReyes]
+Zda se, ze ani na dovolene v Parizi se neobejdes beze me, co?
+
+[SPEECH: JCDenton]
+Muzes me podezirat z nostalgie, ale pripada mi, ze stary dobry parizsky sarm se ponekud vytraci.
+
+[SPEECH: JaimeReyes]
+Mas pravdu, ale tohle varovani nemuzu sverit nikomu jinemu, dokonce ani Alexovi nebo Tongovi.
+
+[SPEECH: JCDenton]
+Co se deje v UNATCO?
+
+[SPEECH: JaimeReyes]
+Zachytili zpravu, kterou mi Alex poslal domu. Instrukce, jak ho najit v Hongkongu.
+
+[SPEECH: JCDenton]
+Doufam, ze byla sifrovana.
+
+[SPEECH: JaimeReyes]
+Svoje sifrovaci klice jsem znicil. Tong je v bezpeci. Zato tebe vystopovali tim svym UI programem. Poslali Gunthera, aby te v Parizi zavrazdil.
+
+[SPEECH: JCDenton]
+Ikaros...
+
+[SPEECH: JaimeReyes]
+Ovsem s Guntherem bojovat nemusis - ani s jinym mechanicky augmentovanym agentem.
+
+[SPEECH: JCDenton]
+Ja se boji nevyhybam.
+
+[SPEECH: JaimeReyes]
+UNATCO svym augmentovanym agentum nikdy neverilo. Kazdeho mecha lze na miste znicit tajnou vrazednou frazi.
+
+[SPEECH: JCDenton]
+Vrazedna fraze? To se k nim docela hodi.
+
+[SPEECH: JaimeReyes]
+Ta Guntherova je "Bedna kytu". Vydoloval jsem to ze starych lekarskych zaznamu, nez jsem zdrhnul.
+
+[SPEECH: JCDenton]
+Bedna kytu? To se dobre pamatuje. Diky, ze ses na me prijel podivat, zustal jsi v UNATCO, a tak podobne.
+
+[SPEECH: JaimeReyes]
+Uz o tom nemluv.
+
+[NOTE:]
+Guntherova vrazedna fraze: "Bedna kytu".
+
+[SPEECH: JCDenton]
+Znamena to snad, ze znas jeho vrazednou frazi?
+
+[SPEECH: JaimeReyes]
+Jo... Ale jak je mozne, ze vis o jeji existenci? Musel bys mit povereni Throne/6G?
+
+[SPEECH: JCDenton]
+Dozvedel jsem se to od Paula.
+
+[SPEECH: JaimeReyes]
+Aha, tak v tom pripade mas nejvyssi povereni God. Vydoloval jsem to ze starych lekarskych zaznamu, nez jsem zdrhnul. Ta Guntherova vrazedna fraze je "Bedna kytu".
+
+-----------------------------------------------------------------
+[Owner: Jean]
+[Name:  JeanConvos]
+
+[SPEECH: Jean]
+Qu'est-ce que je vous sers?
+
+[CHOICES:6]
+
+[CHOICE:]
+To nejlepsi vino za 120 kreditu.
+
+[CHOICE:]
+Deset kreditu za jidlo neni spatna cena.
+
+[CHOICE:]
+Tlacenice tu zrovna neni. Skodi to stanne pravo obchodu?
+
+[CHOICE:]
+Gestapaci?
+
+[CHOICE:]
+Nic nechci.
+
+[CHOICE:]
+Bohuzel, jsem na mizine.
+
+[SPEECH: Jean]
+Vic toho, bohuzel, nemame.
+
+[SPEECH: Jean]
+Deset kreditu za cokoladu obohacenou nanity.
+
+[COMMENT]
+Make sure the French "Je comprends" conveys empathy, not just comprehension.ed medical records before I left.  Gunther's killphrase is "Laputan machine.
+
+[SPEECH: Jean]
+Je comprends. Deprese je cim dal tim horsi.
+
+[SPEECH: Jean]
+V cem je problem?
+
+[SPEECH: JCDenton]
+Bohuzel... nepoberu to. Uz nemuzu vzit vic veci.
+
+[SPEECH: JCDenton]
+Dosly mi penize.
+
+[SPEECH: Jean]
+Jestli skodi obchodu? JESTLI SKOD÷ OBCHODU!? Vzdyt nesmite jit ani na metro! A jak se chcete bez metra dostat do klubu?
+
+[SPEECH: JCDenton]
+Ja prisel katakombami.
+
+[SPEECH: Jean]
+Oui! Oui! Jedine kdyz se clovek plazi po brise jako smradlava krysa! Tak se na nas divaji: jako na smradlave krysy!
+
+[SPEECH: JCDenton]
+Myslite na cleny Silhouette?
+
+[SPEECH: Jean]
+Jestli my jsme krysy, oni jsou gestapaci! A jeste si DOVOL÷ chtit piti zadarmo!
+
+[SPEECH: Jean]
+To nejsou francouzsti vojaci. Nekteri z nich neumeji francouzsky ani slovo!
+
+[SPEECH: JCDenton]
+Ti vojaci u metra?
+
+[SPEECH: Jean]
+Oui! Byl to prevrat. Prezidenta pustili jen z videozaznamu a z kniru mu kapal pot, protoze - je to jasne - nekdo mu miril na hlavu pistoli!
+
+[SPEECH: JCDenton]
+To muze byt docela dobre pravda.
+
+-----------------------------------------------------------------
+[Owner: Jock]
+[Name:  JockNotReady]
+
+[SPEECH: Jock]
+Koukni se, jestli je ta tvoje kamoska pripravena k odletu.
+
+[SPEECH: Jock]
+Capni Nicolette a ja vas odvezu do chateau jeji mamy!
+
+[SPEECH: Jock]
+Koukam, ze Nicolette zacina bejt netrpeliva.
+
+-----------------------------------------------------------------
+[Owner: Jock]
+[Name:  JockReady]
+
+[SPEECH: Jock]
+Tak letime!
+
+-----------------------------------------------------------------
+[Owner: Jocques]
+[Name:  JocquesBarks]
+
+[COMMENT]
+These cycle and go random.pÉ*Ëu*pá*¿' '®h
+
+[SPEECH: Jocques]
+Jsem na vasi strane.
+
+[SPEECH: Jocques]
+Uz nemusite nic rikat.
+
+[SPEECH: Jocques]
+Co o sobe nebudeme vedet, to ani nebudeme moci prozradit policii.
+
+[SPEECH: Jocques]
+Nikdy jsme se nevideli.
+
+[SPEECH: Jocques]
+Vsadim se, ze vy jste liska podsita.
+
+[SPEECH: Jocques]
+Fajn. Verim vam. Ted bezte.
+
+-----------------------------------------------------------------
+[Owner: Jocques]
+[Name:  JocquesSellInfo]
+
+[SPEECH: JCDenton]
+Vy tu pracujete?
+
+[SPEECH: Jocques]
+Obratte se na barmana. Ja jsem jen ucetni.
+
+[SPEECH: JCDenton]
+Jen par otazek. Slysel jste o skupine Silhouette?
+
+[SPEECH: Jocques]
+Tak je to... Je mi to jasne. Uz nic nerikejte, vic nepotrebuju vedet. Ale za tisic kreditu vam dam adresu jednoho paseraka zbrani, ktery je prave mimo mesto. Hodi se vam zbrane?
+
+[CHOICES:2]
+
+[CHOICE:]
+Tak jo.
+
+[CHOICE:]
+Ani napad!
+
+[SPEECH: Jocques]
+Jeho byt najdete v tehle ulici, budova cislo 11.
+
+[SPEECH: JCDenton]
+Ma v dome ostrahu?
+
+[SPEECH: Jocques]
+Samozrejme. Ale bude to stat za to. Verte mi.
+
+[NOTE:]
+Paserak zbrani sidli v budove 11. Prave je mimo mesto.
+
+[SPEECH: JCDenton]
+Pockat! Tam uz jsem byl. Nebudu vam prece platit za neco, co uz vim!
+
+[SPEECH: Jocques]
+To by byla hloupost, ale uz je pozde.
+
+[SPEECH: JCDenton]
+Rikam vam pravdu. Zapomente na to.
+
+[SPEECH: Jocques]
+Prijdte za mnou jindy. Jsem na vasi strane.
+
+[SPEECH: JCDenton]
+Tolik penez nemam.
+
+[SPEECH: Jocques]
+Az ty penize sezenete, vratte se ke mne. Jsem na vasi strane.
+
+[SPEECH: Jocques]
+Rozmyslel jste si to? Date mi tisic kreditu za informaci o miste, kde najdete ty nejmodernejsi zbrane?
+
+-----------------------------------------------------------------
+[Owner: Jon]
+[Name:  JonBarks]
+
+[COMMENT]
+These cycle and repeat the last
+
+[COMMENT]
+Wary, stand-offish.  This boy has been warned not to talk to strangers.
+
+[SPEECH: Jon]
+Bonjour Monsieur.
+
+[SPEECH: Jon]
+Papa mi zakazal bavit se s cizima lidma.
+
+[SPEECH: Jon]
+Dejte mi pokoj!
+
+-----------------------------------------------------------------
+[Owner: Joshua]
+[Name:  JoshuaBarks]
+
+[SPEECH: Joshua]
+Nic vic uz nevim.
+
+[SPEECH: Joshua]
+Pomohl jsem vam k vrazde vlastniho syna. Copak vam to nestaci?
+
+[SPEECH: Joshua]
+Bezte pryc!
+
+-----------------------------------------------------------------
+[Owner: Joshua]
+[Name:  JoshuaBarksDefault]
+
+[SPEECH: Joshua]
+Neznam vas. Dejte mi pokoj!
+
+[SPEECH: Joshua]
+Verte, ze mi neni do reci.
+
+[SPEECH: Joshua]
+Jake mate potize?
+
+-----------------------------------------------------------------
+[Owner: Joshua]
+[Name:  JoshuaInterrupted]
+
+[SPEECH: JCDenton]
+Nechtene jsem zaslechl ten rozhovor o vasem synovi.
+
+[SPEECH: Joshua]
+Maji nas v hrsti... Majestic 12, at je to kdokoliv... Deti jsou rukojmim naseho osudu.
+
+[SPEECH: Agathe]
+Joshuo, bud opatrny! Vzdyt toho cloveka nezname.
+
+[SPEECH: Joshua]
+Ja se pod kamenem schovavat nebudu!
+
+[SPEECH: JCDenton]
+Nemusite mit strach. Rad bych se dozil konce Majestic 12 stejne jako vy. Byl jsem jenom prekvapen, ze o nich nejaky Parizan slysel.
+
+[SPEECH: Joshua]
+Nu...to vite, jde o meho syna. Snazil jsem se dozvedet maximum.
+
+[SPEECH: JCDenton]
+A co jineho jste jeste zjistil?
+
+[SPEECH: Joshua]
+Vy asi patrite k revolucionarum, ze? Mozna se vam bude hodit, ze na jedne karticce v penezence mel napsano: "streetstation17" a "werewolf". Domnivam se, ze se jedna o login do poulicni straznice.
+
+[NOTE:]
+Login do ochranky: "streetstation17"; heslo: "werewolf".
+
+[SPEECH: Agathe]
+A co nas Michel? Ty ho nechas zabit?
+
+[SPEECH: Joshua]
+To on sam si vybral vojenskou karieru.
+
+-----------------------------------------------------------------
+[Owner: Joshua]
+[Name:  JoshuaOverheard]
+
+[COMMENT]
+It's kind of crucial that the player hear the audio in this line before he interrupts the conversation, so the "this -- this --" should go pretty fast.C6•9™+'FÄ6yë6$2·PsRa`>œ8>$qZäî˘\ΩTP9aãe2GˆrsûyÔGZKéö‚˙r‚f#2~Ó´3ˇBc0”ÓRˇ˚0ƒ
+
+[SPEECH: Joshua]
+Je to prece nas syn! Nesmime mu dovolit, aby vrazdil pro ty - pro ty - Majestic 12.
+
+[SPEECH: Agathe]
+Uz to neni maly kluk.
+
+[SPEECH: Joshua]
+Je to SEKTA!
+
+[SPEECH: Agathe]
+Aspon ma svy jisty. Je V BEZPEC÷.
+
+[SPEECH: Joshua]
+Kazda organizace s anonymnim vudcem...
+
+[SPEECH: Agathe]
+Muzou ovladat Evropu desitky let. Michel to mezitim nejak prezije.
+
+[SPEECH: Joshua]
+To bych spis uvital, kdyby zemrel s nami!
+
+[SPEECH: Agathe]
+Joshuo!
+
+-----------------------------------------------------------------
+[Owner: Joshua]
+[Name:  JoshuaOverheard2]
+
+[SPEECH: Agathe]
+Musis se na to prece divat z pozice otce! Jak do toho muzes tahat politku?
+
+[SPEECH: Joshua]
+Jsem Francouz!
+
+[SPEECH: Agathe]
+Zavrhujes sveho vlastniho syna!
+
+[SPEECH: Joshua]
+Co kdybych si ted pral navstivit svou matku metrem? Mam snad na matku zapomenout - a s ni i na svou svobodu pohybu - jen proto, aby Michel dostal svuj upoceny zold?
+
+[COMMENT]
+(near tears)0
+
+[SPEECH: Agathe]
+Nastaly nam tezke casy, to nepopiram...
+
+[SPEECH: Joshua]
+On a jeho pratele zavrazdili Loredanse jenom proto, ze si ten starik sel pro noviny. Priste mozna prijde zabit nas.
+
+-----------------------------------------------------------------
+[Owner: Karenna]
+[Name:  KarennaBarks]
+
+[COMMENT]
+A young woman in the club in Paris.  These cycle and repeat the last.
+
+[SPEECH: Karenna]
+Claude? Prominte, spletla jsem se.
+
+[SPEECH: Karenna]
+Claude byval muj pritel. Jsem hloupa... Porad jeste si myslim, ze se ke mne jednou vrati.
+
+[SPEECH: Karenna]
+Zastrelil ho jeden z tech vojaku tam nahore. Tehdy zacali pouzivat ostre naboje.
+
+[SPEECH: Karenna]
+Bylo to nedopatreni. To ostatni na ne zautocili, ale ja s Claudem jsme se snazili utect.
+
+[SPEECH: Karenna]
+Claude byl svalnatej chlap; vojaci si mysleli...
+
+[SPEECH: Karenna]
+Taky byste si mel davat pozor.
+
+[SPEECH: Karenna]
+Posledni dobou je kazdy dost nervozni.
+
+[SPEECH: Karenna]
+Vojaci si mysli, ze kazdy, kdo vypada trochu vesele, patri k teroristum.
+
+-----------------------------------------------------------------
+[Owner: Katarina]
+[Name:  KatarinaBarks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: Katarina]
+Pitoma noc, ze jo?
+
+[SPEECH: Katarina]
+Tady se mel konat vecirek.
+
+[SPEECH: Katarina]
+Lidi uz skoro nevychazeji. Dokonce ani moji pratele ze Champs-Elysees.
+
+[SPEECH: Katarina]
+Ten prevrat je cim dal horsi.
+
+[SPEECH: Katarina]
+Neda se s tim nic delat.
+
+-----------------------------------------------------------------
+[Owner: KiergardTarot]
+[Name:  KiergardBarks]
+
+[COMMENT]
+The owner of the club, standing on a kind of balcony, from which he can observe the patrons.  These barks cycle and repeat the last.
+
+[COMMENT]
+(more of a statement than a question)
+
+[SPEECH: KiergardTarot]
+Vsechno je, doufam, v poradku?
+
+[SPEECH: KiergardTarot]
+Renovovali jsme horni patro, jak jste si asi vsiml. Mnozi hoste si prali klidne misto, kde by si mohli popovidat.
+
+[SPEECH: KiergardTarot]
+Podle meho nazoru jsme konecne dosahli dokonale rovnovahy mezi dionyskym a apollonskym slohem. Co myslite?
+
+[COMMENT]
+(kind of dodging the fact that martial law has left his club nearly vacant)cnY◊U?E€NW_ùóT∫T6˜~`
+
+[SPEECH: KiergardTarot]
+Posledni dobou se zde schazeji same ikonoklastni typy. Zaplni se to tu az hodne pozde v noci.
+
+[SPEECH: KiergardTarot]
+Budu se muset vratit ke svym povinnostem. Rad jsem vas poznal!
+
+[COMMENT]
+Tight-lipped, because he is sick of talking to the player at this point.nt)cnY◊U?E€NW_ùóT∫T6˜~`
+
+[SPEECH: KiergardTarot]
+Dobre se bavte.
+
+-----------------------------------------------------------------
+[Owner: Kristi]
+[Name:  KristiConvos]
+
+[SPEECH: Kristi]
+Co si date? Vsechno stoji deset kreditu.
+
+[COMMENT]
+For "At least one cafe stayed open during the crackdown," JC is talking about the cafe he is currently in, saying to the proprietress that he is pleased to find her cafe open.
+
+[CHOICES:8]
+
+[CHOICE:]
+Sodovku, prosim.
+
+[CHOICE:]
+Mate neco k jidlu?
+
+[CHOICE:]
+Aspon ze jsem narazil na jednu otevrenou kavarnu.
+
+[CHOICE:]
+Hledam svou pritelkyni, Nicolette DuClarovou.
+
+[CHOICE:]
+Policie slouzi jako pesaci skupine Majestic 12.
+
+[CHOICE:]
+Ta okupace je dilo skupiny Majestic 12.
+
+[CHOICE:]
+Nic nechci.
+
+[CHOICE:]
+Bohuzel, nemam penize.
+
+[COMMENT]
+Translate this into French.
+
+[SPEECH: Kristi]
+Sante.
+
+[SPEECH: Kristi]
+Tohle jidlo je vsechno, co mame, dokud zase nebudou jezdit nakladaky.
+
+[COMMENT]
+Make sure the French "Je comprends" conveys empathy, not just comprehension.
+
+[SPEECH: Kristi]
+To mi povidejte! Ja jsem malirka. Kdybych se nezivila timhle, umrela bych hlady.
+
+[SPEECH: Kristi]
+Jste mi docela sympaticky, ale musim zpatky do prace.
+
+[SPEECH: Kristi]
+Rozmyslel jste si to?
+
+[SPEECH: JCDenton]
+Bohuzel...nepoberu to. Budu muset neco odhodit.
+
+[SPEECH: JCDenton]
+Jsem na mizine.
+
+[SPEECH: Kristi]
+My nezavirame nikdy, at se deje, co se deje.
+
+[SPEECH: JCDenton]
+Je tady zakaz vychazeni?
+
+[SPEECH: Kristi]
+Zatim ne, ale policie naprogramovala boty tak, aby strileli na kazdeho, kdo po setmeni vyjde na ulici.
+
+[SPEECH: Kristi]
+Stoji v cele Silhouette. Je to opravdova vlastenka.
+
+[SPEECH: JCDenton]
+Nevite, kde bych ji nasel?
+
+[SPEECH: Kristi]
+Tam, kde se v noci schazeji studenti, v La Porte de l'Enfer. Je to pres ulici.
+
+[SPEECH: JCDenton]
+Diky.
+
+[SPEECH: Kristi]
+Mate na mysli Evropskou unii?
+
+[SPEECH: JCDenton]
+Jedna se o skupinu spiklencu, ktera chce na sebe strhnout moc nad celym svetem.
+
+[SPEECH: Kristi]
+Nezajima me, jak si rikaji. Sleduju je uz od divcich let, jak pletichari a vytvareji korporace, aby spojili Evropu do jedineho velkeho statu se spolecnym jazykem, kulturou i modou.
+
+[SPEECH: JCDenton]
+Nejde jim jen o Evropu, nybrz o cely svet.
+
+-----------------------------------------------------------------
+[Owner: Leone]
+[Name:  LeoneBarks]
+
+[COMMENT]
+These cycle and go random
+
+[SPEECH: Leone]
+Dost reci.
+
+[SPEECH: Leone]
+Vase nazory me nezajimaji.
+
+[SPEECH: Leone]
+Ja mam za ukol cistit ulice. Ted se schovavam pred policii.
+
+[SPEECH: Leone]
+Kazdy mesic mi posilaji penize, takze si nestezuju.
+
+-----------------------------------------------------------------
+[Owner: Leone]
+[Name:  MeetLeone]
+
+[SPEECH: JCDenton]
+Muzu se na neco zeptat?
+
+[SPEECH: Leone]
+Ja nejsem zadnej pruvodce turistu!
+
+[SPEECH: JCDenton]
+Jenom klid. Chci jenom vedet, jestli jste neslysel o Nicolette DuClarove?
+
+[SPEECH: Leone]
+Ja se slecnou DuClarovou nemam nic spolecnyho. Zametam ulice. To je celej muj zivot.
+
+[SPEECH: JCDenton]
+Ale znate ji? Kde bych ji touhle dobou nasel?
+
+[SPEECH: Leone]
+Na to nemam dost prachu, abych se na takovym miste vometal. Je to v cisle 13, klub La Porte de l'Enfer. Pch! Soukromej klub pro zazobance...
+
+[SPEECH: JCDenton]
+Cislo 13... dekuju.
+
+[NOTE:]
+Cislo 13 - adresa klubu La Porte de l'Enfer.
+
+[SPEECH: Leone]
+Jestli hledate Renaulta, tak ten je v tom zadnim baru v hostelu.
+
+[SPEECH: JCDenton]
+Bezva. A proc bych ho mel chtit hledat?
+
+[SPEECH: Leone]
+Copak vy nejste ten, koho si najal? Ten profesionalni zlodej?
+
+[NOTE:]
+Jisty Renault, ktereho najdes v hostelovem baru, shani sluzby profesionalniho zlodeje.
+
+[SPEECH: JCDenton]
+Jsem polichocen.
+
+[SPEECH: JCDenton]
+Slysel jsem jeho nabidku. Myslite, ze to mam vzit?
+
+[SPEECH: Leone]
+Renault drzi svy slovo. Zaplati.
+
+[SPEECH: JCDenton]
+Do toho vam nic neni. Ale muzu vam prozradit, ze ten uz zadnyho zlodeje nepotrebuje.
+
+-----------------------------------------------------------------
+[Owner: Louis]
+[Name:  LouisComment]
+
+-----------------------------------------------------------------
+[Owner: Louis]
+[Name:  LouisConvos]
+
+[COMMENT]
+A snotty, rude French guy.
+
+[SPEECH: Louis]
+Tri sta kreditu!
+
+[SPEECH: Louis]
+Uz zadny srandicky! Vysol tri stovaky!
+
+[CHOICES:2]
+
+[CHOICE:]
+Tady mas.
+
+[CHOICE:]
+Ne, diky.
+
+[SPEECH: Louis]
+Tady je klic. Jeho platnost je pouze pro dnesni vecer.
+
+[SPEECH: Louis]
+Nepatris zrovna k nasim prioritnim hostum.
+
+[SPEECH: JCDenton]
+Bohuzel, jsem dutej.
+
+[SPEECH: Louis]
+To je vopravdu prekvapeni.
+
+[SPEECH: Louis]
+Jses na sestricky, co?
+
+[SPEECH: JCDenton]
+Myslis tu sestru na parketu? Jo, ta je fajn.
+
+[SPEECH: Louis]
+Tak se vod ni drz dal! Camille je pro tebe az moc dobra.
+
+[SPEECH: JCDenton]
+A co jsem ja? Moc spatnej?
+
+[SPEECH: Louis]
+Povidam, drz se radsi dal. Vic nepotrebujes vedet. Ted pekne zaplat! 300 kreditu.
+
+[SPEECH: Louis]
+Povidam, drz se radsi dal. Vic nepotrebujes vedet.
+
+[SPEECH: Louis]
+Vkradas se na ruzny mista, aniz bys zaplatil? Co? Nemam pravdu? Jses kriminalnik! Naval 300 kreditu nebo zavolam policii!
+
+-----------------------------------------------------------------
+[Owner: Louis]
+[Name:  LouisConvosSneak]
+
+[SPEECH: Louis]
+Ty hnusnej lotre! Zaplat tri stovky vstupni kauce nebo te ohlasim policajtum!
+
+[CHOICES:2]
+
+[CHOICE:]
+Prosim za prominuti. Tady mas.
+
+[CHOICE:]
+Polib mi!
+
+[SPEECH: Louis]
+Na tvoje omluvy kaslu, ale tvy prachy beru. Uz to podruhy nezkousej!
+
+[COMMENT]
+This guy is overcome with bottled-up rage; he's caught behind a pane of glass and wants to attack the player.  He might grunt or something before actually speaking.
+
+[SPEECH: Louis]
+Ne! Ty - ty zaplatis! Donutim te k tomu!
+
+[SPEECH: JCDenton]
+Bohuzel, jsem dutej.
+
+[SPEECH: Louis]
+Musis zaplatit kauci, jinak te dovnitr nepustim!
+
+-----------------------------------------------------------------
+[Owner: Louis]
+[Name:  LouisExpelling]
+
+[SPEECH: Louis]
+Vypadni!
+
+[SPEECH: Louis]
+Co blbnes?
+
+[SPEECH: Louis]
+Ven! Okamzite!
+
+-----------------------------------------------------------------
+[Owner: Louis]
+[Name:  LouisSatisfiedBark]
+
+[SPEECH: Louis]
+Musime ted poustet dovnitr kazdyho, protoze ksefty dost vaznou.
+
+[SPEECH: Louis]
+Priste bys takovou kliku mit nemusel.
+
+[SPEECH: Louis]
+Tvuj ksicht uz me unavuje.
+
+-----------------------------------------------------------------
+[Owner: Louis]
+[Name:  LouisSatisfiedBark2]
+
+-----------------------------------------------------------------
+[Owner: Louis]
+[Name:  LouisUpsetBark]
+
+[SPEECH: Louis]
+Myslis si, jakej jses chytrak, co?
+
+[SPEECH: Louis]
+Ha! Sam ses odsoudil k smrti!
+
+[SPEECH: Louis]
+Ven!
+
+-----------------------------------------------------------------
+[Owner: Louis]
+[Name:  LouisUpsetBark2]
+
+-----------------------------------------------------------------
+[Owner: MetroCop]
+[Name:  MetroCopBarks]
+
+[COMMENT]
+These guys are local cops in Paris.  These particular barks will be spoken to the player across a distance of about 20 feet, as the player walks by.st.C6•9™+'FÄ6yë6$2·PsRa`>œ8>$qZäî˘\ΩTP9aãe2GˆrsûyÔGZKéö‚˙r‚f#2~Ó´3ˇBc0”ÓRˇ˚0ƒ
+
+[COMMENT]
+These cycle and go random.
+
+[COMMENT]
+Bored.  He's been saying the same thing all night.
+
+[SPEECH: MetroCop]
+Opustte ulice.
+
+[SPEECH: MetroCop]
+Plati nova narizeni. Prectete si noviny.
+
+[SPEECH: MetroCop]
+Pane, co tady vlastne delate?
+
+[SPEECH: MetroCop]
+Pokracujte.
+
+[SPEECH: MetroCop]
+Dostali jsme zpravy o teroristickych aktivitach. Nevychazejte ven.
+
+[SPEECH: MetroCop]
+Dnes ma otevreno jen par obchodu. Tady si nic neuzijete.
+
+-----------------------------------------------------------------
+[Owner: MetroCop]
+[Name:  MetroCopBumpBarks]
+
+[COMMENT]
+These guys are local cops in Paris.  These barks happen when the player bumps or frobs one of the cops.f corporations to make Europe into one big country with no separate languages, cultures, or tastes.
+
+[COMMENT]
+These cycle and go random.{_ó∞ÅÕ~µsnÄ
+
+[SPEECH: MetroCop]
+Metro je az do odvolani zavrene.
+
+[SPEECH: MetroCop]
+Nezapomente, ze po setmeni nesmite opustit svou ctvrt.
+
+[SPEECH: MetroCop]
+Strazni boti znaji tvare jednoho tisice teroristu. Za pripadnou mylku nenese mesto zadnou zodpovednost.
+
+[SPEECH: MetroCop]
+Nejbezpecnejsi to pro vas bude hezky doma.
+
+[SPEECH: MetroCop]
+Pozadali jsme podnikatele, aby zavreli. Dnesni vecer krasam Parize prilis nepreje.
+
+[SPEECH: MetroCop]
+Bezpecnostnim opatrenim podlehaji rovnez turiste.
+
+[SPEECH: MetroCop]
+Nikdy se nevydavejte na zadnou delsi obchuzku.
+
+[SPEECH: MetroCop]
+Od nove vlady jsme zatim nedostali zadne presne pokyny, ktere bychom meli verejnosti sdelit.
+
+[SPEECH: MetroCop]
+Vime pouze to, ze ohrozeni obcanu dnes v noci kulminuje.
+
+-----------------------------------------------------------------
+[Owner: MetroJanitor]
+[Name:  MetroJanitorConvos]
+
+-----------------------------------------------------------------
+[Owner: MetroMJ12Troop_special01]
+[Name:  SpecialGuardsChatting]
+
+[SPEECH: MetroMJ12Troop_special01]
+Amerikan?
+
+[SPEECH: MetroMJ12Troop_special02]
+Agent UNATCO. Stavil se tu agent Hermann. Rikal, ze mame strilet bez varovani.
+
+[SPEECH: MetroMJ12Troop_special01]
+Vypada jako Nemcour.
+
+[SPEECH: MetroMJ12Troop_special02]
+Hermann?
+
+[SPEECH: MetroMJ12Troop_special01]
+Ne, ten spehoun Denton. Jak muzou vedet, ze je zrovna v Parizi?
+
+[SPEECH: MetroMJ12Troop_special02]
+UNATCO nahodilo Echelon IV. Muzes vsadit boty, ze vedi presne, kde je.
+
+[SPEECH: MetroMJ12Troop_special01]
+Prej ma ten Denton hlavu plnou utajovanejch skutecnosti?
+
+[SPEECH: MetroMJ12Troop_special02]
+Jestli je to pravda, tak se ty skutecnosti uz brzy pekne rozplesknou o chodnik.
+
+-----------------------------------------------------------------
+[Owner: Michelle]
+[Name:  MichelleConvos]
+
+[SPEECH: Michelle]
+Co si date? Jidlo za 10 kreditu, vino za 120.
+
+[CHOICES:6]
+
+[CHOICE:]
+Lahev vina.
+
+[CHOICE:]
+Neco k jidlu.
+
+[CHOICE:]
+Slysela jste jmeno Nicolette DuClarove?
+
+[CHOICE:]
+Co si myslite o Silhouette?
+
+[CHOICE:]
+Nic nechci.
+
+[CHOICE:]
+Bohuzel, jsem na dne.
+
+[COMMENT]
+Translate this into French.
+
+[SPEECH: Michelle]
+Tenez.
+
+[SPEECH: Michelle]
+Bon apetit.
+
+[SPEECH: Michelle]
+Neobtezujte me svymi problemy.
+
+[SPEECH: Michelle]
+Jiste.
+
+[SPEECH: JCDenton]
+Moment. Jenom si neco odlozim.
+
+[SPEECH: JCDenton]
+Rad bych si dal neco k piti, ale nemam penize.
+
+[SPEECH: Michelle]
+Muzete se napit vody na zachode. Zadarmo.
+
+[SPEECH: Michelle]
+Co chcete po slecne DuClarove?
+
+[SPEECH: JCDenton]
+Soukroma vec.
+
+[SPEECH: Michelle]
+Nas klub ma dobrou ochranku. Kdyz neco zkusite, nezavrou vas. Zastreli na miste.
+
+[SPEECH: JCDenton]
+Jsem jeji pritel.
+
+[SPEECH: Michelle]
+Rekla by mi, ze vas ocekava.
+
+[SPEECH: Michelle]
+Maji sice dobre napady, ale jsou moc slabi.
+
+[SPEECH: JCDenton]
+A verejnost je podporuje?
+
+[SPEECH: Michelle]
+Lidi jsou pripraveni bojovat. Po ulicich denodenne pochoduji cizi vojaci, dokonce se za to ani nestydi.
+
+[SPEECH: JCDenton]
+Ta skupina, co okupuje vladni urad, si rika Majestic 12. Ovlada Spojene narody a chysta se svrhnout take ostatni vlady.
+
+[SPEECH: Michelle]
+Potrebujeme armadu. Silhouette by mela zorganizovat odpor, nejenom sirit hezka slovicka, s nimiz kazdy souhlasi.
+
+-----------------------------------------------------------------
+[Owner: mj12_special01]
+[Name:  SpecialGuys]
+
+[SPEECH: mj12_special01]
+Na ty Hele se mi neco nezda. Ja ti nevim...
+
+[SPEECH: mj12_special02]
+Poslali ji z velitelstvi. Tam vypadaji vsichni takhle.
+
+[SPEECH: mj12_special01]
+Zda se mi, ze si to tady dole poradne uziva. Vsimnul sis toho hnizda, ktery si zridila v tom sale se sloupama? Je to jak velitelskej post!
+
+[SPEECH: mj12_special02]
+Jo, vypada to, ze je ve svym zivlu.
+
+[SPEECH: mj12_special01]
+...rochni se v tom svym hnizde jako harpyje...
+
+[SPEECH: mj12_special02]
+Pani, jak ja budu rad, az zase vypadne!
+
+[SPEECH: mj12_special01]
+Ja taky. A nemam rad tunely. V jednom kuse mi pripada, ze se za mnou nekdo plizi.
+
+-----------------------------------------------------------------
+[Owner: NicoletteDuClare]
+[Name:  MeetNicolette]
+
+[COMMENT]
+Kind of a hack, no?
+
+[GOAL:]
+Sejdi se s Nicolette za klubem La Porte de l'Enfer.
+
+[SPEECH: JCDenton]
+Hledam Nicolette DuClarovou.
+
+[SPEECH: NicoletteDuClare]
+No a?
+
+[SPEECH: JCDenton]
+Neznate ji?
+
+[SPEECH: NicoletteDuClare]
+Znam to jmeno. A taky vim, ze jeji matka ji rikala "andilku".
+
+[SPEECH: JCDenton]
+Znala jste jeji matku? Ve skutecnosti hledam jednoho pritele jeji matky.
+
+[SPEECH: NicoletteDuClare]
+Andilek... Ted je to spise padly andel, nezda se vam? Zrejme shanite Everetta.
+
+[SPEECH: JCDenton]
+Jo, Morgana Everetta. Jak to muzete vedet?
+
+[SPEECH: NicoletteDuClare]
+Proc si myslite, ze Nicolette by mohla zradit jednoho z matcinych nejduvernejsich pratel?
+
+[SPEECH: JCDenton]
+Pomohl jsem jejim pratelum ze Silhouette. Chad by se za me primluvil. Hledam lidi, kteri zavrazdili jeji matku.
+
+[SPEECH: JCDenton]
+Jsem ve styku s dalsim clenem Iluminatu - Stantonem Dowdem. Ten by se za me primluvil. Hledam lidi, kteri zavrazdili jeji matku.
+
+[SPEECH: NicoletteDuClare]
+Jste snad najemny vrah?
+
+[SPEECH: JCDenton]
+Kdyz je to treba.
+
+[SPEECH: NicoletteDuClare]
+Bezte dozadu za klub. Promluvim si s Nicolette a ona tam na vas mozna pocka.
+
+-----------------------------------------------------------------
+[Owner: NicoletteDuClare]
+[Name:  NicoletteAfterEverett]
+
+[GOAL:]
+Bez k rodinne krypte v bludisti za chateau a cekej na instrukce od Morgana Everetta.
+
+[SPEECH: NicoletteDuClare]
+Co je to?
+
+[SPEECH: JCDenton]
+Depese. Od Morgana Everetta. Chce, abych odesel zadem, nejakou kryptou, do blizke katedraly.
+
+[SPEECH: NicoletteDuClare]
+Do katedraly Rytiru Templu?
+
+[SPEECH: JCDenton]
+To nerekl. Mam se napichnout do pocitacove site Majestic 12.
+
+[SPEECH: NicoletteDuClare]
+Ano, to misto ted ovladli lidi z Majestic 12. Rytire vyvrazdili kvuli jejich zlatemu pokladu. Everett zrejme chce, abyste se tam proplizil stokami, ktere tam vedou z naseho pozemku.
+
+[SPEECH: JCDenton]
+Myslel jsem, ze Templari uz leta neexistuji.
+
+[SPEECH: NicoletteDuClare]
+To oni vynalezli moderni bankovnictvi a take ho pod ruznymi zasterkami ridili, dokud je neporazila Majestic 12.
+
+[SPEECH: JCDenton]
+Everett povidal, ze mate klic...
+
+[SPEECH: NicoletteDuClare]
+Ano. Tady je. Ta krypta je v bludisti za chateau. Poslechnete Everetta ve vsem. Ma pravdu, kdyz chce pomstit Templare.
+
+-----------------------------------------------------------------
+[Owner: NicoletteDuClare]
+[Name:  NicoletteAtChateau]
+
+[GOAL:]
+Najdi tajnou mistnost s pocitacem Beth DuClarove, kde bys mohl objevit neco o Morganovi Everettovi.
+
+[SPEECH: NicoletteDuClare]
+Na tohle misto uz jsem se nechtela nikdy vracet.
+
+[SPEECH: JCDenton]
+Proc ne?
+
+[SPEECH: NicoletteDuClare]
+Bala jsem se, ze to bude takovehle - uplne stejne. Nezmenil se tu ani kaminek.
+
+[SPEECH: JCDenton]
+Uvitala byste, kdyby to tu Majestic 12 spalila na popel?
+
+[SPEECH: NicoletteDuClare]
+Spis bych chtela... Ne, pojdme radsi! Domy se bezduvodne rozpadaji jenom v romanech, kdyz zemrou jejich obyvatele.
+
+[SPEECH: JCDenton]
+Ci spise vase matka?
+
+[SPEECH: NicoletteDuClare]
+Bezte prvni. Klic od domu uz davno nemam. Musime najit matcin tajny pokoj s pocitacem, kde ukryva celou svou praci. Je to tajemstvi dokonce i pro mne.
+
+-----------------------------------------------------------------
+[Owner: NicoletteDuClare]
+[Name:  NicoletteFinalBarks]
+
+[COMMENT]
+These cycle and repeat the last.
+
+[SPEECH: NicoletteDuClare]
+Templari zdedili zlato z puvodniho francouzskeho zlateho pokladu, o ktery se Templari starali, dokud nebyl jejich rad zrusen.
+
+[SPEECH: NicoletteDuClare]
+Jeste pred zhroucenim radu v roce 1307 bylo zlato tajne premisteno do katedraly, kde zustalo az dodneska.
+
+[SPEECH: NicoletteDuClare]
+Naciste behem 2.svetove valky stacili tretinu rozkrast, ale vetsina zlata zbyla.
+
+[SPEECH: NicoletteDuClare]
+Meli bychom pokracovat.
+
+[SPEECH: NicoletteDuClare]
+Projdu s vami celym bludistem.
+
+[SPEECH: NicoletteDuClare]
+MJ12 muze to zlato zrovna nakladat do letadla.
+
+-----------------------------------------------------------------
+[Owner: NicoletteDuClare]
+[Name:  NicoletteFinalBarks2]
+
+[SPEECH: NicoletteDuClare]
+Zustanu tu chvili a prohlednu si nektere matciny veci.
+
+[SPEECH: NicoletteDuClare]
+Hodne stesti!
+
+[SPEECH: NicoletteDuClare]
+Everett by byl mocny spojenec, ale muzete si byt jisty, ze bude mit sve vlastni umysly.
+
+-----------------------------------------------------------------
+[Owner: NicoletteDuClare]
+[Name:  NicoletteChateauBarks]
+
+[COMMENT]
+These cycle and repeat the last.etteAtChateau\NicoletteDuClare04
+
+[SPEECH: NicoletteDuClare]
+Nejlepsi bude, kdyz zacnete nahore v loznici me matky.
+
+[SPEECH: NicoletteDuClare]
+Kdyz matku zavrazdili, my dve uz jsme spolu davno nemluvily.
+
+[SPEECH: NicoletteDuClare]
+Utekla jsem z domova, protoze me matka s temi svymi Iluminaty do neceho vecne nutila.
+
+[SPEECH: NicoletteDuClare]
+Ve skole mi to vubec neslo, ale to je vubec neodradilo od toho, aby me necpali na Sorbonnu.
+
+[SPEECH: NicoletteDuClare]
+Unikala jsem tomu svetu, ktery se jim nedarilo ovladnout.
+
+[SPEECH: NicoletteDuClare]
+Chteli ovladat svet - a pritom nedokazali ovladnout ani malou Nicolette.
+
+[SPEECH: NicoletteDuClare]
+Je tady vsude ticho a klid.
+
+[SPEECH: NicoletteDuClare]
+Az do sameho konce byla moje matka presvedcena, ze znovu obnovi cinnost cele skupiny a ovladne svet.
+
+[SPEECH: NicoletteDuClare]
+Je to ubohe, kdyz si to predstavite: senilni stara dama s domem plnym neotevrenych balicku ze zasilkovych firem.
+
+[SPEECH: NicoletteDuClare]
+Svym zpusobem vsak byla matka vyjimecna. Jednou v noci jsem ji slysela, jak rika Everettovi, ze dokazala odvodit soukromy sifrovaci klic Majestic 12.
+
+[SPEECH: NicoletteDuClare]
+Zrovna tady, kde jsem vyrustala, matka spradala celosvetove spiknuti a pokousela se ho realizovat.
+
+[SPEECH: NicoletteDuClare]
+Mela tajnou mistnost s pocitacem, neco jako sledovaci stanici. Slysela jsem, jak o tom mluvi, ale vchod jsem nikdy nevypatrala.
+
+[SPEECH: NicoletteDuClare]
+I v dobach, kdy se nam nedarilo, jsem posilala penize Silhouette, protoze jsem vedela, jak vyznamnou ulohu hraji v matcine planu.
+
+[SPEECH: NicoletteDuClare]
+Taky jsem chtela pomoci Chadovi. Skupina jako je Silhouette mela ze spojenectvi s Iluminaty velky prospech - jenze pouze nakratko.
+
+[SPEECH: NicoletteDuClare]
+Zanedlouho by -- No, kdyby se matka setkala s uspechem, ted bychom nejspis misto proti Majestic 12 bojovali proti Iluminatum.
+
+[SPEECH: NicoletteDuClare]
+Kam ted?
+
+[SPEECH: NicoletteDuClare]
+Pitome misto pro detstvi, co?
+
+[SPEECH: NicoletteDuClare]
+Jsem tak rada, ze bydlim ve meste!
+
+[SPEECH: NicoletteDuClare]
+Jdete prvni.
+
+[SPEECH: NicoletteDuClare]
+Myslela jsem, ze vim, co me ceka - ale tohle je neuveritelne.
+
+-----------------------------------------------------------------
+[Owner: NicoletteDuClare]
+[Name:  NicoletteInBethsRoom]
+
+[SPEECH: NicoletteDuClare]
+Matcin pokoj - a vida, jeji oblibeny obraz! Nechapu, proc ho ti vrazi neukradli? Matka travila cele hodiny sezenim na stolku a prohlizenim tech svych bezcennych pokladu.
+
+-----------------------------------------------------------------
+[Owner: NicoletteDuClare]
+[Name:  NicoletteInCellar]
+
+[COMMENT]
+These cycle and repeat the last.etteInBethsRoom\NicoletteDuClare
+
+[SPEECH: NicoletteDuClare]
+Matka tu instalovala zvlastni pristroje na udrzovani stale teploty a vlhkosti - aby se urode nic nestalo - byl to jeji konicek.
+
+[SPEECH: NicoletteDuClare]
+Je zvlastni, ze svou sbirku nikomu neukazovala.
+
+-----------------------------------------------------------------
+[Owner: NicoletteDuClare]
+[Name:  NicoletteInComputerRoom]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: NicoletteDuClare]
+Paneboze!
+
+[SPEECH: NicoletteDuClare]
+O tom jsem nemela ani tuseni.
+
+-----------------------------------------------------------------
+[Owner: NicoletteDuClare]
+[Name:  NicoletteInGarden]
+
+[SPEECH: NicoletteDuClare]
+Matka s Everettem tu sedavali, popijeli Martini a kuli plany na ovladnuti sveta. Takhle cela ta slamastyka zacinala.
+
+-----------------------------------------------------------------
+[Owner: NicoletteDuClare]
+[Name:  NicoletteInGarden2]
+
+[SPEECH: NicoletteDuClare]
+Ano... Tady jsem schvalne prisla o sve panenstvi. Tehdy jsem verila, ze matka me chce nasilim nahnat na Sorbonnu.
+
+-----------------------------------------------------------------
+[Owner: NicoletteDuClare]
+[Name:  NicoletteInKeyRoom]
+
+[SPEECH: NicoletteDuClare]
+Myslim, ze matka schovavala klic tamhle nahore za tou vazou.
+
+-----------------------------------------------------------------
+[Owner: NicoletteDuClare]
+[Name:  NicoletteInKitchen]
+
+[SPEECH: NicoletteDuClare]
+O vareni se starala nase sluzka, ale vino vybirala vzdycky jen matka. Jedine ona mela klic od sklepa.
+
+[SPEECH: NicoletteDuClare]
+Zvlastni... Vite, kdyz jsem byla jeste holka, casto jsem si hravala s timhle vytahem, ktery vede do matcina pokoje. Je s podivem, ze jsem si na nem nesrazila vaz.
+
+-----------------------------------------------------------------
+[Owner: NicoletteDuClare]
+[Name:  NicoletteInLabyrinth]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: NicoletteDuClare]
+Matka tohle bludiste nesnasela.
+
+[SPEECH: NicoletteDuClare]
+Tohle jsme zdedili po jednom z puvodnich majitelu.
+
+[SPEECH: NicoletteDuClare]
+Jediny, kdo sem mel pristup, byl nas zahradnik.
+
+[SPEECH: NicoletteDuClare]
+Vratme se zpatky. Tady prece nic nenajdeme.
+
+-----------------------------------------------------------------
+[Owner: NicoletteDuClare]
+[Name:  NicoletteInLivingRoom]
+
+[SPEECH: NicoletteDuClare]
+Tuhle pohovku si matka nechala dovezt z Portugalska. Presne stejnou, kterou si chtela koupit u La Samaritaine, akorat ze ta byla kdysi poctena zadky kralovske rodiny.
+
+-----------------------------------------------------------------
+[Owner: NicoletteDuClare]
+[Name:  NicoletteInNicolettesRoom]
+
+[COMMENT]
+These cycle once.ÑV=ˇ˚0ƒtÄLkMÆUP
+
+[SPEECH: NicoletteDuClare]
+Moje male vezeni az do osmnacti let.
+
+[SPEECH: NicoletteDuClare]
+Chtela jsem bydlet ve meste, ale pro matku bylo zrejme snazsi utajit svoji cinnost tady na venkove.
+
+-----------------------------------------------------------------
+[Owner: NicoletteDuClare]
+[Name:  NicoletteInStudy]
+
+[SPEECH: NicoletteDuClare]
+Nevim, jestli vam to pomuze, ale kdyz jsem obcas byvala doma, tenhle pocitac jsem pouzivala; naposled v dobe tesne pred vrazdou me matky. Login je "nicolette"; heslo "chad".
+
+[NOTE:]
+Nicolettin pocitac ve studovne: login: "nicolette"; heslo: "chad".
+
+-----------------------------------------------------------------
+[Owner: NicoletteDuClare]
+[Name:  NicoletteInUnderground]
+
+[COMMENT]
+(surprised)derground
+
+[SPEECH: NicoletteDuClare]
+Co je to? Zalar?
+
+-----------------------------------------------------------------
+[Owner: NicoletteDuClare]
+[Name:  NicoletteInUnderground2]
+
+[SPEECH: NicoletteDuClare]
+Moje matka by v takove spine nevydrzela. Ta mistnost musi byt nekde jinde.
+
+-----------------------------------------------------------------
+[Owner: NicoletteDuClare]
+[Name:  NicoletteOutside]
+
+[GOAL:]
+Prohledej chateau DuClarovych a najdi dukaz pratelstvi Morgana Everetta a Beth DuClarove.
+
+[SPEECH: JCDenton]
+Takze mi neuverila?
+
+[COMMENT]
+Previously, Nicolette lied about who she is.organ Everett's relationship with Beth DuCla
+
+[SPEECH: NicoletteDuClare]
+Ja jsem Nicolette. Pomuzu vam proste proto, abych udelala caru pres rozpocet skupine Majestic 12. Je to tak: to oni zabili mou matku.
+
+[SPEECH: JCDenton]
+A vite, proc?
+
+[SPEECH: NicoletteDuClare]
+Patrila k Iluminatum. Iluminati jsou jedini lide, kterych se MJ12 boji.
+
+[SPEECH: JCDenton]
+Stanton Dowd rikal, ze uz nemaji tu moc.
+
+[SPEECH: NicoletteDuClare]
+Jak to, ze znate Dowda?
+
+[SPEECH: JCDenton]
+Sesel jsem se s nim v New Yorku.
+
+[SPEECH: NicoletteDuClare]
+Byl to duverny pritel me matky. Ano, Iluminati uz nejsou to, co byvali, jenze Page se Morgana Everetta stale boji.
+
+[SPEECH: JCDenton]
+Kde bych ho nasel?
+
+[SPEECH: NicoletteDuClare]
+To je jedno z tajemstvi me matky. Snad najdeme voditko v nasem rodinnem chateau.
+
+[CHOICES:3]
+
+[CHOICE:]
+Letime.
+
+[CHOICE:]
+Pockejte u vrtulniku. Jeste si musim neco zaridit.
+
+[CHOICE:]
+Cim muze Everett ohrozovat Boba Page?
+
+[SPEECH: NicoletteDuClare]
+Page patril k Iluminatum. Pro nej predstavoval intelekt pouhy prostredek k moci, coz mu z Everetta udelalo nejhorsiho nepritele.
+
+[SPEECH: JCDenton]
+Ale Everett se prece ukryva?
+
+[SPEECH: NicoletteDuClare]
+Iluminati i MJ12 veri, ze ten nejinteligentnejsi nebo "nejosvicenejsi" clovek ziska nevyhnutelne moc, nakonec ovladne oko pyramidy a stvori svet pro vsechny ostatni. Je to sekularizovana verze prirodniho zakona.
+
+[SPEECH: JCDenton]
+Page ma dobre vycvicenou armadu, ktera ho chrani.
+
+[SPEECH: NicoletteDuClare]
+Presto je zranitelny. Mnoho jeho sily pochazi z tajnych laboratori, coz znamena, ze reverznim inzenyrstvim lze odhalit princip cele jeho moci.
+
+[SPEECH: JCDenton]
+Doufejme, ze mate pravdu - a ze Everett umi vsechno to, co rikate.
+
+[SPEECH: NicoletteDuClare]
+Verite tomu muzi ve vrtulniku?
+
+[SPEECH: JCDenton]
+To je Jock. Bez obav; jeste me nikdy nevypekl. Letime.
+
+[SPEECH: NicoletteDuClare]
+Nemame na to celou noc.
+
+[SPEECH: JCDenton]
+Pospisim si.
+
+[SPEECH: NicoletteDuClare]
+Pripraven?
+
+-----------------------------------------------------------------
+[Owner: NicoletteDuClare]
+[Name:  NicoletteWaitingForHelicopter]
+
+[COMMENT]
+These cycle and repeat the last.
+
+[SPEECH: NicoletteDuClare]
+Najit Everetta nebude snadne. Utajeni je pro Iluminaty otazkou zivota a smrti.
+
+[SPEECH: NicoletteDuClare]
+Nebyla jsem doma uz pul roku - od chvile te vrazdy. Nemam predstavu, co me tam ceka.
+
+[SPEECH: NicoletteDuClare]
+Vas pritel vypada netrpelive. Letime?
+
+-----------------------------------------------------------------
+[Owner: NicoletteDuClare]
+[Name:  NicoletteWaitingToLeave]
+
+[COMMENT]
+These cycle and repeat the last.
+
+[SPEECH: NicoletteDuClare]
+Nalehala by, abyste se s ni setkal sam.
+
+[SPEECH: NicoletteDuClare]
+Jestli lzete, ona vas bez vahani zabije.
+
+[SPEECH: NicoletteDuClare]
+Tak jo. Za pet minut.
+
+-----------------------------------------------------------------
+[Owner: NightManager]
+[Name:  MeetNightManager]
+
+[SPEECH: NightManager]
+Bohuzel - dnes mame vsechno plne.
+
+[SPEECH: JCDenton]
+Nepotrebuju pokoj, ale mozna mi pomuzete najit nekoho od Silhouette. Jmenuje se Nicolette DuClarova.
+
+[SPEECH: JCDenton]
+Nepotrebuju pokoj, ale mozna mi pomuzete zjistit neco o Silhouette. Co se o nich povida? Stoji za nimi lidi?
+
+[SPEECH: NightManager]
+Ne, o tom ja nic nevim. Dejte mi pokoj.
+
+-----------------------------------------------------------------
+[Owner: NightManager]
+[Name:  NightManagerBarks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: NightManager]
+Ja o Silhouette jakziv neslysel.
+
+[SPEECH: NightManager]
+Hledim si svyho.
+
+[SPEECH: NightManager]
+Jak jiste chapete, jsme slusny hotel, ale o soukromi svych hostu se nezajimame.
+
+-----------------------------------------------------------------
+[Owner: O]
+[Name:  OBarks]
+
+[COMMENT]
+This woman is based on "O" from The Story of O, a French novel.
+
+[COMMENT]
+These cycle and repeat the last.
+
+[SPEECH: O]
+Jestli hledate toho cvoka s bouchackama, tak ten bydli o vchod vedle.
+
+[COMMENT]
+(impatient, in the tone of talking to a child)t
+
+[SPEECH: O]
+Bezva. Takze abyste sel.
+
+[SPEECH: O]
+Dejte nam pokoj.
+
+-----------------------------------------------------------------
+[Owner: O]
+[Name:  ODeadBarks]
+
+[COMMENT]
+The player just killed her boyfriend.õAVqËeÜyiRıPñ(ìRºˇ<ô–	&ˆpó¬˘Q≠;L
+
+[SPEECH: O]
+Rene!
+
+[SPEECH: O]
+Bezte pryc!
+
+[SPEECH: O]
+Paneboze!
+
+-----------------------------------------------------------------
+[Owner: Pierre]
+[Name:  MeetSilhouette_FemaleChild]
+
+[COMMENT]
+I was originally told that this person was a "female child," but apparently he is not.  His name is Pierre.
+
+[SPEECH: Pierre]
+Kdo jste?
+
+[SPEECH: JCDenton]
+Prisel jsem vam na pomoc.
+
+[SPEECH: Pierre]
+Vojaci od Majestic 12 unesli mou mamu.
+
+[SPEECH: JCDenton]
+Kam?
+
+[SPEECH: Pierre]
+Do Bunkru 03. Chad ma klic, ale rika, ze je moc nebezpecny chtit ji zachranit.
+
+[SPEECH: JCDenton]
+Prave se chystam Chada navstivit. Mozna si to jeste rozmysli.
+
+[SPEECH: JCDenton]
+Prave se chystam tvou mamu osvobodit.
+
+[SPEECH: Pierre]
+Doufam, ze se mi zase vrati.
+
+[SPEECH: JCDenton]
+Ja taky.
+
+-----------------------------------------------------------------
+[Owner: Pierre]
+[Name:  Silhouette_FemaleChildFinalBarks]
+
+[SPEECH: Pierre]
+Dokazal jste to!
+
+[SPEECH: Pierre]
+Merci! Merci! Dekuju vam, pane!
+
+[SPEECH: Pierre]
+Myslel jsem, ze ji budou chtit zabit.
+
+[SPEECH: Pierre]
+Doufam, ze se jim podari utyct.
+
+[COMMENT]
+Her mother has just been killed during the rescue attempt.
+
+[COMMENT]
+This should be "my poor mother", "poor" as in unfortunate.
+
+[SPEECH: Pierre]
+...Ma pauvre mere...
+
+-----------------------------------------------------------------
+[Owner: Pierre]
+[Name:  Silhouette_FemaleChildSobbing]
+
+[COMMENT]
+Her mother has just been killed during the rescue attempt.jz?kCx-‡
+
+[SPEECH: Pierre]
+(breci)
+
+-----------------------------------------------------------------
+[Owner: Pierre]
+[Name:  Silhouette_FemaleChildWaiting]
+
+[SPEECH: Pierre]
+Bojim se.
+
+[SPEECH: Pierre]
+Co kdyz ji zabijou?
+
+[SPEECH: Pierre]
+Tedka pujdou na nas.
+
+-----------------------------------------------------------------
+[Owner: Raymond]
+[Name:  RaymondBarks]
+
+[COMMENT]
+These cycle and repeat the last.
+
+[SPEECH: Raymond]
+Jestli hledate praci, promluvte si s Kristi.
+
+[SPEECH: Raymond]
+Sef uz jednoho pomocnika ma - me.
+
+[SPEECH: Raymond]
+S praci je to bida. Jelikoz vojaci kazdeho zaplasi, za chvili tu nebude nikoho potreba.
+
+[SPEECH: Raymond]
+Je to velmi zodpovedna prace. Nezvladne ji kazdy.
+
+[SPEECH: Raymond]
+Vy byste u nas asi pracovat nemohl.
+
+[SPEECH: Raymond]
+Sef ma nekdy zvlastni chute.
+
+[SPEECH: Raymond]
+Musim zpatky ke sve praci.
+
+-----------------------------------------------------------------
+[Owner: Renault]
+[Name:  MeetRenault]
+
+[GOAL:]
+Sezen v pekarstvi kvas a prodej ho Renaultovi.
+
+[SPEECH: JCDenton]
+Jaky tu maji piti?
+
+[SPEECH: Renault]
+Dobry, jestli mas rad krysi chcanky.
+
+[SPEECH: JCDenton]
+Zatim jsem je nezkousel.
+
+[SPEECH: Renault]
+Vypadas jako chytrak. Nechtel by sis vydelat? Jo? Potreboval bych zlodeje.
+
+[SPEECH: JCDenton]
+A co by se melo krast?
+
+[SPEECH: JCDenton]
+Ty budes asi Renault.
+
+[SPEECH: Renault]
+No a?
+
+[SPEECH: JCDenton]
+Slysel jsem, ze prej shanis zlodeje.
+
+[SPEECH: Renault]
+V pekarstvi v cisle 15 maji kvas - stoprocentne cistej - v jedny z peci.
+
+[NOTE:]
+Pekar v cisle 15 ma v jedne z peci skrys pro kvas.
+
+[SPEECH: JCDenton]
+Co z toho budu mit ja?
+
+[SPEECH: Renault]
+Padesat kreditu za kazdou lahvicku. Ale budou tam pasti. Jinak bych se tam vydal sam.
+
+[SPEECH: JCDenton]
+Uz jsem na tom miste byl.
+
+[SPEECH: Renault]
+Je to jasny. Padesat kreditu za kazdou lahvicku.
+
+-----------------------------------------------------------------
+[Owner: Renault]
+[Name:  RenaultAttacked]
+
+[SPEECH: Renault]
+Povidam: bez!
+
+-----------------------------------------------------------------
+[Owner: Renault]
+[Name:  RenaultFinalBarks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: Renault]
+Jeste, ze tady jsou ti vojaci! Ti mi dobre rozhejbali ksefty.
+
+[SPEECH: Renault]
+Mozna si to jeste rozmyslis.
+
+[SPEECH: Renault]
+Skoda, ze musis vypadnout z mesta. Mohli bysme bejt partneri.
+
+[SPEECH: Renault]
+Pamatuj: Ja vzdycky platim poctivou cenu.
+
+[SPEECH: Renault]
+Davej si bacha na chlupaty.
+
+[SPEECH: Renault]
+Povidam, abys uz sel!
+
+-----------------------------------------------------------------
+[Owner: Renault]
+[Name:  RenaultPays]
+
+[COMMENT]
+These cycle and repeat the last.city.  We could develop a partne
+
+[SPEECH: Renault]
+Mluv.
+
+[SPEECH: Renault]
+Zacinas me nudit.
+
+[SPEECH: Renault]
+Dost reci.
+
+[SPEECH: JCDenton]
+Udelal jsem to pekarstvi.
+
+[SPEECH: Renault]
+Vyborne. Tak dohodneme se? Padesat za kus?
+
+[SPEECH: Renault]
+Vyborne. Tak dohodneme se? Petasedesat za kus?
+
+[CHOICES:6]
+
+[CHOICE:]
+Beru ten kseft.
+
+[CHOICE:]
+Zadnej kvas nemam.
+
+[CHOICE:]
+Ja v kvasu nepodnikam.
+
+[CHOICE:]
+Tvuj kseft se mi nelibi. Tecka.
+
+[CHOICE:]
+Mrknu se na to pekarstvi.
+
+[CHOICE:]
+Rozmyslim si to.
+
+[SPEECH: Renault]
+Barmana si nevsimej; ten je v pohode.
+
+[SPEECH: JCDenton]
+Na... Tady mas.
+
+[SPEECH: Renault]
+Dobra prace. Musime se spolu zase spojit, az vycmucham, kam ulili ten zbytek.
+
+[SPEECH: JCDenton]
+Musim vypadnout z mesta, ale diky za prachy.
+
+[SPEECH: Renault]
+Ne? Kvuli cemu?
+
+[SPEECH: JCDenton]
+To by bylo na dlouho.
+
+[SPEECH: Renault]
+Tak jo. Padesat kreditu za lahvicku. Vynikajici cena.
+
+[SPEECH: Renault]
+Tak jo. Petasedesat kreditu za lahvicku. Vynikajici cena.
+
+[SPEECH: Renault]
+Spinava prace. Je mi to jasny.
+
+[SPEECH: JCDenton]
+Otroctvi. Zavislost je jenom forma otroctvi.
+
+[SPEECH: Renault]
+Jo... jasne. Nechces si uspinit ruce. Petasedesat kreditu, jo? Vejs uz ale jit nemuzu.
+
+[COMMENT]
+(to Guy)ffered65
+
+[SPEECH: Renault]
+Hele - mame tu problem.
+
+[COMMENT]
+(to JC)
+
+[SPEECH: Guy]
+Fajn. Zadnej kseft. Vypadni.
+
+[SPEECH: JCDenton]
+Ton tvyho hlasu se mi nelibi.
+
+[SPEECH: Guy]
+Renault rek', ze to staci!
+
+[COMMENT]
+Renault and Guy attack the player.
+
+[SPEECH: Renault]
+Uz jsem ti povidal, ze je to cislo 15.
+
+[SPEECH: JCDenton]
+Spravne.
+
+[SPEECH: Renault]
+Tak bez. Dost kecu.
+
+-----------------------------------------------------------------
+[Owner: Renault]
+[Name:  RenaultWaiting]
+
+[COMMENT]
+These cycle and repeat the last.
+
+[SPEECH: Renault]
+To pekarstvi patri Sicilianum. Ti ho dokazali propasovat az na Champs-Elysees.
+
+[SPEECH: Renault]
+Nechce se mi zaplyst se s mafii. Zkus to ty a davej si bacha, at te nikdo nevidi.
+
+[SPEECH: Renault]
+Pockam na tebe tady.
+
+-----------------------------------------------------------------
+[Owner: Rene]
+[Name:  ReneBarks]
+
+[COMMENT]
+These cycle and go random.±y∏©T?SØUÕb
+e0±D;∞ì‚¬ﬂM
+
+[SPEECH: Rene]
+Hele, tohle je nas kvartyr!
+
+[COMMENT]
+Make sure this is the right form of "please" in French.  "Please, respect our privacy."
+
+[SPEECH: Rene]
+S'il vous plait...
+
+[SPEECH: Rene]
+Vypadnete, povidam!
+
+-----------------------------------------------------------------
+[Owner: Rene]
+[Name:  ReneOverheard]
+
+[SPEECH: Rene]
+Polet se mnou do Ameriky!
+
+[COMMENT]
+(laughing, bemused)
+
+[SPEECH: O]
+Ale Rene!
+
+[SPEECH: Rene]
+Pilot rika, ze jednu osobu jeste uveze.
+
+[SPEECH: O]
+Ve Spojenych statech neni zadna sranda. Co ten pokus o prevrat?
+
+[SPEECH: Rene]
+Rozmysli si to, O. Mestecko ve Skalnatejch horach. Budeme porad spolu.
+
+[SPEECH: O]
+µaach, ano, a prepadnou nas teroristi, co zautocili na Bily dum! Unesou me, ale ty me zachranis!
+
+[SPEECH: Rene]
+Mluv vazne. Na horach jsou lidi dobre sehrani a zadny vladni prevraty je nerozhazej'. Pojedeme nekam na Severozapad.
+
+[SPEECH: O]
+Tak mi slib aspon nejaky nadrzeny partyzany!
+
+-----------------------------------------------------------------
+[Owner: Rene]
+[Name:  ReneOverheard2]
+
+[SPEECH: O]
+Jenze co bude s mou matkou?
+
+[SPEECH: Rene]
+Pro tvou matku se drsnej zivot v horach nehodi.
+
+[SPEECH: O]
+A pro me snad jo?
+
+[SPEECH: Rene]
+My jsme mladi, O. Budeme zapasit treba s medvedama, kdyz to bude treba.
+
+[SPEECH: O]
+Ale drahousku, medvedi uz prece davno vyhynuli!
+
+[SPEECH: Rene]
+Vis prece, jak to myslim.
+
+[SPEECH: O]
+Ty jsi takovy romantik! Ty si nikdy nepripoustis problemy skutecneho zivota!
+
+[SPEECH: Rene]
+Bude to zkouska - na kterou jsi cekala - zkouska nasi lasky.
+
+-----------------------------------------------------------------
+[Owner: Rene]
+[Name:  ReneOverheard3]
+
+[SPEECH: O]
+Ja vim, jak to skonci. Zjistime, ze na horach jsou jenom borovice a snih, takze nasedneme na autobus do nejblizsiho mesta a zajdeme si na hamburgry --
+
+[SPEECH: Rene]
+Ale O --
+
+[SPEECH: O]
+-- do stanku, budeme bez prace a bez domova, emigranti v nejhorsi ekonomicke krizi, jakou kdy Severni Amerika zazila!
+
+[SPEECH: Rene]
+Ja uz jsem pracoval v milici.
+
+[SPEECH: O]
+V cem?
+
+[SPEECH: Rene]
+V Americe maji lidi dlouhou tradici ve vytvareni milic, ktery chranej' jejich mistni komunity.
+
+[SPEECH: O]
+Ty a vojak? Ve tvem veku?
+
+[SPEECH: Rene]
+Celej svuj zivot jsem prosedel v kavarnach. Ted se ale pevne postavim na vlastni nohy, pritisknu si k hrudi pusku, a nikdo se mnou ani nehne!
+
+[SPEECH: O]
+To se mi libi! Ted mluvis jako pravej chlap! A kdyz te odmitnu, povleces me za vlasy pres celej Atlantik!
+
+[SPEECH: Rene]
+Jo! Jo, to udelam!
+
+-----------------------------------------------------------------
+[Owner: Silhouette]
+[Name:  SilhouetteBarks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: Silhouette]
+Vis jiste, ze te nikdo nesledoval?
+
+[SPEECH: Silhouette]
+Jak jsi nas nasel?
+
+[SPEECH: Silhouette]
+Jsme obkliceni. Nemame moc casu.
+
+[SPEECH: Silhouette]
+Maji nase kamose jako rukojmi.
+
+[SPEECH: Silhouette]
+My na zadnou valku nebyli pripraveny.
+
+[SPEECH: Silhouette]
+Obavame se nejhorsiho.
+
+[SPEECH: Silhouette]
+Diky, zes' nam zachranil pratele.
+
+[SPEECH: Silhouette]
+Ted jeste mame sanci!
+
+[SPEECH: Silhouette]
+Klobouk dolu pred tvou odvahou!
+
+[SPEECH: Silhouette]
+Jsme ti vdecni, ze se ti podarilo zachranit aspon jednoho.
+
+[SPEECH: Silhouette]
+Vytahnul ses!
+
+[SPEECH: Silhouette]
+Podruhy nas uz nezaskocej'!
+
+[SPEECH: Silhouette]
+To je nas konec. Nezvladli to.
+
+[SPEECH: Silhouette]
+Takovou ranu jsme teda necekali.
+
+[SPEECH: Silhouette]
+Musime pokracovat v odporu.
+
+-----------------------------------------------------------------
+[Owner: Silhouette_Female]
+[Name:  Silhouette_FemaleBarks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: Silhouette_Female]
+Nasel jsi nas bunkr!
+
+[SPEECH: Silhouette_Female]
+Nesmime pripustit, aby odhalili nas ukryt!
+
+[SPEECH: Silhouette_Female]
+Zahnali nas pekne do kouta.
+
+[SPEECH: Silhouette_Female]
+Ti vojaci okupujou cely mesto - a ted se roztahli i do podzemi.
+
+[SPEECH: Silhouette_Female]
+Proti augmentovanymu komandu nemame sanci!
+
+[COMMENT]
+Happy.  Her comrades have been rescued.
+
+[SPEECH: Silhouette_Female]
+Vratili se!
+
+[SPEECH: Silhouette_Female]
+Silhouette jeste dejcha...
+
+[SPEECH: Silhouette_Female]
+Jsi odvaznej chlap!
+
+[COMMENT]
+(solemn) brave m
+
+[SPEECH: Silhouette_Female]
+Ten druhej zarval. Urcite.
+
+[SPEECH: Silhouette_Female]
+Aspon nekomu se to podarilo prezit.
+
+[SPEECH: Silhouette_Female]
+Mas nasi vdecnost!
+
+[SPEECH: Silhouette_Female]
+Vedela jsem to! Jsou oba mrtvi!
+
+[SPEECH: Silhouette_Female]
+Vybijou nas jako krysy!
+
+[SPEECH: Silhouette_Female]
+To je strasny!
+

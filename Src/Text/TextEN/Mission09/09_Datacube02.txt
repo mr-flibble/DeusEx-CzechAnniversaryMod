@@ -1,0 +1,3 @@
+<COMMENT>Zhao's quarters</COMMENT>
+<DC=255,255,255>
+<P>Song: Before we arrive in port I want you to perform the normal code rotation, but revoke all access to the ship's armory and change the code to 71324.  Tell no one; you and I will be the only ones with access.  Simons is no better than a snake, and I question whether the crew would understand what I must do. You alone I can trust. - Zhao

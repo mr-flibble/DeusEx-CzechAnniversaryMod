@@ -1,0 +1,4 @@
+<COMMENT>MJ12 bot guard room</COMMENT>
+<DC=255,255,255>
+<P>
+<P>Hey Martin, there's been some kind of security snafu so all the codes have been changed until further notice -- blanket orders from a new guy I haven't seen before, an agent of some sort.  The new armory code is 2971, but don't let that get around...I just wanted you to have access in case the bots get twitchy again.  That last OS upgrade seemed a bit shaky, and that makes me nervous when applied to walking gun platforms. -- Peter

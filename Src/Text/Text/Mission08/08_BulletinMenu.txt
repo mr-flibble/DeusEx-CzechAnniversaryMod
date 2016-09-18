@@ -1,0 +1,5 @@
+<FILE=08_Bulletin01,VYHLaSENI STANNHO PRaVA>
+<FILE=08_Bulletin02,HLEDa SE: J.C.Denton>
+<FILE=08_Bulletin03,Nove krematorium>
+<FILE=08_Bulletin04,Vladni uzavirka>
+<FILE=08_Bulletin05,Preruseni dopravy>

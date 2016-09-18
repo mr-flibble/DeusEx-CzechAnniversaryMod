@@ -1,0 +1,12 @@
+<COMMENT>Guard shack</COMMENT>
+<DC=255,255,255>
+<P><B>Search for Terrorist Leader Intensifies</B>
+<P>APR - New York
+<P>
+<P>UNATCO is working closely with FEMA and other international security agencies around the world to apprehend <PLAYERNAME>, a terrorist with ties to a number of groups including the NSF, Silhouette, and organized crime in Hong Kong.
+<P>
+<P>"We believe him to be responsible for organizing and leading the attack on Liberty Island and the deaths of a number of UNATCO agents," said Walton Simons, Director of FEMA.  "The necessity of instituting martial law in New York -- unheard of in the history of America -- is directly attributable to criminal elements operating under his orders."
+<P>
+<P>Simons went on to say that evidence recovered from the recent bombing of the VersaLife building in Hong Kong demonstrates <PLAYERNAME>'s involvement "beyond a shadow of a doubt" and points towards an organized, systematic campaign of terror designed to "extort freedom for politically dangerous ideologies through any means necessary."
+<P>
+<P>Authorities are also seeking any information on the whereabouts of Alex Jacobson or Brian "Jock" Flanagan, key figures in the terrorist organization.

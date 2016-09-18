@@ -1,0 +1,18 @@
+<COMMENT>Tracer Tong Nanotech Book</COMMENT>
+<DC=255,255,255>
+<P><JC><B>Nanoaugmentacni pokusna serie MJ12-3C</B>
+<P><JC><I>pouze pro vnitrni potrebu</I>
+<P>
+<P>...nedavne pokusy na lidech a nasledna studie umrtnosti prokazaly, ze nanoaugmentace lidske fyziognomie neni bez rizika: predevsim stoji za zminku, ze klicove anatomicke oblasti snesou jen omezeny pocet augmentaci, aniz by doslo ke spontannimu odmitnuti ci zrychlene degeneraci. Vyzkum stale pokracuje, ale soucasne udaje nasvedcuji tomu, ze minimalni riziko nabizeji nasledujici augmentacni kombinace:
+<P>
+<P>Paze: <I>Bojova sila</I> nebo <I>Svaly z mikrovlaken</I>
+<P>Nohy: <I>Zvyseni rychlosti</I> nebo <I>Tichy beh</I>
+<P>Podkozni (1): <I>EMP stit</I> nebo <I>Balisticka ochrana</I>
+<P>Podkozni (2): <I>Maskovani</I> nebo <I>Radarova pruhlednost</I>
+<P>Trup (1): <I>Akvalung</I> nebo <I>Odolnost vuci prostredi</I>
+<P>Trup (2): <I>Regenerace</I> nebo <I>Energeticky stit</I>
+<P>Trup (3): <I>Umele srdce</I> nebo <I>Recyklace energie</I>
+<P>Lebka: <I>Agresivni obranny system</I> nebo <I>Vyzvedna sonda</I>
+<P>Optika: <I>Mireni</I> nebo <I>Zvysene videni</I>
+<P>
+<P>V serii 3D budeme zkoumat zivotaschopnost geneticky potlacene imunitni reakce eliminaci typu epsilon...

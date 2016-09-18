@@ -1,0 +1,11 @@
+<DC=255,255,255>
+<P>VITEJTE VE VERSALIFE! Ze zitrka cinime vcerejsek!
+<P>
+<P>Jako nas novy zamestnanec dostanete k dispozici svuj osobni login a heslo, abychom dokazali lepe rozlisit informace a vas podil na nich, stejne jako vase nezamenitelne pracovni navyky. Nicmene dokud nebudou dokonceny vsechny bezpecnostni proverky, budete pouzivat nasledujici standardni login a heslo:
+<P>
+<P>LOGIN: ALL_SHIFTS
+<P>HESLO: DATA_ENTRY
+<P>
+<P>Vas pristup bude omezen na bezne dokumenty a celopodnikovy e-mail, avsak doufame, ze te prilezitosti vyuzijete a blize se seznamite s rodinou VersaLife! Mejte, prosim, na pameti, ze ackoliv jste nedostal plnou uzivatelskou autorizaci, ocekava se od vas, ze budete jednat v souladu s pravidly a radem uvedenym v nasem zamestnaneckem manualu a prislusnych dodatcich.
+<P>
+<P>Dekujeme a prejeme HEZKY DEN!

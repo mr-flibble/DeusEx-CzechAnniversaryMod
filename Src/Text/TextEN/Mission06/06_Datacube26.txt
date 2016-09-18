@@ -1,0 +1,7 @@
+<DC=255,255,255>
+<P>JANINE'S BOTS
+<P>SPECS AND OVERVIEW
+<P> 
+<P>CHIANG "ARCBOT" MODEL 2
+<P>
+<P>The Chiang Arcbot Model 2 was only recently introduced, a radical departure from Chiang's usually conservative line of industrial bots.  Constructed on an arachnid frame, the Model 2 can adeptly maneuver in environments that would be difficult for other repair bots to access. With the addition of a comprehensive array of repair tools, it becomes ideally suited for damage control and building maintenance.  But the truly inspired touch by the normally staid Chiang engineers was the ability for the Arcbot to utilize it's bioelectric discharge capacitor as a non-lethal weapon, allowing it to protect itself from potential vandals and perform double-duty patrolling otherwise unsecured portions of infrastructure.  However, the Arcbot's big brother, the Model 5, is almost exclusively used for riot control...

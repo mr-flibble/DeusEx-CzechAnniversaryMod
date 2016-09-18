@@ -1,0 +1,9 @@
+<COMMENT>Secret area under NSF HQ</COMMENT>
+<DC=255,255,255>
+<P>Paul, I'm sending this message from the plane -- UNATCO has been even more ruthless than we'd feared, and the reports I'm receiving now are that our people are being slaughtered in the tunnels; it's probably only a matter of time before I'm captured and executed, and I don't doubt that they'll kill everyone they can back at our headquarters.
+<P>
+<P>If you find this, you must get a message out to our people.  Align the communications dishes using the satellite dish control computer -- the login is MCOLLINS and the password is REVOLUTION.  Nearby is the actual communications console; log in using NAPOLEON and the same password, and a coded warning will automatically be bounced to everyone on our network.
+<P>
+<P>I can hear the gunshots.  They've reached the plane.  I'm sorry I won't be able to thank you in person -- you've done much for the peoples of the world.
+<P>
+<P>JL

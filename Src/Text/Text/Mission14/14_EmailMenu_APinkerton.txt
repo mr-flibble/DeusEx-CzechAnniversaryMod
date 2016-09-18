@@ -1,0 +1,3 @@
+<DC=255,255,255>
+<EMAIL=14_Email01,Re: Hodnoceni krkounu,WS,APinkerton>
+<EMAIL=14_Email02,POMoC,EPotamus,APinkerton>

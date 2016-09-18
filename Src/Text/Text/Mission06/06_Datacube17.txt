@@ -1,0 +1,7 @@
+<COMMENT>Contraband cargo</COMMENT>
+<DC=255,255,255>
+<P>ZaZNAM 00:2345:2223
+<P>
+<P>Ten zatracenej opravnej bot, kteryho jsme vyzvedli minulej tejden a schovali ho do strojovny, bude snad konecne k necemu dobrej a poskytne nam dostatek stavy, nez se dostaneme pres namorni patroly. Ted ale musime cekat na povoleni k odpluti.
+<P>
+<P>*** KONEC ZaPISU, LODNI KAPITaN SUN CUN

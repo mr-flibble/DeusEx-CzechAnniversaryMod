@@ -1,0 +1,10 @@
+<DC=255,255,255>
+<P><B>Od:</B> JMacdonald//UpNet.879.8657
+<P><B>Ke:</B> JDwight//UpNet.9803.4584
+<P><B>Vec:</B> Je Aquinas bezpecny?
+<P>
+<P>Je to zvlastni... Prave jsem dokoncil analyzu paketu novych kompresnich protokolu v1.82, ktere jsme minuly tyden pridali k Aquinasu, a kdyz jsem se trochu pohrabal v hlavickach, nasel jsem v sifrovacim algoritmu skviru, ktera funguje jako zadni vratka - mohl bys dokonce menit cely obsah zprav, kdybys vedel, jak na to. Skoro to neni videt (musel jsem predtim sestavit dohromady nekolik ruznych ofsetu po sobe nasledujicich paketu, abych vygeneroval casovy diferencni klic), ale konecny vysledek by nejspis otevrel cestu ke kazdickemu bitu, ktery by Aquinas prinasel tomu, kdo o te dire vi.
+<P>
+<P>Napadlo me, zminit se o tom Pageovi, ale mozna by slysel nerad, ze se objevila bezpecnostni dira tesne predtim, nez se to chystame spustit. Co myslis ty?
+<P>--
+<P>Jim

@@ -1,0 +1,8 @@
+<DC=255,255,255>
+<P>Hej, J.C., chces se dostat pres tu vodu? Nastav si mustek. Kod je:
+<P>
+<P><JC><B>0089</B>
+<P>
+<P>Zkus to takhle, jestli se nechces namocit.
+<P>
+<P>Jaime

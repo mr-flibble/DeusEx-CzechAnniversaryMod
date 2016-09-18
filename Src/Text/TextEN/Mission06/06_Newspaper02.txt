@@ -1,0 +1,10 @@
+<COMMENT>Hong Kong news stand</COMMENT>
+<DC=255,255,255>
+<P><B>Mass Driver Accident Kills Over 2,000</B>
+<P>APR - Ibadan, Nigeria
+<P>
+<P>The historical first delivery of ore from the Zhou Enlai Lunar Mining Complex ended in tragedy today when a targeting error resulted in the payload slamming into the outskirts of the city of Ibadan in Nigeria.  Thousands died in the initial blast that was compared to a small nuclear bomb as the payload impacted in a sparsely populated suburb, while thousands more were left disoriented, homeless, and without power or water in the wake of the explosion.
+<P>
+<P>Chinese officials have halted all other deliveries from the Zhou Enlai Complex and are working with both the United Nations and officials from McMoran Global Steel to determine the cause of the error.  McMoran Global Steel was responsible for the construction of the mass driver, winning the contract from Page Industries in a heated bidding war.
+<P>
+<P>"Obviously we took the utmost precautions in building the Zhou Enlai driver," said spokesperson Sean Murphy.  "But something has gone terribly wrong.  Our only real response at this point is to offer our condolences and aid to the people of Ibadan, and insure that such an event never occurs again."

@@ -1,0 +1,22 @@
+
+<COMMENT>Paul Denton apartment inbox</COMMENT>
+<DC=255,255,255>
+<P>Vase zprava:
+<P> 
+<P><B>Ke:</B> juan//NYCNET.7786.786658
+<P><B>Vec:</B> Tve vysledky
+<P><B>Poslano:</B> Wed 14:18:59 -0600
+<P>
+<P>Zprava nedosla k zamyslenym prijemcum:
+<P>
+<P>juan//HK2net.7786.786658 on Wed, 14:26:35 -0600
+<P>Zpravu nebylo mozne dorucit kvuli selhani pri spojeni
+<P>MPSEXCH:IMS: New York Net: BORONTYPE:ADA 0 (000C05A6) Prijemce neznamy
+<P>
+<P>Nasledujici zprava:
+<P>
+<P>>Zacinam se vazne obavat o vysledky testu; objevily se tu
+<P>>nektere naznaky, ktere me obavy jeste mnohem vice prohloubily.
+<P>>Budu si muset promluvit s Tracerem. Zachovej opatrnost!
+<P>>
+<P>>-P

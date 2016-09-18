@@ -1,0 +1,21 @@
+<DC=255,255,255>
+<P><JC><B>Richard III</B>
+<P><JC>by William Shakespeare
+<P>
+<P>Act I, Scene IV
+<P>
+<P><B>CLARENCE:</B>
+<P>
+<P>... Lord, Lord! methought, what pain it was to drown!
+<P>What dreadful noise of waters in mine ears!
+<P>What ugly sights of death within mine eyes!
+<P>Methought I saw a thousand fearful wrecks;
+<P>Ten thousand men that fishes gnaw'd upon;
+<P>Wedges of gold, great anchors, heaps of pearl,
+<P>Inestimable stones, unvalued jewels,
+<P>All scatter'd in the bottom of the sea:
+<P>Some lay in dead men's skulls; and, in those holes
+<P>Where eyes did once inhabit, there were crept,
+<P>As 'twere in scorn of eyes, reflecting gems,
+<P>Which woo'd the slimy bottom of the deep,
+<P>And mock'd the dead bones that lay scatter'd by...

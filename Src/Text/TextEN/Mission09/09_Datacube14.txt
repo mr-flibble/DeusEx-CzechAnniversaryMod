@@ -1,0 +1,12 @@
+<COMMENT>Locker</COMMENT>
+<DC=255,255,255>
+<P>From: Captain James Keend
+<P>To: Ensign Charles Warrent
+<P>Subject: Security Restrictions
+<P>
+<P>Ensign Warrent,
+<P>
+<P>In the interests of security and for your own protection, regular patrols will guard the dock while the PRCS Wall Cloud is in port and the gangway for the Wall Cloud will be kept in its raised position.  If you or your men need access to the Wall Cloud, the ramp can be lowered with the code 6655.  It should go without saying that this code must not be shared or else disciplinary action could result.  Please coordinate your men with the ranking FEMA security officer present.
+<P>
+<P>Captain James Keene
+<P>Brooklyn Naval Shipyards

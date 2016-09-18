@@ -1,0 +1,7 @@
+<COMMENT>Boat house</COMMENT>
+<DC=255,255,255>
+<P>Young:
+<P>
+<P>I've got to survey the perimeter -- reports are coming back of someone heading this way through the tunnels.  Don't know what their force composition is, but it sounds bad.  If I'm not back, load up the Ambrosia as soon as the boat arrives and then head for the hangar -- the East Gate is locked, so get the key.  I'll meet you there.
+<P>
+<P>-Decker

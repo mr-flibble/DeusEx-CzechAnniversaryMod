@@ -1,0 +1,10 @@
+<COMMENT>Hong Kong news stand</COMMENT>
+<DC=255,255,255>
+<P><B>"Gray Death" Cases Misdiagnosed</B>
+<P>Hong Kong Standard
+<P>
+<P>Authorities confirmed today that a number of mysterious illnesses reported at area clinics were not cases of "Gray Death" as had been previously feared, but merely a seasonal outbreak of influenza.
+<P>
+<P>Dr. Chang Lam of the People's Health Administration headed the inquiry.  "I can say with complete certainty that these cases exhibit absolutely none of the symptoms of the so-called 'Gray Death,' -- cases which, I might add, have so far only been reported in the less well managed cities of America and Europe.  Those malcontents who have spread rumors to the contrary are merely feeding upon the unjustified fears of the hardworking men and women of Hong Kong."
+<P>
+<P>Dr. Lam went on to say that anyone observed making such claims should be reported to local party leaders for counseling.

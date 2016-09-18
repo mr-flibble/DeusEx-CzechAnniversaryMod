@@ -1,0 +1,3 @@
+<COMMENT>10_Paris_Catacombs Map</COMMENT>
+<DC=255,255,255>
+<P>Welcome to Paris, the City of Lights!  This map will help to familiarize you with the Champs-Elysées, the spiritual and cultural heart of the city.  During the day the Champs-Elysées is a bustling street of boutiques and government offices, but it is only at night that it comes truly alive, a place of cafes and clubs, of theatres and cabaret.  While many visitors only see the glittering main avenue, those who are a bit more adventurous might venture off the beaten path and be rewarded with a taste of old Paris in the dark back streets and alleys away from the flashing lights and hustle of tourists...

@@ -1,0 +1,2 @@
+<EMAIL=04_Email01,Potrebuju pruchod,Verejny terminal,328.2133.1230,>
+<EMAIL=04_Email02,Re: Ockovani proti obrne,LevelBeam,Diskuse o obcanskych pravech,>

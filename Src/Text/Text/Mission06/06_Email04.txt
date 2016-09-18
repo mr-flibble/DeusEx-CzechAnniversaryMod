@@ -1,0 +1,6 @@
+<DC=255,255,255>
+<P><B>Od:</B> Operacni centrala//UpNet.64534.453423
+<P><B>Ke:</B> Vnitrni ochranka//VersaLife.14321.56245
+<P><B>Vec:</B> Nove rozkazy
+<P>
+<P>Momentalni nepokoje v radach zamestnancu si zadaji plnou pohotovost vsech tajnych clenu ochranky. Pri vykonu sluzby s sebou vsude noste svou prirucni zbran. Jestlize u zamestnancu zpozorujete nepratelskou ci jinak podezrelou cinnost, mate povoleni zakrocit se vsemi nevyhnutelnymi dusledky.

@@ -1,0 +1,19 @@
+<COMMENT>10_Paris_Metro ATM Account</COMMENT>
+<DC=255,255,255>
+<P><B>NAVI 008-BLUE v4.28 ('OBELIX')</B>
+<P>
+<P>*** TENTO NAVI JE MAJETKEM PIERRA BOULLE; NALEZNE-LI HO NEKDO, A› HO, PROSIM, VRaTI NA ADRESU: PIERRE BOULLE, RUE MONTAIGNE 74, NEBO NAPISE NA: PBOULLE//PARISNET.3729.293.834. ***
+<P>
+<P><JC>- SEZNAM UKOLU -
+<P>
+<P>* Vstupenky na Cavallera Rusticana, 21/7
+<P>
+<P>* Schuzka s Traci v Enfants Terrible, 18:30
+<P>
+<P>* Nove CD u Brewer's Phrase
+<P>
+<P>* Novy ucet, ctrnacty obvod: 001506/naga066
+<P>
+<P>* Cokolada a '34 Seven Crows Est. Sauvignon Blanc pro Marii
+<P>
+<P>* Stahnout si novy patch Navi 4.31

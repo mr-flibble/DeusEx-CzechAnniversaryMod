@@ -1,0 +1,7 @@
+<COMMENT>Ship's command center</COMMENT>
+<DC=255,255,255>
+<P>Songu,
+<P>
+<P>Povidal jsi, ze tentokrat budes menit bezpecnostni kody osobne ty, ale mel by ses domluvit s kapitanem - vcera se mi podarilo zmenit jeho nastaveni na 65678. Nebylo mi jasny, jestli ho mam nastavovat ja nebo on!
+<P>
+<P>Ewan

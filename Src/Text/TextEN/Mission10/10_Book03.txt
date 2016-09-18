@@ -1,0 +1,15 @@
+<DC=255,255,255>
+<P><JC><B>The Man Who Was Thursday</B>
+<P><JC>by G. K. Chesterton
+<P>
+<P>... "Professor," he cried, "it is intolerable. Are you afraid of this man?"
+<P>
+<P>The Professor lifted his heavy lids, and gazed at Syme with large, wide-open, blue eyes of an almost ethereal honesty.  "Yes, I am," he said mildly.  "So are you."
+<P>
+<P>Syme was dumb for an instant.  Then he rose to his feet erect, like an insulted man, and thrust the chair away from him.
+<P>
+<P>"Yes," he said in a voice indescribable, "you are right.  I am afraid of him.  Therefore I swear by God that I will seek out this man whom I fear until I find him, and strike him on the mouth.  If heaven were his throne and the earth his footstool, I swear that I would pull him down."
+<P>
+<P>"How?" asked the staring Professor.  "Why?"
+<P>
+<P>"Because I am afraid of him," said Syme; "and no man should leave in the universe anything of which he is afraid..."

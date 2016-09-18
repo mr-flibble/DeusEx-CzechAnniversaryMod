@@ -1,0 +1,13 @@
+<DC=255,255,255>
+<P>BANKOVNI SYSTêM JEDINY SVET
+<P>3 Plaza One, New York
+<P>"Budoucnosti bankovnictvi je Jediny svet."
+<P>
+<P>Pane Rentone,
+<P>
+<P>na Vasi zadost Vam zasilame kopii Vaseho bankovniho uctu a cisla PIN. Ocenujeme Vas zajem a ochotne Vam odpovime na jakoukoli dalsi eventualni otazku.
+<P>
+<P>Ucet: 487659
+<P>PIN: 249087
+<P>
+<P>Uschovejte, prosim, tento zaznam na bezpecnem miste, abyste zabranil neopravnenym osobam v pristupu k Vasemu uctu.

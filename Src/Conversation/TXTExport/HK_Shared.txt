@@ -1,0 +1,6999 @@
+-----------------------------------------------------------------
+[Owner: AlexJacobson]
+[Name:  M06AlexJacobsonBarks]
+
+[COMMENT]
+Cycle and go random.
+
+[SPEECH: AlexJacobson]
+Tong ma konexe. Mel bys proslidit laborky, jestli tam nejsou vylepseni augmentaci.
+
+[SPEECH: AlexJacobson]
+Jaime se ma urcite dobre.
+
+[SPEECH: AlexJacobson]
+Jaime uz by mel byt touhle dobou ve meste.
+
+[SPEECH: AlexJacobson]
+Jsem tady, abych ti pomahal, stejne jako v UNATCO.
+
+[SPEECH: AlexJacobson]
+Ochranku v budove VersaLife neber na lehkou vahu; ti si svoje vedecke programy chrani jako oko v hlave!
+
+[SPEECH: AlexJacobson]
+VersaLife je jednou z mala spolecnosti, ktera se zabyva zakladnim vyzkumem v nekolika vedeckych oborech.
+
+[SPEECH: AlexJacobson]
+Spolecnost nesdili svoje data s lekarskym vyzkumem. Proto se jim tak dobre dari.
+
+[SPEECH: AlexJacobson]
+Kdyby vyrabeli Ambrozii verejne, doslo by k hroznemu krveproliti.
+
+[SPEECH: AlexJacobson]
+Prohlizel jsem si ta schematka, ktera jsi nasel. Hrome, tomu rikam mec!
+
+[SPEECH: AlexJacobson]
+V nanotechnologii plati axiom, ze nanity a klasicke kovy se nesnaseji, jenze VersaLife zrejme nejaky zpusob objevila. V tuhle chvili uz mi to pripada naprosto jasne.
+
+[SPEECH: AlexJacobson]
+V podstate naroubovali ocelove vyhonky na uhlikovou mrizku nanitu - elektromagnety pak umoznuji mikroskopickym skenerum, cisticum a kladivum pohybovat se po povrchu cepele.
+
+[SPEECH: AlexJacobson]
+Tong ma velkou radost. Chtel by Draci zuby vyrabet ve velkem a vyzbrojovat jim triady.
+
+[SPEECH: AlexJacobson]
+Rad bych vedel, co jineho VersaLife v podzemi jeste skryva.
+
+[SPEECH: AlexJacobson]
+Tong mi neda ani vydechnout. Chce, abych overil, ze na Draci zub nebudou reagovat akusticke senzory strelby, ktere nechalo instalovat mesto.
+
+[SPEECH: AlexJacobson]
+Tong je uzitecny spojenec. Jenom doufam, ze se mu da verit.
+
+[SPEECH: AlexJacobson]
+Kdybys me potreboval, vis, kde me najdes.
+
+-----------------------------------------------------------------
+[Owner: AlexJacobson]
+[Name:  M06MeetAlexJacobson]
+
+[SPEECH: JCDenton]
+Hodne jsi riskoval, kdyz jsi sem za mnou jel. Diky.
+
+[SPEECH: AlexJacobson]
+Kdyz clovek necemu veri, mel by si za tim jit.
+
+[SPEECH: JCDenton]
+Jak to, ze jsi Tonga nasel tak rychle?
+
+[SPEECH: AlexJacobson]
+Zjistil jsem, ze ho znam uz dlouho: TT//UnderNet.0924.243.886. Poslal jsem mu zpravu a on me sam zkontaktoval.
+
+[SPEECH: JCDenton]
+Nemluvil jsi pred odletem s Jaimem?
+
+[SPEECH: AlexJacobson]
+Povidal, ze pry jsi ho angazoval jako speha... Ja nevim, neni to trochu nebezpecny?
+
+[SPEECH: JCDenton]
+Mozna... Co myslis?
+
+[SPEECH: AlexJacobson]
+Jaime byl vyjukanej. Simons je posedlej odhalovanim zradcu.
+
+[SPEECH: JCDenton]
+Nejspis ho podeziraji, protoze jsme pratele.
+
+[SPEECH: AlexJacobson]
+Presne. Ale povidal mi, ze to vydrzi, protoze si mysli, ze by ti to mohlo k necemu bejt.
+
+[SPEECH: JCDenton]
+Hm. Doufam, ze mu to vcas dojde, kdyz by musel vypadnout.
+
+[SPEECH: JCDenton]
+Vis neco o Jaimem?
+
+[SPEECH: AlexJacobson]
+Zatim vubec nic. Doufam, ze to zvladne.
+
+[SPEECH: JCDenton]
+Jo, ja taky.
+
+[SPEECH: AlexJacobson]
+Vypada to, ze Jaime se sem taky probojoval.
+
+[SPEECH: JCDenton]
+Jo?
+
+[SPEECH: AlexJacobson]
+Je dole na osetrovne vedle operacniho salu. Pani, ten ma radost, ze zdrhnul z UNATCO! Simons by vsechny spehy nejradsi ukrizoval.
+
+[SPEECH: JCDenton]
+Musim se tam za nim stavit.
+
+[SPEECH: JCDenton]
+Jo, jsem rad, ze uz neni v UNATCO.
+
+[SPEECH: AlexJacobson]
+Prave vcas. Simons by vsechny spehy nejradsi ukrizoval.
+
+[SPEECH: JCDenton]
+Nevystoural jsi neco o tom Daidalovi? Porad jeste se mi ozyva.
+
+[SPEECH: AlexJacobson]
+No, vlastne neco malo jo. Crypto rika, ze Daidalos je pravdepodobne vladni projekt s UI, kryci jmeno Echelon IV.
+
+[SPEECH: JCDenton]
+"Pravdepodobne"?
+
+[SPEECH: AlexJacobson]
+Mam tu informaci z anonymniho kryptofora. Daidalos by mel prekonat vsechny stare vyhledavaci programy s rozlisovanim podle obsahu; mel by prohledavat terabajty prijatych zprav podvratneho obsahu.
+
+[SPEECH: JCDenton]
+A co se stalo?
+
+[SPEECH: AlexJacobson]
+Pokud vim, tak ten projekt zarazili. Byl to moc tvrdej orisek. Utopili v tom spoustu penez danovych poplatniku, ale nakonec museli rezignovat.
+
+[SPEECH: JCDenton]
+Takze ta vec, ktera se mnou komunikuje, je... co? Nezavisla umela inteligence?
+
+[SPEECH: AlexJacobson]
+Taky bych to rad vedel.
+
+-----------------------------------------------------------------
+[Owner: AlexJacobson]
+[Name:  M07AlexJacobsonBarks]
+
+[COMMENT]
+These cycle and repeat the last.M
+
+[SPEECH: AlexJacobson]
+Jaime to stihl z UNATCO jentaktak, ale oddechl jsem si, ze se mu to podarilo. Myslim, ze kdyz bude pomahat Tongovi na osetrovne, bude ho cekat delsi zivot.
+
+[SPEECH: AlexJacobson]
+Dopravil jsi nam pekne velky balik dat. Chvili to potrva, nez to prostudujem.
+
+[SPEECH: AlexJacobson]
+Nechapu, jak chce Tong ten lek pripravit. Vzdyt to neni skutecny virus!
+
+[SPEECH: AlexJacobson]
+Je to krizenec viralnich bilkovin a nanomechanickych soucastek.
+
+[SPEECH: AlexJacobson]
+Ma to dlouhe telo jako vazka. Patice sestavene do hlavniho paprsku, tu a tam pripojene talirovite moduly.
+
+[SPEECH: AlexJacobson]
+Je to takove viceucelove zarizeni, velice parametricke.
+
+[SPEECH: AlexJacobson]
+Infekce je pro tak slozity mechanismus smesne lehkym ukolem.
+
+[SPEECH: AlexJacobson]
+Ambrozie se ukazala byt jednim z tech talirovitych modulu, v jistem smyslu je to hardwarovy zamek.
+
+[SPEECH: AlexJacobson]
+Princip funkce Ambrozie replikovat dokazeme, ale abychom ten nanovirus dokazali skutecne znicit... ja nevim.
+
+[SPEECH: AlexJacobson]
+Mel by ses rozjet za tou zasilkou. Ja pomuzu Tongovi.
+
+-----------------------------------------------------------------
+[Owner: BarManLawrence]
+[Name:  LawrenceBarks]
+
+[COMMENT]
+Cheerful, trusting of everyone.
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: BarManLawrence]
+Dobry vecer, pane.
+
+[SPEECH: BarManLawrence]
+Neni to spatnej Cabernet, smim-li to tak rict.
+
+[SPEECH: BarManLawrence]
+Nezrizenej nocni zivot - to byla odjakziva moje slabost.
+
+[COMMENT]
+The player has killed someone in the club.  These cycle and go random.
+
+[SPEECH: BarManLawrence]
+Co je? Co jsem udelal?
+
+[SPEECH: BarManLawrence]
+Ja si hledim svyho!
+
+[SPEECH: BarManLawrence]
+Vzdyt jsem nic nerek'!
+
+-----------------------------------------------------------------
+[Owner: BarManLawrence]
+[Name:  LawrenceOverheard]
+
+[COMMENT]
+Lawrence is a geeky guy.  Ling is an older Asian woman.„dÓSs◊{RpM]H[˙Su áK(Æ+ˇ˚0ƒ5Ä4]oCŒPÌãÆ(RoXË–a
+
+[SPEECH: BarWomanLing]
+Dejte si jeste piti!
+
+[SPEECH: BarManLawrence]
+Prominte, jestli jsem...
+
+[SPEECH: BarWomanLing]
+O cem jste to mluvil?
+
+[SPEECH: BarManLawrence]
+No, nase zeny nepripominaji vasi dceru. Velice rad bych se s ni setkal.
+
+[SPEECH: BarWomanLing]
+Vy jste velice hezky; musite mit doma mnoho pritelkyn.
+
+[SPEECH: BarManLawrence]
+No, ehm, tedy...
+
+-----------------------------------------------------------------
+[Owner: BarManLawrence]
+[Name:  LawrenceOverheard2]
+
+[SPEECH: BarManLawrence]
+Vite, je to mym spolecenskym postavenim... Zkratka v Americe jsou budto chudaci nebo milionari a zeny na me spolecenske urovni... ehm, jsou zkazene.
+
+[COMMENT]
+Bored, waiting for a chance to mug this guy. daughter.  I do very much wish to meet her.
+
+[SPEECH: BarWomanLing]
+Mmmmmm.
+
+[SPEECH: BarManLawrence]
+Zatimco vase dcera - to je prece nadherny priklad. Nenarodila se sice se stribrnou lzickou v ustech, ale...
+
+[COMMENT]
+Somewhat sardonic.  She's going to rob him.
+
+[SPEECH: BarWomanLing]
+Spis s drevenou spejli.
+
+[SPEECH: BarManLawrence]
+Ano! Ano, to je presne ono. A prave proto si ceni dulezitych veci: jidla, domova, klidu...
+
+[SPEECH: BarWomanLing]
+Mate moc hezke hodinky.
+
+[SPEECH: BarManLawrence]
+Dekuji vam. To je od vas hezke. Je to darek od me matky.
+
+-----------------------------------------------------------------
+[Owner: BarManLawrence]
+[Name:  LawrenceOverheard3]
+
+[SPEECH: BarManLawrence]
+Jsou ze ctrnactikaratoveho zlata. Nehodi se ke mne.
+
+[SPEECH: BarWomanLing]
+Vam slusi hezke veci.
+
+[SPEECH: BarManLawrence]
+Myslite?
+
+[SPEECH: BarWomanLing]
+Mate prece jemne, aristokraticke zapesti.
+
+[SPEECH: BarManLawrence]
+Ale prestante uz! Nebo mi jeste zamotate hlavu!
+
+-----------------------------------------------------------------
+[Owner: BarManVince]
+[Name:  BarManVinceBarks]
+
+[COMMENT]
+The idea is that this guy is drunk and muttering about an experiment for which he volunteered at VersaLife.  He's basically quoting when he himself or others said during the experiment.  He's oblivious to world, even if the player has just shot the person next to him.
+
+[SPEECH: BarManVince]
+...ne, jasne, injekce mi nevadi...
+
+[SPEECH: BarManVince]
+...tumor, sumor...
+
+[SPEECH: BarManVince]
+...pokusy? Pokusy ja mam rad...
+
+[SPEECH: BarManVince]
+...v zajmu vedy...
+
+[SPEECH: BarManVince]
+...nanoaugmentovana transkripce - to bude ono!
+
+[SPEECH: BarManVince]
+...drzte huby, jinak vas hodime krkounum...
+
+-----------------------------------------------------------------
+[Owner: BarSailor]
+[Name:  BarSailorAfterRaidBarks]
+
+[COMMENT]
+This is after the MJ12 raid.
+
+[SPEECH: BarSailor]
+Chci nazpatek svy prachy!
+
+[SPEECH: BarSailor]
+Kecali, ze podmazli poldy, a HELE! Poldove prisli stejne!
+
+[SPEECH: BarSailor]
+Jak jsem zdrhal pred tim strilenim, zasvinil jsem si vinem CELOU UNIFORMU!
+
+[SPEECH: BarSailor]
+Co tady vopruzujes?
+
+[SPEECH: BarSailor]
+To vsechno Jevgenij! Premluvil nas, at jdeme sem a ztracime tady cas!
+
+[SPEECH: BarSailor]
+To je ale bordel... hnus!
+
+-----------------------------------------------------------------
+[Owner: BarSailor]
+[Name:  BarSailorBarks]
+
+[COMMENT]
+Carousing Russian sailors.  Might be cool to have an ambient piece of audio that is a group of Russians sailors carousing quietly among themselves, such that these barks are an occasional burst above the din.  (?)
+
+[COMMENT]
+(to a woman dancing on a table)
+
+[SPEECH: BarSailor]
+Do naha!
+
+[SPEECH: BarSailor]
+Hej, Jevgeniji!... Jevgeniji! Kde je Jevgenij?
+
+[COMMENT]
+(to the dancing woman)d
+
+[SPEECH: BarSailor]
+Vic! Vic!
+
+[SPEECH: BarSailor]
+Znova! Udelej to znova!
+
+[SPEECH: BarSailor]
+Poslete ho za mamasan!
+
+[SPEECH: BarSailor]
+No tak! Pojd se s nama napit!
+
+[COMMENT]
+(to the dancing woman)
+
+[SPEECH: BarSailor]
+Pojd ke mne, hosanku!
+
+[SPEECH: BarSailor]
+Co je? Tys' nam ji odehnal!
+
+[SPEECH: BarSailor]
+Vypadni! Kazis nam tady zabavu!
+
+-----------------------------------------------------------------
+[Owner: BarSailor]
+[Name:  BarSailorBumpBarks]
+
+[COMMENT]
+Carousing Russian sailors.
+
+[SPEECH: BarSailor]
+Padej!
+
+[SPEECH: BarSailor]
+MµM V HUB∑ PIT÷!
+
+[SPEECH: BarSailor]
+Nezaclanej!
+
+[COMMENT]
+(an order)i
+
+[SPEECH: BarSailor]
+Bez dolu! Horejsek je nas!
+
+[SPEECH: BarSailor]
+Vyrid mamasan: jeste tri tanecnice. Zaplatime!
+
+[SPEECH: BarSailor]
+Tak dost! Mazej!
+
+-----------------------------------------------------------------
+[Owner: BarSailor]
+[Name:  BarSailorRaidBarks]
+
+[COMMENT]
+Alarmed.  This is during the MJ12 raid.
+
+[SPEECH: BarSailor]
+Co se deje?
+
+[SPEECH: BarSailor]
+Utecte!
+
+[SPEECH: BarSailor]
+Policie! Policie!
+
+-----------------------------------------------------------------
+[Owner: BarSuit]
+[Name:  BarSuitAmbushBarks]
+
+[SPEECH: BarSuit]
+Ja za nic nemuzu!
+
+[SPEECH: BarSuit]
+Neublizujte mi! Jsem vladni urednik!
+
+[COMMENT]
+to himself	Y¡~záÑ¡s
+
+[SPEECH: BarSuit]
+Jestli me tu pristihnou, je se mnou konec!
+
+-----------------------------------------------------------------
+[Owner: BarSuit]
+[Name:  BarSuitBarks]
+
+[COMMENT]
+Asian businessman having a cocktail.  These cycle and go random.e
+
+[SPEECH: BarSuit]
+Dobry vecer.
+
+[SPEECH: BarSuit]
+Vy musite byt American.
+
+[COMMENT]
+As in, "You can always..."
+
+[SPEECH: BarSuit]
+...v klubu Lucky Money se mi vzdycky libilo.
+
+[SPEECH: BarSuit]
+Muj soukromy tip: ta filipinska devcata od Rudeho sipu jsou nejlepsi!
+
+[SPEECH: BarSuit]
+Mnozi moji klienti jsou od Rudeho sipu.
+
+[COMMENT]
+Very rosy, referring to the fine time he is having.
+
+[SPEECH: BarSuit]
+Odjakziva me bavilo obchodovat s triadami.
+
+-----------------------------------------------------------------
+[Owner: BarSuit]
+[Name:  BarSuitMeet]
+
+[COMMENT]
+This guy is one of the government officials Max Chen owns.  He gets drinks and girls for free, so he's in a fine mood.rveillance; it was a program that could search all the terabytes of intercepted messages for subversive content.
+
+[SPEECH: BarSuit]
+Dobry vecer.
+
+[SPEECH: JCDenton]
+Nazdarek.
+
+[CHOICES:3]
+
+[CHOICE:]
+Je to tady bezva!
+
+[CHOICE:]
+Neznate muze jmenem Max Cen?
+
+[CHOICE:]
+Prominte, ze obtezuju...
+
+[SPEECH: BarSuit]
+Ze? Vite, lide maji o triadach zkreslene predstavy.
+
+[SPEECH: JCDenton]
+Jak to myslite?
+
+[SPEECH: BarSuit]
+Jsou motorem ekonomiky! Tady v klubu muzete nakupovat za ceny cerneho trhu, coz umoznuje spouste lidi dobrou zabavu.
+
+[SPEECH: BarSuit]
+Jisteze znam Maxe! Je to uzasny clovek!
+
+[SPEECH: JCDenton]
+A vite, kde bych ho nasel?
+
+[SPEECH: BarSuit]
+V zadni mistnosti! Ridi odtamtud cely Rudy sip! Ehm, vy nejste od policie, vidte?
+
+[SPEECH: JCDenton]
+To se vcas dovite.
+
+[NOTE:]
+Max Cen ridi triadu Rudy sip ze zadni mistnosti v klubu Lucky Money.
+
+[SPEECH: BarSuit]
+Preji vam prijemny vecer.
+
+[SPEECH: BarSuit]
+Tenhle klub ma vsechno nejlepsi. Nemyslite...?
+
+[SPEECH: JCDenton]
+Necham si od vas poradit.
+
+[SPEECH: JCDenton]
+Zatim se bavte. Kdybych mel dalsi otazky, najdu si vas.
+
+[SPEECH: JCDenton]
+Jo, kdyz nepocitame malou armadu v te zadni mistnosti.
+
+[SPEECH: BarSuit]
+Pokud ma dobre fungovat ekonomika, musite zachovat rad. A odkud by mel pramenit, kdyz ta policie je tolik zkorumpovana?
+
+[COMMENT]
+Dummy.D
+
+-----------------------------------------------------------------
+[Owner: BarThug]
+[Name:  BarThugAmbushBarks]
+
+[SPEECH: BarThug]
+Policejni razie!
+
+[SPEECH: BarThug]
+Co se to, k certu, deje?
+
+[SPEECH: BarThug]
+Je to razie!
+
+-----------------------------------------------------------------
+[Owner: BarThug]
+[Name:  BarThugBarks]
+
+[COMMENT]
+A thug eyeing the dancing girls.  The 3D model looks American, so that's how I wrote him.  These cycle and go random..rveillance; it was a program that could search all the terabytes of intercepted messages for subversive content.
+
+[SPEECH: BarThug]
+Hele, stojite mi v ceste, clovece!
+
+[SPEECH: BarThug]
+Mam rad mlady maso.
+
+[SPEECH: BarThug]
+Zacinate mi jit na nervy.
+
+-----------------------------------------------------------------
+[Owner: BarThug]
+[Name:  BarThugBarks2]
+
+-----------------------------------------------------------------
+[Owner: BarThug]
+[Name:  M06MeetBarThug]
+
+[SPEECH: BarThug]
+Nejsem vas typ.
+
+[SPEECH: JCDenton]
+Chtel bych vam polozit par otazek.
+
+[SPEECH: BarThug]
+Heledte, ja tu byl prvni. Samotnej Cen mi povidal: jestli je tu prace, dostanes ji.
+
+[SPEECH: JCDenton]
+Jaka prace?
+
+[SPEECH: BarThug]
+Proste si dejte zpatecku. Dostal jsem padaka v sousednim Quick Stopu - uplne bez varovani - a potrebuju prachy.
+
+[SPEECH: JCDenton]
+Prasiva smula.
+
+[SPEECH: BarThug]
+Jo, spravne, ale ja jim to nedaruju. Znam login na jejich pocitac. Je to MANAGEMENT, heslo: CODE324. Jednou v noci se tam proplizim a smazu jim vsechny databaze!
+
+[SPEECH: JCDenton]
+Co bude delat pokladni z Quick Stopu pro Rudy sip?
+
+[SPEECH: BarThug]
+Jeste me nevzali.
+
+[NOTE:]
+Login do pocitace v obchode Quick Stop: MANAGEMENT; heslo: CODE324.
+
+-----------------------------------------------------------------
+[Owner: BarThug]
+[Name:  M06MeetBarThug2]
+
+-----------------------------------------------------------------
+[Owner: BarWomanLing]
+[Name:  BarWomanLingAfterMugging]
+
+[COMMENT]
+This woman just rolled the man who had been talking to her during the previous mission.  She took his watch.  These cycle and go random.ói$ëÄùæ\Qîe
+
+[SPEECH: BarWomanLing]
+Ma pritelkyne odesla. Ted uz nemam nikoho na povidani.
+
+[SPEECH: BarWomanLing]
+Potrebovala bych kupce na ctrnactikaratove zlate hodinky.
+
+[SPEECH: BarWomanLing]
+Vypada to, ze se budu domu vracet sama.
+
+-----------------------------------------------------------------
+[Owner: BarWomanLing]
+[Name:  BarWomanLingAmbushBarks]
+
+[COMMENT]
+a screamLingAmbu
+
+[SPEECH: BarWomanLing]
+µaaaaaa!
+
+[SPEECH: BarWomanLing]
+Zachrante me nekdo!
+
+[SPEECH: BarWomanLing]
+Tak prestante uz!
+
+-----------------------------------------------------------------
+[Owner: BarWomanLing]
+[Name:  BarWomanLingBarks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: BarWomanLing]
+Moc se mi libi vas kabat.
+
+[SPEECH: BarWomanLing]
+Prave jsme se chystali k odchodu.
+
+[SPEECH: BarWomanLing]
+Ty vase bryle musely stat dost penez.
+
+-----------------------------------------------------------------
+[Owner: Base_Guard]
+[Name:  Base_Guard_FinalBarks]
+
+[SPEECH: Base_Guard]
+Pan Tong je nadsen tim, co jste zjistil.
+
+[SPEECH: Base_Guard]
+Vas pilot pro vas prileti, jakmile si promluvite s panem Tongem.
+
+[SPEECH: Base_Guard]
+Vas pilot pristal na dvore.
+
+[SPEECH: Base_Guard]
+Nemuzeme uverit te novince o nakladni lodi. S tim se musi neco udelat!
+
+[SPEECH: Base_Guard]
+Musite si hned promluvit s panem Tongem!
+
+[SPEECH: Base_Guard]
+Prejeme vam v Americe mnoho stesti!
+
+[SPEECH: Base_Guard]
+Triadam jste prokazal cenne sluzby.
+
+[SPEECH: Base_Guard]
+Ted zacne poradna prace. Pan Tong musi najit lek na ten virus.
+
+-----------------------------------------------------------------
+[Owner: Base_Guard]
+[Name:  Base_Guard_InitialBarks]
+
+[SPEECH: Base_Guard]
+Je tady i vas pritel, Alex Jacobson. Myslim, ze zkousi vybaveni pana Tonga.
+
+[SPEECH: Base_Guard]
+Pan Tong je v operacnim sale.
+
+[SPEECH: Base_Guard]
+Tak vas pritel ukradl cerny vrtulnik? Velmi odvazne.
+
+[SPEECH: Base_Guard]
+Prosim - vyridte svou zalezitost a odejdete!
+
+[SPEECH: Base_Guard]
+Nerikejte nikomu, jak jste se dostal dovnitr!
+
+[SPEECH: Base_Guard]
+Vy musite byt JC! Tong vas hned prijme.
+
+-----------------------------------------------------------------
+[Owner: Base_Guard]
+[Name:  Base_Guard_MiddleBarks]
+
+[SPEECH: Base_Guard]
+Pan Tong zamestna vaseho pritele Alexe; zustane tu s nami.
+
+[SPEECH: Base_Guard]
+Vas pritel lekar je tady, dole na osetrovne.
+
+[SPEECH: Base_Guard]
+Doufam, ze uz jste hovoril se svym bratrem. Jsem rad, ze se mu to podarilo.
+
+[SPEECH: Base_Guard]
+Dozvedeli jsme se tu zpravu o Paulovi. Je to nestesti.
+
+[SPEECH: Base_Guard]
+Primeri nebude tak snadne, ale budeme se snazit.
+
+[SPEECH: Base_Guard]
+Prosim... Vezmete si cokoliv, co budete potrebovat pro svou misi.
+
+[SPEECH: Base_Guard]
+Pan Tong vam vysvetli vase dalsi ukoly.
+
+-----------------------------------------------------------------
+[Owner: BathroomGirl]
+[Name:  BathroomGirlAmbushBarks]
+
+[SPEECH: BathroomGirl]
+Pane Boze, uz zase!
+
+[SPEECH: BathroomGirl]
+Jenom zabijeji! A zabijeji! A zabijeji!
+
+[SPEECH: BathroomGirl]
+Jsem v pasti! Nikdy se odtud nedostanu!
+
+-----------------------------------------------------------------
+[Owner: BathroomGirl]
+[Name:  BathroomGirlBarks]
+
+[COMMENT]
+Panicking.  Her Red Arrow boyfriend was killed by the Luminous Path.  These cycle and go random.
+
+[SPEECH: BathroomGirl]
+...lupici... vsichni jsou to lupici...
+
+[SPEECH: BathroomGirl]
+...podrizli ho! A jeste se smali! Bodali do nej temi meci...
+
+[SPEECH: BathroomGirl]
+...ubohy Cing-kuo...
+
+[SPEECH: BathroomGirl]
+Nebudu klidne spat, dokud bude nekdo ze Zarici stezky nazivu!
+
+-----------------------------------------------------------------
+[Owner: Brawl_Cop]
+[Name:  Brawl_CopBarks]
+
+[SPEECH: Brawl_Cop]
+Tady neni nic k videni!
+
+[SPEECH: Brawl_Cop]
+Odejdete!
+
+[SPEECH: Brawl_Cop]
+Silnice je uzavrena. Musite se vratit na trziste.
+
+[SPEECH: Brawl_Cop]
+Ty triady jsou silene - porad bojovat tradicnimi zbranemi!
+
+[SPEECH: Brawl_Cop]
+Podrezali se tu jako vepri. Ale nic jineho si nezaslouzi.
+
+[SPEECH: Brawl_Cop]
+Kez by se takhle povrazdili i ti jejich vudci!
+
+-----------------------------------------------------------------
+[Owner: Brawl_Lum_Path]
+[Name:  Brawl_Lum_PathBarks]
+
+[SPEECH: Brawl_Lum_Path]
+Do toho ti nic neni!
+
+[SPEECH: Brawl_Lum_Path]
+Nestojime o zadne cumily!
+
+[SPEECH: Brawl_Lum_Path]
+Nemuzes delat nic. Bez!
+
+[SPEECH: Brawl_Lum_Path]
+Zarici stezka vladne Hongkongu!
+
+[SPEECH: Brawl_Lum_Path]
+Nikde nemluv o tom, cos' tu videl!
+
+[SPEECH: Brawl_Lum_Path]
+Radim ti, aby ses vratil zpatky na trh.
+
+-----------------------------------------------------------------
+[Owner: Brawl_Red_Arrow]
+[Name:  Brawl_Red_ArrowBarks]
+
+[COMMENT]
+These cycle and go random.ÅCD®≤¿—ÍÅakˇˇˇˇˇˇˇˇˇˇˇ
+
+[SPEECH: Brawl_Red_Arrow]
+Neplet se nam do cesty!
+
+[SPEECH: Brawl_Red_Arrow]
+Nestrkej nos do veci, kterym nerozumis!
+
+[SPEECH: Brawl_Red_Arrow]
+Je prilis pozde na to, abys nam pomohl.
+
+[SPEECH: Brawl_Red_Arrow]
+Mel bys odtud vypadnout, gwailo.
+
+[SPEECH: Brawl_Red_Arrow]
+Nestojime o tvou pritomnost.
+
+[SPEECH: Brawl_Red_Arrow]
+Pamatuj, cos' tu videl! Rudy sip vzdycky zvitezi!
+
+-----------------------------------------------------------------
+[Owner: Canal_Bartender]
+[Name:  Canal_Bartender_Convos]
+
+[COMMENT]
+I wrote this guy as not knowing as much English as other characters.d
+
+[COMMENT]
+These cycle and go random.z◊nx"
+1ÜäÑB	b]F€Íj¡˜ˆ+
+
+[SPEECH: Canal_Bartender]
+V podniku Old China sezenete mnohe. Za pouhych osm kreditu.
+
+[SPEECH: Canal_Bartender]
+Ve Van-Caj byste zaplatil dvanact. Tady jen osm.
+
+[SPEECH: Canal_Bartender]
+Povidejte. Co byste si pral? Ja to obstaram.
+
+[CHOICES:9]
+
+[CHOICE:]
+Dam si neco k piti.
+
+[CHOICE:]
+Dam si cokoliv k jidlu.
+
+[CHOICE:]
+Dam si cokoliv k jidlu.
+
+[CHOICE:]
+Slysel jste o jistem Tracerovi Tongovi?
+
+[CHOICE:]
+Mate tu v Hongkongu velke problemy se zlocinem?
+
+[CHOICE:]
+Kdo sem pasuje biotechnologie?
+
+[CHOICE:]
+Druheho cloveka?
+
+[CHOICE:]
+Znate Maggii Couovou?
+
+[CHOICE:]
+Nic nechci.
+
+[COMMENT]
+Cheng tsui bean = bon appetit.  Pronounced Cheng soe-ee been!
+
+[SPEECH: Canal_Bartender]
+Ceng cuj bean!
+
+[SPEECH: Canal_Bartender]
+Kopni se do zadku.
+
+[SPEECH: Canal_Bartender]
+Tong, ano... Pritel triady Zarici stezka. A zaprisahly nepritel Rudeho sipu.
+
+[SPEECH: JCDenton]
+Jakou ma povest...mezi mistnimi lidmi?
+
+[SPEECH: Canal_Bartender]
+Mazany, ale poctivy. Ma dobre styky. Shanite snad... biomechanicke augmentace?
+
+[SPEECH: JCDenton]
+Jsem jenom zvedavy.
+
+[SPEECH: Canal_Bartender]
+Posledni dobou mnohem vetsi, ano. Paseraci ted maji snadnou zivnost.
+
+[SPEECH: JCDenton]
+Paseraci ceho?
+
+[SPEECH: Canal_Bartender]
+Otroku, heroinu, biotechnologii...
+
+[SPEECH: JCDenton]
+Copak se tu opravdu obchoduje s otroky?
+
+[SPEECH: Canal_Bartender]
+Ale jiste! Navstivte podnik Lucky Money pod Van-Caj, hlavni stan Rudeho sipu. Vsechny ty jejich divky byly uneseny z Thajska nebo z Filipin. Neposloucha se to dobre.
+
+[SPEECH: Canal_Bartender]
+Vetsinou VersaLife, Zlaty trojuhelnik biotechnologii.
+
+[SPEECH: JCDenton]
+Proc by nadnarodni firma pasovala na sampany svoje vlastni vyrobky?
+
+[SPEECH: Canal_Bartender]
+Na mnoha mistech plati dovozni restrikce - ve Spojenych statech, v Zapadni Evrope...
+
+[SPEECH: JCDenton]
+Ceho se tykaji?
+
+[SPEECH: Canal_Bartender]
+Jistych geneticky pokrocilych technologii... Laboratornich organismu. Rovnez se jedna o subdermalni nanopocitace.
+
+[SPEECH: JCDenton]
+Co se VersaLife pokousi vyvinout?
+
+[SPEECH: Canal_Bartender]
+Leccos. Druheho cloveka.
+
+[SPEECH: Canal_Bartender]
+Anglicky spisovatel. Olaf Stapledon. Vy jste to necetl?
+
+[SPEECH: JCDenton]
+Bohuzel ne.
+
+[SPEECH: Canal_Bartender]
+Posledni a prvotni lidstvo. Dejiny devatenacti lidskych druhu. Nechapu, ze se k vam takova kniha nedostala.
+
+[SPEECH: JCDenton]
+Vite, ja knihy moc nectu.
+
+[SPEECH: JCDenton]
+Jejda. Uz nemam misto. Budu si muset odlehcit.
+
+[SPEECH: Canal_Bartender]
+Maggii Couovou? To je spatna zena. Drive vystupovala jako herecka. Ted vstoupila do hongkongske politiky. Jde o ni fama, ze je to spionka.
+
+[SPEECH: JCDenton]
+Pro koho spehuje?
+
+[SPEECH: Canal_Bartender]
+To nikdo nevi. Nedavno ji nekdo zaplatil velkou sumu, kdyz jeden z Rudeho sipu skoncil svuj zivot v kanale. Ale je nebezpecne o tom hovorit.
+
+-----------------------------------------------------------------
+[Owner: Canal_Cop]
+[Name:  Canal_CopBarks]
+
+[COMMENT]
+These cycle and go random.Aunµf]çAe‰±v™Zib"GËs
+
+[SPEECH: Canal_Cop]
+Turistum se nedoporucuje navstevovat kanaly v noci.
+
+[SPEECH: Canal_Cop]
+Vratte se rano. Projizdka v sampanu za pet kreditu.
+
+[SPEECH: Canal_Cop]
+Co tady v tuhle hodinu vubec pohledavate?
+
+[SPEECH: Canal_Cop]
+Povidam, ze tu neni bezpecno. Bezte domu!
+
+[SPEECH: Canal_Cop]
+Poznamenavame si kazdeho, kdo kanaly navstivi.
+
+-----------------------------------------------------------------
+[Owner: Canal_Drunk]
+[Name:  Canal_DrunkBarks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: Canal_Drunk]
+Z Hongkongu se nedostanes zivej.
+
+[SPEECH: Canal_Drunk]
+Hned reknu Maxovi Cenovi, ze ses vratil.
+
+[COMMENT]
+(i.e., the player returning to Hong Kong.)
+
+[SPEECH: Canal_Drunk]
+...ses seredne zmejlil.
+
+[SPEECH: Canal_Drunk]
+Vnitrni kralovstvi se musi otevrit svetu.
+
+[SPEECH: Canal_Drunk]
+Kazdej trpi, kdyz jsou silnice zavreny a lidi jsou odriznuty hradbama.
+
+-----------------------------------------------------------------
+[Owner: Canal_Drunk]
+[Name:  Canal_DrunkBarks2]
+
+[COMMENT]
+The player has just informed this guy that the Red Arrow have united with the Luminous Path.
+
+[COMMENT]
+These cycle and repeat the last.kBarks\Canal_Drunk05.mp3
+
+[SPEECH: Canal_Drunk]
+To je blbost!
+
+[SPEECH: Canal_Drunk]
+Max Cen by z primeri nic nemel!
+
+[COMMENT]
+(i.e., the player returning to Hong Kong.)ò8x€ao—„eõ∏–‡„y±íaa¡9#p÷Z0aSL
+
+[SPEECH: Canal_Drunk]
+Zarici stezka je mala. Nedulezita!
+
+[SPEECH: Canal_Drunk]
+Nebudu se o tom bavit!
+
+[SPEECH: Canal_Drunk]
+Urcite si to Cen schvalne naplanoval!
+
+-----------------------------------------------------------------
+[Owner: Canal_Drunk]
+[Name:  Meet_Canal_Drunk]
+
+[COMMENT]
+This guy, a drunk local down by the canals, mistakes the player for Paul Denton.  He supports the Red Arrow, knows something of their plans to take over China, but does not know all of the details, like the fact that Majestic 12 is using the Red Arrow as puppets.uA•V“;ˇ|auR]QA¬a¬trZ|nÔ©GQ"˛\D1KõÅ #0A
+
+[COMMENT]
+(angry, surly)r
+
+[SPEECH: Canal_Drunk]
+Co je?
+
+[SPEECH: JCDenton]
+Co mi muzes prozradit o doprave po kanalu?
+
+[SPEECH: JCDenton]
+Hledam jisteho muze jmenem Tracer Tong. Slysel jsi o nem?
+
+[SPEECH: Canal_Drunk]
+Ja te znam. Vim, co jses zac.
+
+[SPEECH: JCDenton]
+Jo?
+
+[SPEECH: Canal_Drunk]
+Ty pracujes pro Zarici stezku. Malem te vodkrouhli, ale v posledni chvili jsi fouknul z Hongkongu.
+
+[SPEECH: JCDenton]
+To si me asi pletes s nekym jinym.
+
+[SPEECH: Canal_Drunk]
+Ne, jses to ty. Slecna Couova nam to rekla - ty jses ten Amerikan, co jim pomahal slohnout ten mec!
+
+[SPEECH: JCDenton]
+Hele, ja fakticky ---
+
+[SPEECH: Canal_Drunk]
+Jenze Rudej sip nezastavite! Ovladnou Cinu, stejne jako ovladli Hongkong, uz brzy...
+
+-----------------------------------------------------------------
+[Owner: Canal_Drunk]
+[Name:  Meet_Canal_Drunk2]
+
+[SPEECH: JCDenton]
+Uz jsi to slysel? Triady se spojily.
+
+[SPEECH: Canal_Drunk]
+To neni mozny!
+
+[SPEECH: JCDenton]
+Bez do Van-Caj. Zeptej se tam lidi. Rudy sip se zbavil cizich agentu, kteri ho zneuzivali proti cinske vlade.
+
+[SPEECH: Canal_Drunk]
+Triady nemoh' nikdo zneuzivat. Jsou to cinsky spolky!
+
+[SPEECH: JCDenton]
+Ted uz je nikdo zneuzivat nebude. A spolek to je uz jenom jediny.
+
+-----------------------------------------------------------------
+[Owner: Canal_Merchant]
+[Name:  Canal_MerchantBarks]
+
+[COMMENT]
+This guy told the player about picking up jettisoned drug shipments, but then he denied any involvement with the Triads or drugs.  Here, he is hastily trying to convince the player of his innocence and brush him off at the same time.
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: Canal_Merchant]
+Pres noc svuj obchod zaviram.
+
+[SPEECH: Canal_Merchant]
+Vratte se rano. Mame tu cerstvou zasilku durianu.
+
+[COMMENT]
+Perhaps a warning, because he may have ties to the Triads.
+
+[SPEECH: Canal_Merchant]
+Davejte si pozor, s kym o triadach mluvite.
+
+[SPEECH: Canal_Merchant]
+Mam praci. Odejdete uz.
+
+[COMMENT]
+Possibly another veiled warning to the player.
+
+[SPEECH: Canal_Merchant]
+Mrtve v kanalech obira spousta lidi. Nejen triady.
+
+-----------------------------------------------------------------
+[Owner: Canal_Merchant]
+[Name:  Canal_MerchantBarks2]
+
+-----------------------------------------------------------------
+[Owner: Canal_Merchant]
+[Name:  Meet_Canal_Merchant]
+
+[SPEECH: JCDenton]
+Neni tu prave moc velkej ruch.
+
+[COMMENT]
+(thinks he's talking about drug-trafficking)r.
+
+[SPEECH: Canal_Merchant]
+Ruch - jaky ruch mate na mysli?
+
+[SPEECH: JCDenton]
+Jakejkoliv. Je tady mrtvo.
+
+[SPEECH: Canal_Merchant]
+Pres noc ted plati nektera zvlastni opatreni. Presto tu provoz je, jenomze ho asi nevnimate.
+
+[SPEECH: JCDenton]
+Myslite heroin?
+
+[SPEECH: Canal_Merchant]
+Jiste, nelegalni zbozi taky, ale v kanalu najdete vsechno, veci poztracene i veci, na ktere se lidi snazi zapomenout. Pred mesicem to byl vudce triady Rudy sip. Videl jsem ho, jak plave kolem meho domu.
+
+[SPEECH: JCDenton]
+Videl jste jeho mrtvolu?
+
+[SPEECH: Canal_Merchant]
+Psali o mne v novinach. Videl jsem, ze mel podriznuty krk. Meli pravdu. Byl kauterizovan.
+
+[SPEECH: JCDenton]
+Byl co?
+
+[SPEECH: Canal_Merchant]
+Kauterizovan. To je odborny termin. Nekdo ho podrizl, ale nebyla to cepel vyrobena tradicni technologii.
+
+[SPEECH: JCDenton]
+Prominte. Hledal jsem cestu zpatky na trziste.
+
+[SPEECH: Canal_Merchant]
+Vy jste American? Shodili vas snad do kanalu?
+
+[SPEECH: JCDenton]
+Sel jsem si zaplavat.
+
+[SPEECH: Canal_Merchant]
+To byste radsi nemel. Jednou jsem tu videl zvire pripominajici zraloka, ale se ctyrma nohama. Bydli v jedne roure, ktera vede do budovy VersaLife.
+
+[SPEECH: JCDenton]
+Dostanu se odtud zpatky na trziste?
+
+[SPEECH: Canal_Merchant]
+Budete muset doplavat. Kdybyste videl jine potapece, drzte se od nich dal. U zavalu v tunelu patra po koristi par Evropanu - jsou to spatni lide.
+
+-----------------------------------------------------------------
+[Owner: Canal_Merchant]
+[Name:  Meet_Canal_Merchant2]
+
+[SPEECH: JCDenton]
+Co jste jeste v kanale nasel? Prodate to?
+
+[SPEECH: Canal_Merchant]
+Jste prece... Jste prece turista?
+
+[SPEECH: JCDenton]
+Jsem jen zvedavy. Slysel jsem, ze cely cerny trh v Hongkongu ovladaji triady.
+
+[COMMENT]
+The merchant decides he was too open with the player and begins to back off from what he said earlier.1
+
+[SPEECH: Canal_Merchant]
+Ano. To mate pravdu. Ja jsem jen prosty obchodnik. Prodavam pouze ovoce a zeleninu.
+
+[SPEECH: JCDenton]
+V sampanu? Ale rikal jste prece ---
+
+[SPEECH: Canal_Merchant]
+Ano, je cerstva. Protoze muj stanek stoji na trzisti.
+
+[COMMENT]
+(skeptical)
+
+[SPEECH: JCDenton]
+Aha. Budu se u vas muset nekdy zastavit  prohlednout si zbozi.
+
+-----------------------------------------------------------------
+[Owner: Canal_Merchant]
+[Name:  Meet_Canal_Merchant2B]
+
+-----------------------------------------------------------------
+[Owner: Canal_Merchant]
+[Name:  Meet_Canal_Merchant2C]
+
+-----------------------------------------------------------------
+[Owner: Canal_Merchant]
+[Name:  Meet_Canal_Merchant2D]
+
+-----------------------------------------------------------------
+[Owner: Canal_Pilot]
+[Name:  Canal_Pilot_Barks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: Canal_Pilot]
+Evropane maji zajem o dychaci masky, protoze chodby vedouci do tunelu jsou velmi uzke.
+
+[SPEECH: Canal_Pilot]
+Nenechave prsty... To ma kazdy Evropan v krvi.
+
+[SPEECH: Canal_Pilot]
+Jestli chcete obchodovat, doporucuji vam podnik Old China na jiznim konci kanalu.
+
+-----------------------------------------------------------------
+[Owner: Canal_Pilot]
+[Name:  Meet_Canal_Pilot]
+
+[SPEECH: Canal_Pilot]
+Dobry vecer, pane.
+
+[SPEECH: JCDenton]
+Dlouha noc?
+
+[SPEECH: Canal_Pilot]
+Vubec ne. Ted, kdyz triady znicily tunel v Canal Road, ma kazdy zajem o projizdku sampanem.
+
+[SPEECH: JCDenton]
+Proc k tomu doslo?
+
+[SPEECH: Canal_Pilot]
+Ozbrojena srazka v tunelu, pane, pred peti dny. Nyni je zasypan a zaplaven.
+
+[SPEECH: JCDenton]
+To muselo ochromit obchodovani ve Van-Caj.
+
+[SPEECH: Canal_Pilot]
+Zahynuli tam lide. Vcera dorazili ctyri Evropane, hledaci pokladu; chteji se potapet do trosek tunelu a okradat mrtvoly.
+
+[SPEECH: JCDenton]
+Neni on letos Rok supa?
+
+[NOTE:]
+Cast tunelu v Canal Road je zaplavena vodou. Mnoho lidi tam zahynulo.
+
+[SPEECH: Canal_Pilot]
+Je to sice odporny obchod, lec velmi vynosny. Nabidli mi podil, kdyz se mi podari prodat vylepseni zbrani, ktera uz ziskali. Mam vylepseni zbrane na presnost, nabijeni a zpetny raz za 750, 600 a 400 kreditu.
+
+[CHOICES:7]
+
+[CHOICE:]
+Vezmu si tu presnost za 750.
+
+[CHOICE:]
+750 za presnost neni moc, kdybych tolik mel.
+
+[CHOICE:]
+600 za nabijeni? Beru.
+
+[CHOICE:]
+Kez bych tak mel 600 kreditu za nabijeni!
+
+[CHOICE:]
+Tady je 400 kreditu za zpetny raz.
+
+[CHOICE:]
+Nemam dokonce ani 400 kreditu za zpetny raz.
+
+[CHOICE:]
+Mozna pozdeji.
+
+[SPEECH: Canal_Pilot]
+Vyborne.
+
+[SPEECH: Canal_Pilot]
+Kdybyste si pral obchodovat, vratte se ke mne.
+
+[SPEECH: Canal_Pilot]
+Muzete se tam jit potapet sam. Na miste, kde se tunel zhroutil, najdete spoustu mrtvych tel.
+
+[SPEECH: Canal_Pilot]
+Bez obav. Pockam tu, kdybyste nahodou sehnal penize.
+
+[SPEECH: JCDenton]
+Moment - musim nejdriv neco odhodit.
+
+[SPEECH: Canal_Pilot]
+Chcete nakupovat?
+
+-----------------------------------------------------------------
+[Owner: Canal_Thug1]
+[Name:  Overhear_Canal_Thug1]
+
+[SPEECH: Canal_Thug1]
+Dam ti pade.
+
+[SPEECH: Canal_Thug2]
+Petasedumdesat.
+
+[SPEECH: Canal_Thug1]
+Petasedumdesat za obe.
+
+[SPEECH: Canal_Thug2]
+Dvojitej UO Globe, originalni kilovy baleni, cistej. Devadesat za obe.
+
+[SPEECH: Canal_Thug1]
+Hej! Ty tam!
+
+[SPEECH: Canal_Thug2]
+Kdo je to?
+
+[COMMENT]
+I picture this guy with a strong accent, appropriating "homeboy" from a movie and missing it slightly.1
+
+[SPEECH: Canal_Thug1]
+Udelals' velkou chybu, hosanku!
+
+-----------------------------------------------------------------
+[Owner: Canal_Whore]
+[Name:  Canal_WhoreBarks]
+
+[COMMENT]
+An older prostitute.  These cycle and go random.
+
+[SPEECH: Canal_Whore]
+Postaram se o tebe. Zvlastni sleva.
+
+[SPEECH: Canal_Whore]
+Romantika. Na clunu, ano?
+
+[SPEECH: Canal_Whore]
+Vim, kde je nejvetsi tma.
+
+-----------------------------------------------------------------
+[Owner: Caterer]
+[Name:  CatererBarks]
+
+[COMMENT]
+A Luminous Path man in the market; takes brides for the police.
+
+[SPEECH: Caterer]
+Neznam vas.
+
+[SPEECH: Caterer]
+Ja se s cizincema nebavim.
+
+[SPEECH: Caterer]
+Do mych veci vam vubec nic neni.
+
+[SPEECH: Caterer]
+Prosim... Divaji se na nas.
+
+-----------------------------------------------------------------
+[Owner: ClubBartender]
+[Name:  ClubBartenderAmbushBarks]
+
+[SPEECH: ClubBartender]
+Zachovejte vsichni klid!
+
+[SPEECH: ClubBartender]
+Nestrilet! Jsem civilista!
+
+[SPEECH: ClubBartender]
+Dojdete nekdo pro Maxe!
+
+-----------------------------------------------------------------
+[Owner: ClubBartender]
+[Name:  ClubBartenderConvos]
+
+[SPEECH: ClubBartender]
+Pivo je za 15; vino za 120.
+
+[CHOICES:6]
+
+[CHOICE:]
+Dal bych si piti.
+
+[CHOICE:]
+Smel bych se na neco zeptat?
+
+[CHOICE:]
+Rikate "zasahy zvenci". Ceho se Cina boji?
+
+[CHOICE:]
+Silne hnuti se casto sklada z individualnich snah jednotlivce; v tom je ta sila.
+
+[CHOICE:]
+Hledam Maxe Cena.
+
+[CHOICE:]
+Dam si neco k piti az potom.
+
+[CHOICES:3]
+
+[CHOICE:]
+Dejte mi pivo.
+
+[CHOICE:]
+Vino, prosim.
+
+[CHOICE:]
+Nic nechci.
+
+[SPEECH: ClubBartender]
+Vyborne.
+
+[SPEECH: ClubBartender]
+To nejlepsi v Hongkongu.
+
+[SPEECH: ClubBartender]
+Na zdravi!
+
+[SPEECH: ClubBartender]
+Co byste chtel vedet?
+
+[SPEECH: JCDenton]
+Navzdory tomu, co jsem o triadach cetl, jsem necekal, ze budou pracovat nezakryte, na ulici, a dokonce nosit uniformy! Copak to cinskou vladu nezajima?
+
+[SPEECH: ClubBartender]
+Cinane nechavaji Hongkongu volnou ruku. Zatarasili silnice, aby ovladli obchod s pevninou, ale jinak vedi, jak to tady chodi.
+
+[SPEECH: JCDenton]
+Domnival jsem se, ze nelegalni paseracke operace triad budou cinskou vladu znepokojovat?
+
+[SPEECH: ClubBartender]
+To mozna plati o Zarici stezce, ale Cina vi, ze Rudy sip tvori podnikatele, majitele firem a vyznamne osobnosti, ktere chrani mesto pred nepriznivymi zasahy zvenci.
+
+[SPEECH: ClubBartender]
+Cina je posledni suverenni zemi na svete. Je sice autoritarska, ale na rozdil od zemi ovladanych Spojenymi narody touzi dat vlastnimu lidu skutecne svobodny zivot.
+
+[SPEECH: JCDenton]
+Pokud ten lid nezacne porusovat zakon.
+
+[SPEECH: ClubBartender]
+Neco vam reknu. Tohle je skutecna svoboda, svoboda vlastnit majetek, vydelavat penize, zit si svuj zivot. Zapad se tak dlouho bal vlady silne ruky, az ted nema vladu vubec zadnou. Jenom financni oligarchii.
+
+[SPEECH: JCDenton]
+Nase vlady maji omezenou pravomoc zamerne.
+
+[SPEECH: ClubBartender]
+Kecy... A vy jim verite! Copak nevite, kdo vsechna tahle hesla vymysli?
+
+[SPEECH: JCDenton]
+Dam se poddat.
+
+[SPEECH: ClubBartender]
+Dobre placeni profesionalove - jak jim to rikate? -- "Propagandiste", placeni velkoprumyslniky. Co vy na to? Propagandiste!
+
+[SPEECH: JCDenton]
+Nejsou tak ukrutni jako diktator, jako cinsky premier.
+
+[SPEECH: ClubBartender]
+Dalsi soukrome financovana propaganda! A co napriklad Trilateralni komise Spojenych statu?
+
+[SPEECH: ClubBartender]
+System zalozeny na tech nejslabsich vlastnostech jedince bude mit za vysledek stejne vlastnosti u jeho vudcu.
+
+[SPEECH: JCDenton]
+Mozna jsou jiste vlastnosti neoddelitelne od lidske prirozenosti.
+
+[SPEECH: ClubBartender]
+Znakem vzdelaneho cloveka je potlacovani takovych vlastnosti ve prospech vyssich cilu. To je prece zakladem civilizace!
+
+[COMMENT]
+Dummy.
+
+[SPEECH: JCDenton]
+Jejda! Zapomnel jsem, ze uz toho nesu moc. Vydrzte chvilku, nez se neceho zbavim.
+
+[SPEECH: ClubBartender]
+Skutecne? Co byste rad?
+
+[CHOICES:3]
+
+[CHOICE:]
+Potrebuju najit Tracera Tonga.
+
+[CHOICE:]
+Posila me Maggie Couova.
+
+[CHOICE:]
+Byl jsem jenom zvedavy.
+
+[SPEECH: ClubBartender]
+Zesilel jste? Tohle jmeno tady uz nikdy nevyslovujte!
+
+[SPEECH: ClubBartender]
+Aha, prekrasna slecna Maggie! Dvere najdete hned za mymi zady.
+
+[SPEECH: ClubBartender]
+Takhle se rana nedozijete! Mel byste lepsi, kdybyste se sel utopit do kanalu.
+
+-----------------------------------------------------------------
+[Owner: ClubBouncer]
+[Name:  BouncerAmbushBarks]
+
+[SPEECH: ClubBouncer]
+Vsichni na parket!
+
+[SPEECH: ClubBouncer]
+Zustan dole!
+
+[SPEECH: ClubBouncer]
+Je to nejaka razie!
+
+-----------------------------------------------------------------
+[Owner: ClubBouncer]
+[Name:  BouncerBarks]
+
+[SPEECH: ClubBouncer]
+Plati se u pultu.
+
+[SPEECH: ClubBouncer]
+Zustan na parketu!
+
+[SPEECH: ClubBouncer]
+Nelibi se mi, jak vypadas.
+
+[SPEECH: ClubBouncer]
+Na tebe si budu davat pozor. Chovej se slusne!
+
+[SPEECH: ClubBouncer]
+Omlouvame se za tu vytrznost.
+
+[SPEECH: ClubBouncer]
+Zanedlouho ten neporadek uklidime. Vratte se za par hodin!
+
+[SPEECH: ClubBouncer]
+Takove utoky tu nejsou bezna vec.
+
+[SPEECH: ClubBouncer]
+Lucky Money je bezpecny klub. Uz se to nebude opakovat.
+
+-----------------------------------------------------------------
+[Owner: ClubBouncer]
+[Name:  BouncerPissed]
+
+[COMMENT]
+These cycle and repeat the last.u
+
+[SPEECH: ClubBouncer]
+Musis zaplatit vstupny. Tricet kreditu.
+
+[CHOICES:2]
+
+[CHOICE:]
+Fajn. Tady mate.
+
+[CHOICE:]
+Rozmyslel jsem si to, pujdu radsi nekam jinam.
+
+[SPEECH: ClubBouncer]
+Dobre. Uz to podruhy nezkousej.
+
+[SPEECH: ClubBouncer]
+Tvoje vec.
+
+[SPEECH: JCDenton]
+Ale ja ty penize nemam.
+
+[SPEECH: ClubBouncer]
+Tak zustanes venku.
+
+[SPEECH: ClubBouncer]
+Kdo si te pozval? Musis mit pozvanku.
+
+[SPEECH: JCDenton]
+Nikdo... Chci si jen prohlidnout klub.
+
+-----------------------------------------------------------------
+[Owner: ClubDoorGirl]
+[Name:  ClubDoorGirlAfterRaid]
+
+-----------------------------------------------------------------
+[Owner: ClubDoorGirl]
+[Name:  ClubDoorGirlAmbushBarks]
+
+[COMMENT]
+The club is being attacked.  She is enjoying the spectacle.,0Î∂í
+
+[SPEECH: ClubDoorGirl]
+Tohle je po delsi dobe jeden z nejlepsich veceru.
+
+[SPEECH: ClubDoorGirl]
+Podari se to zhruba jednou za mesic.
+
+[SPEECH: ClubDoorGirl]
+Tohle neni normalni policie.
+
+-----------------------------------------------------------------
+[Owner: ClubDoorGirl]
+[Name:  ClubDoorGirlBarks]
+
+[SPEECH: ClubDoorGirl]
+Vidim te, jak sedis v koutku a jde z tebe strach. Kazdej se divi, co jsi zac.
+
+[SPEECH: ClubDoorGirl]
+Nechtel bys trochu urazit ty Rusaky? Miluju, kdyz se strhne pordna rvacka!
+
+[SPEECH: ClubDoorGirl]
+Mam slabost pro chlapa se spoustou zipu.
+
+-----------------------------------------------------------------
+[Owner: ClubDoorGirl]
+[Name:  ClubDoorGirlConvos]
+
+[SPEECH: ClubDoorGirl]
+Mmmmm... kozeny boty. Dam ti slevu na petadvacet kreditu!
+
+[SPEECH: ClubDoorGirl]
+Rajcovni kozenak. Chlapakum v kozenaku davam slevu na petadvacet kreditu!
+
+[CHOICES:2]
+
+[CHOICE:]
+Tady mate.
+
+[CHOICE:]
+Ne, diky.
+
+[SPEECH: ClubDoorGirl]
+Skvele. Doporucuju ti stoupnout si doprostred parketu a vrcet na zensky jako pes, kterej potrebuje panicka!
+
+[SPEECH: JCDenton]
+Jsem svorc. Nejspis mam dneska po ptakach.
+
+-----------------------------------------------------------------
+[Owner: ClubLumpath]
+[Name:  ClubLumpathBarks]
+
+[COMMENT]
+These cycle and repeat the last line.
+
+[SPEECH: ClubLumpath]
+Zdravim, pane Denton.
+
+[COMMENT]
+These cycle and repeat the last line.Û™^y™œÔˇ˚2¿îÄÑn{eà´X˘/pqâk˘o/ÌhU=x∞
+
+[SPEECH: ClubLumpath]
+Draci hlavy jsou u baru. Pokladaly by si za cest, kdybyste se k nim pridal v oslave za usmireni triad.
+
+[SPEECH: ClubLumpath]
+Tak tohle je Lucky Money. Odjakziva me zajimalo, jak asi vypada zevnitr.
+
+-----------------------------------------------------------------
+[Owner: ClubMercedes]
+[Name:  ClubMercedesAmbushBarks]
+
+[SPEECH: ClubMercedes]
+Bozinku!
+
+[SPEECH: ClubMercedes]
+Kazdej se hrne na parket nebo tak neco.
+
+[SPEECH: ClubMercedes]
+Uz jsem myslela, ze se sem nikdy nedostanu!
+
+-----------------------------------------------------------------
+[Owner: ClubMercedes]
+[Name:  ClubMercedesAmbushHackBarks]
+
+-----------------------------------------------------------------
+[Owner: ClubMercedes]
+[Name:  ClubMercedesConvo1]
+
+[COMMENT]
+The 3D models for Mercedes and Tessa are Caucasian, so maybe they're from Australia.  If that doesn't work, change the accent and change the dialogue to match it. together, you and I, JC.  We can put this planet back together any way we like...   Alex hacked the Sector 2 security grid; the code's 8946.  Don't waste any tim
+
+[SPEECH: ClubMercedes]
+Hej, ty! Vodkud 'ses?
+
+[SPEECH: JCDenton]
+Ze Statu.
+
+[SPEECH: ClubMercedes]
+My zase z Australie.
+
+[SPEECH: JCDenton]
+Hm. Na prazdninach?
+
+[COMMENT]
+Annoyed at her friend.  They're waiting for a guy who's going to get them in.
+
+[SPEECH: ClubTessa]
+Dyk tu cekame na Russe!
+
+[COMMENT]
+(whispers to her friend)
+
+[SPEECH: ClubMercedes]
+Tenhle je docela hezkej.
+
+[SPEECH: ClubMercedes]
+Jak se jmenujes?
+
+[SPEECH: JCDenton]
+JC. Je tohle dobrej klub?
+
+[SPEECH: ClubMercedes]
+Jo, bozi, a patri Rudymu sipu. Je tady desna lace. Poslys, nemoh' bys pro nas udelat jednu ohromnou laskavost?
+
+[SPEECH: JCDenton]
+Jasne.
+
+[SPEECH: ClubMercedes]
+Moje kamoska a ja - je to fakt ulitly - ale zapomnely jsme si kreditky v hotelu. Nevzal bys nas dovnitr?
+
+[SPEECH: JCDenton]
+Kolik by to stalo?
+
+[SPEECH: ClubMercedes]
+Dvacka pro kazdou. My mame vstupny za dvacku.
+
+[CHOICES:2]
+
+[CHOICE:]
+Jasne.
+
+[CHOICE:]
+Bohuzel.
+
+[SPEECH: ClubMercedes]
+Bezva. Jdem' si trochu zatrdlovat, jo?
+
+[COMMENT]
+(whispers to her friend)ÓK)3e€PyTFtCç)n—y5Æ—Æe
+
+[SPEECH: ClubTessa]
+Teda ty 'ses cislo!
+
+[SPEECH: JCDenton]
+Tolik u sebe nemam. Bohuzel.
+
+[SPEECH: ClubMercedes]
+Ale no tak, v tomhle kozenym vohozu? Musis bejt v baliku!
+
+[SPEECH: JCDenton]
+Rad bych byl.
+
+[COMMENT]
+(still kind of bright and flirty)
+
+[SPEECH: ClubMercedes]
+Tak packo.
+
+[SPEECH: ClubTessa]
+To je ale skrt!
+
+[SPEECH: ClubMercedes]
+Fakticky nemas ctyricet kreditu, aby nas pustili dovnitr?
+
+-----------------------------------------------------------------
+[Owner: ClubMercedes]
+[Name:  ClubMercedesConvo2]
+
+[SPEECH: ClubMercedes]
+Ty 'si D∑SN∑ bozi, clovece! D∑SNÌ diky! Znas Maxe Cena? Ten to tady ma pod palcem.
+
+[SPEECH: JCDenton]
+To nic nebylo, to je dobry. Chces si trsnout?
+
+[SPEECH: ClubMercedes]
+Mmmmm. Ty to urcite umis na parketu rozbalit, jak jsem to jeste nevidela.
+
+[SPEECH: JCDenton]
+Uz se nemuzu dockat, co mi budes rikat.
+
+[SPEECH: ClubMercedes]
+Musim se trochu uvolnit. Hele, nepujcil bys mi petku na jednu sklenicku?
+
+[CHOICES:2]
+
+[CHOICE:]
+Prani damy je mi rozkazem.
+
+[CHOICE:]
+Kdepak. Budes se muset sponzorovat sama.
+
+[SPEECH: ClubMercedes]
+Ty 'ses vazne uzasnej, JC! Jsem tak rada, ze jsme se seznamili!
+
+[SPEECH: ClubMercedes]
+Urcite ti to vratim.
+
+[SPEECH: JCDenton]
+Zacvakal jsem ti vstupny. Nic vic calovat nebudu.
+
+[SPEECH: ClubMercedes]
+Jezis, tak se kvuli tomu hned necil!
+
+[SPEECH: JCDenton]
+Bohuzel. Tolik penez nemam.
+
+[SPEECH: ClubMercedes]
+...koukam, ze mas taky smysl pro humor.
+
+[SPEECH: JCDenton]
+Ne, myslim to vazne. Dosly mi prachy.
+
+[SPEECH: ClubMercedes]
+Aha... Hmmmm.
+
+[SPEECH: JCDenton]
+Zatancujem' si?
+
+[SPEECH: ClubMercedes]
+Kdyz je na parketu takhle prazdno, musim bejt skoro opila, nez si dodam kuraz. Nekoupil bys mi nejaky piti?
+
+-----------------------------------------------------------------
+[Owner: ClubMercedes]
+[Name:  ClubMercedesFinalBarks]
+
+[COMMENT]
+By now, Mercedes is bored with JC because he's refused to buy her any more drinks.like U.N.-governed countries -- to give its people the freedom to do what they wan
+
+[SPEECH: ClubMercedes]
+Je, to 'ses ty!
+
+[SPEECH: ClubMercedes]
+Neboj, vsechny prachy ti vratim!
+
+[SPEECH: ClubMercedes]
+To snad neni mozny! Ani napit se tady nemuzu.
+
+-----------------------------------------------------------------
+[Owner: ClubMercedes]
+[Name:  ClubMercedesWalkingBarks]
+
+[COMMENT]
+(walking into the club)
+
+[SPEECH: ClubMercedes]
+A jedem!
+
+-----------------------------------------------------------------
+[Owner: ClubTessa]
+[Name:  ClubTessaAmbushBarks]
+
+[SPEECH: ClubTessa]
+Bozinku! 
+
+[SPEECH: ClubTessa]
+Co je s tim Russem? Nestalo se mu neco?
+
+[SPEECH: ClubTessa]
+Je to fakticky vodvaz.
+
+-----------------------------------------------------------------
+[Owner: ClubTessa]
+[Name:  ClubTessaAmbushHackBarks]
+
+-----------------------------------------------------------------
+[Owner: ClubTessa]
+[Name:  ClubTessaBarks]
+
+[SPEECH: ClubTessa]
+Cekam tu na nekoho.
+
+[COMMENT]
+Still bored with the player.
+
+[SPEECH: ClubTessa]
+Diky, ze jsi me dostal dovnitr!
+
+-----------------------------------------------------------------
+[Owner: ClubTessa]
+[Name:  ClubTessaNormalHackBarks]
+
+-----------------------------------------------------------------
+[Owner: ClubTriad]
+[Name:  ClubTriadAmbushBarks]
+
+[SPEECH: ClubTriad]
+Zapadni psi!
+
+[SPEECH: ClubTriad]
+Chrante Maxe!
+
+[SPEECH: ClubTriad]
+Za Rudy sip!
+
+-----------------------------------------------------------------
+[Owner: ClubTriad]
+[Name:  ClubTriadBarks]
+
+[COMMENT]
+Stiffly spoken barks.  This guy's real job is to watch out for troublemakers.
+
+[SPEECH: ClubTriad]
+Dobre se bavte!
+
+[SPEECH: ClubTriad]
+Prijemnou zabavu!
+
+[SPEECH: ClubTriad]
+Tady u nas je to slusny podnik.
+
+[SPEECH: ClubTriad]
+Kdyz budete neco potrebovat, zeptejte se barmana.
+
+[SPEECH: ClubTriad]
+...zatraceni namornici... az jsou zase namol!
+
+[SPEECH: ClubTriad]
+Neobtezujte, prosim, jine hosty!
+
+-----------------------------------------------------------------
+[Owner: ClubTriad]
+[Name:  ClubTriadFinalBarks]
+
+[COMMENT]
+These happen after the raid on the Lucky Money.
+
+[SPEECH: ClubTriad]
+Situaci uz mame opet pod kontrolou.
+
+[SPEECH: ClubTriad]
+Takovou urazku si nenechame libit. Oplatime jim to!
+
+[SPEECH: ClubTriad]
+Priste uz budu pohotovejsi.
+
+[SPEECH: ClubTriad]
+Davejte si pozor. Radsi se vratte na trziste.
+
+[SPEECH: ClubTriad]
+Za vsechny ty skody nam nekdo draze zaplati!
+
+[SPEECH: ClubTriad]
+Porad myslim, ze za tim stoji Zarici stezka. Policajti by nebyli takovi blazni.
+
+-----------------------------------------------------------------
+[Owner: Company_Man]
+[Name:  Company_ManBarks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: Company_Man]
+Mam tady praci.
+
+[SPEECH: Company_Man]
+Pripadne stiznosti si vyridte s mym nadrizenym.
+
+[SPEECH: Company_Man]
+Neobtezujte me.
+
+[SPEECH: Company_Man]
+Bezte pryc. Mysleli by si, ze se s vami bavim.
+
+-----------------------------------------------------------------
+[Owner: DanceCarole]
+[Name:  DanceCaroleBarks]
+
+[COMMENT]
+Assumes the player is trying to hit on her.
+
+[SPEECH: DanceCarole]
+Mam na to jiny nazor.
+
+[SPEECH: DanceCarole]
+Prosim!
+
+[SPEECH: DanceCarole]
+Pokousim se tancit.
+
+[COMMENT]
+(screams)g to danc
+
+[SPEECH: DanceCarole]
+µaaaa!
+
+-----------------------------------------------------------------
+[Owner: DanceCarole]
+[Name:  DanceCaroleOverheard]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: DanceLisa]
+Pripadam si hloupe.
+
+[SPEECH: DanceCarole]
+Vypadas bajecne! Trochu vic se pohupuj v bocich! No tak, delej!
+
+[SPEECH: DanceLisa]
+Asi takhle?
+
+[SPEECH: DanceCarole]
+To uz je lepsi.
+
+[SPEECH: DanceLisa]
+Pujdeme pak neco snist?
+
+[SPEECH: DanceCarole]
+Mozna si dame caj. Ale tesim se, az prijdu domu, vykoupu se...
+
+[SPEECH: DanceLisa]
+Kde bydlis?
+
+[SPEECH: DanceCarole]
+Neni to daleko.
+
+[SPEECH: DanceCarole]
+Libi se mi tvoje tetovani.
+
+[SPEECH: DanceLisa]
+Opravdu?
+
+[SPEECH: DanceCarole]
+Ty draci spary... dotykaji se tvych prsou.
+
+[SPEECH: DanceLisa]
+Napadlo me, ze by to mohlo byt sexy.
+
+-----------------------------------------------------------------
+[Owner: DanceGirl]
+[Name:  DanceGirlAmbushBarks]
+
+[SPEECH: DanceGirl]
+Pomoc!
+
+[SPEECH: DanceGirl]
+To je sileny!
+
+[SPEECH: DanceGirl]
+Nic jsem neudelala!
+
+-----------------------------------------------------------------
+[Owner: DanceGirl]
+[Name:  DanceGirlBarks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: DanceGirl]
+Cau!
+
+[COMMENT]
+The player can't dance (literally).  He's just standing on the dance floor.¿â•∏B™e.-0H™ K™PN™
+
+[SPEECH: DanceGirl]
+Nechces si zatancovat?
+
+[SPEECH: DanceGirl]
+Stoupni si doprostred... Tak nenech se nutit!
+
+[SPEECH: DanceGirl]
+Vypadas jako drsnej chlap!
+
+[SPEECH: DanceGirl]
+Neni ti v tom kabate horko?
+
+[SPEECH: DanceGirl]
+Jo, bejby!
+
+[SPEECH: DanceGirl]
+Jedem! Juuuu-huuu!
+
+[SPEECH: DanceGirl]
+To je vodvazova muzika!
+
+[COMMENT]
+Panicky.  This is after the raid on the Lucky Money.]rb.
+	}™i"≤‚ø¿
+
+[SPEECH: DanceGirl]
+Co to melo znamenat... Zacali tu zabijet lidi!
+
+[SPEECH: DanceGirl]
+Muj boze, to bylo hrozny!
+
+[SPEECH: DanceGirl]
+Krev! Vsude plno krve!
+
+[SPEECH: DanceGirl]
+Nevedela jsem, kam se mam schovat!
+
+[SPEECH: DanceGirl]
+To jsou prece mrtvoly. OPRAVDICKÌ mrtvoly!
+
+-----------------------------------------------------------------
+[Owner: DanceLisa]
+[Name:  DanceLisaAmbushBarks]
+
+[SPEECH: DanceLisa]
+Drz se od nas dal!
+
+[COMMENT]
+i.e. the Red Arrow thugs, presumably the object of the raid
+
+[SPEECH: DanceLisa]
+Vraci se! Dej nam pokoj!
+
+[SPEECH: DanceLisa]
+Nic jsem neudelala!
+
+-----------------------------------------------------------------
+[Owner: DanceLisa]
+[Name:  DanceLisaBarks]
+
+[COMMENT]
+Assumes the player is hitting on her.  These barks cycle and then go random..
+
+[SPEECH: DanceLisa]
+Chceme si s kamaradkou jen trochu zatancit.
+
+[SPEECH: DanceLisa]
+My nechceme nici spolecnost!
+
+[SPEECH: DanceLisa]
+Dej nam pokoj!
+
+[SPEECH: DanceLisa]
+Dej nam pokoj!
+
+[SPEECH: DanceLisa]
+Uz toho zacinam mit dost.
+
+[SPEECH: DanceLisa]
+Zabijeli tu lidi! Primo tady v klubu!
+
+[SPEECH: DanceLisa]
+Zajimalo by me, jak k tomu policie muze nechat dojit?
+
+-----------------------------------------------------------------
+[Owner: DataEntry_Break]
+[Name:  DataEntry_BreakBarks]
+
+[COMMENT]
+These cycle once, repeating on "Done."  However, the repeating functionality is handled by the flag DataEntry_Break_Done, so that the state will be remembered if the map is re-loaded.têŒxî
+
+[SPEECH: DataEntry_Break]
+Jste u psioniku? Vypadate, ze byste mohl mit Dar.
+
+[SPEECH: DataEntry_Break]
+Ten patent na chemoreceptory uz me pekne medi.
+
+[SPEECH: DataEntry_Break]
+Hundley me nepusti domu, dokud se to nedokonci.
+
+[SPEECH: DataEntry_Break]
+Podle mne takova vec vubec nestoji za vkladani.
+
+[SPEECH: DataEntry_Break]
+Kdo by chtel rozlisovat mezi xenonem a radonem?
+
+[SPEECH: DataEntry_Break]
+Stoji to tu za belu... Jenom se tu pachti, aby vypotili neco novyho v genetice, jakoukoliv novou sekvenci...
+
+[SPEECH: DataEntry_Break]
+Pro vedeni predstavujou zamestnanci jenom surovinu... Moje prace je, jak tu surovinu trochu zuslechtit.
+
+[SPEECH: DataEntry_Break]
+Cela spolecnost je postavena na jednotnych modelech tovaren, skol, obchodu, medii... Na osobu X uplatni proces Y, ktery ji prida schopnost Z... Je to jak na klinice!
+
+[SPEECH: DataEntry_Break]
+Asi se vratim ke sve praci.
+
+[SPEECH: DataEntry_Break]
+Z civeni na obrazovku pocitace se mi dela soufl.
+
+-----------------------------------------------------------------
+[Owner: DataEntry_Wander]
+[Name:  DataEntry_WanderBarks]
+
+[COMMENT]
+These cycle once, repeating on "Done."  However, the repeating functionality is handled by the flag DataEntry_Wander_Done, so that the state will be remembered if the map is re-loaded..
+
+[SPEECH: DataEntry_Wander]
+Dneska jsem nemel moznost udelat jeste vubec nic.
+
+[SPEECH: DataEntry_Wander]
+Proc musim vkladat data? Za chvili budu jezdit jesterkou! Copak jsem obycejnej delnik? Vzdyt si me najali jako odbornika!
+
+[SPEECH: DataEntry_Wander]
+V minulym zivote jsem byl mezek, kterej v severnim Thajsku tahal do kopce kamennej pluh.
+
+[SPEECH: DataEntry_Wander]
+Zatracene, ja protestuju a odmitam tyhle veci dal delat! Jsem prece profik, sakra!
+
+[COMMENT]
+(sighs)
+
+[SPEECH: DataEntry_Wander]
+Takhle to v Asii proste chodi.
+
+[SPEECH: DataEntry_Wander]
+Cela nakladni lod plna vakciny... Myslite, ze z toho dostaneme nejaky prachy? Cha...
+
+[SPEECH: DataEntry_Wander]
+Myslim, ze bys mel zaplatit svoje prispevky.
+
+-----------------------------------------------------------------
+[Owner: DataEntry_Wander]
+[Name:  MeetDataEntry_Wander]
+
+[COMMENT]
+British accent. in Asia.
+
+[SPEECH: DataEntry_Wander]
+Na seznamu je toho dneska fura, co?
+
+[SPEECH: JCDenton]
+Na seznamu...? Jo, jiste.
+
+[SPEECH: DataEntry_Wander]
+Bylo by prima se aspon na den ulejt z prace, ale ti svinaci podrazacky by se mnou urcite zrusili kontrakt. To si nemuzu dovolit.
+
+[SPEECH: JCDenton]
+To oni vedi taky.
+
+[SPEECH: DataEntry_Wander]
+Aspon ze ta nakladni lod uz je na ceste do Ameriky. Konecne tu prestanou smejdit ti zvlastni agenti.
+
+[SPEECH: JCDenton]
+Zvlastni agenti?
+
+[SPEECH: DataEntry_Wander]
+No prece ti vokvadrovany s popelavym ksichtem, co maj' na zatylku vytetovany voko! Vazne bych rad vedel, co bylo v tech prepravkach, ktery si tak hlidali.
+
+-----------------------------------------------------------------
+[Owner: Date1]
+[Name:  Date1Barks]
+
+[COMMENT]
+A Chinese or Philipino woman, kidnapped and forced into prostitution.  Barely speaks English.
+
+[SPEECH: Date1]
+Ahoj!
+
+[SPEECH: Date1]
+Jak se jmenujes?
+
+[SPEECH: Date1]
+Kde pracujes?
+
+[SPEECH: Date1]
+Jsi fesak!
+
+[COMMENT]
+(a scream)0
+
+[SPEECH: Date1]
+µaaaa!
+
+[COMMENT]
+For these, the player is going somewhere he shouldn't be.${Cy’±Jóû&AC,±πiW]ˇÎKﬁY÷⁄˙ãy@
+
+[SPEECH: Date1]
+Ne... to by neslo.
+
+[COMMENT]
+(scared)1
+
+[SPEECH: Date1]
+Tam ja nemuzu. Jasny?
+
+[SPEECH: Date1]
+Tam me proste nepustej'.
+
+[SPEECH: Date1]
+Nemuzu! Nesmim to!
+
+[SPEECH: Date1]
+Cas vyprsel.
+
+[SPEECH: Date1]
+Jeden zakaznik dvakrat... to nejde.
+
+[SPEECH: Date1]
+Spokojeny? Ano?
+
+-----------------------------------------------------------------
+[Owner: Date2]
+[Name:  Date2Barks]
+
+[COMMENT]
+A Chinese or Philipino woman, kidnapped and forced into prostitution.  Barely speaks English.
+
+[SPEECH: Date2]
+Vitejte v...Lucky Money.
+
+[SPEECH: Date2]
+Rada tancim.
+
+[COMMENT]
+No emphasis on "you".  These barks could happen in any sequence.d
+
+[SPEECH: Date2]
+Tancite rad?
+
+[COMMENT]
+(a scream)0
+
+[SPEECH: Date2]
+µaaaa!
+
+-----------------------------------------------------------------
+[Owner: Disgruntled_Guy]
+[Name:  Disgruntled_Guy_Convos]
+
+[COMMENT]
+This guy is really, really tense.
+
+[SPEECH: JCDenton]
+Chtel bych videt ty laborky.
+
+[SPEECH: Disgruntled_Guy]
+Hundley leze kazdejch pet minut do logu. S nim za zadkem si to nemuzu lajznout!
+
+[SPEECH: JCDenton]
+V poradku. Tvuj sef je vyrizenej.
+
+[SPEECH: Disgruntled_Guy]
+Tim chces rict...
+
+[SPEECH: JCDenton]
+Ten uz se ti pod ruku koukat nebude. Doporucuju ti, aby ses tu moc dlouho nezdrzoval. Tak co, dostanes me do tech laborek?
+
+[COMMENT]
+(annoyed)
+
+[SPEECH: Disgruntled_Guy]
+Co je?
+
+[SPEECH: JCDenton]
+Jenom se rozhlizim.
+
+[SPEECH: Disgruntled_Guy]
+Lidi se tu musej' soustredit!
+
+[SPEECH: JCDenton]
+Koukam, ze nevis, kdy mas jit domu.
+
+[SPEECH: Disgruntled_Guy]
+Protoze se mi nelibi, kdyz mi nekdo kouka pres rameno.
+
+[SPEECH: JCDenton]
+A proc?
+
+[SPEECH: Disgruntled_Guy]
+Hm. Koneckoncu, proc bych ti to nepriznal? Protoze ja jim tam zamerne vkladam chybny data, jasny?
+
+[SPEECH: JCDenton]
+To bys asi nemel jen tak na potkani vykladat.
+
+[SPEECH: Disgruntled_Guy]
+Ze ne? Mne je to fuk. Stejne uz jsem prisel na to, jak to tu chodi. Personal jako jsem ja dostane Sedou smrt. Za par tejdnu putujou do lagru. Mozna uz jsem dokonce nakazenej!
+
+[SPEECH: JCDenton]
+Proc by to spolecnost delala?
+
+[SPEECH: Disgruntled_Guy]
+Spolecnost - to jsou laborky. Tam proudej' odbornici, zarizeni, vojaci... vsechno bez jedinyho zaznamu! Staral se o to Iverson, potom onemocnel. Cang...Kiley...Watts. Ted je to na mne.
+
+[SPEECH: JCDenton]
+Do tech laborek bych se vazne rad podival.
+
+[SPEECH: Disgruntled_Guy]
+Jsi snad nejakej spion nebo co?
+
+[SPEECH: JCDenton]
+Zalezi na tom?
+
+[SPEECH: Disgruntled_Guy]
+Kdybych te tam dolu dostal, udelal bys zase neco ty pro me?
+
+[SPEECH: JCDenton]
+Co by to melo bejt?
+
+[SPEECH: Disgruntled_Guy]
+Hundley. Zabij ho. Ty bys to urcite sved'. Takovy jako ty jste na to zvykly. Muzu ti pak vystavit povoleni.
+
+[SPEECH: JCDenton]
+Uz jsem ho zabil.
+
+[SPEECH: Disgruntled_Guy]
+Coze?
+
+[SPEECH: JCDenton]
+Toho chlapka v obleku, ne? Sejmul jsem ho. Bezna soucast tyhle operace.
+
+[COMMENT]
+Trying to take this in.
+
+[SPEECH: Disgruntled_Guy]
+Tys' ho vazne...  Pani.
+
+[SPEECH: JCDenton]
+Je nacase, abys vypadnul. Ale potrebuju to povoleni, jasny?
+
+[COMMENT]
+Brightening, realizing that he's now free.VéyÛ2däwÀ9˙’ËÒœot øCõñH/,i±∏`»
+
+[SPEECH: Disgruntled_Guy]
+Jo, jasne. Jasne, to neni problem. Kod k vytahu je 6512. Jakmile tam dorazis, ujme se te ostraha.
+
+[NOTE:]
+Kod k vytahu VersaLife: 6512.
+
+[SPEECH: JCDenton]
+Tak fajn. Zabil jsem tvyho sefa, ale jeste predtim mi poskytnul pristup do laborek.
+
+[SPEECH: Disgruntled_Guy]
+Tys' ho... fakticky jsi ho zabil?
+
+[SPEECH: JCDenton]
+Je nacase, abys vypadnul. Mej se!
+
+[SPEECH: Disgruntled_Guy]
+Hej, diky! Presvedcim se, abys mel pristup na prvni uroven! Paneboze, mne ani nenapadlo, ze bys to moh' myslet vazne!
+
+[SPEECH: JCDenton]
+Dostal jsem povoleni ke vstupu do laborek od dozorce smeny. Mrknu se tam a dam ti vedet, co jsem zjistil.
+
+[SPEECH: Disgruntled_Guy]
+Jo? Od Hundleyho? Prave on me tady nuti ponocovat!
+
+[SPEECH: JCDenton]
+Ten v kvadru? Je tuhej. Ted uz se ho bat nemusis.
+
+[SPEECH: Disgruntled_Guy]
+Vazne? Vazne jsi ho zabil? To je ten chlap, co me tu vecne sleduje!
+
+[SPEECH: JCDenton]
+Soucast tajny operace.
+
+[SPEECH: Disgruntled_Guy]
+Uz jsi ho zabil?
+
+[SPEECH: JCDenton]
+Nemusel jsem. Prodal mi to povoleni za par kreditu.
+
+[SPEECH: Disgruntled_Guy]
+A co ja? Co mam delat?
+
+[SPEECH: JCDenton]
+Nejspis budes muset svyho sefa odrovnat sam.
+
+[SPEECH: Disgruntled_Guy]
+Prosim... Musis mi prece pomoct!
+
+[SPEECH: JCDenton]
+Prave ted mam docela dost prace.
+
+[SPEECH: JCDenton]
+Tak jo, zabil jsem tvyho sefa!
+
+-----------------------------------------------------------------
+[Owner: Disgruntled_Guy]
+[Name:  Disgruntled_Guy_Final_Barks]
+
+[SPEECH: Disgruntled_Guy]
+Kdyby tu nemeli ty kamery, davno bych uz zdrhnul.
+
+[SPEECH: Disgruntled_Guy]
+Jsem rad, ze mi konecne nekdo uveril. Dokonce ani kolegove nemaji tuseni, ze ty laborky existujou!
+
+[COMMENT]
+(urgency in his voice)S
+
+[SPEECH: Disgruntled_Guy]
+Nekdo by to mel rozmaznout v tisku!
+
+[SPEECH: Disgruntled_Guy]
+Dneska jsem tu byl naposled. To myslim vazne.
+
+-----------------------------------------------------------------
+[Owner: Disgruntled_Guy]
+[Name:  Disgruntled_Guy_Return]
+
+[SPEECH: JCDenton]
+Byl jsem dole v laborkach. Vis, co tam vyrabeji?
+
+[SPEECH: Disgruntled_Guy]
+Neco kolem genetiky a nanotechnologii. Vic netusim.
+
+[SPEECH: JCDenton]
+Dej na me a zmiz odtud! Vic ti, bohuzel, nemuzu prozradit!
+
+-----------------------------------------------------------------
+[Owner: Disgruntled_Guy]
+[Name:  Disgruntled_GuyBarks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: Disgruntled_Guy]
+Tam dole se asi pecou velky veci.
+
+[SPEECH: Disgruntled_Guy]
+Pokracuje se ve vyzkumu genetickejch projektu. To je asi tak vsechno, co o tom vim.
+
+[SPEECH: Disgruntled_Guy]
+Po smene o tom budu trosku uvazovat.
+
+[SPEECH: Disgruntled_Guy]
+Nemuzu zdrhnout hned - kvuli kameram.
+
+[SPEECH: Disgruntled_Guy]
+Doufam, ze zatim neprisli na to, ze jsme to byli my.
+
+[SPEECH: Disgruntled_Guy]
+Propustka ti pomalu vyprsela; radsi bys mel jit!
+
+-----------------------------------------------------------------
+[Owner: DrinkingMan]
+[Name:  DrinkingManBarks]
+
+[SPEECH: DrinkingMan]
+Neprejeme si, abyste nas rusil.
+
+[SPEECH: DrinkingMan]
+Sem prece chodit nemeli!
+
+[SPEECH: DrinkingMan]
+Rudy sip je odrazi!
+
+[SPEECH: DrinkingMan]
+Tohle budu hlasit na policii!
+
+[SPEECH: DrinkingMan]
+Kdo jste?
+
+[SPEECH: DrinkingMan]
+Dejte mi pokoj.
+
+[SPEECH: DrinkingMan]
+Povidam, ze nas nemate obtezovat.
+
+-----------------------------------------------------------------
+[Owner: DrinkingWoman]
+[Name:  DrinkingWomanAmbushBarks]
+
+[SPEECH: DrinkingWoman]
+Az se vratim do prace, musim si promluvit se sefem ochranky!
+
+[COMMENT]
+She sees the MJ12 troopers and VersaLife all the time.
+
+[SPEECH: DrinkingWoman]
+Straze! Jak to, ze vtrhly sem?
+
+[SPEECH: DrinkingWoman]
+Muzeme byt klidni. To neni kvuli nam.
+
+-----------------------------------------------------------------
+[Owner: DrinkingWoman]
+[Name:  DrinkingWomanBarks]
+
+[SPEECH: DrinkingWoman]
+Nas rozhovor je ryze soukromy.
+
+-----------------------------------------------------------------
+[Owner: DrinkingWoman]
+[Name:  DrinkingWomanDefaultBarks]
+
+[SPEECH: DrinkingWoman]
+Nevzpominam si, ze bychom se znali.
+
+[SPEECH: DrinkingWoman]
+Neotravujte!
+
+[SPEECH: DrinkingWoman]
+Povidam, abyste neotravoval!
+
+-----------------------------------------------------------------
+[Owner: DrinkingWoman]
+[Name:  DrinkingWomanDefaultBarks2]
+
+-----------------------------------------------------------------
+[Owner: DrinkingWoman]
+[Name:  DrinkingWomanInterrupted]
+
+[SPEECH: JCDenton]
+Mohl bych se zeptat, o cem to vlastne mluvite?
+
+[SPEECH: DrinkingWoman]
+Vy jste ze spolecnosti?
+
+[SPEECH: JCDenton]
+Jenom me to zaujalo. Vojaci... a ve spolecnosti?
+
+[SPEECH: DrinkingMan]
+Do toho vam nic neni. Nevsimejte si nas, prosim!
+
+-----------------------------------------------------------------
+[Owner: DrinkingWoman]
+[Name:  DrinkingWomanOverheard]
+
+[SPEECH: DrinkingWoman]
+Nikdy jsem nevidela tolik vojaku. Museli se chystat do nejake akce.
+
+[SPEECH: DrinkingMan]
+Ale ktery oddil?
+
+[SPEECH: DrinkingWoman]
+Mozna vsechny. Jde o neco duleziteho. Videla jsem straze i v Biotechu.
+
+[SPEECH: DrinkingMan]
+Myslim, ze je to jenom kvuli UK.
+
+[SPEECH: DrinkingWoman]
+To by trvalo tydny.
+
+[SPEECH: DrinkingMan]
+Ale proslycha se to. Kazdy odbornik na tehle planete ---
+
+[SPEECH: DrinkingWoman]
+VersaLife uz prece ma ten nejlepsi zabezpecovaci system v celem odvetvi prumyslu.
+
+[COMMENT]
+At the end of this line, this guy straightens up and becomes serious, afraid of giving his companion the wrong idea: that he might not be completely loyal to VersaLife (which he is)..têŒxî
+
+[SPEECH: DrinkingMan]
+Jeden muj kamarad z Texasu, co programuje hry, mi nabizel milion kreditu za jedinou hodinu na UK. Chtel by si zahrat trojrozmerny tetris... Ne, delam si psinu.
+
+-----------------------------------------------------------------
+[Owner: DrinkingWoman]
+[Name:  DrinkingWomanOverheard2]
+
+[SPEECH: DrinkingWoman]
+Mela bych rada jasno v jedne veci.
+
+[SPEECH: DrinkingMan]
+Kterou myslis?
+
+[SPEECH: DrinkingWoman]
+Vsechno je tak prehnane specializovane...
+
+[SPEECH: DrinkingMan]
+Je to neprijemne, ja vim. Ale stacila by jedna skulina v Siti, aby se cela nase prace dostala do nepovolanych rukou.
+
+[SPEECH: DrinkingWoman]
+Pripadam si tam spis jako ve vezenskem tabore nez v laboratori.
+
+[SPEECH: DrinkingMan]
+Nesmis to tak dramatizovat.
+
+[SPEECH: DrinkingWoman]
+Stravila jsem mesice praci na tom rotoru pro trideni vapnikovych iontu - a dokonce ani netusim, k cemu to je.
+
+[SPEECH: DrinkingMan]
+Kaczynski dela dobre, kdyz praci takhle rozdeluje - to bych mu vubec nevycital. Das si jeste neco k piti?
+
+[SPEECH: DrinkingWoman]
+Kdo ty kousky sklada dohromady?
+
+[SPEECH: DrinkingMan]
+Nekdo s podstatne vyssim platem nez mame my.
+
+-----------------------------------------------------------------
+[Owner: DrinkingWoman]
+[Name:  DrinkingWomanOverheard3]
+
+[SPEECH: DrinkingWoman]
+Mam podezreni, ze vedeni je zapleteno do nejakeho zlocinu.
+
+[SPEECH: DrinkingMan]
+Ja... nevim, jestli bych ti to mel rikat.
+
+[SPEECH: DrinkingWoman]
+Mluvim vazne. K cemu ty kody? Vsechny ty bezpecnostni procedury? Proc mizeji lide, kteri u nas vkladali data? Co s nimi spolecnost udelala?
+
+[SPEECH: DrinkingMan]
+To neni tvoje starost.
+
+[SPEECH: DrinkingWoman]
+Chci to vedet! Co delaji cele dny - a cele noci - dole ve druhem patre?
+
+[SPEECH: DrinkingMan]
+Vis... o tomhle se radsi nebudeme bavit.
+
+-----------------------------------------------------------------
+[Owner: GordonQuick]
+[Name:  ConvinceQuick]
+
+[SPEECH: JCDenton]
+Mel jsi pravdu. Maggie Couova je pekna komediantka.
+
+-----------------------------------------------------------------
+[Owner: GordonQuick]
+[Name:  Gate_Guard2]
+
+[COMMENT]
+Gordon Quick has a mysterious air surrounding him - in his initial conversation, he is inducting the player into the world of Hong Kong intrigue and deception.
+
+[COMMENT]
+You'll never follow this one.  It incorporates state from the entire mission.  Several of Gordon Quick's other conversations Jump here rather than duplicate dialogue for the same game-state.  [Note that the player could find the sword and show it to Max Chen without ever seeing Gordon Quick.]
+
+[SPEECH: JCDenton]
+Muj bratr se jmenuje Paul Denton. Slysel jsem, ze casto navstevoval tuhle budovu. Znas ho?
+
+[SPEECH: GordonQuick]
+Zarici stezku zadni gwailove nezajimaji.
+
+[SPEECH: JCDenton]
+Paul neni velkym pritelem Zapadu.
+
+[SPEECH: JCDenton]
+Paul nebyl velkym pritelem Zapadu.
+
+[SPEECH: GordonQuick]
+Jmenuju se Gordon Quick. Tveho bratra jsem znal, ale ty nejsi on. Povida se, ze pracujes pro UNATCO.
+
+[SPEECH: JCDenton]
+To uz je minulost - nez se Paul presunul do New Yorku. Druhy den uz jsem pomahal NSF.
+
+[SPEECH: GordonQuick]
+A ty chces, abych ti uveril? Ted jsi v Hongkongu a budeme jednat obchodne. Paul si vyslouzil nasi duveru jedine tim, ze s nami spolupracoval.
+
+[SPEECH: JCDenton]
+Na zadne pitominky nemam cas.
+
+[SPEECH: GordonQuick]
+To nejsou pitominky. Radi bychom ziskali takoveho spojence jako byl Paul. Triady spolu valci kvuli jedne zene, Maggii Couove. Triade Rudy sip byl ukraden vzacny mec a slecna Couova z toho zlocinu narkla nas, Zarici stezku.
+
+[SPEECH: JCDenton]
+Cim je ten mec tak vzacny?
+
+[SPEECH: GordonQuick]
+Je to unikatni mec, takzvany Draci zub. Nanotechnologicky ho vyvinul byvaly vudce Rudeho sipu, nacez byl zavrazden. My vime, ze Couova lze, ale nemame zadny dukaz.
+
+[SPEECH: JCDenton]
+Promluvim s ni. Ale nejdriv musim najit jisteho Tracera Tonga. Potrebuju, aby mi pomohl...
+
+[SPEECH: GordonQuick]
+Pan Tong jedna s obchodniky, nikoliv se zebraky nebo cizinci, kteri by mohli byt spehy. Couova bydli na Tonnochi Road 1313. Bud opatrny! Najdi a vyzkousej ten mec. To je dukaz, ktery potrebujeme!
+
+[COMMENT]
+JC won't be an ally because he will be dead from the killswitch.W
+
+[SPEECH: JCDenton]
+Pomuzu vam proti te Couove, ale potom se musim setkat s Tongem. Jinak se z meho spojenectvi nebudete radovat dele nez dvanact hodin.
+
+[NOTE:]
+Maggie Couova bydli v Tonnochi Road 1313.
+
+[GOAL:]
+Najdi a vyzkousej mec Draci zub jako dukaz pro nebo proti tomu, co tvrdi Maggie Couova.
+
+[SPEECH: JCDenton]
+Mluvil jsem s Maggii Couovou, ale nevsiml jsem si niceho neobvykleho. Nalehave se musim videt s Tracerem Tongem. Potrebuju jeho pomoc...
+
+[SPEECH: GordonQuick]
+Ten mec tam je. Ja to vim. Jestli chces videt pana Tonga, musis dokazat, ze pro nas pracujes. Snad jsi te Couove nenaletel? Nebo ti dala vyssi nabidku?
+
+[GOAL:]
+Najdi a vyzkousej mec Draci zub jako dukaz pro nebo proti tomu, co tvrdi Maggie Couova.
+
+[SPEECH: JCDenton]
+To ona je zodpovedna za kradez toho mece. Pracuje pro Majestic 12.
+
+[SPEECH: GordonQuick]
+Majestic 12?
+
+[SPEECH: JCDenton]
+To je konspiracni skupina, ktera chce ovladnout Hongkong.
+
+[SPEECH: GordonQuick]
+Mas dukaz?
+
+[SPEECH: JCDenton]
+Ano, nasel jsem ten mec v jejim apartma.
+
+[SPEECH: GordonQuick]
+Dobra. Povez o tom Draci hlave Rudeho sipu. Potom uvidime, kdo je skutecny zradce.
+
+[SPEECH: JCDenton]
+Kde najdu tu "Draci hlavu"?
+
+[SPEECH: GordonQuick]
+Jmenuje se Max Cen. Rudy sip sidli v klubu Lucky Money v nakupnim centru pod trzistem. Potom se vrat a vyrid mi, co rekl. Mohli bychom zacit vyjednavat o primeri.
+
+[GOAL:]
+Odhal Rudemu sipu zradu Maggie Couove. Maxe Cena najdes v klubu Lucky Money blizko trziste Van-Caj.
+
+[GOAL:]
+Az oznamis Maxi Cenovi zradu Maggie Couove, vrat se ke Gordonovi Quickovi a vyrid mu, jak Rudy sip odpovedel na tuto novinku.
+
+[SPEECH: JCDenton]
+V klubu Lucky Money jsem uz byl. Max Cen vyhlasil mezi Rudym sipem a Zarici stezkou primeri.
+
+[SPEECH: GordonQuick]
+Primeri? Nemylis se?
+
+[SPEECH: JCDenton]
+Na klub zautocila organizace Majestic 12. Myslim, ze Rudy sip by mel zajem o utvoreni koalice.
+
+[SPEECH: GordonQuick]
+Pane Dentone, ukazal ses byt muzem, jakeho jsme cekali. Tracer Tong je uvnitr, ve sve laboratori v podzemi. Vchod najdes v nasi treninkove mistnosti. Pan Tong uz ti rekne, co dal. Ke vstupu do naseho sidla pouzij kod 1997.
+
+[NOTE:]
+Kod ke dverim Zarici stezky: 1997.
+
+[NOTE:]
+Tracer Tong sidli v laboratori pod komplexem Zarici stezky. Tajny vchod je v treninkove mistnosti.
+
+[SPEECH: JCDenton]
+Uz vim, co je zac. Pracuje pro Majestic 12 a to ona ukradla ten mec. Precetl jsem si to v zaznamu na policejni stanici.
+
+[SPEECH: GordonQuick]
+Tak tos' byl ty? Mas koule, pane Dentone. Jenze to nestaci. Policii se neda verit. Potrebujeme konkretni dukaz. Ten mec.
+
+-----------------------------------------------------------------
+[Owner: GordonQuick]
+[Name:  GordonBarBarks]
+
+[SPEECH: GordonQuick]
+Malickost... Ani o tom nemluv.
+
+[SPEECH: GordonQuick]
+Tve jmeno bude navzdy zapsano do kroniky Zarici stezky.
+
+[SPEECH: GordonQuick]
+Tongova mise muze pockat. Zatim si odpocin. Zaslouzis si to.
+
+-----------------------------------------------------------------
+[Owner: GordonQuick]
+[Name:  M06GordonFinalBarks]
+
+[SPEECH: GordonQuick]
+Ten mir bude prospesny obema stranam.
+
+[SPEECH: GordonQuick]
+Tracer Tong ti chce osobne poblahoprat.
+
+-----------------------------------------------------------------
+[Owner: GordonQuick]
+[Name:  M07GordonFirstGive]
+
+[COMMENT]
+Yum sing = Cheers!... pronounced Yum SING!
+
+[SPEECH: GordonQuick]
+Muj drahy priteli... Dovol, abych ti projevil svuj vdek! Lahev vina ode mne! Jum sing!
+
+[SPEECH: JCDenton]
+Momentalne nic vic nepoberu, ale presto dekuju za velkorysost.
+
+-----------------------------------------------------------------
+[Owner: GordonQuick]
+[Name:  M07GordonSecondGive]
+
+[SPEECH: GordonQuick]
+Ale jestli chces ochutnat skutecne vynikajici vino, mel bys zkusit toto Beaujolais z oblasti Moulin a Vent ve Francii!
+
+-----------------------------------------------------------------
+[Owner: GordonQuick]
+[Name:  QuickAfterMaggie]
+
+-----------------------------------------------------------------
+[Owner: GordonQuick]
+[Name:  QuickFinalTalk]
+
+[SPEECH: JCDenton]
+Informoval jsem Cena o tom meci. Vyhlasil mezi Rudym sipem a Zarici stezkou primeri.
+
+-----------------------------------------------------------------
+[Owner: GordonQuick]
+[Name:  QuickLouisDead]
+
+[SPEECH: GordonQuick]
+Budu te varovat jenom jednou: nesmis utocit na nase agenty ani zastupce. Ten chlapec byl velice slibny. Kdybych nemel vyslovne rozkazy od pana Tonga, na miste bych te zabil.
+
+[SPEECH: GordonQuick]
+Budu te varovat jenom jednou: nesmis utocit na nase agenty ani zastupce. Ten chlapec byl velice slibny. Kdybych nemel vyslovne rozkazy od pana Tonga, na miste bych te zabil.
+
+-----------------------------------------------------------------
+[Owner: GordonQuick]
+[Name:  QuickOverheard1]
+
+[COMMENT]
+(impressed)InLuckyMone
+
+[SPEECH: GordonQuick]
+Ten porucik... Budeme se muset nejak dostat pres okresniho serzanta.
+
+[SPEECH: MaxChen]
+Pokrevni pribuzenstvi, asi tak bych to popsal.
+
+[SPEECH: GordonQuick]
+Mel jsi ho tedy celou tu dobu v kapse.
+
+[SPEECH: MaxChen]
+Je pouze jednim z mnoha vyznamnych uredniku, ktery je verny Rudemu sipu.
+
+-----------------------------------------------------------------
+[Owner: GordonQuick]
+[Name:  QuickOverheard2]
+
+[SPEECH: MaxChen]
+A budes mit dostatecnou kapacitu pro... vetsi zasilky?
+
+[SPEECH: GordonQuick]
+Jakykoliv vyrobek, jakekoliv misto nakladu, jakekoliv misto urceni.
+
+[SPEECH: MaxChen]
+Mel bych jiste zvlastni zbozi, takovou specialitu...
+
+[SPEECH: GordonQuick]
+Zarici stezka umi dodavat treba tucnaky do Norska - stejne jako dokumenty pochazejici z Japonska.
+
+-----------------------------------------------------------------
+[Owner: GordonQuick]
+[Name:  QuickOverheard3]
+
+[COMMENT]
+The Triad officials are beginning to take offense at each other.
+
+[SPEECH: MaxChen]
+Vase operace musely byt bez podpory uradu obtizne.
+
+[SPEECH: GordonQuick]
+Jen mensi nesnaz. Ne tak velka, jako kdyz jste vy museli obchodovat bez distribucni site.
+
+[SPEECH: MaxChen]
+To nestoji za rec. Rudy sip dela znamenite obchody.
+
+[SPEECH: GordonQuick]
+Ukazu ti, co to znamena 'znamenity'! Padesat tun mesicne! A treba bez podpory vladnich uredniku.
+
+-----------------------------------------------------------------
+[Owner: GordonQuick]
+[Name:  QuickWaiting]
+
+[COMMENT]
+These cycle and repeat the last line.
+
+[COMMENT]
+The corporation, rather than someone else.
+
+[SPEECH: GordonQuick]
+Byvaly vudce Rudeho sipu ukradl spolecnosti VersaLife nanotechnologicke soucasti; domnivam se, ze kvuli tomu byl zavrazden.
+
+[SPEECH: GordonQuick]
+Draci zub je tou nejdokonalejsi neeutaktickou cepeli - kdyby se ji Rudy sip zmocnil, ziskal by tim nesmirnou vyhodu.
+
+[SPEECH: GordonQuick]
+Vsechny souboje mezi triadami rozhoduje starobyle bojove umeni.
+
+[SPEECH: GordonQuick]
+Cepel byla vytvorena s povlakem samoostricich nanozarizeni. Je neuveritelne ostra.
+
+[SPEECH: GordonQuick]
+Zacali jsme pracovat na vlastnim meci, jenze to jde ztuha.
+
+[SPEECH: GordonQuick]
+Pripada mi podezrele, ze Maggie Couova se dostala k moci presne ve chvili, kdy byl byvaly vudce Rudeho sipu zavrazden.
+
+[SPEECH: GordonQuick]
+Ten mec zabil spoustu lidi uz jenom svou pouhou existenci.
+
+[SPEECH: GordonQuick]
+Dodrz sve slovo. Navstiv Maggii Couovou. Zjisti pravdu.
+
+[SPEECH: GordonQuick]
+Vrat se k Maggii Couove. Musis odhalit pravdu.
+
+-----------------------------------------------------------------
+[Owner: GordonQuick]
+[Name:  QuickWaiting_1_5]
+
+-----------------------------------------------------------------
+[Owner: GordonQuick]
+[Name:  QuickWaiting2]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: GordonQuick]
+Max Cen bude neduverivy, ale musis ho presvedcit.
+
+[SPEECH: GordonQuick]
+Ted konecne vsichni vedi, kdo zavrazdil Cenova predchudce.
+
+[SPEECH: GordonQuick]
+Dej mi vedet, jak Cen zareagoval.
+
+-----------------------------------------------------------------
+[Owner: GordonQuick]
+[Name:  QuickWaiting3]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: GordonQuick]
+Jsi skutecne schopny diplomat - udelal jsi na me dojem!
+
+[SPEECH: GordonQuick]
+Aby ses dostal z treninkove mistnosti do Tongovy laboratore, musis pouzit tajnou chodbu.
+
+[SPEECH: GordonQuick]
+Uz se tesim, jak si s nepritelem potreseme rukama.
+
+[SPEECH: GordonQuick]
+Obavam se, ze Rudy sip se bude snazit jeste pred uzavrenim miru zmocnit toho mece.
+
+-----------------------------------------------------------------
+[Owner: GordonQuick]
+[Name:  TriadCeremony]
+
+[GOAL:]
+Oznam Tracerovi Tongovi v sidle Zarici stezky tu dobrou zpravu o primeri.
+
+[GOAL:]
+Sejdi se s Dracimi hlavami v Lucky Money, aby sis tam s nimi pripil.
+
+[COMMENT]
+Almost a whisper.Ÿ≠˚f@“u%ıE∂±!
+
+[SPEECH: GordonQuick]
+Utiste se! Agent Denton z Ameriky pro nas ziskal ten softwarovy komponent!
+
+[SPEECH: GordonQuick]
+Prijmi, prosim, projev nasi vdecnosti!
+
+[SPEECH: JCDenton]
+Je to pro mne velka cest.
+
+[COMMENT]
+(with reference)i
+
+[SPEECH: GordonQuick]
+Zacni!
+
+[SPEECH: MaxChen]
+Jako jsou dve strany dokonale cepele svym vzajemnym odrazem, jako spojeny do jedineho celku tvori dokonale ostri...
+
+[SPEECH: MaxChen]
+...tak i my vytvorime jedinou cepel, nikoliv muzske a zenske mece Gan-dzangu, ktere si navzajem nahaneji hruzu, nybrz jedinou zbran, presnou ve svem zasahu, byt byla vedena mnoha pary pazi!
+
+[SPEECH: GordonQuick]
+A stejne jako tato ocel ostri svuj brit a zoceluje svuj vlastni povrch, ochranujme i my - spolecne - nase pradavne tradice!
+
+[COMMENT]
+A straight appositive tacked onto the previous sentence.
+
+[SPEECH: MaxChen]
+... to jedine pretrvavajici lidske dilo, ktere se rodi znovu a znovu v pristich generacich!
+
+[SPEECH: GordonQuick]
+Tak se stan!
+
+[SPEECH: MaxChen]
+Tak se stan!
+
+[COMMENT]
+There needs to be a pause before the next line, so maybe leave a second or two of trailing silence on the previous line.S~¬ËR*,a8dZ}$Ë±
+
+[SPEECH: GordonQuick]
+Jeste jednou ti dekujeme, agente Dentone. Musis se k nam pridat dnes vecer, az budeme v Lucky Money oslavovat. Jeste predtim ale si s tebou preje mluvit pan Tong.
+
+[SPEECH: JCDenton]
+Diky za pozvani. Mozna se tam stavim.
+
+-----------------------------------------------------------------
+[Owner: JaimeReyes]
+[Name:  M07JaimeBarks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: JaimeReyes]
+Gunther po tvem uteku silel vzteky, zle tam ponicil celou veznici. Musel jsem mu pichnout sedativa.
+
+[SPEECH: JaimeReyes]
+Dokazal bych z UNATCO propasovat augmentacni zasobnik, ale nechtel jsem svoje stesti prilis pokouset.
+
+[SPEECH: JaimeReyes]
+Predstav si - stavil jsem se ve VersaLife. Nabidli mi praci v jedne z tech laboratori!
+
+[SPEECH: JaimeReyes]
+Rozhodl jsem se zustat v Hongkongu, dokud se to vsechno neprezene.
+
+[SPEECH: JaimeReyes]
+Uzil jsem si vzruseni na rok dopredu.
+
+[SPEECH: JaimeReyes]
+Diky, ze jsi me dostal z UNATCO.
+
+-----------------------------------------------------------------
+[Owner: JaimeReyes]
+[Name:  M07MeetJaime]
+
+[SPEECH: JCDenton]
+Zda se, ze jsme to dokazali vsichni.
+
+[SPEECH: JaimeReyes]
+A prave vcas. Slysel jsem, ze Simons me dal na cernou listinu.
+
+[SPEECH: JCDenton]
+Mozna je to fakt. Jsem rad, zes' vyvazl.
+
+[SPEECH: JaimeReyes]
+Zmizel jsem zanedlouho po tvem uteku. Ochranka nestala za moc, tak jsem si vzal ze skladu neco na pamatku.
+
+[SPEECH: JCDenton]
+Nemel jsi kvuli mne tolik riskovat.
+
+[SPEECH: JaimeReyes]
+Ver mi, ze to stalo za to. Na celnici se na me divali podezirave, ale podarilo se mi propasovat zasobnik vylepseni augmentace.
+
+[SPEECH: JCDenton]
+Tak tohle jsou ti bdeli strazci hranic?
+
+[SPEECH: JaimeReyes]
+Nabulikoval jsem jim, ze pracuju pro VersaLife. Jmeno te firmy je v Hongkongu jako zaklinadlo.
+
+[SPEECH: JCDenton]
+Tak tedy diky. Ted se drz na chvili zpatky. UNATCO te bude jiste hledat.
+
+[SPEECH: JCDenton]
+Pockej chvilku, nez neco odhodim! Potom si to od tebe vezmu.
+
+[SPEECH: JaimeReyes]
+Vem si to vylepseni! Aspon tim ti muzu pomoct!
+
+-----------------------------------------------------------------
+[Owner: Jock]
+[Name:  M06JockExit]
+
+[SPEECH: Jock]
+Tong me instruoval. Letime tedy za Stantonem Dowdem?
+
+[SPEECH: JCDenton]
+Jo. Znas ho?
+
+[SPEECH: Jock]
+Par veci o nem vim. Hadam, ze Harley Filben nam rekne, jak ho kontaktovat. Vzdycky jsem Filbena podeziral, ze to tahne s Iluminaty.
+
+[SPEECH: JCDenton]
+To zjistime, az doletime do New Yorku. Neztracejme tedy cas!
+
+-----------------------------------------------------------------
+[Owner: JockInHelicopter]
+[Name:  JockBarksLumPath]
+
+[SPEECH: JockInHelicopter]
+Pripoutejte se - ceka vas dlouhej vejlet!
+
+-----------------------------------------------------------------
+[Owner: JockInHelicopter]
+[Name:  M06JockTrappedBarksFrob]
+
+[COMMENT]
+These cycle and go random.I'$T=t
+
+[SPEECH: Jock]
+Rotory jsou zamcene; nikam jim neuletim.
+
+[SPEECH: Jock]
+Musim tu sedet a cekat.
+
+[SPEECH: Jock]
+Nemam moc casu.
+
+-----------------------------------------------------------------
+[Owner: JockInHelicopter]
+[Name:  M06JockTrappedBarksRadius]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: Jock]
+Asi ted koumaji, co s nami.
+
+[SPEECH: Jock]
+Uvolni mi zamcene zbrojni systemy a ja nas odtud dostanu.
+
+[SPEECH: Jock]
+Veliny jsou v prvnim patre.
+
+[SPEECH: JockInHelicopter]
+Davej si pozor - maji tu ochranku, jakou bys asi necekal.
+
+-----------------------------------------------------------------
+[Owner: Labrat_Bum]
+[Name:  Labrat_BumBarks]
+
+[COMMENT]
+This guy is the victim of a nanotech/brain experiment.  He's pretty cracked.  Laughs for no reason, etc.  Some of the lines refer to his time as a captive of the Slave Captain.
+
+[SPEECH: Labrat_Bum]
+(smeje se)
+
+[SPEECH: Labrat_Bum]
+...ja jsem tady kapitan!
+
+[SPEECH: Labrat_Bum]
+Zaprodanci!
+
+[SPEECH: Labrat_Bum]
+Hi-hi!
+
+[COMMENT]
+(more giddy than previous laughter, because he has just been set free)
+
+[SPEECH: Labrat_Bum]
+(smeje se)
+
+[SPEECH: Labrat_Bum]
+Vzpoura!
+
+-----------------------------------------------------------------
+[Owner: Lumpath_Street_Guard]
+[Name:  Lumpath_Street_GuardBarks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: Lumpath_Street_Guard]
+Muzete jit dal.
+
+[SPEECH: Lumpath_Street_Guard]
+To mate asi hodne bohate pratele, kdyz jdete na navstevu do Tonnochi Road.
+
+[SPEECH: Lumpath_Street_Guard]
+Uz vas nebudu obtezovat.
+
+[SPEECH: Lumpath_Street_Guard]
+Videl jsem slecnu Couovou na vlastni oci. Setkala se s Maxem Cenem, vudcem Rudeho sipu.
+
+[SPEECH: Lumpath_Street_Guard]
+V te budove pres ulici jsme meli vlastniho agenta, ale musel odletet do Spojenych statu.
+
+[SPEECH: Lumpath_Street_Guard]
+Nenechte se od ni oklamat!
+
+[SPEECH: Lumpath_Street_Guard]
+Maggie Couova je mazana liska.
+
+-----------------------------------------------------------------
+[Owner: Lumpath_Street_Guard]
+[Name:  Lumpath_Street_GuardBarksFinal]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: Lumpath_Street_Guard]
+Maggie Couova... Skutecne prekrasna zena, ale schopna tech nejvetsich spinavosti.
+
+[SPEECH: Lumpath_Street_Guard]
+Konecne se Rudy sip dovi, jak to skutecne bylo.
+
+[SPEECH: Lumpath_Street_Guard]
+Prokazal jste Zarici stezce velkou sluzbu.
+
+-----------------------------------------------------------------
+[Owner: Lumpath_Street_Guard]
+[Name:  Meet_Lumpath_Street_Guard]
+
+[SPEECH: Lumpath_Street_Guard]
+Vy tady v Tonnochi Road asi nebydlite, co?
+
+[SPEECH: JCDenton]
+Co je vam do toho?
+
+[SPEECH: Lumpath_Street_Guard]
+Prominte. Nechtel jsem vas urazit. Pokracujte v miru. Zarici stezka nad vami bdi.
+
+[SPEECH: JCDenton]
+Jsem tu na prani Gordona Quicka.
+
+[SPEECH: Lumpath_Street_Guard]
+Tak to si nejspis jdete promluvit se slecnou Couovou? O pul boku dal, po leve strane.
+
+[SPEECH: JCDenton]
+Dekuju.
+
+[SPEECH: Lumpath_Street_Guard]
+Ta zenska je pekna zmije. Neverte ji ani slovo!
+
+-----------------------------------------------------------------
+[Owner: M06Junkie]
+[Name:  M06JunkieBarks]
+
+[SPEECH: M06Junkie]
+Ne! Bezte pryc!
+
+[SPEECH: M06Junkie]
+Dekuju... jeste jednou.
+
+[SPEECH: M06Junkie]
+Myslela jsem, ze umru.
+
+[SPEECH: M06Junkie]
+Je to strasny... ten abstak. Neumite si to predstavit.
+
+-----------------------------------------------------------------
+[Owner: M06Junkie]
+[Name:  M06MeetJunkie]
+
+[COMMENT]
+A junkie with the shakes.  I'm writing this as though she has an Asian accent, but that's not necessary.ct2—^Õª/zo€edwÜmØoµˇ˚2¿K
+
+[SPEECH: M06Junkie]
+Nemate... dvacet kreditu, pane?
+
+[SPEECH: JCDenton]
+Na co?
+
+[SPEECH: M06Junkie]
+Ja... nebudu lhat. Mam abstak, silenej abstak. Potrebuju... jen malou davku, proti bolesti.
+
+[CHOICES:2]
+
+[CHOICE:]
+Ztracena ctnost jako je uprimnost stoji za mizernych dvacet kreditu.
+
+[CHOICE:]
+Kdyz uz ses dostala takhle daleko, byla by skoda, nezbavit se toho navyku.
+
+[SPEECH: M06Junkie]
+Jste strasne hodnej.
+
+[SPEECH: JCDenton]
+To nic nebylo.
+
+[SPEECH: M06Junkie]
+Hledate Maggii Couovou?
+
+[SPEECH: JCDenton]
+Proc? Vis o ni neco?
+
+[SPEECH: M06Junkie]
+Bydli nahore, ale tudy se k ni nechodi. Tu branku pouziva jenom jeji osobni straz. Nemaji radi, kdyz tu... nekdo cmucha.
+
+[SPEECH: JCDenton]
+Diky za radu.
+
+[SPEECH: M06Junkie]
+Jak muzete bejt... tak krutej?
+
+[SPEECH: JCDenton]
+Delam to pro tvy dobro.
+
+[SPEECH: M06Junkie]
+Jste... sprostej. Doufam, ze brzy chcipnete.
+
+[SPEECH: JCDenton]
+Bohuzel. Nemam dost penez ani sam pro sebe.
+
+-----------------------------------------------------------------
+[Owner: MaggieChow]
+[Name:  BobMaggieOverheard]
+
+[SPEECH: BobPage]
+Zatim jde vsechno jako po masle, ne?
+
+[SPEECH: MaggieChow]
+Lepe, nez jsme ocekavali. Pole reakcnich modulu umoznuje UK vykonavat nekolik paralelnich konstrukci soucasne.
+
+[SPEECH: BobPage]
+Uzasne! Vyzkousime ten trik i v Oblasti 51.
+
+[SPEECH: MaggieChow]
+Jediny problem tedy spociva predevsim v otazce bezpecnosti.
+
+[SPEECH: BobPage]
+Toho frajirka z UNATCO se nemusite bat. Ochrana je tu na urovni a my uz z dlouhodobeho hlediska pracujeme na programu, ktery ho zcela odsune do pozadi. Ma kryci jmeno Ikaros.
+
+[SPEECH: MaggieChow]
+Ikaros?
+
+[SPEECH: BobPage]
+Je to nadherna myslenka. Uvidite, ze se vam bude taky libit, ale ted o tom mluvit nemuzeme. Co takhle ve vasi kancelari?
+
+[SPEECH: MaggieChow]
+Nemam cas. Povime si to cestou.
+
+-----------------------------------------------------------------
+[Owner: MaggieChow]
+[Name:  MaggieBarks]
+
+[COMMENT]
+These cycle and go random.¥Y¿z∑OÀëE]Ôbø?3e?UzˇuwËœ
+
+[SPEECH: MaggieChow]
+Zarici stezka byla snadnou koristi. Organizaci Majestic 12 stacilo pouze to, aby jim zamavala penezi pred nosem.
+
+[SPEECH: MaggieChow]
+Musime odhalit spiknuti Zarici stezky, potom se ta organizace zhrouti zevnitr sama.
+
+[SPEECH: MaggieChow]
+Az dorazi vas bratr, vyridte mu, prosim, ze mam pro nej dulezitou zpravu.
+
+[SPEECH: MaggieChow]
+Bezte na policejni stanici; tam najdete informaci, kterou hledate.
+
+[SPEECH: MaggieChow]
+Dost reci. Musime jednat.
+
+[SPEECH: MaggieChow]
+Prosim... Jdete uz.
+
+[SPEECH: MaggieChow]
+On jediny mel tu odvahu se jim postavit.
+
+[SPEECH: MaggieChow]
+Ja ho pomstim. To mi muzete verit.
+
+[SPEECH: MaggieChow]
+Policie je zkorumpovana a neschopna. Musime spolehat sami na sebe.
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: MaggieChow]
+Je nacase, abyste sel.
+
+[SPEECH: MaggieChow]
+May Sungova vas vyprovodi ven.
+
+[SPEECH: MaggieChow]
+Rekla jsem, abyste odesel.
+
+-----------------------------------------------------------------
+[Owner: MaggieChow]
+[Name:  MaggieChowShowdown]
+
+[SPEECH: MaggieChow]
+Chyba, agente.
+
+[SPEECH: JCDenton]
+Nemela jsi me posilat na tu policejni stanici. Co jsi cekala - ze me zatknou? Spis to vypada, ze se v Hongkongu pripravuje zatykac prave na tebe!
+
+[SPEECH: MaggieChow]
+O me byl odjakziva velky zajem. S policii si poradim stejne jako s temi odpornymi novinari.
+
+[SPEECH: JCDenton]
+A sice?
+
+[SPEECH: MaggieChow]
+Presne tak, jak se ted poradim s tebou!
+
+[SPEECH: JCDenton]
+Nazdar, Maggie.
+
+[SPEECH: MaggieChow]
+Jste blazen, kdyz verite Tracerovi Tongovi. Ten vas posle leda na smrt, stejne jako poslal uz vaseho bratra.
+
+[SPEECH: JCDenton]
+Ten se aspon nevydava za nekoho jineho.
+
+[SPEECH: MaggieChow]
+Mel byste drzet s nami. Vydelal byste tak velke penize, ze se vam o tom ani nesnilo.
+
+[SPEECH: JCDenton]
+Jste jenom prasiva komediantka.
+
+[SPEECH: MaggieChow]
+A vy zase zradny agent. Podepsal jste si rozsudek smrti!
+
+[SPEECH: MaggieChow]
+Mate otresne zpusoby, pane Dentone, kdyz navstivite me apartma a ani me neprijdete pozdravit...
+
+[SPEECH: JCDenton]
+Nelibi se mi vas kompars.
+
+[SPEECH: MaggieChow]
+Nastal cas, abych vam vasi nezdvorilost oplatila!
+
+-----------------------------------------------------------------
+[Owner: MaggieChow]
+[Name:  MeetMaggie]
+
+[COMMENT]
+Note that Maggie is lying - she doesn't even know Paul, and she stole the sword herself.  She only learned a few minutes ago that JC was coming.  She read his file, and now she is improvising skillfully, if a little desperately.
+
+[COMMENT]
+This flag should also get set by triggers at the entrances to Maggie Chow's apartment.
+
+[SPEECH: MaggieChow]
+...osobne. Stejne ponury a vazny jako jeho bratr.
+
+[SPEECH: JCDenton]
+Vy vite, kdo jsem... A znate Paula? Znate meho bratra?
+
+[SPEECH: MaggieChow]
+Velice duverne. Rikejte mi Maggie.
+
+[COMMENT]
+Has JC been filled in about Maggie by Gordo?e
+
+[SPEECH: JCDenton]
+Paul se o vas nikdy nezminil.
+
+[SPEECH: MaggieChow]
+A proto je stale nazivu: umi zachovat tajemstvi, dokonce i pred vlastnim bratrem.
+
+[SPEECH: JCDenton]
+Ale proc --
+
+[SPEECH: MaggieChow]
+Paul vam vypravel o organizaci Majestic 12, ne? O spiknuti v pozadi UNATCO?
+
+[SPEECH: JCDenton]
+...znam jenom ten nazev...
+
+[SPEECH: MaggieChow]
+Organizace Majestic 12 poslala Paula zavrazdit byvaleho vudce Rudeho sipu - a take mne.
+
+[SPEECH: JCDenton]
+A on zacal vystupovat jako dvojity agent?
+
+[SPEECH: MaggieChow]
+Rekneme, ze jsem ho presvedcila, aby se pridal k nam.
+
+[SPEECH: JCDenton]
+Jake ma Majestic 12 umysly s Rudym sipem?
+
+[SPEECH: MaggieChow]
+Zvitezili jsme ve valce triad proti spojenci Majestic 12 - Zarici stezce. Vyvijime novou technologii. Uz jste slysel o tom meci?
+
+[SPEECH: JCDenton]
+O jakem meci?
+
+[SPEECH: MaggieChow]
+S nanotechnologickou cepeli.
+
+[SPEECH: JCDenton]
+Myslite Draci zub?
+
+[COMMENT]
+Dummy.
+
+[SPEECH: MaggieChow]
+Triady si obcas vzajemne meri sily, coz zahrnuje i ozbrojene srazky. Draci mec by nas ucinil neporazitelnymi.
+
+[SPEECH: JCDenton]
+Takze za tim stoji Majestic 12... Chteji zvratit rovnovahu sil? Dat Zarici stezce pokrocilou technologii?
+
+[SPEECH: MaggieChow]
+Presne tak. Pokousela jsem se lidi varovat, ale Zarici stezka mne oznacila za lharku. Policie ma veskere dukazy, ktere by dokazaly celou vec urovnat, zamcene na stanici na trzisti Van-Caj, ale zamerne je nezverejni. Muzete se presvedcit sam. Znam kod k jejich databance: 87342.
+
+[NOTE:]
+Policie na trzisti Van-Caj ma dukaz, ze by mohla smirit triady. Kod k databance: 87342.
+
+[GOAL:]
+Na policejni stanici na trzisti Van-Caj najdi dukaz, ze policie by mohla triady usmirit. Prines ho Maggii Couove, aby sis ziskal jeji duveru.
+
+[SPEECH: JCDenton]
+Kdo je to vlastne ta Zarici stezka?
+
+[SPEECH: MaggieChow]
+Mene uspesna triada. Jejich komplex na trzisti Van-Caj se hemzi zlodeji a prekupniky drog.
+
+[NOTE:]
+Zarici stezka ma sidlo na trzisti Van-Caj.
+
+[SPEECH: JCDenton]
+Na trzisti? Prave odtamtud prichazim; musel jsem to misto nejak minout.
+
+[SPEECH: JCDenton]
+Abych byl uprimny, jeste pred svou navstevou u vas jsem mluvil s Gordonem Quickem. Domnival jsem se, ze byl pritelem meho bratra. Slibil jsem mu, ze vas navstivim a ujasnim si celou situaci.
+
+[SPEECH: MaggieChow]
+Ano, to se mi doneslo. Novym vudcem Rudeho sipu je Max Cen. Muzete se stavit v klubu Lucky Money, tam ho lze zastihnout. A ted mi povezte o Paulovi. Proc se nevratil s vami?
+
+[NOTE:]
+Max Cen je novym vudcem triady Rudy sip. Lze se s nim setkat v klubu Lucky Money.
+
+[SPEECH: JCDenton]
+Paul je na ceste do Hongkongu. Ale nevim, kdy dorazi.
+
+[SPEECH: MaggieChow]
+Tak to si musite poradit sam. V Hongkongu je pravda malokdy patrna na prvni pohled.
+
+[COMMENT]
+Maggie walks to the window.
+
+[SPEECH: JCDenton]
+Musim vam o Paulovi rict jednu dulezitou vec.
+
+[SPEECH: MaggieChow]
+Majestic 12 chce vyzbrojit Zarici stezku mecem Draci zub. Musime najit zpusob, jak to nebezpeci zazehnat!
+
+[SPEECH: JCDenton]
+Slecno Couova... Maggie... Paul je mrtev.
+
+[SPEECH: MaggieChow]
+Coze?
+
+[SPEECH: JCDenton]
+Zabili ho agenti z UNATCO. Je mi to lito. Chapu, jak vam ted asi je.
+
+[SPEECH: MaggieChow]
+Ja... Ne, to nemuze byt pravda!
+
+[COMMENT]
+Maggie walks to the window.
+
+[SPEECH: JCDenton]
+Muzete mi pomoci najit muze jmenem Tracer Tong?
+
+[SPEECH: MaggieChow]
+Samozrejme, pan Tong byl duvernikem vaseho bratra. Nalehal na mne, abych neprozradila misto jeho pobytu, dokud si nebudeme jisti, ze se vam da verit. Ma veliky strach z Majestic 12.
+
+[SPEECH: JCDenton]
+Tomu nerozumim.
+
+[SPEECH: MaggieChow]
+Pan J.C.Denton... osobne. Stejne ponury a vazny jako jeho bratr.
+
+-----------------------------------------------------------------
+[Owner: MaggieChow]
+[Name:  MeetMaggie2]
+
+[SPEECH: MaggieChow]
+Kdyz se podivate z okna, mesto se vam jevi jako krasne panorama, jako hora, ktera se nikdy nezmeni. Ve skutecnosti je to vsak pohyblivy pisek. Nikdy nemuzeme vedet, komu se da verit - policii, dokonce ani vlastni rodine.
+
+[SPEECH: JCDenton]
+Porozhlednu se kolem... Zkusim se dozvedet neco o Zarici stezce.
+
+[SPEECH: MaggieChow]
+Vsechny potrebne dukazy najdete na policejni stanici na trzisti Van-Caj. Policie by mohla zasahnout, kdyby chtela...
+
+[SPEECH: JCDenton]
+Jste v poradku?
+
+[SPEECH: MaggieChow]
+Byl to hrdina... tak cestny clovek! Ano, tak hrozne cestny...
+
+[SPEECH: JCDenton]
+Ano, to byl.
+
+[SPEECH: MaggieChow]
+Bezte se pripravit, ale...
+
+[COMMENT]
+A pause at the comma, a deepening of sympathy.e
+
+[SPEECH: JCDenton]
+Ja vim, je to nebezpecne.
+
+[SPEECH: MaggieChow]
+Potrebuji ted chvili samoty. Prosim...
+
+-----------------------------------------------------------------
+[Owner: MallGuard]
+[Name:  MallGuardBarks]
+
+[SPEECH: MallGuard]
+Tahle oblast je dokonale bezpecna.
+
+[SPEECH: MallGuard]
+Jestli se chcete pobavit, doporucuji klub Lucky Money.
+
+[SPEECH: MallGuard]
+Hlidame tady celych ctyriadvacet hodin.
+
+-----------------------------------------------------------------
+[Owner: MallGuard]
+[Name:  MallGuardBarksRaid]
+
+[SPEECH: MallGuard]
+Bezte do ukrytu!
+
+[SPEECH: MallGuard]
+Utok teroristu! Vyklidte tento prostor!
+
+-----------------------------------------------------------------
+[Owner: MallGuard]
+[Name:  MallGuardFinalBarks]
+
+[SPEECH: MallGuard]
+Byla tu prestrelka. Prosim, opustte tento prostor.
+
+[SPEECH: MallGuard]
+V zajmu vlastni bezpecnosti byste se mel vzdalit na trziste Van-Caj.
+
+[SPEECH: MallGuard]
+Na klub Lucky Money byl podniknut teroristicky utok. Vysetrujeme to.
+
+[SPEECH: MallGuard]
+Doporucujeme vsem turistum odlozit prohlidku, dokud teroristicka hrozba nepomine.
+
+-----------------------------------------------------------------
+[Owner: Mamasan]
+[Name:  MamasanAfterAmbush]
+
+[COMMENT]
+The Mamasan is angry and bitching during these lines.  Her life -- and her business -- was put in jeopardy by the raid a few minutes ago.
+
+[SPEECH: Mamasan]
+Rudy sip by mel zkvalitnit bezpecnostni opatreni.
+
+[SPEECH: Mamasan]
+Slibili mi ochranu!
+
+[SPEECH: Mamasan]
+Max Cen mi musi pridat - jinak toho necham!
+
+[SPEECH: Mamasan]
+Zpusob, jakym triada zvladla tuhle situaci, se mi prilis nelibil.
+
+-----------------------------------------------------------------
+[Owner: Mamasan]
+[Name:  MamasanAfterAmbush2]
+
+-----------------------------------------------------------------
+[Owner: Mamasan]
+[Name:  MamasanAmbushBarks]
+
+[SPEECH: Mamasan]
+To je silenstvi! My jsme prece zaplatili!
+
+[SPEECH: Mamasan]
+Podvodnici! Prece jsme vam dobre zaplatili!
+
+[SPEECH: Mamasan]
+Devcata, drzte se stranou!
+
+-----------------------------------------------------------------
+[Owner: Mamasan]
+[Name:  MamasanBarks]
+
+[SPEECH: Mamasan]
+Dalsi spokojeny zakaznik!
+
+[SPEECH: Mamasan]
+V klubu Lucky Money nebudete nikdy sam!
+
+[SPEECH: Mamasan]
+Prijdte zas!
+
+-----------------------------------------------------------------
+[Owner: Mamasan]
+[Name:  MamasanConvos]
+
+[COMMENT]
+An official "madam" in a dance club for arranging "dates" for the patrons.
+
+[SPEECH: Mamasan]
+Prosim... Vybral jste si. Za sto kreditu.
+
+[SPEECH: Mamasan]
+Chtel byste partnerku k tanci? Za sto kreditu.
+
+[SPEECH: Mamasan]
+Sto kreditu. Prijemna spolecnost.
+
+[SPEECH: JCDenton]
+Bohuzel, jsem na dne.
+
+[CHOICES:5]
+
+[CHOICE:]
+Jasne.
+
+[CHOICE:]
+Uz jednu mam, diky.
+
+[CHOICE:]
+Jedna mi staci.
+
+[CHOICE:]
+Kde bych nasel Maxe Cena?
+
+[CHOICE:]
+Ne, diky.
+
+[SPEECH: Mamasan]
+Bavte se dobre...
+
+[SPEECH: Mamasan]
+Ja tady pockam. Vratte se, az si to rozmyslite.
+
+[COMMENT]
+Abruptly businesslike - drops her fawning sales persona.
+
+[SPEECH: Mamasan]
+Ptal jste se u baru, chlapce?
+
+[SPEECH: Mamasan]
+Se dvema je mnohem vetsi zabava.
+
+[SPEECH: Mamasan]
+Jednu denne, myslite? Prijdte tedy zitra!
+
+-----------------------------------------------------------------
+[Owner: Market_Lumpath]
+[Name:  Market_LumpathBarks]
+
+[COMMENT]
+Um goi jie guo = excuse me.
+
+[SPEECH: Market_Lumpath]
+Um goj zie guo.
+
+[COMMENT]
+Nei ho ma = "How do you do?"  Pronounced "Neh HOH mah?"
+
+[SPEECH: Market_Lumpath]
+Ne ho ma?
+
+-----------------------------------------------------------------
+[Owner: MarketBeatCop]
+[Name:  MarketBeatCopBarks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: MarketBeatCop]
+Velke otevrene kapsy v plasti... To vam nedoporucuju.
+
+[SPEECH: MarketBeatCop]
+Penezenku si radsi strcte do naprsni kapsy.
+
+[SPEECH: MarketBeatCop]
+Mistni kapsari jsou poctivi. Daji vam urcite slevu.
+
+[SPEECH: MarketBeatCop]
+Sebemensi problemy mi hlaste.
+
+-----------------------------------------------------------------
+[Owner: MarketBum]
+[Name:  MarketBumBarks]
+
+[COMMENT]
+A surly bum in the market.  He could be drunk or the victim of biological experiments.  He might mumble or make inarticulate noises.  These cycle and go random.t. together, you and I, JC.  We can put this planet back together any way we like...   Alex hacked the Sector 2 security grid; the code's 8946.  Don't waste any
+
+[SPEECH: MarketBum]
+Jen se tu prochazim.
+
+[SPEECH: MarketBum]
+Nestuj mi v ceste!
+
+[SPEECH: MarketBum]
+...zacinas me docela stvat...
+
+[SPEECH: MarketBum]
+Vzdycky si po ocku hlidam svoje kapsy.
+
+[SPEECH: MarketBum]
+Vy z VersaLife si myslite, ze vam patri celej svet!
+
+[SPEECH: MarketBum]
+...soufl z tech vasich pokusu...
+
+[SPEECH: MarketBum]
+Dej mi pokoj!
+
+-----------------------------------------------------------------
+[Owner: MarketBum1]
+[Name:  MarketBum1Barks]
+
+[SPEECH: MarketBum1]
+Ne... Je mi lito.
+
+[SPEECH: MarketBum1]
+Nesmim nic rict. Zabili by me.
+
+-----------------------------------------------------------------
+[Owner: MarketBum1]
+[Name:  MarketBum1Barks2]
+
+[SPEECH: MarketBum1]
+Ja uz nic nemam! Koupil jsi vsechno zbozi!
+
+[SPEECH: MarketBum1]
+Doufam, zes' me neobelhal, jinak me Paul zabije.
+
+[SPEECH: MarketBum1]
+V budove VersaLife jsou fakticky tajny oblasti. Paul mel v tomhle pravdu.
+
+-----------------------------------------------------------------
+[Owner: MarketBum1]
+[Name:  MarketBumSelling]
+
+[SPEECH: JCDenton]
+Muzes mi verit. Jsem opravdu Pauluv bracha. Povez mi neco o tech planech!
+
+[SPEECH: MarketBum1]
+Ne. Ja te neznam. Co kdyz pracujes pro VersaLife?
+
+[SPEECH: JCDenton]
+VersaLife? Aha, zacina prihorivat. Ted uz mi klidne muzes rict i ten zbytek. Kdybych te chtel zabit, uz bych to davno udelal.
+
+[SPEECH: MarketBum1]
+Zaplatis mi? Jo? Udelam to jenom za prachy! Mam plany od budovy VersaLife. 2000 kreditu. A mam jeste jiny uzitecny veci: rusivej granat za 1250 a termooptiku za 4000!
+
+[SPEECH: JCDenton]
+Co mel Paul spolecneho s VersaLife?
+
+[SPEECH: MarketBum1]
+Rekl mi jen, ze se nemam nechat chytit a nerikat nikomu, co jsem udelal.
+
+[CHOICES:7]
+
+[CHOICE:]
+Vezmu si ty plany budovy VersaLife za 2000.
+
+[CHOICE:]
+Rad bych mel ty plany budovy VersaLife, ale nemam dva tisice.
+
+[CHOICE:]
+Chtel bych ten rusivy granat za 1250.
+
+[CHOICE:]
+Kdybych mel 1250, vzal bych si ten rusivy granat.
+
+[CHOICE:]
+4000 za termooptiku? Plati.
+
+[CHOICE:]
+4000 za termooptiku? Kez bych mel tolik prachu!
+
+[CHOICE:]
+Jeste se u tebe stavim.
+
+[SPEECH: MarketBum1]
+Vyborne. Nikomu to nerikej.
+
+[SPEECH: MarketBum1]
+Paul by mi zaplatil. Pockam na Paula.
+
+[SPEECH: MarketBum1]
+Musim dostat zaplaceno! Jde o muj zivot!
+
+[SPEECH: MarketBum1]
+Bude te to stat penize.
+
+[SPEECH: JCDenton]
+Vydrz. Musim neco odhodit, abych to pobral.
+
+[COMMENT]
+(i.e. instead of JC's brother)
+
+[SPEECH: MarketBum1]
+Dobre. O co mas zajem?
+
+-----------------------------------------------------------------
+[Owner: MarketBum1]
+[Name:  MeetMarketBum1]
+
+[SPEECH: MarketBum1]
+Paule Dentone! Mam ty plany... Musim te varovat! Nesmis... Sakra!
+
+[SPEECH: JCDenton]
+Varovat pred cim?
+
+[SPEECH: MarketBum1]
+Spletl jsem si te s nekym jinym.
+
+[SPEECH: JCDenton]
+Paul je muj bracha. Co mu mas vyridit?
+
+[SPEECH: MarketBum1]
+Nic, spletl jsem se!
+
+-----------------------------------------------------------------
+[Owner: MarketButcher]
+[Name:  MarketButcherBarks]
+
+[COMMENT]
+A male butcher in the market, Asian accent.
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: MarketButcher]
+Do jinejch stanku prestali dodavat kvuli vojensky blokade, ale vsecko moje maso je zarucene cerstvy!
+
+[SPEECH: MarketButcher]
+Cerstvy skopovy, cerstvy hovezi... Prave ho vylozili ze sampanu!
+
+[SPEECH: MarketButcher]
+Klidne vam vyriznu kousek, po kterym zatouzite!
+
+[SPEECH: MarketButcher]
+V klidu vybirejte, prosim!
+
+[SPEECH: MarketButcher]
+Moje maso nakupuje spousta luxusnich restauraci! Navstivil jste uz, napriklad, Lucky Money? Tenhle klub najdete v nakupnim centru pod trzistem.
+
+[NOTE:]
+Klub Lucky Money je v nakupnim stredisku pod trzistem.
+
+[SPEECH: MarketButcher]
+Uz jsem se zminil, ze dodavka az do domu je zdarma?
+
+-----------------------------------------------------------------
+[Owner: MarketFlorist]
+[Name:  MarketFloristBarks]
+
+[COMMENT]
+A woman selling flowers in the market.
+
+[SPEECH: MarketFlorist]
+Prosim! Jen se rozhlizejte!
+
+[SPEECH: MarketFlorist]
+Vyberte si darek pro svou pritelkyni!
+
+[SPEECH: MarketFlorist]
+Pouhych dvacet kreditu za tamtu!
+
+[SPEECH: MarketFlorist]
+Rozkosny svazek orchideji, symbolizujicich puvab a bezuhonnost!
+
+-----------------------------------------------------------------
+[Owner: MarketGoth]
+[Name:  GothAtButcher]
+
+[COMMENT]
+Dummy.
+
+[SPEECH: MarketButcher]
+Nemas umyty pracky!
+
+[SPEECH: MarketButcher]
+Jsi horsi, nez toulavi psi kolem kanalu!
+
+[SPEECH: MarketButcher]
+Vypadni!
+
+[COMMENT]
+Same responses as in "GothAtFlower".6*Xi+9ˇzà
+
+-----------------------------------------------------------------
+[Owner: MarketGoth]
+[Name:  GothAtFlower]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: MarketFlorist]
+Nesahej na to!
+
+[SPEECH: MarketFlorist]
+Povidam, abys vypadla!
+
+[SPEECH: MarketFlorist]
+Ja te vidim!
+
+[SPEECH: MarketGoth]
+Vyliz si!
+
+[SPEECH: MarketGoth]
+Jenom se D÷VµM!
+
+[SPEECH: MarketGoth]
+Tak jo. Radsi se presunu jinam.
+
+[SPEECH: MarketGoth]
+(vzdycha)
+
+-----------------------------------------------------------------
+[Owner: MarketGoth]
+[Name:  GothAtVase]
+
+[COMMENT]
+Dummy
+
+[SPEECH: MarketVaceShop]
+Davej pozor!
+
+[SPEECH: MarketVaceShop]
+Tohle je velmi drahe!
+
+[SPEECH: MarketVaceShop]
+Varovali me pred tebou!
+
+[COMMENT]
+Same responses as in "GothAtFlower".
+
+-----------------------------------------------------------------
+[Owner: MarketGoth]
+[Name:  MarketGothBarks]
+
+[COMMENT]
+This girl is looking for a chance to shoplift.  Her accent could be American or she could be an Asian simply adapting American phrases.
+
+[SPEECH: MarketGoth]
+Dej mi svatek!
+
+[SPEECH: MarketGoth]
+Kam cumis?
+
+[SPEECH: MarketGoth]
+Davej pozor, kam slapes!
+
+-----------------------------------------------------------------
+[Owner: MarketHKMilitary]
+[Name:  MarketHKMilitaryBarks]
+
+[COMMENT]
+A thick-necked male cop in Hong Kong.
+
+[SPEECH: MarketHKMilitary]
+Trziste se za dve hodiny zavira.
+
+[SPEECH: MarketHKMilitary]
+Prosim, abyste si sel po svem.
+
+[SPEECH: MarketHKMilitary]
+Jestli jste zabloudil, kupte si pruvodce.
+
+[SPEECH: MarketHKMilitary]
+V tunelu u kanalu se strili. Takze si davejte pozor.
+
+[SPEECH: MarketHKMilitary]
+Zustante na trzisti a nic vam nehrozi.
+
+[SPEECH: MarketHKMilitary]
+Triady se do sebe pustily. Pracujeme na uklidneni situace.
+
+[SPEECH: MarketHKMilitary]
+Trziste zustane otevrene celou noc.
+
+[SPEECH: MarketHKMilitary]
+Triady uzavrely primeri.
+
+[SPEECH: MarketHKMilitary]
+Policii se zase jednou podarilo nastolit poradek.
+
+[SPEECH: MarketHKMilitary]
+Nikdy nepodcenujte praci ozbrojenych vladnich jednotek.
+
+-----------------------------------------------------------------
+[Owner: MarketKid]
+[Name:  KidAsksForHelp]
+
+[COMMENT]
+Gordon orders the kid to set fire to the stall where he was unable to collect protection money.
+
+[SPEECH: MarketKid]
+Odmitla to.
+
+[SPEECH: GordonQuick]
+To neni mozny.
+
+[SPEECH: MarketKid]
+Prej to ma domluveny s nekym jinym.
+
+[SPEECH: GordonQuick]
+Rudy sip?
+
+[SPEECH: MarketKid]
+Nadavala mi.
+
+[SPEECH: GordonQuick]
+Tak vis, co mas delat.
+
+[SPEECH: MarketKid]
+Ano, pane.
+
+[SPEECH: GordonQuick]
+Neztracej cas.
+
+-----------------------------------------------------------------
+[Owner: MarketKid]
+[Name:  KidAsksForWork]
+
+[COMMENT]
+This kid works for the Luminous Path.  The subtext of this conversation is that he is asking for protection money.  He expects the news woman to understand that.. together, you and I, JC.  We can put this planet back together any way we like...   Alex hacked the Sector 2 security grid; the code's 8946.  Don't waste any
+
+[SPEECH: MarketKid]
+Pracuju taky pro reznika! Pro kazdyho na trhu Van-Caj!
+
+[SPEECH: MarketNewsWoman]
+Domluvila jsem se s nekym jinym.
+
+[SPEECH: MarketKid]
+Ja nikdy neusnu! Patrim k nejlepsim hlidacum!
+
+[SPEECH: MarketNewsWoman]
+Utikej! Nemam rada male kluky.
+
+[SPEECH: MarketKid]
+Tohle je nebezpecnej trh. Je tu plno zlejch lidi!
+
+[COMMENT]
+Translate this line into Cantonese.
+
+[SPEECH: MarketNewsWoman]
+Mazej!
+
+-----------------------------------------------------------------
+[Owner: MarketKid]
+[Name:  KidGetsMoney]
+
+[SPEECH: MarketKid]
+Rikal jsem vam: je tu plno zlejch lidi!
+
+[COMMENT]
+Translate this line into Cantonese.∑∂m ô@+˛Ì-¥æDtFâççBu_oœd7Ò
+
+[SPEECH: MarketNewsWoman]
+Vypadni odtud! Bez!
+
+[SPEECH: MarketKid]
+Jsem vas novej hlidac.
+
+[SPEECH: MarketNewsWoman]
+Ukradls' mi stovku kreditu!
+
+[SPEECH: MarketKid]
+Draci hlava rekla, ze jsem vas hlidac. Padesat kreditu na den. To je levnejsi nez stovka, ne?
+
+[SPEECH: MarketNewsWoman]
+Takhle si nikdy nic nevydelam.
+
+[SPEECH: MarketKid]
+Odvedu dobrou praci!
+
+-----------------------------------------------------------------
+[Owner: MarketKid]
+[Name:  KidSetsFire]
+
+[SPEECH: MarketKid]
+Dokazal jsem to! Dokazal jsem to!
+
+[SPEECH: GordonQuick]
+Videl te nekdo?
+
+[SPEECH: MarketKid]
+Myslim, ze jo.
+
+[SPEECH: GordonQuick]
+No, na tom nesejde. Vyzvedli jsme si od ni splatku - plus urok. Vrat se k ni a presvedc se, jestli uz se poucila.
+
+[SPEECH: MarketKid]
+Tak jo.
+
+-----------------------------------------------------------------
+[Owner: MarketKid]
+[Name:  KidStealsSomething]
+
+[SPEECH: MarketNewsWoman]
+Okamzite to vrat! Hej!
+
+-----------------------------------------------------------------
+[Owner: MarketKid]
+[Name:  KidWalking]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: MarketKid]
+Bez pryc!
+
+[SPEECH: MarketKid]
+Prozradim jim, ze jsi spehoun, a oni te zabijou!
+
+[SPEECH: MarketKid]
+Znam se s Draci hlavou!
+
+-----------------------------------------------------------------
+[Owner: MarketKid]
+[Name:  KidWalking2]
+
+-----------------------------------------------------------------
+[Owner: MarketKid]
+[Name:  KidWalking3]
+
+-----------------------------------------------------------------
+[Owner: MarketKid]
+[Name:  KidWalking4]
+
+-----------------------------------------------------------------
+[Owner: MarketKid]
+[Name:  KidWalking5]
+
+-----------------------------------------------------------------
+[Owner: MarketLum1]
+[Name:  MarketLum1Barks]
+
+[SPEECH: MarketLum1]
+Dokud se zde budes zdrzovat, dodrzuj zakon triady.
+
+[SPEECH: MarketLum1]
+Musel jsi Draci hlave prokazat velkou sluzbu!
+
+[SPEECH: MarketLum1]
+Tracer Tong prijal jeste jednoho Americana. Mozna ho budes znat.
+
+[SPEECH: MarketLum1]
+Jestli te Tong pocti svou duverou, budes si sem chodit podle sve libosti.
+
+[SPEECH: MarketLum1]
+Na trzisti si na sebe davej pozor. Nas vliv uz neni tak velky.
+
+[SPEECH: MarketLum1]
+V nasem sidle se zbytecne nezdrzuj.
+
+[SPEECH: MarketLum1]
+Mas povoleni vyridit si tady sve zalezitosti.
+
+[SPEECH: MarketLum1]
+Nemuzu tomu uverit. Triady ze se spojily...?
+
+[SPEECH: MarketLum1]
+Prijmi, prosim, vdecnost Zarici stezky!
+
+[SPEECH: MarketLum1]
+Rad bych se dozvedel neco vice o mirovych podminkach.
+
+[SPEECH: MarketLum1]
+Ten obrad v chramu... takovy necekany obrat!
+
+[SPEECH: MarketLum1]
+Tak to jsi ty, kdo odhalil podvod Maggie Couove! A my celou tu dobu podezirali Maxe Cena!
+
+[SPEECH: MarketLum1]
+Jsi ted jednim z nas. Prichazej i odchazej podle sve libosti!
+
+[SPEECH: MarketLum1]
+Max Cen a Gordon Quick oslavuji v Lucky Money. Ty jsi take zvan!
+
+[SPEECH: MarketLum1]
+Rychle! Obavame se, ze policie te pronasledovala az sem!
+
+[SPEECH: MarketLum1]
+Tong si sveho noveho agenta nemuze vynachvalit.
+
+[SPEECH: MarketLum1]
+Nechapu, proc se Tong o VersaLife porad tolik zajima? Skryva toho pred triadou az prilis!
+
+[SPEECH: MarketLum1]
+Bez! Zmiz odtud!
+
+-----------------------------------------------------------------
+[Owner: MarketLum2]
+[Name:  MarketLum2Barks]
+
+[SPEECH: MarketLum2]
+Svymi otazkami nas neobtezuj.
+
+[SPEECH: MarketLum2]
+Domluvime se s Draci hlavou o tom, jestli sem budes mit jeste nekdy pristup.
+
+[SPEECH: MarketLum2]
+Myslis si snad, ze ti budu delat pruvodce?
+
+[SPEECH: MarketLum2]
+Musis vyhledat Tracera Tonga.
+
+[SPEECH: MarketLum2]
+Dozvedel jsem se tu novinku o primeri, kdyz jsem nahodou zaslechl, jak o tom Draci hlava mluvi.
+
+[SPEECH: MarketLum2]
+Nejdriv musime mit jistotu, ze nejsi agentem Rudeho sipu.
+
+[SPEECH: MarketLum2]
+Tohle vsechno muze byt lecka.
+
+[SPEECH: MarketLum2]
+Rudy sip je velice zakerny - neda se mu verit.
+
+[SPEECH: MarketLum2]
+Slova jsou jedna vec; skutky vec druha.
+
+[SPEECH: MarketLum2]
+Aspon ted zname pravdu.
+
+[SPEECH: MarketLum2]
+Maggie Couova nas vsechny vodila za nos.
+
+[SPEECH: MarketLum2]
+Takze je to jiste. Triady jsou usmireny.
+
+[SPEECH: MarketLum2]
+Draci hlavy miri na sklenicku do Lucky Money.
+
+[SPEECH: MarketLum2]
+Vyslouzil sis nasi duveru.
+
+[SPEECH: MarketLum2]
+Tve jmeno bude zaznamenano do kroniky Zarici stezky.
+
+[SPEECH: MarketLum2]
+Nyni odejdi z naseho sidla!
+
+-----------------------------------------------------------------
+[Owner: MarketMonk]
+[Name:  MarketMonkBarks]
+
+[COMMENT]
+Translate all of these into Cantonese.
+
+[COMMENT]
+Toi um chu = excuse me.  Pronounced "Doy um JU".
+
+[SPEECH: MarketMonk]
+Um goj dzie guo.
+
+[COMMENT]
+Means: "The temple is in the square."ö∂eUzÛmô{Ë'r?ˇˇôeˇ˚0ƒ
+
+[SPEECH: MarketMonk]
+Gol gan mil haj guong cang duo.
+
+[COMMENT]
+Means: "Do you speak Cantonese?"8c0ÄÓ)e‡˙suqt„}æ@ÑPZr#€
+
+[SPEECH: MarketMonk]
+Nej sik um sik gong guong dong wa?
+
+-----------------------------------------------------------------
+[Owner: MarketMonk1]
+[Name:  MarketMonk1Barks]
+
+[COMMENT]
+A grumpy monk in the temple.  Gravelly voice.the Lucky Money.  You are invited for drinks.
+
+[COMMENT]
+These cycle and go random.bH–ŒÄŸ~
+
+[COMMENT]
+The monk grumbles to himself, annoyed at being interrupted by another tourist.
+
+[SPEECH: MarketMonk1]
+(mumla)
+
+[COMMENT]
+yau hak = tourist.  The word that emerges is part of a longer growl stuck in his throat.
+
+[SPEECH: MarketMonk1]
+...jau hak...
+
+[SPEECH: MarketMonk1]
+V Hongkongu je spousta jinych Buddhu.
+
+[SPEECH: MarketMonk1]
+Musim te upozornit, ze z tebe nespoustim oci.
+
+[SPEECH: MarketMonk1]
+Dnes uz zadne fotografovani!
+
+-----------------------------------------------------------------
+[Owner: MarketMonk1]
+[Name:  MarketMonk1FinalBarks]
+
+[COMMENT]
+A grumpy monk in the temple.  Gravelly voice.
+
+[COMMENT]
+These cycle and repeat the last.
+
+[SPEECH: MarketMonk1]
+Tak dost! Vypadni! V chramu si nikdo zahravat nebude!
+
+[SPEECH: MarketMonk1]
+Dedeckove dnesnich clenu triad meli samopal Uzi. Tradice? Pcha!
+
+[SPEECH: MarketMonk1]
+Zboznovat hmotne statky neni Buddhovou cestou.
+
+[SPEECH: MarketMonk1]
+Predpovidam, ze oni pochopi svuj omyl az na konci, tvari v tvar smrti, kdyz uz jim nebude doprano uctivat samsarovy svet.
+
+[SPEECH: MarketMonk1]
+Odejdi!
+
+-----------------------------------------------------------------
+[Owner: MarketNewsWoman]
+[Name:  MarketNewsWomanBarks1]
+
+[COMMENT]
+These cycle and go random.dêˇ˚0ƒ8
+
+[SPEECH: MarketNewsWoman]
+Az si ty noviny prohlednete, polozte je, prosim, nazpet!
+
+[SPEECH: MarketNewsWoman]
+Rudy sip odvadi dobrou praci, kdyz vycistil tohle trziste.
+
+[SPEECH: MarketNewsWoman]
+Prijdte zas, prosim!
+
+[SPEECH: MarketNewsWoman]
+Musim se venovat i ostatnim zakaznikum.
+
+[SPEECH: MarketNewsWoman]
+Vsichni turiste by meli byt informovani o aktualnich udalostech.
+
+-----------------------------------------------------------------
+[Owner: MarketNewsWoman]
+[Name:  MarketNewsWomanBarks2]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: MarketNewsWoman]
+Preji vam prijemny den!
+
+[SPEECH: MarketNewsWoman]
+Ja budu vdecna vzdycky jen Rudemu sipu - a nikomu jinemu!
+
+[SPEECH: MarketNewsWoman]
+Maggie Couova prezila vsechny sve nepriznive kritiky.
+
+[SPEECH: MarketNewsWoman]
+Ctete si, co se vam libi.
+
+[SPEECH: MarketNewsWoman]
+Policii nevyhovuje ani primeri. Ma to spany vliv na trzby.
+
+-----------------------------------------------------------------
+[Owner: MarketNewsWoman]
+[Name:  MarketNewsWomanConvos1]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: MarketNewsWoman]
+Mame tu mnoho vydani. O co byste mel zajem?
+
+[SPEECH: MarketNewsWoman]
+Novinky o valce triad! Rudy sip proti Zarici stezce!
+
+[SPEECH: MarketNewsWoman]
+Maggie Couova - exkluzivni rozhovor v Oriental Daily News!
+
+[CHOICES:4]
+
+[CHOICE:]
+Co si myslite o triade Zarici stezka?
+
+[CHOICE:]
+Co si myslite o triade Rudy sip?
+
+[CHOICE:]
+Slysela jste o Maggii Couove?
+
+[CHOICE:]
+Jenom si prohlizim.
+
+[SPEECH: MarketNewsWoman]
+Jsou to zbabelci. Brzy zaniknou. Museji krast zbrane, protoze ztratili znalosti tradicnich umeni.
+
+[SPEECH: JCDenton]
+Jake zbrane?
+
+[SPEECH: MarketNewsWoman]
+Zavrazdili vudce Rudeho sipu, aby se zmocnili mece, ktery on vynalezl.
+
+[SPEECH: JCDenton]
+Jak mohl vynalezt mec?
+
+[SPEECH: MarketNewsWoman]
+Ten mec vyuziva nejmodernejsi technologii. Sazim na Rudy sip, prestoze zakladna Zarici stezky je pouhych padesat metru odtud.
+
+[SPEECH: JCDenton]
+Jo, slysel jsem o tom.
+
+[SPEECH: MarketNewsWoman]
+Za par tydnu ovladnou cele Van-Caj.
+
+[SPEECH: JCDenton]
+To jste si tak jista?
+
+[SPEECH: MarketNewsWoman]
+Zarici stezka zacina v boji prohravat.
+
+[SPEECH: MarketNewsWoman]
+Byvala herecka. Lide si ji vazi. Vynaklada velke penize na boj proti paserakum a drogovym dealerum.
+
+-----------------------------------------------------------------
+[Owner: MarketNewsWoman]
+[Name:  MarketNewsWomanConvos2]
+
+[SPEECH: MarketNewsWoman]
+To jste zase vy?
+
+[SPEECH: MarketNewsWoman]
+Cim poslouzim?
+
+[SPEECH: MarketNewsWoman]
+Ano?
+
+[CHOICES:3]
+
+[CHOICE:]
+Co si myslite o tom konfliktu triad?
+
+[CHOICE:]
+Takze to byla Maggie Couova, kdo ukradl ten mec.
+
+[CHOICE:]
+Jenom si prohlizim.
+
+[SPEECH: MarketNewsWoman]
+To primeri nepotrva dlouho.
+
+[SPEECH: JCDenton]
+Ne?
+
+[SPEECH: MarketNewsWoman]
+Tady se bojuje porad. Je to jedina ryzi tradice, ktera nam jeste zbyla.
+
+[SPEECH: MarketNewsWoman]
+Prehani se to. Nejsou zadne dukazy.
+
+[SPEECH: JCDenton]
+Videl jsem ho na vlastni oci.
+
+[SPEECH: MarketNewsWoman]
+To se vysvetli. Policie vi, jak ochranit nevinne obcany pred takovymi utoky.
+
+[SPEECH: JCDenton]
+Verim, ze Maggie Couova byla zavrazdena.
+
+[SPEECH: MarketNewsWoman]
+Tak bude jeji vrah dopaden spravedlnosti.
+
+-----------------------------------------------------------------
+[Owner: MarketShopperFlowers]
+[Name:  FlowerShopperBarks]
+
+[COMMENT]
+These cycle and repeat the last line.J´∞ZïEFØ˜ﬁP˚UêW_cwrÍS=»§dı%˚S
+
+[SPEECH: MarketShopperFlowers]
+Jak roztomily obchudek!
+
+[SPEECH: MarketShopperFlowers]
+Zboznuji pani Hangovou.
+
+[SPEECH: MarketShopperFlowers]
+Prominte. Rada bych si v klidu vybrala.
+
+-----------------------------------------------------------------
+[Owner: MarketShopperFlowers]
+[Name:  FlowerShopperOverheard]
+
+[COMMENT]
+Though by convention everybody in Hong Kong is going to speak English, occasionally an NPC will speak only a little English -- usually "business English" -- just for variety.  The MarketFlorist is one of those people.  She respects VersaLife Corporation for bringing jobs to the area, whereas the secretary is bored with her job and more cynical about the corporation.cy.
+
+[SPEECH: MarketFlorist]
+Dve?
+
+[SPEECH: MarketShopperFlowers]
+Ano, aby mi trochu zprijemnily pobyt v laboratori.
+
+[SPEECH: MarketFlorist]
+VersaLife?
+
+[SPEECH: MarketShopperFlowers]
+Jak jste to uhodla? Copak mi zelenaji vlasy?
+
+[SPEECH: MarketFlorist]
+VersaLife udelala mnoho, aby... ozivila sve zamestnance.
+
+[SPEECH: MarketShopperFlowers]
+Ano, porad nabizeji nova mista. Myslim, ze je to uzasne.
+
+[SPEECH: MarketFlorist]
+Zabalim vam je.
+
+[SPEECH: MarketShopperFlowers]
+Ne, ne - takhle to bude stacit.
+
+[SPEECH: MarketFlorist]
+Vyborne. Dekuji vam!
+
+-----------------------------------------------------------------
+[Owner: MarketVaceShop]
+[Name:  MarketVaseShopBarks]
+
+[COMMENT]
+A woman selling flowers in the market.
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: MarketVaceShop]
+Rucne zdobeny cinsky porcelan, zarucene pravy, prosim!
+
+[SPEECH: MarketVaceShop]
+Budete si prat?
+
+[SPEECH: MarketVaceShop]
+Prijimame mezinarodni elektronickou menu.
+
+-----------------------------------------------------------------
+[Owner: MarketWaiter]
+[Name:  MarketWaiterConvos]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: MarketWaiter]
+Vitam vas v cajovne Van-Caj. Cokoliv podle prani, pouhych dvanact kreditu.
+
+[SPEECH: MarketWaiter]
+Cim poslouzim?
+
+[SPEECH: MarketWaiter]
+Ano, pane?
+
+[CHOICES:8]
+
+[CHOICE:]
+Dal bych si neco k jidlu, prosim.
+
+[CHOICE:]
+Vezmu si sodovku.
+
+[CHOICE:]
+Co si myslite o triadach?
+
+[CHOICE:]
+Co si myslite o Maggii Couove?
+
+[CHOICE:]
+Myslite, ze primeri tu zvysi zisky?
+
+[CHOICE:]
+Myslite, ze primeri tu zvysi zisky?
+
+[CHOICE:]
+Nic nechci.
+
+[CHOICE:]
+Neco bych si koupil, ale jsem dutej.
+
+[SPEECH: MarketWaiter]
+Vyborne.
+
+[SPEECH: MarketWaiter]
+O triadach prede mnou nemluvte.
+
+[SPEECH: JCDenton]
+Pusobi vam hodne velke potize?
+
+[SPEECH: MarketWaiter]
+Jsou to chuligani. V jednom kuse mluvi o spolecnosti a tradicich, ale pak klidne bojuji o tajne technologie s nadnarodni korporaci jako je VersaLife.
+
+[SPEECH: JCDenton]
+O jake technologie?
+
+[COMMENT]
+(sarcastic)
+
+[SPEECH: MarketWaiter]
+Copak jste neslysel o tom novem legendarnim vynalezu? O meci Draci zub?
+
+[SPEECH: JCDenton]
+O meci? Proc si myslite, ze pochazi z VersaLife?
+
+[SPEECH: JCDenton]
+Proc si myslite, ze ten mec pochazi z VersaLife?
+
+[SPEECH: MarketWaiter]
+Ma v sobe nanotechnologicke soucasti. Dokaze se sam brousit ci neco podobneho. Kez by se tim mecem navzajem vsichni povrazdili!
+
+[SPEECH: MarketWaiter]
+Je to slavna zena, vystupovala ve filmech o kung-fu.
+
+[SPEECH: JCDenton]
+A co dela ted?
+
+[SPEECH: MarketWaiter]
+Ted ma jine touhy. Rika se, ze zachovava jiste vladni styky a ja sam jsem ji videl - v tehle cajovne - sedet s jistym vysoce postavenym urednikem z VersaLife.
+
+[SPEECH: JCDenton]
+Bude mit nejspis spousty penez na investice.
+
+[SPEECH: MarketWaiter]
+Ti dva spolu o investicich nehovorili. Slysel jsem je. Mluvili o biotechnologii. Ona podnika nejaky vedecky vyzkum. Myslim, ze ma ve VersaLife svou vlastni kancelar.
+
+[SPEECH: MarketWaiter]
+JEJICH zisky. Moje zisky postaci tak na nakup cervene nebo bile uniformy.
+
+[SPEECH: JCDenton]
+Cozpak oni majitele obchodu tolik drou?
+
+[SPEECH: MarketWaiter]
+Proc bych jim mel davat byt jen jediny kredit? Od mesta Hongkong mam povoleni provozovat svoji zivnost. Policie by mela dohlednout, aby me nikdo neobtezoval!
+
+[SPEECH: JCDenton]
+Moment! Prave ted toho vic uz nepoberu.
+
+-----------------------------------------------------------------
+[Owner: MaxChen]
+[Name:  ChenAmbushBarks]
+
+[SPEECH: MaxChen]
+To tys' je sem privedl! Mel bys byt opatrnejsi!
+
+[SPEECH: MaxChen]
+Musis uniknout a setkat se s Gordonem Quickem!
+
+[SPEECH: MaxChen]
+Tady na nas jeste nikdy nezautocili...
+
+[SPEECH: MaxChen]
+Pobez! Nandame jim to spolecne!
+
+-----------------------------------------------------------------
+[Owner: MaxChen]
+[Name:  ChenAmbushDone]
+
+[COMMENT]
+Cycle and repeat last line.
+
+[SPEECH: MaxChen]
+Ted uz ti verim uplne. Rychle! Doruc muj vzkaz Zarici stezce!
+
+[SPEECH: MaxChen]
+Jestli je Maggie Couova jeste nazivu, sam ji vyrvu srdce z tela!
+
+[SPEECH: MaxChen]
+Honem! Nemame moc casu!
+
+-----------------------------------------------------------------
+[Owner: MaxChen]
+[Name:  ChenBeforeCeremony]
+
+[COMMENT]
+Cycle and repeat last event.
+
+[SPEECH: MaxChen]
+Je rozhodnuto. Uzavreme primeri.
+
+[SPEECH: MaxChen]
+O mec se podelime a budeme vladnout Hongkongu spolecne.
+
+[SPEECH: MaxChen]
+Az budes mit ten modul ROM, setkame se v chramu.
+
+[SPEECH: MaxChen]
+Promluv si s Tracerem Tongem v sidle Zarici stezky! Triady te pozadaji jeste o posledni sluzbu.
+
+[SPEECH: MaxChen]
+Musim se pripravit na schuzku s Gordonem Quickem.
+
+-----------------------------------------------------------------
+[Owner: MaxChen]
+[Name:  ChenWaiting]
+
+[SPEECH: MaxChen]
+Mam praci.
+
+[SPEECH: MaxChen]
+Nezapomen se zastavit v Lucky Money - nejlepsi zabava v celem Hongkongu!
+
+[SPEECH: MaxChen]
+Az budeme neco spolecne podnikat, urcite te pozvu!
+
+-----------------------------------------------------------------
+[Owner: MaxChen]
+[Name:  M06ChenFinalBarks]
+
+[SPEECH: MaxChen]
+Konecne - jsme jedna triada!
+
+[SPEECH: MaxChen]
+Prokazal jsi nam velice cennou sluzbu.
+
+[SPEECH: MaxChen]
+Pripoj se k nam na oslave v Lucky Money! Musime to zapit!
+
+-----------------------------------------------------------------
+[Owner: MaxChen]
+[Name:  M07ChenFirstGive]
+
+[SPEECH: MaxChen]
+Tohle je muj klub. Dovol mi, abych ti venoval jedno z nasich nejlepsich vin: dovazeny rocnik z Napa Valley!
+
+-----------------------------------------------------------------
+[Owner: MaxChen]
+[Name:  M07ChenSecondGive]
+
+[COMMENT]
+Yum sing = Cheers!... pronounced Yum SING!  He says it with finality, having given the player the best bottle of wine possible, thus showing up his rival at the Luminous Path.]√ÍÎîa”C0
+¡/Zdur±∂’5∞Tuu SœÀM	{yBî˙á^ò@¬N.·yrÓ%m•DBst±´\r˘ˇÆ≠'ÒMˇˇˇ˚0ƒ#
+
+[SPEECH: MaxChen]
+Mir mezi triadami, o ktery ses zaslouzil, je vskutku vzacnym darem. Prijmi, prosim, nase nejlepsi vino, Chianti ze soukrome vinice v italskem Quercegrossa - rocnik 2015! Jum sing!
+
+-----------------------------------------------------------------
+[Owner: MaxChen]
+[Name:  MaxChenBarBarks]
+
+[COMMENT]
+These cycle and go random.4Iu$˚Ñ√é'da&[Ys\õá9g◊4
+
+[SPEECH: MaxChen]
+Napijeme se na tvou pocest!
+
+[SPEECH: MaxChen]
+Vzacny muz... skutecny mirotvorce.
+
+[SPEECH: MaxChen]
+Prosim... Bav se dobre! Jsi mym hostem v Lucky Money!
+
+-----------------------------------------------------------------
+[Owner: MaxChen]
+[Name:  MaxChenPissedBarks]
+
+[SPEECH: MaxChen]
+Barbarsky gwailo!
+
+[SPEECH: MaxChen]
+Co si ten American mysli, ze je?
+
+[SPEECH: MaxChen]
+Tomu rikam drzost bez hranic!
+
+-----------------------------------------------------------------
+[Owner: MaxChen]
+[Name:  MeetMaxChen]
+
+[SPEECH: JCDenton]
+Ty jsi Max Cen, ze jo? Jsi tady sef?
+
+[SPEECH: MaxChen]
+"Draci hlava". Kdo jsi ty?
+
+[SPEECH: JCDenton]
+Hledam Tracera Tonga. Musim s nim nalehave mluvit.
+
+[SPEECH: MaxChen]
+Tohle je sidlo triady Rudy sip. To nejmene pravdepodobne misto v celem Hongkongu, kde bys ho mohl potkat.
+
+[SPEECH: JCDenton]
+Tomu nerozumim.
+
+[SPEECH: MaxChen]
+Mel bych ti dat vyriznout jazyk, ale spis budes asi tak nebetycne hloupy. Az pana Tonga uvidis, vyrid mu, ze on a jeho Zarici stezka musi vratit Draci zub nebo se navzdy odstehovat z Hongkongu.
+
+[COMMENT]
+Baffled.gPathCon
+
+[SPEECH: JCDenton]
+Coze?
+
+[SPEECH: MaxChen]
+To je vse.
+
+[SPEECH: JCDenton]
+Mluvil jsem s tvou znamou, s Maggii Couovou. Musi to byt mocny spojenec.
+
+[SPEECH: MaxChen]
+Je to oboustranne vyhodna znamost. Ty musis byt J.C.Denton.
+
+[SPEECH: JCDenton]
+K sluzbam.
+
+[SPEECH: MaxChen]
+Doufam, zes' ji poradne poslouchal.
+
+[SPEECH: JCDenton]
+Vidim, ze Hongkong je pekne zamotane misto. Ale ja s Rudym sipem zadny spor nevedu.
+
+[SPEECH: MaxChen]
+Vyborne. Nestyd se vyuzit me naklonnosti a kdykoliv do klubu Lucky Money zajdi.
+
+[SPEECH: JCDenton]
+V apartma slecny Couove jsem nasel neco, co by te mohlo zajimat.
+
+[COMMENT]
+(skeptical)
+
+[SPEECH: MaxChen]
+Skutecne?
+
+[SPEECH: JCDenton]
+Nezniciteny mec. Byl ukraden a zlodejem je prave ona.
+
+[SPEECH: MaxChen]
+Nemozne!
+
+[SPEECH: JCDenton]
+Videl jsem to na vlastni oci.
+
+[SPEECH: MaxChen]
+Ale... Slecna Couova?
+
+[SPEECH: JCDenton]
+Pracuje pro skupinu zvanou Majestic 12. Vas a Rudeho sipu pouze zneuziva ke svym zamerum.
+
+[SPEECH: MaxChen]
+Ne, to musi byt omyl!
+
+[SPEECH: JCDenton]
+Uvazuj! Zavrazdi tveho predchudce, ukryje mec, rozpouta valku mezi Rudym sipem a Zarici stezkou a potom...? Co bude potom? Triady se vycerpaji, nastoupi zahranicni skupina a strhne veskerou moc na sebe! Zni to snad vykonstruovane?
+
+[SPEECH: MaxChen]
+Tak by to mohlo byt!
+
+[SPEECH: JCDenton]
+Mozna by ses mel setkat s vudci Zarici stezky.
+
+[SPEECH: MaxChen]
+Hmmm. Mozna. Prozatim jim vyrid nasledujici: Prerusime nepratelske akce, dokud se vec radne nevysetri. Moji lide hlasi, ze Gordon Quick stale hlida pred sidlem Zarici stezky v sousedstvi trziste Van-Caj.
+
+[SPEECH: MaxChen]
+Hmmm. Mozna. Prozatim jim vyrid nasledujici: Prerusime nepratelske akce, dokud se vec radne nevysetri.
+
+[GOAL:]
+Vyrid Gordonovi Quickovi, co odpovedel Rudy sip na novinku o Maggii Couove. Najdes ho nedaleko komplexu Zarici stezky v sousedstvi trziste Van-Caj.
+
+[SPEECH: MaxChen]
+Co se deje?
+
+[SPEECH: JCDenton]
+Vojaci z MJ12. Museli me sledovat!
+
+[COMMENT]
+There's a chance the player could snag the sword without ever talking to anybody.seen her myself -- in this shop -- have tea with big executives from VersaLife.
+
+[SPEECH: JCDenton]
+Nejmodernejsi mec, ktery zrejme patri nekomu z triad.
+
+[COMMENT]
+(gasps)
+
+[SPEECH: MaxChen]
+...Draci zub...
+
+[SPEECH: JCDenton]
+Patri Rudemu sipu?
+
+[SPEECH: MaxChen]
+Musel jsi ho dostat od Zarici stezky! To oni nam ho --
+
+[SPEECH: JCDenton]
+Bohuzel, byl jsi oklaman.
+
+[SPEECH: JCDenton]
+Ty musis byt Max Cen.
+
+[SPEECH: MaxChen]
+No a?
+
+[SPEECH: JCDenton]
+Mluvil jsem s jednim clenem Zarici stezky. Prohlasuje, ze o tom ukradenem meci nic nevedi.
+
+[SPEECH: MaxChen]
+Tim chces rict, ze jsem lhar?
+
+[SPEECH: JCDenton]
+Jenom by me zajimalo, jak si muzes byt tak jisty --
+
+[SPEECH: MaxChen]
+Muj dobry pritel a predchudce byl kvuli Dracimu zubu zavrazden. Takze me nemusis podezirat z malichernosti.
+
+[SPEECH: JCDenton]
+Jmenuju se J.C.Denton. Mam pro tebe jednu zpravu.
+
+[SPEECH: MaxChen]
+Tak ji rekni, at pozname, jak je cenna.
+
+[SPEECH: JCDenton]
+Maggie Couova neni to, zac se vydava. Pracuje pro skupinu zvanou Majestic 12. Ukradla Draci zub a zavrazdila tveho predchudce.
+
+[SPEECH: MaxChen]
+Urazis slecnu Couovou - v me pritomnosti? Jaky mas dukaz?
+
+[SPEECH: JCDenton]
+Cetl jsem jeji policejni zaznam na stanici Van-Caj.
+
+[SPEECH: MaxChen]
+Policie? Nebud smesny - vzdyt je zkorumpovana! Zarici stezka ji za to musela dobre zaplatit!
+
+[SPEECH: JCDenton]
+Ale vzdyt to do sebe zapada! Couova se pokousi rozpoutat valku!
+
+[SPEECH: MaxChen]
+Radim ti, abys na me nezvysoval hlas. Jestli chces, abych ti uveril, prines mi nejaky dukaz - prines mi ten mec! O nic jineho nemam zajem.
+
+[SPEECH: JCDenton]
+Mam ho tady s sebou.
+
+[SPEECH: JCDenton]
+Nejmodernejsi mec, ktery zrejme patri nekomu z triad. Mam ho tady s sebou.
+
+-----------------------------------------------------------------
+[Owner: MaxChen]
+[Name:  RightHandHack]
+
+[SPEECH: RightHandMan]
+Sefe?
+
+[SPEECH: MaxChen]
+Co se deje?
+
+[SPEECH: RightHandMan]
+Marty u vchodu hlasi, ze mame potize. Hrnou se sem vojaci - rika, ze jsou to nejaky mechove.
+
+[SPEECH: JCDenton]
+Vojaci z MJ12. Museli me sledovat!
+
+-----------------------------------------------------------------
+[Owner: MaxChen]
+[Name:  Show_Chen]
+
+-----------------------------------------------------------------
+[Owner: MaySung]
+[Name:  MaySungBarks]
+
+[SPEECH: MaySung]
+Koberce na podlaze jsou rucne tkane v Tibetu.
+
+[SPEECH: MaySung]
+Jen se tu klidne porozhlednete.
+
+[SPEECH: MaySung]
+Doprovodim vas.
+
+[SPEECH: MaySung]
+Mame tu mnozstvi cennych sosek Buddhy, jak jiste vidite.
+
+[COMMENT]
+Irritated at the player.
+
+[SPEECH: MaySung]
+Dovolte mi, abych vas doprovodila.
+
+[SPEECH: MaySung]
+Kam to jdete?
+
+[SPEECH: MaySung]
+Myslim, ze nastal cas, abyste odesel.
+
+[SPEECH: MaySung]
+Sem byste chodit nemel.
+
+[SPEECH: MaySung]
+Bezte odtud pryc!
+
+[SPEECH: MaySung]
+Nenutte mne volat policii!
+
+[SPEECH: MaySung]
+Cozpak nemate zadny respekt pred soukromim?
+
+[SPEECH: MaySung]
+Matka Couova prave neni doma. Zastavte se, prosim, nekdy jindy.
+
+-----------------------------------------------------------------
+[Owner: MaySung]
+[Name:  MaySungIntroHack]
+
+[SPEECH: MaySung]
+Matko Couova - pan JC Denton.
+
+-----------------------------------------------------------------
+[Owner: MaySung]
+[Name:  MaySungStranger]
+
+[SPEECH: MaySung]
+Kdo jste? Vzdyt tady nebydlite!
+
+[SPEECH: MaySung]
+Okamzite opustte toto apartma!
+
+[SPEECH: MaySung]
+Co si to dovolujete?
+
+-----------------------------------------------------------------
+[Owner: MaySung]
+[Name:  MaySungStranger2]
+
+[SPEECH: MaySung]
+Vy musite byt pan Denton - doprovodim vas.
+
+-----------------------------------------------------------------
+[Owner: MaySung]
+[Name:  MaySungWhupass]
+
+[SPEECH: MaySung]
+Je mi lito. Slecna Couova neni doma.
+
+[SPEECH: JCDenton]
+Jo, tak ji vyridte, ze hraje falesnou hru s Rudym sipem, a ja mam v umyslu to dokazat.
+
+[SPEECH: MaySung]
+To se mylite. Slecna Couova --
+
+[SPEECH: JCDenton]
+Nemela me posilat na tu policejni stanici. Vim, ze tady neco skryva, a mam v umyslu to najit!
+
+[SPEECH: MaySung]
+Ne! Ne... Vy se mylite!
+
+[SPEECH: MaySung]
+Straze!
+
+-----------------------------------------------------------------
+[Owner: MaySung]
+[Name:  MeetMaySung]
+
+[SPEECH: JCDenton]
+Hledam Maggii Couovou.
+
+[SPEECH: MaySung]
+Vy musite byt pan Denton - slecna Couova vas ocekava. Najdete ji v obyvacim pokoji. Pojdte za mnou, prosim.
+
+[SPEECH: JCDenton]
+Nerad vas obtezuji... Hledam muze jmenem Tracer Tong.
+
+[SPEECH: MaySung]
+Budete si chtit asi promluvit se slecnou Couovou. Pojdte se mnou. Najdete ji v obyvacim pokoji.
+
+-----------------------------------------------------------------
+[Owner: MJ12Lab_Assistant]
+[Name:  MJ12Lab_AssistantBarks]
+
+[COMMENT]
+These cycle and go random.%à®÷H?ÓÓÅ{ÒpÒ$É‚2(S’
+
+[SPEECH: MJ12Lab_Assistant]
+Ja nesmim mluvit s nikym cizim.
+
+[SPEECH: MJ12Lab_Assistant]
+Neruste prubeh meho pokusu!
+
+[SPEECH: MJ12Lab_Assistant]
+Nesmim vam odpovedet na zadnou otazku.
+
+[SPEECH: MJ12Lab_Assistant]
+Mam praci.
+
+[SPEECH: MJ12Lab_Assistant]
+Pozoruji nas.
+
+[SPEECH: MJ12Lab_Assistant]
+Jako posila tu pracuji zvlastni agenti ochranky. Radsi si bezte po svem!
+
+[SPEECH: MJ12Lab_Assistant]
+Za chvili sem prijde samotna slecna Couova.
+
+[SPEECH: MJ12Lab_Assistant]
+Neplette se do vyzkumu zadnych skupin!
+
+[SPEECH: MJ12Lab_Assistant]
+Je tady nas sef ze Spojenych statu. Toho jen tak neco neohromi.
+
+-----------------------------------------------------------------
+[Owner: MJ12Lab_Assistant_BioWeapons]
+[Name:  BioAssistBarks]
+
+[SPEECH: MJ12Lab_Assistant_BioWeapons]
+Tohle je zakazana oblast.
+
+[SPEECH: MJ12Lab_Assistant_BioWeapons]
+Pracujeme tu s nebezpecnymi materialy.
+
+[SPEECH: MJ12Lab_Assistant_BioWeapons]
+V zajmu sve vlastni bezpecnosti se radeji vzdalte!
+
+-----------------------------------------------------------------
+[Owner: MJ12Lab_Assistant_Level2]
+[Name:  MJ12Lab_Assistant_Level2Barks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: MJ12Lab_Assistant_Level2]
+Musime se pripravit na pokus.
+
+[SPEECH: MJ12Lab_Assistant_Level2]
+Pripadne otazky musite smerovat na nektereho z vedcu.
+
+[SPEECH: MJ12Lab_Assistant_Level2]
+My tady na zadne cizince nejsme zvykli.
+
+[COMMENT]
+(i.e. even without the player harassing them.)istant_Level2Barks\MJ12Lab_Assistant_Level203.
+
+[SPEECH: MJ12Lab_Assistant_Level2]
+Uz i tak mame zpozdeni.
+
+[SPEECH: MJ12Lab_Assistant_Level2]
+Pripadnou vzajemnou korespondenci si domluvte s nekterym z vedcu.
+
+[SPEECH: MJ12Lab_Assistant_Level2]
+Vsechno musi bezet jako na dratkach, dokud tu bude ta americka kontrola.
+
+[SPEECH: MJ12Lab_Assistant_Level2]
+Prectete si navstevni rad. Po tech nedavnych malerech se zprisnila bezpecnost.
+
+[SPEECH: MJ12Lab_Assistant_Level2]
+Ted mam strasne moc prace.
+
+[SPEECH: MJ12Lab_Assistant_Level2]
+Na rozhovor tu neni nejlepsi misto ani doba.
+
+-----------------------------------------------------------------
+[Owner: MJ12Lab_Biotech]
+[Name:  MJ12Lab_BiotechBarks]
+
+[SPEECH: MJ12Lab_Biotech]
+Musime tu neco duleziteho prodiskutovat!
+
+-----------------------------------------------------------------
+[Owner: MJ12Lab_BioWeapons]
+[Name:  MJ12Lab_BioWeapons_Overheard]
+
+[COMMENT]
+MJ12Lab_BioWeapons is speaking harshly to her assistant, who just failed to follow safety procedures.RÑ™'5nBUclI”ûf>ÌV÷˙Ë1’âwdxP.!	™T¬˙sE¿¬t¥su∂¥>VÄe|b”g´»LKãaé™b”@⁄OzrÛûõTSãc(I1ÉE>ZT	ﬁsæˇQ`®h
+
+[SPEECH: MJ12Lab_BioWeapons]
+To by mohlo prosakovat.
+
+[SPEECH: MJ12Lab_Assistant_BioWeapons]
+Ja vim. Ale prece by --
+
+[SPEECH: MJ12Lab_BioWeapons]
+Jedina spora. Kolikrat ti to mam opakovat? Jedina spora by dokazala vyvrazdit celou tuhle budovu!
+
+[SPEECH: MJ12Lab_Assistant_BioWeapons]
+Myslela jsem, ze ten magnet je zapnuty.
+
+[SPEECH: MJ12Lab_BioWeapons]
+Priste nemysli. Od toho tu mame ovladaci panel s barevnymi signalkami.
+
+-----------------------------------------------------------------
+[Owner: MJ12Lab_BioWeapons]
+[Name:  MJ12Lab_BioWeaponsBarks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: MJ12Lab_BioWeapons]
+Sem nikdo nesmi!
+
+[SPEECH: MJ12Lab_BioWeapons]
+Nic zajimaveho tu neuvidite!
+
+[SPEECH: MJ12Lab_BioWeapons]
+Staci zavolat na straze a budete dalsim pokusnym kralikem!
+
+-----------------------------------------------------------------
+[Owner: MJ12Lab_Computer]
+[Name:  MJ12Lab_ComputerBarks]
+
+[COMMENT]
+These cycle and repeat the last line.õO‡
+
+[SPEECH: MJ12Lab_Computer]
+Nepreji si, abyste mne rusil.
+
+[SPEECH: MJ12Lab_Computer]
+Pro toho, kdo napsal tenhle biometricky software, mam jeden vzkaz: uzivatelska privetivost.
+
+[SPEECH: MJ12Lab_Computer]
+Musim se soustredit.
+
+[SPEECH: MJ12Lab_Computer]
+Nekdo by mel celou tuhle vec uplne prekopat a zacit znovu.
+
+[SPEECH: MJ12Lab_Computer]
+Jak si muzou myslet, ze u genomu vypestujeme nejake rozvinute funkce, kdyz se nevyrovnaji ani s topologickou reprezentaci?
+
+[SPEECH: MJ12Lab_Computer]
+Tak dost. Musim opravdu pracovat.
+
+-----------------------------------------------------------------
+[Owner: MJ12Lab_Doctor]
+[Name:  MJ12Lab_DoctorBarks]
+
+[COMMENT]
+These cycle and go random.ys–Õ©y{NE`h~!/¥Ruu ¥TZ>—
+
+[SPEECH: MJ12Lab_Doctor]
+Je mi lito, ale na navstevy ted opravdu nemam kdy.
+
+[SPEECH: MJ12Lab_Doctor]
+Prosim... Vydesite mi subjekty!
+
+[SPEECH: MJ12Lab_Doctor]
+Tamhleten je lepsi nez ostatni, ale je velmi impulzivni!
+
+[SPEECH: MJ12Lab_Doctor]
+Predevsim nervova tkan se vzpira prijmout jiste druhy bilkovin.
+
+[SPEECH: MJ12Lab_Doctor]
+Nepravidelne vytlacovani nitratu, chapete?
+
+[SPEECH: MJ12Lab_Doctor]
+Opravdu byste mel uz jit.
+
+[SPEECH: MJ12Lab_Doctor]
+Zadna imunologicka reakce. To nam vynese dalsi penizky od Waltona Simonse, nemam pravdu?
+
+[SPEECH: MJ12Lab_Doctor]
+Uz davno jsem jim rikal: nove neurony nejsou zadne reseni! Potrebujeme jen rekonfigurovat to, co mame k dispozici.
+
+[SPEECH: MJ12Lab_Doctor]
+Vy pitomce!
+
+[SPEECH: MJ12Lab_Doctor]
+Vrat se zpatky do klece!
+
+[SPEECH: MJ12Lab_Doctor]
+Subjekt unikl!
+
+-----------------------------------------------------------------
+[Owner: MJ12Lab_Genetics]
+[Name:  MJ12Lab_Genetics_Overheard]
+
+[SPEECH: MJ12Lab_Biotech]
+Ve skutecnosti je to otazka abstrakce.
+
+[SPEECH: MJ12Lab_Genetics]
+Presne tak, presne tak!
+
+[SPEECH: MJ12Lab_Biotech]
+S takovou veci nelze operovat na urovni bazoveho paru.
+
+[SPEECH: MJ12Lab_Genetics]
+Presne to jsem rikala slecne Couove! Augmentace tkane...neni otazkou otacivych bitu.
+
+-----------------------------------------------------------------
+[Owner: MJ12Lab_Genetics]
+[Name:  MJ12Lab_Genetics_Overheard2]
+
+[SPEECH: MJ12Lab_Biotech]
+Meli bychom proto i nadale zustat u pristroju.
+
+[SPEECH: MJ12Lab_Genetics]
+V jadru... Ano, souhlasim.
+
+[SPEECH: MJ12Lab_Biotech]
+Starsi vedci nechapou, co to znamena, mit tak obrovsky objem dat.
+
+[SPEECH: MJ12Lab_Genetics]
+Jednou za cas jim ale musime predhodit nejakou kost.
+
+[SPEECH: MJ12Lab_Biotech]
+S tim pravym softwarem bude zivy organismus nerozlisitelny od systemu CAD/CAM.
+
+[SPEECH: MJ12Lab_Genetics]
+Pripravime dalsiho non-mendeliana. Ty krkouni zboznuji.
+
+-----------------------------------------------------------------
+[Owner: MJ12Lab_Genetics]
+[Name:  MJ12Lab_GeneticsBarks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: MJ12Lab_Genetics]
+Vy jste tu s temi Americany? Jen se tu porozhlednete! Projekt se konecne zacina rozjizdet.
+
+[SPEECH: MJ12Lab_Genetics]
+Jen si tu povidame. Nevsimejte si nas.
+
+[SPEECH: MJ12Lab_Genetics]
+Vyridte Simonsovi, ze jsme blizko. Velice blizko.
+
+[SPEECH: MJ12Lab_Genetics]
+Nemel byste byt nekde dole?
+
+-----------------------------------------------------------------
+[Owner: MJ12Lab_MiB]
+[Name:  MJ12Lab_MiBBarks]
+
+[SPEECH: MJ12Lab_MiB]
+Nikdo me na zadne hosty neupozornil.
+
+[SPEECH: MJ12Lab_MiB]
+Vsechny vase aktivity jsou monitorovany.
+
+[SPEECH: MJ12Lab_MiB]
+Vedouci vaseho oddeleni nam bude muset odpovedet na radu neprijemnych otazek.
+
+[SPEECH: MJ12Lab_MiB]
+Predpisy vam ukladaji zcela jasne, jak se mate chovat.
+
+[SPEECH: MJ12Lab_MiB]
+Stale nechapu, co tady vlastne delate.
+
+[SPEECH: MJ12Lab_MiB]
+Budu si muset prohlednout vas spis.
+
+-----------------------------------------------------------------
+[Owner: MJ12Lab_Nanotech]
+[Name:  MJ12Lab_NanotechBarks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: MJ12Lab_Nanotech]
+Patrne jste se ztratil.
+
+[SPEECH: MJ12Lab_Nanotech]
+Ten pristroj uprostred slouzi pro magneticky uloznik, neco jako tokamak.
+
+[SPEECH: MJ12Lab_Nanotech]
+Surovy produkt, neprilis bezpecny. Sebereplikaci se zabyvaji dole ve zvlastnim oddeleni.
+
+[SPEECH: MJ12Lab_Nanotech]
+Vy musite byt od Simonse. Presvedcte se, prosim, ze nas chape: snazime se ze vsech sil!
+
+[SPEECH: MJ12Lab_Nanotech]
+...vyzkousime ty nove zapouzdrene bilkoviny, co pripominaji bezne fosfolipidy.
+
+[SPEECH: MJ12Lab_Nanotech]
+S tou novou verzi Biotechu jsme se uz dockali jistych uspechu.
+
+-----------------------------------------------------------------
+[Owner: MJ12Lab_Physics]
+[Name:  MJ12Lab_Physics_Overheard]
+
+[SPEECH: MJ12Lab_Psionics]
+Je to prece jednoduchy pozadavek!
+
+[SPEECH: MJ12Lab_Physics]
+Laboratorni procedura to neumoznuje...
+
+[SPEECH: MJ12Lab_Psionics]
+Ale psionicka laborator --
+
+[SPEECH: MJ12Lab_Physics]
+Psionicke laboratori nic neni do slabych interakci mezi nahodilymi subatomarnimi casticemi!
+
+[SPEECH: MJ12Lab_Psionics]
+Ale nase prace ve Fitjov Capra --
+
+[SPEECH: MJ12Lab_Physics]
+Capra... Jen velky humbuk!
+
+[SPEECH: MJ12Lab_Psionics]
+Nekritizujte to, cemu nerozumite!
+
+-----------------------------------------------------------------
+[Owner: MJ12Lab_Physics]
+[Name:  MJ12Lab_Physics_Overheard2]
+
+[SPEECH: MJ12Lab_Psionics]
+Vedecky pokrok zavisi na spolupraci.
+
+[SPEECH: MJ12Lab_Physics]
+Zkuste tedy zkrizit nohy, brucet mantry a pokouset se cist moje myslenky!
+
+[SPEECH: MJ12Lab_Psionics]
+Vymena dat mezi oddelenimi je prece samozrejmosti!
+
+[SPEECH: MJ12Lab_Physics]
+VersaLife prisla o biliardu kreditu tim, ze zverejnila R&D materialy!
+
+[SPEECH: MJ12Lab_Psionics]
+Pracujeme prece na stejne veci!
+
+[SPEECH: MJ12Lab_Physics]
+Vysledkum naseho vyzkumu by porozumelo jen par tuctu lidi na cele planete, rozhodne nikdo z "psionickych inzenyru"!
+
+-----------------------------------------------------------------
+[Owner: MJ12Lab_Physics]
+[Name:  MJ12Lab_PhysicsBarks]
+
+[SPEECH: MJ12Lab_Physics]
+Toto je soukroma konference.
+
+[COMMENT]
+(talking to the psionics woman across the table)
+
+[SPEECH: MJ12Lab_Physics]
+To je nekdo od vas...?
+
+[SPEECH: MJ12Lab_Physics]
+Opravdu. Rezervovali jsme si tuto mistnost na dve hodiny!
+
+-----------------------------------------------------------------
+[Owner: MJ12Lab_Psionics]
+[Name:  MJ12Lab_PsionicsBarks]
+
+[SPEECH: MJ12Lab_Psionics]
+Ja se tu pokousim mluvit!
+
+[SPEECH: MJ12Lab_Psionics]
+Vy nevychovance!
+
+[SPEECH: MJ12Lab_Psionics]
+Prestante nas vyrusovat!
+
+-----------------------------------------------------------------
+[Owner: MJ12Lab_Supervisor]
+[Name:  Meet_MJ12Lab_Supervisor]
+
+[SPEECH: MJ12Lab_Supervisor]
+To jste vy, co mu zrovna vystavili propustku do Urovne 1?
+
+[SPEECH: JCDenton]
+Jo...to jsem ja.
+
+[SPEECH: MJ12Lab_Supervisor]
+Laboratore si prohlizejte podle libosti, ale mejte ohled na zdejsi pracovniky. Vase propustka muze byt bez varovani zrusena.
+
+[SPEECH: JCDenton]
+Na tuhle chvili uz jsem se dlouho tesil.
+
+[SPEECH: MJ12Lab_Supervisor]
+Ochranka tu sleduje pohyb kamerovym systemem. Kdyz budete delat potize, spusti se poplach, a to se vsadte, ze straze se vas nebudou na nic vyptavat!
+
+[SPEECH: JCDenton]
+Jasne, pane. Vynasnazim se, abych nikomu neprekazel.
+
+-----------------------------------------------------------------
+[Owner: MJ12Lab_Supervisor]
+[Name:  MJ12Lab_SupervisorBarks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: MJ12Lab_Supervisor]
+Vedcum nesmite klast zadne otazky. Maji moc prace.
+
+[SPEECH: MJ12Lab_Supervisor]
+Jsou tady na navsteve Americane, takze se dnes chovame mene formalne.
+
+[COMMENT]
+Kind of half-assed.  He's tired of talking to the player.
+
+[SPEECH: MJ12Lab_Supervisor]
+Vitejte do laboratori na Urovni 1.
+
+[SPEECH: MJ12Lab_Supervisor]
+Bohuzel. My tady pruvodce nedelame.
+
+-----------------------------------------------------------------
+[Owner: MJ12Lab_Troop]
+[Name:  MJ12Lab_TroopBarks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: MJ12Lab_Troop]
+Mam zakazano bavit se s personalem.
+
+[COMMENT]
+Brushing off the player.
+
+[SPEECH: MJ12Lab_Troop]
+Jsem ve sluzbe.
+
+[SPEECH: MJ12Lab_Troop]
+Bezte si po svych.
+
+[SPEECH: MJ12Lab_Troop]
+Celou dobu u sebe mejte svoji propustku.
+
+[SPEECH: MJ12Lab_Troop]
+Zrejme tu oba makame prescas.
+
+[SPEECH: MJ12Lab_Troop]
+Psionici jsou na Urovni 2.
+
+[SPEECH: MJ12Lab_Troop]
+Narocnej den, co? Ja uz asi brzo padnu.
+
+[SPEECH: MJ12Lab_Troop]
+Ztratil jste neco?
+
+-----------------------------------------------------------------
+[Owner: MJ12Lab_Troop_Level2]
+[Name:  MJ12Lab_Troop_Level2Barks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: MJ12Lab_Troop_Level2]
+Jestli nevite, kam mate jit, tak tady dole nemate co pohledavat.
+
+[SPEECH: MJ12Lab_Troop_Level2]
+Presvedcte se, ze tady nejste omylem.
+
+[SPEECH: MJ12Lab_Troop_Level2]
+Nechte vedce pracovat!
+
+[SPEECH: MJ12Lab_Troop_Level2]
+Niceho se nedotykejte!
+
+[SPEECH: MJ12Lab_Troop_Level2]
+VersaLife ma ohledne navstev prisne predpisy. Jestli jste na pochybach, zda mate neco udelat, radeji to nedelejte.
+
+[SPEECH: MJ12Lab_Troop_Level2]
+Drzte se stranou, neprekazejte!
+
+[SPEECH: MJ12Lab_Troop_Level2]
+Vratte se, prosim, na sve misto!
+
+-----------------------------------------------------------------
+[Owner: MJ12Lab_TroopBarracks]
+[Name:  MJ12Lab_TroopBarracksBarks]
+
+[COMMENT]
+These cycle and go random._
+
+[SPEECH: MJ12Lab_TroopBarracks]
+Laborky jsou o kousek dal.
+
+[SPEECH: MJ12Lab_TroopBarracks]
+Nejspis jste se ztratil.
+
+[COMMENT]
+(trying to get rid of the player)
+
+[SPEECH: MJ12Lab_TroopBarracks]
+Hej, co tady vlastne delate?
+
+[SPEECH: MJ12Lab_TroopBarracks]
+Tohle jsou soukrome pokoje!
+
+[SPEECH: MJ12Lab_TroopBarracks]
+Vypadnete, nez vas nekdo z nas vykope!
+
+[SPEECH: MJ12Lab_TroopBarracks]
+Uz dlouho tady sleduju tu tvou tucnou prdel. Nechci ji proto videt aspon o rauchpauze, jasny?
+
+[SPEECH: MJ12Lab_TroopBarracks]
+Hej, chlape, kdo si myslis, ze jses?
+
+[SPEECH: MJ12Lab_TroopBarracks]
+Tohle budeme muset hlasit!
+
+[SPEECH: MJ12Lab_TroopBarracks]
+...myslis snad, ze ti PATR÷ME?
+
+-----------------------------------------------------------------
+[Owner: MJ12Lab_TroopBlue]
+[Name:  MJ12Lab_TroopBlueBarks]
+
+[SPEECH: MJ12Lab_TroopBlue]
+Tady nemate co delat.
+
+[COMMENT]
+(i.e. you don't belong back here)
+
+[SPEECH: MJ12Lab_TroopBlue]
+Tohle je zbrojnice.
+
+[SPEECH: MJ12Lab_TroopBlue]
+Proc byste potreboval zbran?
+
+[SPEECH: MJ12Lab_TroopBlue]
+Co tady pohledavate?
+
+[SPEECH: MJ12Lab_TroopBlue]
+Budu vas muset hlasit!
+
+-----------------------------------------------------------------
+[Owner: MJ12Lab_TroopWindow]
+[Name:  MJ12Lab_TroopWindowBarks]
+
+[COMMENT]
+These cycle and go random.ˇˇYq∏˛Ûc¬zéùsJc\5"
+
+[SPEECH: MJ12Lab_TroopWindow]
+Pokracujte.
+
+[SPEECH: MJ12Lab_TroopWindow]
+Nemusite mi ukazovat zadny prukaz.
+
+[COMMENT]
+(trying to get rid of the player)
+
+[SPEECH: MJ12Lab_TroopWindow]
+Musim tady hlidat.
+
+-----------------------------------------------------------------
+[Owner: MJ12Lab_WiB]
+[Name:  MJ12Lab_WiBBarks]
+
+[SPEECH: MJ12Lab_WiB]
+Vratte se na sve misto!
+
+[SPEECH: MJ12Lab_WiB]
+Nikdo mi nehlasil, ze by se sem chystal dalsi vedec.
+
+[SPEECH: MJ12Lab_WiB]
+Prace musi probihat bez problemu.
+
+[SPEECH: MJ12Lab_WiB]
+Divna hodina pro navstevu laboratori!
+
+[SPEECH: MJ12Lab_WiB]
+Budu se na vas muset nahore informovat!
+
+-----------------------------------------------------------------
+[Owner: OfficeRedArrow]
+[Name:  ClubTriadBackroomAmbushBarks]
+
+[SPEECH: OfficeRedArrow]
+Je to vojenska jednotka!
+
+[SPEECH: OfficeRedArrow]
+Rudy sip!
+
+[SPEECH: OfficeRedArrow]
+Ty vojaci - to nejsou lidi!
+
+-----------------------------------------------------------------
+[Owner: OfficeRedArrow]
+[Name:  ClubTriadBackroomBarks]
+
+[SPEECH: OfficeRedArrow]
+Isaac sem posledni dobou pusti uplne kazdyho.
+
+[SPEECH: OfficeRedArrow]
+Trhovci ve Van-Caj se zacinaji stavet na zadni.
+
+[SPEECH: OfficeRedArrow]
+...a potom s nim zatocit jako se starou krysou! To vzdycky pomuze!
+
+[SPEECH: OfficeRedArrow]
+Ulice Canal Road je ted prilis nebezpecna.
+
+[SPEECH: OfficeRedArrow]
+Policie nam tentokrat neco zatajila.
+
+[SPEECH: OfficeRedArrow]
+Hundley pracuje pro Zarici stezku. To je jista vec.
+
+[SPEECH: OfficeRedArrowHead]
+...psi!
+
+[SPEECH: OfficeRedArrowHead]
+Musime tahnout za jeden provaz.
+
+[SPEECH: OfficeRedArrowHead]
+Prestan si stezovat.
+
+[SPEECH: OfficeRedArrow]
+Musime zjistit, kdo ten utok zorganizoval - ten nam za to draze zaplati!
+
+[SPEECH: OfficeRedArrow]
+Priste davej lepsi pozor, jestli te nekdo nesleduje.
+
+[SPEECH: OfficeRedArrow]
+Rudy sip se nenecha zastrasit!
+
+[SPEECH: OfficeRedArrow]
+To je ale binec! Koukej, co nam s klubem provedli!
+
+[SPEECH: OfficeRedArrow]
+Nechapu, ze se odvazili zautocit primo tady!
+
+-----------------------------------------------------------------
+[Owner: OfficeRedArrow]
+[Name:  ClubTriadBackroomBarksFrob]
+
+[SPEECH: OfficeRedArrow]
+Pro americke gangstery momentalne zadny volny misto nemame.
+
+[SPEECH: OfficeRedArrow]
+Zdrzuj se tady radsi co nejkratsi dobu.
+
+[SPEECH: OfficeRedArrow]
+Mame jeste nejakou schuzku.
+
+[SPEECH: OfficeRedArrow]
+Prosim... nase trpelivost neni neomezena.
+
+[SPEECH: OfficeRedArrow]
+Tak dost! Bez!
+
+-----------------------------------------------------------------
+[Owner: OfficeRedArrow]
+[Name:  ClubTriadBackroomHappyBarks]
+
+[SPEECH: OfficeRedArrow]
+Slysel jsem, ze te hledal nejaky muz s nemeckym prizvukem. Jeden bar ve Van-Caj uplne zdemoloval.
+
+[SPEECH: OfficeRedArrow]
+Ted uz si policie musi vybrat jednu stranu.
+
+[SPEECH: OfficeRedArrow]
+Ty nove mece uz se zacnou brzy vyrabet.
+
+[SPEECH: OfficeRedArrow]
+Pri nasich stycich a znalosti Cesty vydelame miliony.
+
+[SPEECH: OfficeRedArrow]
+Jestli zustanes v Hongkongu, bude z tebe bohac.
+
+-----------------------------------------------------------------
+[Owner: OfficeRedArrow]
+[Name:  ClubTriadBackroomMeet]
+
+[COMMENT]
+The speaker is polite but menacing.  JC has just stumbled on the hidden Red Arrow meeting room in the back room of the Lucky Money club.  
+
+[SPEECH: OfficeRedArrow]
+Prominte, pane, ale sem je klubovym hostum vstup zakazan. Mel byste odejit.
+
+[SPEECH: JCDenton]
+Nejspis je to vase hlavni kancelar. Kdo z vas to tady ma pod palcem?
+
+[SPEECH: OfficeRedArrow]
+Max Cen v sousedni mistnosti. Ale radsi ho neobtezujte, pokud si vas nepozval.
+
+[SPEECH: JCDenton]
+To je dobry. Jdu navstivit Maxe Cena - ocekava me.
+
+[SPEECH: OfficeRedArrow]
+Amerikan! Doufam, ze se mu tvoje zprava bude libit.
+
+-----------------------------------------------------------------
+[Owner: OfficeRedArrowHead]
+[Name:  OfficeRedArrowHeadBarks]
+
+[SPEECH: OfficeRedArrowHead]
+S gwailama ja nechci nic mit.
+
+[SPEECH: OfficeRedArrowHead]
+Vypadni!
+
+[SPEECH: OfficeRedArrowHead]
+Zmiz!
+
+[SPEECH: OfficeRedArrowHead]
+Jsme ti velice vdecni.
+
+-----------------------------------------------------------------
+[Owner: PaulDenton]
+[Name:  M07MeetPaul]
+
+[SPEECH: PaulDenton]
+Tong te dal dohromady?
+
+[SPEECH: JCDenton]
+Jo. A co ty? Mel jsi na kahanku.
+
+[SPEECH: PaulDenton]
+Nestoji to za nic. Zda se, ze se budu muset tady v Hongkongu na par mesicu utaborit.
+
+[SPEECH: JCDenton]
+Uz je ti lip? Nebo jsi poskozenej?
+
+[SPEECH: PaulDenton]
+Dostanu se z toho, ale ne moc rychle. Budes si muset prozatim vystacit sam. Slysel jsem, ze uz se docela cinis.
+
+[SPEECH: JCDenton]
+Jenom se seznamuju s okolim. Zjistil jsem, ze VersaLife mela univerzalni konstruktor; syntetizovali ten virus primo tady.
+
+[SPEECH: PaulDenton]
+Tong mi to rikal. Zadnej levnej verk to nebyl.
+
+[SPEECH: JCDenton]
+Majestic 12 je urcite v baliku.
+
+[SPEECH: PaulDenton]
+Kazdej vladce potrebuje zakladnu. Bez poddanejch - no, budes na ne muset neco vykoumat.
+
+[SPEECH: JCDenton]
+Pujdu se mrknout, co rika Tong tem informacim, co jsem mu obstaral. Hele, nemoh' bys pro me neco udelat? Uzdrav se trochu!
+
+[SPEECH: JCDenton]
+Vracim se zase do New Yorku. S tou zakladnou se jeste ukaze. Hele, nemoh' bys pro me neco udelat? Uzdrav se trochu!
+
+[SPEECH: PaulDenton]
+Budu se snazit.
+
+-----------------------------------------------------------------
+[Owner: PaulDenton]
+[Name:  M07PaulBarks]
+
+[COMMENT]
+These cycle and go random.ëò≤kª≤¡”ÀM;{d–>DJ>eâJﬁΩm
+
+[SPEECH: PaulDenton]
+Vedeni zahajilo cistku v UNATCO. Kaplan. Berry. Nikdo nevi, kdo je dalsi na rade.
+
+[SPEECH: PaulDenton]
+Simons se drzi hesla: Novy koste dobre mete.
+
+[SPEECH: PaulDenton]
+Jeste jsem porad slabej jako caj. V tom New Yorku to budes muset zvladnout beze me.
+
+[SPEECH: PaulDenton]
+Nasadili na tebe Gunthera. Povida se, ze touzi po tvym skalpu.
+
+-----------------------------------------------------------------
+[Owner: Receptionist]
+[Name:  M06MeetReceptionist]
+
+[SPEECH: Receptionist]
+Vitejte ve VersaLife. Ze zitrka cinime vcerejsek. Cim vam poslouzim?
+
+[SPEECH: JCDenton]
+Hledam pana Hundleyho.
+
+[SPEECH: Receptionist]
+Je prave nahore na obchuzce. Je to vysoky muz v cernem obleku.
+
+[SPEECH: JCDenton]
+Dekuju.
+
+-----------------------------------------------------------------
+[Owner: Receptionist]
+[Name:  ReceptionistBarks]
+
+[SPEECH: Receptionist]
+Bohuzel, reklamni brozury nam prave dosly.
+
+[SPEECH: Receptionist]
+Hledate-li psioniky, prave jste je minul; sli, tusim, do klubu Lucky Money.
+
+[SPEECH: Receptionist]
+Ohledne odevu si nedelejte starosti; my jsme tady velmi tolerantni.
+
+[SPEECH: Receptionist]
+Na navstevu laboratori musite mit zvlastni propustku.
+
+[SPEECH: Receptionist]
+Mozna, ze vas pan Hundley provede kolem.
+
+-----------------------------------------------------------------
+[Owner: Red_Arrow_01]
+[Name:  MeetRed_Arrow_01]
+
+[COMMENT]
+A Red Arrow member, male.
+
+[GOAL:]
+Navstiv Maggii Couovou v Tonnochi Road 1313.
+
+[SPEECH: Red_Arrow_01]
+Pane Dentone, jsem clenem triady Rudy sip. Posila me Maggie Couova.
+
+[SPEECH: JCDenton]
+Kdo je to Maggie Couova?
+
+[SPEECH: Red_Arrow_01]
+Copak neznate manzelku vlastniho bratra?
+
+[SPEECH: JCDenton]
+Manzelku?
+
+[SPEECH: Red_Arrow_01]
+Vidim, ze Paul je jeste vetsi tajnustkar, nez jsem si myslel.
+
+[SPEECH: JCDenton]
+Paul mi v zivote nerekl, ze je zenaty!
+
+[SPEECH: Red_Arrow_01]
+Dovolte mi tedy privitat vas ve meste jmenem Maggie Couove. Budete-li potrebovat pomoc, uvita vas ve svem apartma na adrese 1313 v Tonnochi Road.
+
+[SPEECH: JCDenton]
+Byl. Zavrazdili ho v New Yorku.
+
+[SPEECH: Red_Arrow_01]
+To slysim opravdu nerad.
+
+[SPEECH: JCDenton]
+Chtel bych vypatrat, kvuli cemu riskoval zivot.
+
+[SPEECH: Red_Arrow_01]
+Tedy slecna Couova vas kdykoliv rada uvita ve svem apartma na adrese 1313 v Tonnochi Road.
+
+-----------------------------------------------------------------
+[Owner: Red_Arrow_01]
+[Name:  MeetRed_Arrow_01_2]
+
+[SPEECH: JCDenton]
+Hledam nekoho, kdo by me privedl na stopu Tracera Tonga.
+
+[SPEECH: Red_Arrow_01]
+Navstivte, prosim, slecnu Couovou. Ta vam ochotne poskytne dalsi informace.
+
+-----------------------------------------------------------------
+[Owner: Red_Arrow_01]
+[Name:  Red_Arrow_01Barks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: Red_Arrow_01]
+Po ceste si muzete na trhu nakoupit. U stanku s novinami a s keramikou maji dobre ceny.
+
+[SPEECH: Red_Arrow_01]
+Zato cajovne se vyhybejte. Neni dost autenticka.
+
+[SPEECH: Red_Arrow_01]
+Rudy sip netvori zadni teroriste, jak prohlasuje UNATCO.
+
+[SPEECH: Red_Arrow_01]
+Chranime mistni komunitu proti zahranicnim investorum.
+
+[SPEECH: Red_Arrow_01]
+My nejsme jako Zarici stezka.
+
+-----------------------------------------------------------------
+[Owner: Red_Arrow_Street_Guard]
+[Name:  Meet_Red_Arrow_Street_Guard]
+
+[SPEECH: JCDenton]
+Prominte, neznate nahodou muze jmenem Tracer Tong?
+
+[SPEECH: Red_Arrow_Street_Guard]
+To je dost nebezpecna otazka.
+
+[SPEECH: JCDenton]
+Omlouvam se, ale nerozumim.
+
+[SPEECH: Red_Arrow_Street_Guard]
+Hongkong neni bezpecne misto pro cizince. Dejte na me - do niceho se neplette!
+
+[SPEECH: JCDenton]
+Chce me videt Maggie Couova. Bydli asi v tom hotelu pres ulici?
+
+[SPEECH: Red_Arrow_Street_Guard]
+Spravne.
+
+[SPEECH: JCDenton]
+Jak se k ni dostanu?
+
+[SPEECH: Red_Arrow_Street_Guard]
+Hlavnim vytahem. Maggie Couova by se nastvala, kdybyste k ni prisel jinudy.
+
+-----------------------------------------------------------------
+[Owner: Red_Arrow_Street_Guard]
+[Name:  Red_Arrow_Street_GuardBarks]
+
+[SPEECH: Red_Arrow_Street_Guard]
+Tohle je slepa ulice. Radim vam, abyste se vratil zpatky na trziste.
+
+[SPEECH: Red_Arrow_Street_Guard]
+Vsiml jsem si, ze jste mluvil tamhle s tim vrahem. To neni moc prozirave.
+
+[SPEECH: Red_Arrow_Street_Guard]
+Vy jste turista? Az budete ve Van-Caj, navstivte klub Lucky Money!
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: Red_Arrow_Street_Guard]
+Vratil jste triadam ztracenou cest. Dekuji vam.
+
+[SPEECH: Red_Arrow_Street_Guard]
+Max Cen dokaze byt vdecny tomu, kdo mu pomohl.
+
+[SPEECH: Red_Arrow_Street_Guard]
+Vy musite mit mnoho augmentovanych pratel. Jeden z nich se tu po vas ptal.
+
+[SPEECH: Red_Arrow_Street_Guard]
+Navstivte Lucky Money a budete srdecne privitan.
+
+-----------------------------------------------------------------
+[Owner: Red_Arrow_Street_Guard]
+[Name:  Red_Arrow_Street_GuardBarks2]
+
+-----------------------------------------------------------------
+[Owner: Red_Arrow_Street_Guard]
+[Name:  Red_Arrow_Street_GuardBarks3]
+
+-----------------------------------------------------------------
+[Owner: RightHandMan]
+[Name:  RightHandManBarks]
+
+[SPEECH: RightHandMan]
+Predstavte se Draci hlave.
+
+[SPEECH: RightHandMan]
+Vyridte svou zalezitost a odejdete.
+
+[SPEECH: RightHandMan]
+Pocinate si jako blazen.
+
+[SPEECH: RightHandMan]
+Mel byste odejit.
+
+-----------------------------------------------------------------
+[Owner: Storage_ComputerTech]
+[Name:  Storage_ComputerTechBarks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: Storage_ComputerTech]
+Davejte pozor. Zrovna se kopiruje.
+
+[SPEECH: Storage_ComputerTech]
+Vy byste tady byt ale nemel.
+
+[SPEECH: Storage_ComputerTech]
+Tyhle pristroje jsou velice choulostive na prach.
+
+[SPEECH: Storage_ComputerTech]
+Vsechny navstevy, ktere nemaji propustku, musim hlasit ochrance.
+
+-----------------------------------------------------------------
+[Owner: Street_Bum1]
+[Name:  Street_Bum1Barks]
+
+[COMMENT]
+These cycle and repeat the last line.
+
+[SPEECH: Street_Bum1]
+Propasnul jsi je. Vypadli uz tak pred hodinou.
+
+[SPEECH: Street_Bum1]
+Neco tady asi natirali. Bylo to videt na jejich botach, kdyz odchazeli z ty ulicky.
+
+[SPEECH: Street_Bum1]
+Taky jsem bejval nateracem. Myslis, ze je nekdo najal?
+
+-----------------------------------------------------------------
+[Owner: Street_Bum2]
+[Name:  Meet_Street_Bum2]
+
+[COMMENT]
+I wrote this guy as though he doesn't know much English.
+
+[SPEECH: JCDenton]
+Hledam cestu do te budovy.
+
+[SPEECH: Street_Bum2]
+Bez hlavnim vchodem. Zadnim vejtahem smeji jezdit jenom triady.
+
+[SPEECH: JCDenton]
+Dobra rada.
+
+-----------------------------------------------------------------
+[Owner: Street_Bum2]
+[Name:  Street_Bum2Barks]
+
+[SPEECH: Street_Bum2]
+Ta ulicka je nebezpecna. Drz se na hlavni tride.
+
+[SPEECH: Street_Bum2]
+Tady je spousta clenu triad... v tyhle casti Van-Caj.
+
+[SPEECH: Street_Bum2]
+Dam ti jednu radu: vyhejbej se Rudymu sipu.
+
+-----------------------------------------------------------------
+[Owner: Street_Bum2]
+[Name:  Street_Bum2Barks2]
+
+-----------------------------------------------------------------
+[Owner: Street_Cop]
+[Name:  Street_CopBarks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: Street_Cop]
+Cizinci v Hongkongu by meli zustavat pobliz trziste.
+
+[SPEECH: Street_Cop]
+Postranni ulice nejsou pro turisty v noci bezpecne.
+
+[SPEECH: Street_Cop]
+Mel byste mit u sebe mapu.
+
+-----------------------------------------------------------------
+[Owner: Street_Doorman]
+[Name:  Street_DoormanBarks]
+
+[COMMENT]
+I'm thinking this guy has good "business English," where he uses large words but often says them very quickly, or pauses just before saying a tricky phrase.AêXÎñˇ áb§ˇr	
+
+[COMMENT]
+These cycle and repeat the last.Ryyc.ZœøˇØ◊˜[rÛıœﬂ˜c˜ˇ˚ŒÔörGÌa
+
+[SPEECH: Street_Doorman]
+Vitejte v Queen's Tower.
+
+[SPEECH: Street_Doorman]
+Muzete pouzit pocitac s databazi hostu, jestli ho dovedete ovladat.
+
+[SPEECH: Street_Doorman]
+Sedme poschodi je zavrene kvuli... rekonstrukci.
+
+[SPEECH: Street_Doorman]
+Vsichni hoste museji jezdit hlavnim vytahem.
+
+[SPEECH: Street_Doorman]
+Jeste jednou se omlouvam, ale nemohu vam vice pomoci.
+
+-----------------------------------------------------------------
+[Owner: Street_Man]
+[Name:  Street_ManBarks]
+
+[COMMENT]
+This guy's model was swapped out.  He's now a girl.  These cycle and go random.
+
+[SPEECH: Street_Man]
+Vsadim se, ze jdete z trziste. Taky tam mam namireno.
+
+[SPEECH: Street_Man]
+Moje matka rikala, ze se tam porad strili. Mam pry zustat tady.
+
+[SPEECH: Street_Man]
+Jenze ja zadnou strelbu neslysim.
+
+[SPEECH: Street_Man]
+Triady maji na praci lepsi veci nez obtezovat verejnost na ulici.
+
+[SPEECH: Street_Man]
+Nesnasim Tonnochi Road.
+
+-----------------------------------------------------------------
+[Owner: Supervisor01]
+[Name:  M06SupervisorConvos]
+
+[COMMENT]
+Mr. Hundley is the name.  He sells you security pass, but then takes it away later.
+
+[SPEECH: Supervisor01]
+Jsem dozorce smeny Hundley. Kdo racte byt vy?
+
+[SPEECH: JCDenton]
+Tenhle mesic si najali me. Mate to tu hezky zarizene.
+
+[SPEECH: Supervisor01]
+Dekuji, dekuji. Ano, vsak jsme take na svou praci patricne hrdi.
+
+[SPEECH: JCDenton]
+Nedalo by se nejak zaridit, abych se mrknul do laboratori?
+
+[SPEECH: Supervisor01]
+Hmmm, ne... to, bohuzel, nepujde. Vsak vite, obchodni tajemstvi, a tak dale.
+
+[SPEECH: JCDenton]
+Urcite byste nelitoval.
+
+[SPEECH: Supervisor01]
+Hmmmm. Kolik nabizite? Dva tisice?
+
+[CHOICES:2]
+
+[CHOICE:]
+Jasne.
+
+[CHOICE:]
+Ani napad!
+
+[SPEECH: Supervisor01]
+Vyborne. Kod k vytahu je 6512. U ochranky zaridim, aby vas tam pro dnesek tolerovali.
+
+[SPEECH: JCDenton]
+Diky.
+
+[SPEECH: Supervisor01]
+Aha, muj vazeny host! Vitejte ve VersaLife!
+
+[NOTE:]
+Kod k vytahu VersaLife: 6512.
+
+[SPEECH: JCDenton]
+Dva tisice zni docela rozumne, ale nemam u sebe tolik penez.
+
+[SPEECH: Supervisor01]
+Dobra, dobra. Az ty penize sezenete, klidne se za mnou vratte.
+
+[SPEECH: Supervisor01]
+Tak co, placneme si? Dva tisice za maly vylet do nasich laboratori?
+
+-----------------------------------------------------------------
+[Owner: Supervisor01]
+[Name:  SupervisorPaidBarks]
+
+[SPEECH: Supervisor01]
+Do niceho se tu neplette a nikdo vas nebude vyhazovat.
+
+[SPEECH: Supervisor01]
+Bylo mi potesenim s vami obchodovat.
+
+[SPEECH: Supervisor01]
+Budu muset vyrazit na obchuzku.
+
+[SPEECH: Supervisor01]
+Nikde o tom nemluvte, jasne?
+
+[SPEECH: Supervisor01]
+Dneska tu mame spoustu navstev. Nikdo si toho nevsimne.
+
+-----------------------------------------------------------------
+[Owner: Table_Dancer]
+[Name:  Table_DancerBarks]
+
+[SPEECH: Table_Dancer]
+Jo!
+
+[SPEECH: Table_Dancer]
+A jedem!
+
+[SPEECH: Table_Dancer]
+Kdo si skoci se mnou?
+
+[COMMENT]
+A "let's party" kind of whoop!
+
+[SPEECH: Table_Dancer]
+Juuuu!
+
+[SPEECH: Table_Dancer]
+Tohle ja si nedam libit!
+
+[SPEECH: Table_Dancer]
+Vypadni!
+
+[SPEECH: Table_Dancer]
+Nestoji to za to!
+
+[SPEECH: Table_Dancer]
+Nenavidim to tady! Nenavidim!
+
+-----------------------------------------------------------------
+[Owner: TeaHouseCustomer]
+[Name:  TeaHouseCustomerBarks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: TeaHouseCustomer]
+Dali jsme si cao-ci. Vynikajici.
+
+[SPEECH: TeaHouseCustomer]
+Smim vam doporucit...lung-cing, ten nejjemnejsi cinsky caj?
+
+[SPEECH: TeaHouseCustomer]
+Musim vas pozadat o prominuti. Prave spolu o necem hovorime.
+
+[SPEECH: TeaHouseWoman]
+Nevydrzim to tu. Musim se jit na chvili projit.
+
+[SPEECH: TeaHouseCustomer]
+Oni ty krysy zabiji. To neni zadny problem.
+
+-----------------------------------------------------------------
+[Owner: TeaHouseRedArrow]
+[Name:  CatererConvo]
+
+[SPEECH: TeaHouseRedArrow]
+...mam tu jednu malickost.
+
+[SPEECH: Caterer]
+Povidej.
+
+[SPEECH: TeaHouseRedArrow]
+Vytrznost v cajovne. Muzes to zaridit?
+
+[SPEECH: Caterer]
+Za stovku.
+
+[SPEECH: TeaHouseRedArrow]
+Zadny raneny. Jenom rvacka.
+
+[SPEECH: Caterer]
+Za stovku.
+
+[SPEECH: TeaHouseRedArrow]
+Mam jen petapadesat.
+
+[SPEECH: Caterer]
+Za stovku.
+
+[SPEECH: TeaHouseRedArrow]
+Za petasedesat.
+
+[SPEECH: Caterer]
+Dobre, tak za petasedesat.
+
+-----------------------------------------------------------------
+[Owner: TeaHouseRedArrow]
+[Name:  TeaHouseDrama]
+
+[SPEECH: TeaHouseRedArrow]
+Chces provozovat zivnost ve Van-Caj?
+
+[SPEECH: MarketWaiter]
+Mam uz uzavrenou dohodu se Zarici stezkou!
+
+[COMMENT]
+(more insistent)i
+
+[SPEECH: TeaHouseRedArrow]
+Chces provozovat zivnost ve Van-Caj?
+
+[SPEECH: MarketWaiter]
+Ja si nenecham vyhrozovat!
+
+[SPEECH: TeaHouseRedArrow]
+Nemysli si, ze te Zarici stezka ochrani!
+
+[SPEECH: MarketWaiter]
+Vypadni! Ven!
+
+[SPEECH: TeaHouseRedArrow]
+Jak chces, ale potom se nediv, ze neprojdes nasi pristi kontrolou.
+
+[SPEECH: MarketWaiter]
+Mam zname na ministerstvu zdravotnictvi; ti se daji koupit!
+
+[SPEECH: TeaHouseRedArrow]
+Mozna, ale krysy ti tolerovat nebudou.
+
+-----------------------------------------------------------------
+[Owner: TeaHouseRedArrow]
+[Name:  TeaHouseRedArrowBarks]
+
+[SPEECH: TeaHouseRedArrow]
+Hled si svyho!
+
+[SPEECH: TeaHouseRedArrow]
+Neplet se mi do cesty!
+
+[SPEECH: TeaHouseRedArrow]
+Zadelavas si na potize!
+
+[SPEECH: TeaHouseRedArrow]
+Videl jsem te, ze poslouchas. Radsi drz hubu.
+
+-----------------------------------------------------------------
+[Owner: TeaHouseRedArrow]
+[Name:  TeaHouseRedArrowWalkingBarks]
+
+[SPEECH: TeaHouseRedArrow]
+Neplet se do toho, po cem ti nic neni!
+
+-----------------------------------------------------------------
+[Owner: TeaHouseWoman]
+[Name:  RatReaction]
+
+[SPEECH: TeaHouseWoman]
+Muj Boze! Behaji tu vsude!
+
+[SPEECH: TeaHouseCustomer]
+Zachovame trpelivost, dokud to tu neuklidi.
+
+[SPEECH: TeaHouseWoman]
+To snad nemyslis vazne!
+
+[SPEECH: TeaHouseCustomer]
+Urazili bychom meho synovce, kdybychom odesli tak brzy.
+
+-----------------------------------------------------------------
+[Owner: TeaHouseWoman]
+[Name:  TeaHouseWomanBarks]
+
+[SPEECH: TeaHouseWoman]
+Rusite nas... O necem se tu bavime.
+
+[COMMENT]
+For these, the woman has just stormed out of a tea house where a Red Arrow guy dumped a bunch of rats as punishment for the shop owner not paying his protection money.
+
+[SPEECH: TeaHouseWoman]
+...odporne...
+
+[SPEECH: TeaHouseWoman]
+Ta policie je k nicemu!
+
+[SPEECH: TeaHouseWoman]
+Rudy sip se zkratka niceho neboji!
+
+-----------------------------------------------------------------
+[Owner: TracerTong]
+[Name:  M06TongBarks]
+
+[SPEECH: TracerTong]
+Mame si toho hodne co nabidnout, kdyz budeme spolupracovat.
+
+[SPEECH: TracerTong]
+Potrebujeme Paula. Kez by si pospisil!
+
+[SPEECH: TracerTong]
+Nikdy nezapomenu na vaseho bratra, byl to mucednik.
+
+[SPEECH: TracerTong]
+Vas pritel z UNATCO ma zrejme velke zkusenosti s jistymi sitemi. Mohl by byt velmi uzitecny.
+
+[SPEECH: TracerTong]
+Uz dlouho jsem se chtel o VersaLife dozvedet neco vic!
+
+[SPEECH: TracerTong]
+Jak jiste vite, VersaLife vyrabi Ambrozii.
+
+[SPEECH: TracerTong]
+Vice se dovite, az se vratite. Ted odejdete.
+
+-----------------------------------------------------------------
+[Owner: TracerTong]
+[Name:  M06TongBarks0]
+
+[SPEECH: TracerTong]
+Staci, kdyz vejdete do toho salu.
+
+-----------------------------------------------------------------
+[Owner: TracerTong]
+[Name:  M06TongBarks2]
+
+[COMMENT]
+This goal may get added elsewhere, but the engine won't add it twice.
+
+[GOAL:]
+Odnes Draci zub do chramu ve Van-Caj, abys upevnil alianci mezi triadami.
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: TracerTong]
+Co tady delate? Vudcove triad na vas cekaji v chramu!
+
+[SPEECH: TracerTong]
+Bezte do chramu!
+
+-----------------------------------------------------------------
+[Owner: TracerTong]
+[Name:  M07Briefing]
+
+[GOAL:]
+Dostan se do laboratori na Urovni 2 v budove VersaLife a najdi informaci o slozeni viru Sede smrti.
+
+[SPEECH: JCDenton]
+Mir mezi triadami je ted oficialne uzavren.
+
+[SPEECH: TracerTong]
+Dobre. Muzeme tedy zasahnout z pozice sily. Zacneme vyrabet ty mece a rozesilat je nasim spojencum.
+
+[SPEECH: JCDenton]
+Co dal? VersaLife je prolezla vojaky. Myslim, ze se tam ukryva vic, nez jenom technologie k tomu meci.
+
+[SPEECH: TracerTong]
+Povezte mi, jak to vypada v laboratorich? Spolecne s Paulem jsme dosli k nazoru, ze VersaLife jen vyrabi, ale skutecny vyzkum se provadi v Severni Americe.
+
+[SPEECH: JCDenton]
+Spousta vedcu - biotechnologu, fyziku, nanotechnologu - nekolik vyzkumnych oboru. Zda se, ze vsichni maji spolecny cil.
+
+[SPEECH: TracerTong]
+Vime, ze vyrabeji Ambrozii. Jestli se tam vratite - a ziskate pristup do laboratori na Urovni 2 - mozna tam objevite neco o Sede smrti. Selhani vaseho bratra v New Yorku zpusobilo, ze jsem z toho vysel s prazdnyma rukama.
+
+[SPEECH: JCDenton]
+Predpokladate, ze ten lek dokazete vyrobit?
+
+[SPEECH: TracerTong]
+To nemohu tvrdit, dokud neuvidim schema toho viru a molekularni strukturu Ambrozie.
+
+[SPEECH: JCDenton]
+Vratim se tam, ale nebudou uz na me pripraveni?
+
+[SPEECH: TracerTong]
+Byla by tu jeste zadni cesticka, na severnim konci tunelu v Canal Road, vychodnim smerem od chramu. Jednou jsem tudy poslal jistou agentku. Narazila na kod k oblasti nanotechnologickeho vyzkumu: 55655 - ale nic z toho nebylo.
+
+[NOTE:]
+Pristupovy kod do oddeleni nanotechnologickeho vyzkumu v budove Versalife (Uroven 2): 55655. Existuje i zadni vchod na severnim konci tunelu v Canal Road, ktery najdes vychodne od chramu.
+
+[SPEECH: JCDenton]
+Za pokus to stoji.
+
+[SPEECH: TracerTong]
+Mimochodem - VersaLife prisla pri zhrouceni tunelu v Canal Road o jednoho ze svych odborniku - ten clovek mel zrejme u sebe nanotechnologicke nadobicko. Vedl nejaky zakladni vyzkum, ktery se tykal i vasich implantatu. Muzete se po nem podivat, jestli se rad potapite.
+
+[SPEECH: JCDenton]
+Mozna ho zkusim najit.
+
+[NOTE:]
+Pod vodou se zrejme nalezaji nanotechnologicka zarizeni, ktera se utopila pri zasypani tunelu v Canal Road.
+
+[SPEECH: JCDenton]
+Uz jsem tam dole byl - nebylo to snadne.
+
+-----------------------------------------------------------------
+[Owner: TracerTong]
+[Name:  M07TongBarks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: TracerTong]
+Budu vas postup sledovat odtud.
+
+[SPEECH: TracerTong]
+Kez by tu byl vas bratr! Jiste by uznal, ze se ve vas mylil.
+
+[SPEECH: TracerTong]
+Vas bratr se brzy uzdravi; dostal se k nam prave vcas.
+
+[SPEECH: TracerTong]
+Mozna byste mohl najit a znicit i pristroj, ktery virus vyrabi.
+
+-----------------------------------------------------------------
+[Owner: TracerTong]
+[Name:  M08Briefing]
+
+[SPEECH: JCDenton]
+Domnivam se, ze nechapu vas smysl pro humor.
+
+[SPEECH: TracerTong]
+Smysl pro humor?
+
+[SPEECH: JCDenton]
+To s temi Iluminaty. Riskoval jsem tam prece zivot.
+
+[SPEECH: TracerTong]
+To nebyl zadny zert, pane Dentone. Je to hola pravda, prestoze ta organizace uz neni tak mocna jako na pocatku stoleti. Znam nekolik jejich byvalych vudcu.
+
+[SPEECH: JCDenton]
+Jako je Stanton Dowd?
+
+[SPEECH: TracerTong]
+Ano. Nebo Beth DuClarova, Morgan Everett... Myslim, ze vetsina jich zije v Parizi.
+
+[SPEECH: JCDenton]
+Co maji spolecneho s Majestic 12?
+
+[SPEECH: TracerTong]
+Na to se chci zeptat Dowda. Mam v umyslu ho kontaktovat v New Yorku. Doufam, ze se s vami bude chtit setkat.
+
+[SPEECH: JCDenton]
+Co s tim hackerem jmenem Daidalos?
+
+[SPEECH: TracerTong]
+Je to zahadny, lec uzitecny informator - poskytl mi napriklad kody, ktere mi poslouzily k nalezeni te nakladni lodi. Vas pritel Alex tomu prijde na kloub spis nez ja.
+
+[SPEECH: TracerTong]
+Je to uzitecny informator - poskytl mi napriklad kody, ktere mi poslouzily k nalezeni te nakladni lodi.
+
+[SPEECH: JCDenton]
+Ta nakladni lod. Veze dost viru na to, aby zamoril cely svetadil.
+
+[SPEECH: TracerTong]
+Na dvore prave pristava vas pilot. Najdete Dowda a zjistete, zda vi, kam tam lod miri nebo jak bychom ji mohli zastavit. Tak jako tak je nacase, abyste opustil Hongkong; hleda vas tady nejaky agent z UNATCO. Pry je to Nemec. Augmentovany.
+
+[SPEECH: JCDenton]
+Povezte svym lidem, at mu jdou z cesty. Vyridim si to s nim sam.
+
+[GOAL:]
+Nastup do Jockova vrtulniku na dvore sidla Zarici stezky.
+
+-----------------------------------------------------------------
+[Owner: TracerTong]
+[Name:  M08Briefing2]
+
+[SPEECH: JCDenton]
+Dostal jste vsechno, co potrebujete k syntetizaci leku?
+
+[SPEECH: TracerTong]
+Data, ktera jste poslal, nam poskytnou odpoved... casem.
+
+[SPEECH: JCDenton]
+Znicil jsem take univerzalni konstruktor, kterym ten virus vyrabeli.
+
+[SPEECH: TracerTong]
+Univerzalni konstruktor... Tohle mi mohlo dojit.
+
+[SPEECH: JCDenton]
+Udelal jsem to na doporuceni toho hackera, Daidala. Kdo to vlastne je? Urcite neco vic, nez pouhy hacker!
+
+[SPEECH: TracerTong]
+Dobra otazka. Pokusil jsem se sledovat jeho zpravy, ale nejspis je posila z ruznych svetadilu, takrka soucasne.
+
+[SPEECH: JCDenton]
+Zaridil muj utek z vezeni UNATCO. Vi vsechno o VersaLife.
+
+[SPEECH: TracerTong]
+Musime tedy uznat, ze ma velkou moc. Zahady nemam v oblibe, ale prinejmensim se zda, ze je na nasi strane.
+
+[SPEECH: JCDenton]
+Ani ja nemam rad zahady.
+
+[SPEECH: JCDenton]
+Udelal jsem to na doporuceni toho hackera, Daidala. Kdo to vlastne je? Alex rika, ze mozna UI, cast nejakeho stareho vladniho programu.
+
+[SPEECH: TracerTong]
+UI... Take mne to napadlo, ale spis je to kryti pro nejakeho cloveka.
+
+[SPEECH: JCDenton]
+Jenze kdo to je?
+
+-----------------------------------------------------------------
+[Owner: TracerTong]
+[Name:  M08ReadyBarks]
+
+[COMMENT]
+These cycle and go random.
+
+[SPEECH: TracerTong]
+Vas pritel Jock vas ocekava na dvore.
+
+[SPEECH: TracerTong]
+Daidalos... Je mi to velmi povedome.
+
+[SPEECH: TracerTong]
+Odhaduji, ze Majestic 12 je frakci Iluminatu, ktera se odtrhla od materske organizace.
+
+[SPEECH: TracerTong]
+Vim pouze to, ze Dowda s Everettem neco k smrti vydesilo.
+
+[SPEECH: TracerTong]
+Kdysi dva nejmocnejsi lide na teto planete, nyni byvali vudci Iluminatu, kteri se dokonce boji vychazet na verejnost.
+
+[SPEECH: TracerTong]
+V New Yorku davejte pozor. Budou tam na vas cekat.
+
+-----------------------------------------------------------------
+[Owner: TracerTong]
+[Name:  MeetTracerTong]
+
+[GOAL:]
+Bez doprostred operacniho salu, aby ti mohl Tracer Tong deaktivovat pojistku zkazy a obnovit funkci augmentaci.
+
+[SPEECH: JCDenton]
+Pan Tong? Vy znate meho bratra, Paula Dentona?
+
+[SPEECH: JCDenton]
+Pan Tong? Vy jste znal meho bratra, Paula Dentona?
+
+[SPEECH: TracerTong]
+Ano. Spolehlivy muz. Takze vam aktivovali pojistku zkazy?
+
+[SPEECH: JCDenton]
+Citim se dobre, ale uz je to pres 16 hodin.
+
+[SPEECH: TracerTong]
+Vsimnete si, jak snadno vyuzivaji nase vlastni technologie proti nam! Cim vetsi silu vam daji k dispozici, tim snaze vam ji zase dokazi odejmout.
+
+[SPEECH: JCDenton]
+Dovedl byste s tim neco udelat?
+
+[SPEECH: TracerTong]
+Prijde na to. Vy, podobne jako vas bratr, jste unikatnim technologickym zazrakem. Nikdy neodolam vyzve vyzkouset si novou cepel, nicmene se obavam, ze v onom klicovem okamziku, kdy pozvednu pazi k rane, byste se mi mohl vysmeknout z dlane.
+
+[SPEECH: JCDenton]
+Jinymi slovy, musim vam za to prokazat jiste sluzby.
+
+[COMMENT]
+(intentionally awkward construction, hopefully works with Tong's foreignness)
+
+[SPEECH: TracerTong]
+Spravne. Stejne jako vas pritel, pan Jacobson, clovek uzitecnych znalosti. Dorazil do Hongkongu jen kratce po vas. Byl jsem nucen umistit ho do izolace, dokud si neoverim jeho totoznost a neujistim se o jeho vernosti.
+
+[SPEECH: JCDenton]
+Prepokladam, ze projde.
+
+[SPEECH: TracerTong]
+Verim, ze to mysli uprimne. Ted ale bezte dolu po schodech na operacni plosinu a ja prozkoumam vase systemy.
+
+-----------------------------------------------------------------
+[Owner: TracerTong]
+[Name:  MeetTracerTong2]
+
+[SPEECH: JCDenton]
+Tak co?
+
+[SPEECH: TracerTong]
+Byl to jednoduchy "spinac", jak se tomu rika.
+
+[SPEECH: JCDenton]
+Slysel jste o Paulovi?
+
+[SPEECH: TracerTong]
+Je na ceste, aspon to tvrdi Paserak z New Yorku. Bude v poradku. Horsi je, ze tady v Hongkongu nam stale hrozi valka triad.
+
+[SPEECH: JCDenton]
+Slysel jste o Paulovi?
+
+[SPEECH: TracerTong]
+Vas pritel mi to rekl. Odvazny clovek, ten vas bratr.
+
+[SPEECH: JCDenton]
+Chci se presvedcit, ze neumiral zbytecne.
+
+[SPEECH: TracerTong]
+My take. Bohuzel, v politice plati, ze nikdy neni nic jisteho.
+
+[SPEECH: JCDenton]
+Quick a Cen vyhlasili pred nekolika minutami primeri.
+
+[SPEECH: TracerTong]
+Uznavam, ze to je slusny kus diplomacie, ale to nestaci. Ne, dokud tu bude ten mec, o ktery lze bojovat.
+
+[SPEECH: JCDenton]
+Myslel jsem, ze kdyz je Maggie Couova nebude stvat proti sobe, nebude to tak hrozne.
+
+[SPEECH: TracerTong]
+Omyl. Podle jejich tradice je mec zkazonosnou zbrani, pokusenim... Musime z VersaLife ziskat jeho zakodovany modul ROM a dat ho k dispozici OB∑MA triadam.
+
+[GOAL:]
+Ziskej modul ROM se zakodovanym Dracim mecem z podzemnich laboratori spolecnosti VersaLife.
+
+[SPEECH: JCDenton]
+Takze tuhle sluzbu vam mam prokazat? Malou prumyslovou spionaz?
+
+[SPEECH: TracerTong]
+Jednu z mnoha sluzeb. Pamatujte - zachranil jsem vam zivot. Ted dobre poslouchejte. Vytah do budovy VersaLife severne od trziste je ovladan zamestnaneckym kodem; zkuste 06288. Jakmile budete uvnitr, vyhledejte pana Hundleyho, dozorce smeny. Mel byste ho presvedcit, aby vas pustil do laboratori.
+
+[COMMENT]
+Pensive, to himself._
+
+[SPEECH: JCDenton]
+Hundley...
+
+[SPEECH: TracerTong]
+Uvidite, ze bude spolupracovat. Patri ke zkorumpovanym urednikum, kteri prodavaji technologii Rudemu sipu.
+
+[SPEECH: JCDenton]
+Prinesu ten modul ROM, ale neminim pro vas pracovat. Budu vam pomahat jen potud, dokud budeme mit spolecny zajem.
+
+[SPEECH: TracerTong]
+Jestli chcete bojovat proti Majestic 12, budete potrebovat spojence. Po jistou dobu nas bude skutecne vazat "spolecny zajem". Zaridil jsem, aby vam byl zrizen pocitacovy ucet. Login: "JCDenton", heslo: "sanctuary". Klidne pouzivejte pocitac v me kancelari.
+
+[NOTE:]
+Osobni login v Tongove zakladne: JCDenton, heslo: sanctuary.
+
+[NOTE:]
+Hundley - zkorumpovany zamestnanec VersaLife.
+
+[NOTE:]
+Kod k vytahu pro zamestnance Versalife: 06288. Pouzij ho na vytah do budovy VersaLife severne od trziste.
+
+-----------------------------------------------------------------
+[Owner: Trooper]
+[Name:  TrooperBarks]
+
+[COMMENT]
+These cycle and repeat the last.§Í5ˇ˚0ƒ&
+
+[SPEECH: Trooper]
+Jestli je to fakticky Denton, povyseni nas nemine!
+
+[SPEECH: Trooper]
+...staci jedna dobra trefa!
+
+-----------------------------------------------------------------
+[Owner: VL_Cop]
+[Name:  VL_CopBarks]
+
+[COMMENT]
+These cycle and go random.Q4@ —;<–r)f‚LSD4jö/
+
+[SPEECH: VL_Cop]
+Jestli potrebujete poradit, promluvte si s recepcni.
+
+[SPEECH: VL_Cop]
+K navsteve prvnich tri pater s kancelaremi nepotrebujete zadnou propustku.
+
+[SPEECH: VL_Cop]
+Dlouha noc...
+
+[SPEECH: VL_Cop]
+Uz se skoro neudrzim na nohach!
+
+[SPEECH: VL_Cop]
+Doufam, ze najdete to, co hledate!
+
+-----------------------------------------------------------------
+[Owner: VL_Secretary]
+[Name:  VL_SecretaryBarks]
+
+[COMMENT]
+These cycle and go random.We"√ëR™·$tIø?6&y8±ËdUAz
+
+[SPEECH: VL_Secretary]
+Zustante, prosim, mimo pracovni oblast.
+
+[SPEECH: VL_Secretary]
+Personal pro vkladani dat s vami nema dovoleno mluvit.
+
+[SPEECH: VL_Secretary]
+Nasi zamestnanci znaji mistni pravidla a budou je dodrzovat.
+
+[SPEECH: VL_Secretary]
+Nenutte me volat ochranku!
+
+-----------------------------------------------------------------
+[Owner: WaltonSimons]
+[Name:  M06WaltonHolo]
+
+[SPEECH: WaltonSimons]
+Slecno Couova, docasne jsme vam urcili jinou praci. Pozastavte vsechny dlouhodobe ukoly, dokud VersaLife nesplni svuj termin. Potrva mesice a mozna leta, nez Rudy sip zacne vazne ovlivnovat Peking, zatimco - nu, jsem si jist, ze uz jste se o me nove funkci doslechla. Muzeme si dovolit sahnout po Washingtonu a jiste si ho nenechame proklouznost mezi prsty. Presvedcte se, ze vsechno bezi podle planu.
+

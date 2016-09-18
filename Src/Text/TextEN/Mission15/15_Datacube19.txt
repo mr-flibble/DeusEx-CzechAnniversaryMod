@@ -1,0 +1,6 @@
+<DC=255,255,255>
+<P>Mac,
+<P>
+<P>Looks like another leak in the reactor room, but check the waste-water filters first.  We might get lucky.  Page is on my ass about the power grid.  Some sort of medical procedure this afternoon... If the problem's not the filters, we need to know ASAP if there's an issue with the containment system.  Note that Page changed the code to the reactor room this morning.  It's now 2001.
+<P>
+<P>Sal

@@ -1,0 +1,4 @@
+<FILE=10_Bulletin01,INTERPOL WANTED: J.C. Denton>
+<FILE=10_Bulletin02,READ ME>
+<FILE=10_Bulletin03,Curfew Hours Extended>
+<FILE=10_Bulletin04,/root/../misdirect::8009>

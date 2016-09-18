@@ -1,0 +1,12 @@
+<COMMENT>Agent Hela's orders</COMMENT>
+<DC=255,255,255>
+<DC=255,255,255>
+<P>OD: ASTON GREER
+<P>KE: AGENTKA MARI HELA
+<P>
+<P>Po svem prijezdu do Parize se sejdete s inspektorem Gabilym z Metropolitni policie, vasim operatorem po dobu trvani teto mise. Gabilymu pomozte jakymkoli vhodnym zpusobem zlikvidovat obtizne zivly Silhouette nebo Iluminatu.
+<P>
+<P>Sekundarnim cilem pro vas bude ziskani sebemensich informaci ohledne Morgana Everetta, Tracera Tonga, Alexe Jacobsona nebo J.C.Dentona; pripadne zpravy o nich okamzite posilejte Waltonovi Simonsovi. Mame duvod se domnivat, ze Denton odcestoval do Parize, aby se pokusil spojit s prezivajicimi zbytky Iluminatu, cemuz musime za kazdou cenu a vsemi prostredky zabranit.
+<P>
+<P>Aston Greer
+<P>Reditel ochranky, FEMA
