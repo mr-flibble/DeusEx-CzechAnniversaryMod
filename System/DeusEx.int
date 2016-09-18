@@ -1174,7 +1174,7 @@ actionButtons[1]="(Align=HALIGN_Right,Action=AB_OK)"
 actionButtons[2]="(Action=AB_Reset)"
 
 [MenuMain]
-Title="Give Me Deus Ex - CZECH"
+Title="Czech Anniversary Mod"
 ButtonNames[0]="Nova Hra"
 ButtonNames[1]="Ulozit Hru"
 ButtonNames[2]="Nahrat Hru"
