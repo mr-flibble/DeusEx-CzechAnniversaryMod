@@ -1,5 +1,5 @@
 <DC=255,255,255>
-<P><JC><B>VYCVIKOVY MANUaL UNATCO</B>
+<P><JC><B>VYCVIKOVY MANUAL UNATCO</B>
 <P>
 <P><JC>Odstavec 3C: Multitooly
 <P>
